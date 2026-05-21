@@ -59,6 +59,23 @@ def main():
     if bad_types:
         errors.append(f"non-mcsc type on ids {bad_types}")
 
+    # topic family spread — no single family should exceed 30% (warn at 20%)
+    family_counts: dict[str, int] = {}
+    for q in qs:
+        family = q.get("topic", "unknown").split("/")[0].strip()
+        family_counts[family] = family_counts.get(family, 0) + 1
+    if qs:
+        for fam, cnt in sorted(family_counts.items(), key=lambda x: -x[1]):
+            pct = cnt / len(qs)
+            if pct > 0.30:
+                errors.append(
+                    f"topic family '{fam}' has {cnt}/{len(qs)} questions "
+                    f"({pct:.0%}), exceeds 30% hard cap"
+                )
+            elif pct > 0.20:
+                print(f"[WARN] topic family '{fam}' has {cnt}/{len(qs)} questions "
+                      f"({pct:.0%}) — consider spreading further (soft cap 20%)")
+
     if errors:
         print("[FAIL] plan.json does not match command:")
         for e in errors:

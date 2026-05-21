@@ -15,7 +15,7 @@ For each slot, produce one record with this shape and append to your chunk file
 {
   "question_id": 0,
   "question_type": "mcsc",
-  "content_type": "text | markdown",
+  "content_type": "text",
   "question_text": "...",
   "options": { "1": "...", "2": "...", "3": "...", "4": "..." },
   "correct_answer": "1|2|3|4",
@@ -33,7 +33,16 @@ for the full quality bar (one defensible answer, error-mapped distractors, no
 surface cues, self-contained, LaTeX hygiene, difficulty honesty, timing logic,
 and the verification block).
 
+Always set `content_type: "text"` — `scripts/set_content_type.py` will correct
+it to `"markdown"` automatically if math notation is detected. Do not decide
+this yourself.
+
 Do NOT author `discrimination_ratio` — a script computes it.
+
+Do NOT try to vary or balance the `correct_answer` position across questions —
+`scripts/shuffle_options.py` owns all position shuffling and distribution.
+Always place the correct answer at position `"1"` in your draft; the script
+will relocate it.
 
 Before returning, run the **question-qc** skill
 (`.claude/skills/question-qc/SKILL.md`) on your own chunk and fix what you can. If asked

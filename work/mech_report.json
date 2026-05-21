@@ -1,35 +1,9 @@
 {
   "M1": [
     {
-      "id": 1,
-      "in_surplus": false
-    },
-    {
-      "id": 12,
-      "in_surplus": false
-    },
-    {
-      "id": 24,
-      "in_surplus": false
-    },
-    {
-      "id": 43,
-      "in_surplus": false
-    },
-    {
-      "id": 45,
-      "in_surplus": false
-    },
-    {
-      "id": 48,
-      "in_surplus": true
-    },
-    {
-      "batch_longest_correct_pct": 12.0,
+      "batch_longest_correct_pct": 10.0,
       "tolerance_pct": 10.0,
-      "auto_reshuffled": [
-        48
-      ]
+      "status": "within tolerance"
     }
   ],
   "M2": [],
@@ -37,5 +11,7 @@
   "M4": [],
   "M5": [],
   "M6": [],
-  "M7": []
+  "M7": [],
+  "M8": [],
+  "M9": []
 }

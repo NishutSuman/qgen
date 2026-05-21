@@ -61,6 +61,13 @@ Draw from: arithmetic/commercial math, number theory, algebra, geometry
 patterns, data sufficiency, inequalities. Respect inclusions/exclusions in
 `notes`.
 
+## Answer position
+
+Always place the correct answer at position `"1"` in your draft (`correct_answer: "1"`).
+`scripts/shuffle_options.py` runs after all QC phases and will relocate every
+correct answer to a balanced random position before export. Do NOT attempt to
+vary or balance positions yourself — the script owns that entirely.
+
 ## Self-check before returning
 
 Run the **question-qc** skill on your own chunk and fix what you can. Confirm:

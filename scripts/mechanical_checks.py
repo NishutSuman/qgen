@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 """mechanical_checks.py — Phases 3 & 5 (deterministic).
 
-Runs M1-M7, applies deterministic auto-fixes, rewrites the file, and emits a
+Runs M1-M9, applies deterministic auto-fixes, rewrites the file, and emits a
 report. Call repeatedly (orchestrator caps the cycle count).
 
   M1 Longest-correct      batch tolerance <=10% ; auto-fix surplus by reshuffle
   M2 Answer-position      each option 10%-40% ; auto-fix by reshuffle
   M3 Surface-cue leak     correct option not uniquely marked ; flag
-  M4 Structure            4 non-empty unique options, valid index ; flag
+  M4 Structure            4 non-empty unique options, valid index,
+                          explanation >= 50 chars ; flag
   M5 Near-duplicate stems Jaccard>0.8 ; flag later one
   M6 Encoding/LaTeX       no \\uXXXX, balanced $, no \\frac{}{} comma ; auto-fix escapes
   M7 Ratio sanity         2.5<=DR<=12 and t_avg>t_expert ; flag
+  M8 Verification syntax  verification.expr compiles cleanly ; flag
+  M9 Expected/answer sync verification.expected == correct_answer ; flag
 
 Usage:
     python scripts/mechanical_checks.py --in work/questions.json \
@@ -82,8 +85,12 @@ def cue_profile(opt):
     return (has_units(opt), has_paren(opt), has_symbol(opt), terminal_punct(opt))
 
 
+EXPLAIN_MIN_CHARS = 50
+
+
 def check(qs, fix, rng):
-    report = {"M1": [], "M2": [], "M3": [], "M4": [], "M5": [], "M6": [], "M7": []}
+    report = {"M1": [], "M2": [], "M3": [], "M4": [], "M5": [],
+              "M6": [], "M7": [], "M8": [], "M9": []}
 
     # ---- M6 encoding/LaTeX (auto-fix escapes) ----
     for q in qs:
@@ -114,6 +121,10 @@ def check(qs, fix, rng):
             problems.append("duplicate option text")
         if str(q.get("correct_answer")) not in {"1", "2", "3", "4"}:
             problems.append("invalid correct_answer index")
+        expl = q.get("explanation", "")
+        if len(expl.replace(" ", "")) < EXPLAIN_MIN_CHARS:
+            problems.append(f"explanation too short ({len(expl.replace(' ',''))} chars, "
+                            f"min {EXPLAIN_MIN_CHARS})")
         if problems:
             report["M4"].append({"id": q["question_id"], "problems": problems})
 
@@ -205,6 +216,43 @@ def check(qs, fix, rng):
         if issues:
             report["M7"].append({"id": q["question_id"], "issues": issues})
 
+    # ---- M8 verification expression syntax ----
+    for q in qs:
+        v = q.get("verification") or {}
+        expr = v.get("expr", "")
+        if not expr:
+            continue
+        # Reuse the same normalisation as recompute_answers: split on ";"
+        # skip import lines, try to compile each remaining segment
+        segments = [s.strip() for s in expr.split(";") if s.strip()]
+        bad_segs = []
+        for seg in segments:
+            if seg.startswith(("import ", "from ")):
+                continue
+            try:
+                compile(seg, "<string>", "single")
+            except SyntaxError as e:
+                bad_segs.append(f"{seg!r} -> {e}")
+        if bad_segs:
+            report["M8"].append({
+                "id": q["question_id"],
+                "issue": "verification expr has syntax errors",
+                "details": bad_segs,
+            })
+
+    # ---- M9 verification.expected vs correct_answer ----
+    for q in qs:
+        v = q.get("verification") or {}
+        expected = str(v.get("expected", "")).strip()
+        stated   = str(q.get("correct_answer", "")).strip()
+        if expected and expected != stated:
+            report["M9"].append({
+                "id": q["question_id"],
+                "verification_expected": expected,
+                "correct_answer": stated,
+                "issue": "verification.expected does not match correct_answer",
+            })
+
     return report
 
 
@@ -233,7 +281,8 @@ def main():
     blocking = (
         len(report["M4"]) + len(report["M5"]) +
         sum(1 for x in report["M6"] if not x.get("fixed", False)) +
-        len(report["M3"]) + len(report["M7"])
+        len(report["M3"]) + len(report["M7"]) +
+        len(report["M8"]) + len(report["M9"])
     )
     print(f"[OK] mechanical report -> {args.report}")
     print(f"   M1 longest-correct : {report['M1'][-1]}")
@@ -243,6 +292,8 @@ def main():
     print(f"   M5 duplicates      : {len(report['M5'])}")
     print(f"   M6 encoding        : {len(report['M6'])}")
     print(f"   M7 ratio           : {len(report['M7'])}")
+    print(f"   M8 verify syntax   : {len(report['M8'])}")
+    print(f"   M9 expected/answer : {len(report['M9'])}")
     print(f"   BLOCKING (need attention): {blocking}")
 
 

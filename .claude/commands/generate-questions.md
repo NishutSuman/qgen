@@ -30,9 +30,10 @@ If it fails, fix plan.json and re-run. Only proceed when it passes.
 Split plan into chunks of 20. For each chunk, launch a `creator` subagent via
 the Task tool (they run concurrently). Each writes ONLY
 `work/questions_chunk_<N>.json` and runs the question-qc skill on its own 20
-before returning. Then merge + compute ratios:
+before returning. Then merge, set content types, and compute ratios:
 ```
 python scripts/merge_chunks.py --plan plan.json --out work/questions.json
+python scripts/set_content_type.py --in work/questions.json
 python scripts/compute_ratios.py --in work/questions.json
 ```
 
@@ -57,17 +58,32 @@ Stop after 3 cycles; log leftovers to unresolved_report.md.
 QC edits can re-introduce cues/imbalance. Re-run Phase 3's command, fix, stop
 after 2 cycles.
 
-## Phase 6 — Export
+## Phase 6 — Shuffle + Export + Validate
+First shuffle options and balance answer positions (script owns this — do NOT do it manually):
+```
+python scripts/shuffle_options.py --in work/questions.json
+```
+Then export:
 ```
 python scripts/export_csv.py --in work/questions.json --out output/paper.csv
 python scripts/export_md.py  --in work/questions.json --out output/paper_answer_key.md --title "<paper title>"
 ```
+Then validate the CSV:
+```
+python scripts/validate_csv.py --csv output/paper.csv --questions work/questions.json
+```
+If validate_csv exits non-zero, STOP and report.
 
-## Final
-Write `output/run_report.md`: command echo, plan vs requested, per-phase cycle
-counts, mechanical summary, QC summary, final answer-position histogram and
-longest-correct %, and any unresolved items. Ship: paper.csv,
-paper_answer_key.md, work/questions.json, run_report.md (+ unresolved if any).
+## Final — Run report (script, not LLM)
+Do NOT write run_report.md yourself. Call the script with the exact cycle counts
+you tracked during the run:
+```
+python scripts/generate_run_report.py \
+  --mech-cycles <N> --qc-cycles <N> --remech-cycles <N> \
+  [--unresolved output/unresolved_report.md]
+```
+Ship: paper.csv, paper_answer_key.md, work/questions.json, run_report.md
+(+ unresolved_report.md if any items were dropped).
 
 **Hard stops:** Phase 3 = 3 cycles, Phase 4 = 3 cycles, Phase 5 = 2 cycles,
 single-question regen = 2 attempts then drop to unresolved. The pipeline must

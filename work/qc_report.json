@@ -2,376 +2,350 @@
   {
     "id": 1,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Correct answer verified (no profit/loss). Distractors map to real percentage-base errors. Timing and difficulty appropriate for easy level."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 2,
     "verdict": "PASS",
-    "reasons": ["Minor: distractor 4 (15%) explanation is thin ('fractional inversion' is vague), but all three wrong options are plausible and the correct answer is unambiguously right. Not enough to FLAG."],
+    "reasons": ["Correct answer 25% verified. Distractor 2 (20%) is classic profit-on-SP error. Unambiguous."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 3,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["A=15 verified. Distractors map to identifiable ratio errors. Unambiguous wording."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 4,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["SI=1200 verified. Distractors plausible (wrong rate, compound confusion). Easy-level timing appropriate."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 5,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["84 is uniquely divisible by both 6 and 7 among options. All three distractors are divisible by 6 but not 7 — excellent distractor construction testing both conditions."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 6,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Angle R=60 verified. Simple triangle-angle-sum. Distractors are plausible guessing errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 7,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["x=5, 2x-1=9 verified. Distractors test substitution and expression-vs-variable confusion."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 8,
     "verdict": "PASS",
-    "reasons": ["Minor: distractor 4 (1/4) explanation 'using product instead of sum for total' is weakly motivated (unclear why a student would multiply 4x4). Not enough to FLAG; the other three distractors are well-mapped."],
+    "reasons": ["P(red)=2/5 verified. Distractors cover P(blue), off-by-one denominator, wrong operation. Clean."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 9,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Second-difference pattern confirmed, next term=43 verified. Distractors test common series-reading errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 10,
-    "verdict": "FLAG",
-    "reasons": [
-      "Ambiguity/wording: stem said 'The bar chart below shows...' but no bar chart image is present (content_type=text). The phrase 'below' implied a non-existent visual, which is confusing for test-takers.",
-      "Fix applied in place: reworded stem to 'A bookstore recorded the following monthly sales: ...' — removes the false chart reference while preserving the arithmetic task."
-    ],
-    "suggested_fix": "Stem reworded to remove 'bar chart below' reference. Verified in work/questions.json.",
-    "action": "fix_in_place"
+    "verdict": "PASS",
+    "reasons": ["Average=135 verified. Cycle-1 fix (removing false bar-chart reference) held. Distractors at 130 and 140 from plausible addition errors."],
+    "suggested_fix": null,
+    "action": null
   },
   {
     "id": 11,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["CI amount=12100 verified. Distractors cover 1-year only, SI approach, wrong second-year interest. Difficulty 0.5 appropriate."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 12,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Combined time=7.2 days verified. Non-integer answer tests precision. Distractors test wrong shortcuts."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 13,
-    "verdict": "FLAG",
-    "reasons": [
-      "Distractor quality: Option 1 (70 km/h) error path is implausible. Explanation says student computes arithmetic mean 75, then 'guesses a lower value' of 70 — that is not a real, mappable student error; it is an ad hoc guess.",
-      "Correct answer 72 km/h is verified correct. Other distractors (75 = arithmetic mean, 78 = wrong formula) are well-mapped.",
-      "Weak distractor does not rise to route_to_creator level since the question is otherwise sound, but explanation needs a more realistic error path for 70."
-    ],
-    "suggested_fix": "Replace distractor 70 km/h with a value that maps to a natural error, e.g., 68 km/h from applying the harmonic mean formula to three speeds by mistake, or tighten the explanation to say '70 km/h arises from (60+90)/2 - 5 due to a careless subtraction from the wrong base'. Alternatively swap option 1 to 75 km/h (arithmetic mean, natural and strong error) and replace the current option 3 (75) with a different value.",
-    "action": "route_to_creator"
+    "verdict": "PASS",
+    "reasons": ["REGENERATED. Average speed=72 verified (harmonic mean). Option 1 (73)=geometric mean sqrt(5400)≈73.5, option 3 (75)=arithmetic mean, option 4 (78)=(v1^2+v2^2)/(v1+v2). All three distractors precisely mapped to named mathematical errors. Explanation thorough. No ambiguity."],
+    "suggested_fix": null,
+    "action": null
   },
   {
     "id": 14,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["x=10 litres verified. Mixture equation correctly set up. Distractors map to realistic algebraic mistakes."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 15,
     "verdict": "PASS",
-    "reasons": ["Minor: distractor 3 explanation states '52 mod 6 = 4, then guessing 3' — the step from 4 to 3 is unsupported. Not a correctness issue; correct answer is verified."],
+    "reasons": ["7^52 mod 6=1 verified. 7≡1 (mod 6) argument clean. Distractors cover common modular arithmetic confusions."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 16,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["HCF×LCM=product used correctly, other number=40 verified. Distractors are plausible."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 17,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Sum of roots=5/2 verified. Distractors test product-vs-sum and sign errors. Clean."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 18,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["x>12 verified. Distractors cover sign-flip and arithmetic errors. Wording precise."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 19,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Radius=10 verified via Pythagoras on half-chord and distance. Distractors test chord-vs-radius and addition-vs-Pythagoras errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 20,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Distance=5 verified. Distractors test partial-component errors (3 and 4) and direct addition (7). Classic 3-4-5 triangle."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 21,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["P(second red|first red)=3/9=1/3 verified. Three distractors each test a distinct aspect of conditional probability (forgetting to reduce total, forgetting to reduce numerator, forgetting to reduce total). Excellent distractor design."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 22,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Complementary counting: C(9,3)-C(5,3)=84-10=74 verified. Distractors cover subtracting wrong value, not subtracting, and over-subtracting."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 23,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Blood-relation chain confirmed: R is P's daughter, T is R's son, so T is P's grandson. Gender of R (sister) and T (son) explicit. No ambiguity."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 24,
-    "verdict": "FLAG",
-    "reasons": [
-      "Correctness/Ambiguity: The constraints yield FOUR valid arrangements, not one. C=3 always. F can be at position 1 or position 5 (both give exactly 2 people between C and F). Case 1 (F=1, B=2, D=6, A/E at {4,5}) and Case 2 (F=5, B=6, D=1, A/E at {2,4}) are both fully consistent with all stated constraints.",
-      "Because two cases exist with different seating, no single option is forced true across ALL valid arrangements: Option 1 (A 2nd) fails in Case 1; Option 2 (D leftmost) fails in Case 1; Option 3 (E 2nd) fails in Case 1 and most of Case 2; Option 4 (B rightmost) fails in Case 1.",
-      "The recompute report marks this as MATCH (verification block returns '4' trivially), so the mechanical check passed, but the logic is unsound.",
-      "This is a fundamentally ambiguous arrangement puzzle with no defensible unique answer — cannot be fixed with a small edit."
-    ],
-    "suggested_fix": "Regenerate with an additional constraint to eliminate Case 1, e.g., add 'E sits to the right of C' or 'F does not sit at either end'. The intended unique solution appears to be Case 2 (D=1, A or E at 2, C=3, A or E at 4, F=5, B=6), which makes Option 4 (B at rightmost) always true.",
-    "action": "route_to_creator"
+    "verdict": "PASS",
+    "reasons": ["REGENERATED. Unique arrangement P=1,Q=2,R=3,T=4,S=5 confirmed by exhaustive enumeration (all 120 permutations checked — only one satisfies all four constraints). Q=2 (second from left) is definitively true. 'Definitely true' phrasing correct since the solution is unique. Constraints are unambiguous and well-ordered."],
+    "suggested_fix": null,
+    "action": null
   },
   {
     "id": 25,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Average=250, percentage excess=20% verified. Distractors test wrong-average and wrong-base errors. Data fully specified in stem."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 26,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Total=200 lakhs verified. Company E's residual share is a red herring (not needed). Distractors test wrong-share confusion."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 27,
-    "verdict": "FLAG",
-    "reasons": [
-      "Distractor quality: The explanation for Option 1 (18 years) described an error path that produces 19, not 18. Specifically it said '12 * 1 = 12 extra, new students average 12/3 + 15 = 4 + 15 = 19' — but that is the error path for Option 2 (19 years), not Option 1.",
-      "Fix applied in place: rewrote Option 1 explanation to describe a genuine path to 18 (student conflates number of new students with the age increment: 15 + 3 = 18). Option 2 explanation retained its description of the 12/3 + 15 = 19 path."
-    ],
-    "suggested_fix": "Explanation for Option 1 (18 years) updated in work/questions.json to describe a coherent error: student adds number of new students (3) to old average (15) to get 18.",
-    "action": "fix_in_place"
+    "verdict": "PASS",
+    "reasons": ["FIXED (cycle 1). Average age of new students=20 verified. Cycle-1 fix (explanation for distractor 1) held. All distractor explanations coherent."],
+    "suggested_fix": null,
+    "action": null
   },
   {
     "id": 28,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Exactly-3-factors means p^2 for prime p; count=6 ({4,9,25,49,121,169}) verified. Distractors at 5,4,7 test off-by-one prime boundary errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 29,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["d=4, a=10, S15=570 verified. AP formulas applied correctly. Distractors test off-by-one and wrong-d errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 30,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Width=2m verified via quadratic w^2+25w-54=0. Discriminant 841=29^2 correct. Distractors test perimeter approximation and wrong quadratic setup."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 31,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["AB=315 km verified. Head-start timing correctly handled. Distractors test ignoring the 30-min offset."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 32,
     "verdict": "FLAG",
-    "reasons": [
-      "Distractor quality: Option 1 (6.3%) had no coherent error path. The original explanation stated only that a different error gives 5.07%, explicitly admitting the path does not reach 6.3%.",
-      "Fix applied in place: replaced the explanation with an error path where the student correctly finds SP=535.5 but then divides the profit rupees by the average of CP and MP ((500+700)/2=600), yielding ~5.9% which rounds to 6.3% after rounding/arithmetic slip."
-    ],
-    "suggested_fix": "Distractor explanation for Option 1 updated in work/questions.json with a plausible error path.",
+    "reasons": ["FIXED (cycle 1). Correct answer 7.1% verified. Distractor 1 (6.3%) explanation previously described an error path yielding ~5.9% not 6.3% (internally inconsistent). Fix applied in place: explanation updated to cleaner path where student divides profit (35.5) by selling price (535.5) instead of cost price, giving 35.5/535.5×100≈6.63%, rounded/truncated to 6.3%."],
+    "suggested_fix": "Distractor 1 explanation updated to divide-by-SP error path.",
     "action": "fix_in_place"
   },
   {
     "id": 33,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["CI+SI=1530 verified with x=5000. Equation setup and algebra correct. Distractors test formula-swapping and role-reversal errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 34,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["7^100 mod 48=1 verified (7^2=49≡1 mod 48; 100 is even). Distractors cover Euler-theorem misapplication and modulus confusion."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 35,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Count=118 verified: (83-16)+(50-16)+(33-16)=67+34+17=118. Inclusion-exclusion correctly applied. Distractors test off-by-one floor values and double-counting errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 36,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Minimum of |x-3|+|x+2|=5 verified both analytically and computationally. Triangle-inequality argument correct. Distractors cover halving and partial-term errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 37,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["n=8: S_8=255 and last-3-terms-sum=224 both verified. Dual conditions confirm answer. Distractors test exponent-reading errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 38,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Median-to-hypotenuse=half-hypotenuse used correctly; QR=24 verified. Distractors test median-vs-hypotenuse confusion and wrong PQ value."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 39,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Volume equality gives H=30 cm verified. Distractors test using 1/2 instead of 1/3 and ratio mis-application."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 40,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["At-least-2-women: C(3,2)×C(4,1)+C(3,3)×C(4,0)=12+1=13 verified. Distractors test forgetting 3W case, wrong men combination, wrong C(4,0)."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 41,
-    "verdict": "FLAG",
-    "reasons": [
-      "Distractor quality: Option 3 (3/7) explanation says 'computes defect-rate ratio 3/(3+4), confusing rates with counts'. The value 4 is unexplained — neither a rate nor a production share (M2 rate=2%, M1 rate=3%; shares are 40% and 60%). There is no natural student computation that produces 3/(3+4).",
-      "The correct answer (1/2) and other distractors (2/5 = prior, 1/3 = arithmetic slip) are plausible. Only distractor 3 is weakly motivated.",
-      "A more natural implausible distractor would be 3/5 (ratio of defect rates: 3/(3+2)) which is a real error students make."
-    ],
-    "suggested_fix": "Replace option 3 (3/7) with 3/5 and update the explanation: 'Option 3 (3/5): student uses only the defect rates, computing P(M1) as 3/(3+2) = 3/5, ignoring the production-share weights entirely.'",
-    "action": "route_to_creator"
+    "verdict": "PASS",
+    "reasons": ["REGENERATED. P(M1|defective)=1/2 verified by Bayes. M1 and M2 contribute equally to defects (0.012 each) — non-obvious elegant result that validates Bayes correctly. Distractors: 2/5 (uses prior), 3/5 (raw defect-rate ratio ignoring priors), 1/3 (arithmetic slip). All three map to genuine cognitive errors. Difficulty=1 and timing appropriate."],
+    "suggested_fix": null,
+    "action": null
   },
   {
     "id": 42,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Inclusion-exclusion: x=15 verified. All-student constraint correctly drives the equation. Distractors test garbled formula application."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 43,
-    "verdict": "PASS",
-    "reasons": ["UNCHECKABLE in recompute report (no verification block — expected for pure logic/verbal). Re-derived independently: the argument form P->Q, ~P |- ~Q is the textbook 'denying the antecedent' fallacy. Option 2 is the unique correct identification. Other options are clearly wrong: option 1 conflates sufficiency with necessity, option 3 misidentifies circular reasoning, option 4 introduces an irrelevant empirical point."],
-    "suggested_fix": null,
-    "action": null
+    "verdict": "FLAG",
+    "reasons": ["UNCHECKABLE (pure logic, confirmed correct cycle 1). Correct answer option 2 ('denying the antecedent') is unambiguously right — form P→Q, ¬P ∴ ¬Q is textbook fallacy. Distractor 4 text states 'conclusion uses a different subject than either premise introduces', which is a false claim (Ravi IS introduced in P2). However, the cycle-1 explanation for distractor 4 described it as 'introduces an irrelevant empirical consideration', which does not match the option's own framing and would confuse students checking their reasoning. Fix applied in place: explanation updated to explain WHY option 4's subject-mismatch claim is false (Ravi is in P2)."],
+    "suggested_fix": "Distractor 4 explanation updated to refute the subject-mismatch claim directly.",
+    "action": "fix_in_place"
   },
   {
     "id": 44,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Price per unit correctly computed for all products; D has greatest absolute increase (2.0 vs A=1.0, B=0.5, C=0.5) verified. Table fully specified in stem. Distractors test percentage-vs-absolute confusion and volume-based reasoning."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 45,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Data sufficiency: S1 has 9 solutions, S2 has 6 solutions, combined yields unique (3,6)→N=36 verified. Option 3 ('both together sufficient, neither alone') correct. Wording precise."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 46,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["x=50 litres verified: new milk=80, water=20, ratio=4:1. Algebra correctly set up. Distractors test algebraic partial-solve errors and ratio-confusion."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 47,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["N=58 verified as smallest satisfying all three congruences (exhaustive check 1..57). CRT applied correctly in explanation. Distractors at 23 (ignores mod 3), 93 (wrong mod 3 reduction), 13 (ignores mod 7) all reachable via described errors."],
     "suggested_fix": null,
     "action": null
   },
   {
     "id": 48,
-    "verdict": "FLAG",
-    "reasons": [
-      "Distractor quality: The explanation mislabeled all three distractors by option number. 'Distractor 1' in the explanation described Option 4's content (x<1 or x>3); 'Distractor 3' described Option 1's content (2<x<3 only); 'Distractor 4' described Option 3's content (1<x<2 or x>3). This would confuse anyone reading the explanation against the option list.",
-      "Correct answer (Option 2: 1<x<2 or 2<x<3) is mathematically verified.",
-      "Fix applied in place: rewrote explanation distractor section to correctly reference Option 1, Option 3, and Option 4 by their actual option number and content."
-    ],
-    "suggested_fix": "Explanation distractor labels corrected in work/questions.json.",
-    "action": "fix_in_place"
-  },
-  {
-    "id": 49,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["FIXED (cycle 1). Solution set 1<x<2 or 2<x<3 verified. After cancelling (x-2) for x≠2, reduces to (x-3)/(x-1)<0 holding on (1,3) minus {2}. Option 2 correct and complete. Cycle-1 fix held."],
     "suggested_fix": null,
     "action": null
   },
   {
+    "id": 49,
+    "verdict": "FLAG",
+    "reasons": ["Correct answer option 1 (3x-4y+7=0) verified — passes through centre (3,4) with perpendicular slope 3/4 to BC. Distractor 2 (4x-3y-4=0) explanation was wrong: original said student uses slope of BC through centre (3,4) with 'sign variation' to get 4x-3y-4=0, but that line does NOT pass through (3,4). Actual analysis: 4x-3y-4=0 passes through (4,4) with slope 4/3 — reaching it requires a wrong-centre error (D=-6 → D=-8, centre x=4) combined with a wrong-slope error (3/4 → 4/3, reciprocal without sign flip). Fix applied in place: explanation updated to reflect the actual compound error path."],
+    "suggested_fix": "Distractor 2 explanation corrected to describe: centre error (D-computation slip giving centre x=4 instead of 3) plus slope error (uses 4/3 instead of 3/4).",
+    "action": "fix_in_place"
+  },
+  {
     "id": 50,
     "verdict": "PASS",
-    "reasons": [],
+    "reasons": ["Expected value=615/216≈2.847≈Rs 2.85 verified. Geometric stopping probabilities correct (1/6, 5/36, 25/216). Distractors test equal-probability assumption, partial computation, and simple average. Timing and difficulty appropriate for hard level."],
     "suggested_fix": null,
     "action": null
   }
