@@ -1,0 +1,24 @@
+[
+  {
+    "question_id": 47,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "What is the smallest positive integer N that satisfies all three conditions simultaneously: N leaves a remainder of 3 when divided by 5, a remainder of 2 when divided by 7, and a remainder of 1 when divided by 3?",
+    "options": {
+      "1": "23",
+      "2": "58",
+      "3": "93",
+      "4": "13"
+    },
+    "correct_answer": "2",
+    "explanation": "We solve the system using the Chinese Remainder Theorem step by step.\n\nStep 1 — combine mod 5 and mod 7 constraints: N ≡ 3 (mod 5) means N = 5k + 3 for some non-negative integer k. Substituting into N ≡ 2 (mod 7): 5k + 3 ≡ 2 (mod 7) → 5k ≡ -1 ≡ 6 (mod 7). The modular inverse of 5 mod 7 is 3 (since 5 × 3 = 15 ≡ 1 mod 7). Multiplying both sides by 3: k ≡ 18 ≡ 4 (mod 7). So k = 7m + 4, giving N = 5(7m + 4) + 3 = 35m + 23.\n\nStep 2 — apply the mod 3 constraint: N ≡ 1 (mod 3) → 35m + 23 ≡ 1 (mod 3). Since 35 ≡ 2 (mod 3) and 23 ≡ 2 (mod 3), this becomes 2m + 2 ≡ 1 (mod 3) → 2m ≡ -1 ≡ 2 (mod 3). The inverse of 2 mod 3 is 2 (since 2 × 2 = 4 ≡ 1 mod 3), so m ≡ 4 ≡ 1 (mod 3). Taking m = 1: N = 35(1) + 23 = 58.\n\nVerification: 58 ÷ 5 = 11 remainder 3 ✓; 58 ÷ 7 = 8 remainder 2 ✓; 58 ÷ 3 = 19 remainder 1 ✓.\n\nOption 1 (23): error of stopping after only the first two congruences. N = 35m + 23 with m = 0 gives 23, which satisfies mod 5 and mod 7 but fails mod 3 (23 ÷ 3 = 7 remainder 2, not 1).\n\nOption 3 (93): error in reducing 35m + 23 modulo 3. The student miscomputes 23 mod 3 as 0 (instead of 2), turning the equation into 2m ≡ 1 (mod 3), giving m ≡ 2 and N = 35(2) + 23 = 93. This fails the mod 3 check (93 ÷ 3 = 31 remainder 0).\n\nOption 4 (13): error of ignoring the mod 7 constraint entirely. The student finds the smallest N with N ≡ 3 (mod 5) and N ≡ 1 (mod 3), which is 13. This fails mod 7 (13 ÷ 7 = 1 remainder 6, not 2).",
+    "difficulty": 1,
+    "t_expert_sec": 40,
+    "t_average_sec": 330,
+    "topic": "number-theory/modular-arithmetic",
+    "verification": {
+      "expr": "'2' if (58%5==3 and 58%7==2 and 58%3==1) and all(not(n%5==3 and n%7==2 and n%3==1) for n in range(1,58)) else '0'",
+      "expected": "2"
+    }
+  }
+]

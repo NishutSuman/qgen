@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": 41,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A factory has two machines, M1 and M2. M1 produces 40% of all bolts; M2 produces the remaining 60%. The defect rate for M1 is 3% and for M2 is 2%. A bolt is picked at random and found to be defective. What is the probability that it was produced by M1?",
+    "options": {
+      "1": "1/2",
+      "2": "2/5",
+      "3": "3/7",
+      "4": "1/3"
+    },
+    "correct_answer": "1",
+    "explanation": "Apply Bayes' theorem. P(defective) = P(def|M1)*P(M1) + P(def|M2)*P(M2) = 0.03*0.40 + 0.02*0.60 = 0.012 + 0.012 = 0.024. P(M1|defective) = 0.012/0.024 = 1/2. Option 1 is correct. Distractor 2 (2/5): uses the prior P(M1) = 40% = 2/5, forgetting to update with defect-rate evidence. Distractor 3 (3/7): computes defect-rate ratio 3/(3+4), confusing rates with counts. Distractor 4 (1/3): error from treating total defect probability as 0.03+0.02=0.05 and computing 0.03*0.4/(0.05*0.4+...) with an arithmetic mistake.",
+    "difficulty": 1,
+    "t_expert_sec": 35,
+    "t_average_sec": 270,
+    "topic": "probability/bayes-conditional",
+    "verification": {
+      "expr": "num=0.4*0.03; denom=0.4*0.03+0.6*0.02; r=num/denom; '1' if abs(r-0.5)<1e-9 else ('2' if abs(r-0.4)<1e-9 else '0')",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 42,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "In a survey of 120 students, 70 play cricket, 60 play football, and 50 play hockey. 30 play both cricket and football, 25 play both football and hockey, and 20 play both cricket and hockey. Every student plays at least one sport. How many students play all three sports?",
+    "options": {
+      "1": "35",
+      "2": "25",
+      "3": "30",
+      "4": "15"
+    },
+    "correct_answer": "4",
+    "explanation": "By inclusion-exclusion: |C u F u H| = |C| + |F| + |H| - |C n F| - |F n H| - |C n H| + |C n F n H|. 120 = 70 + 60 + 50 - 30 - 25 - 20 + x = 105 + x. So x = 15. Option 4 is correct. Distractor 1 (35): adds all pairwise overlaps (30+25+20=75), subtracts from the singles sum (180), takes 180-120=60, then subtracts the largest pairwise value 25 to get 35 -- a garbled inclusion-exclusion. Distractor 2 (25): simply picks the middle pairwise intersection value without applying the formula. Distractor 3 (30): picks the largest pairwise intersection value without applying the formula.",
+    "difficulty": 1,
+    "t_expert_sec": 30,
+    "t_average_sec": 240,
+    "topic": "logical-reasoning/sets-venn",
+    "verification": {
+      "expr": "x=120-(70+60+50-30-25-20); '4' if x==15 else '0'",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 43,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "Consider the following argument: 'All students who studied hard passed the exam. Ravi did not study hard. Therefore, Ravi did not pass the exam.' Which statement best identifies the logical flaw, if any, in this argument?",
+    "options": {
+      "1": "The argument is valid because not studying hard means the sufficient condition for passing is absent.",
+      "2": "The argument is invalid: it denies the antecedent, since studying hard is sufficient but not necessary to pass.",
+      "3": "The argument is invalid: it commits circular reasoning by assuming its conclusion within a premise.",
+      "4": "The argument is invalid because the conclusion uses a different subject than either premise introduces."
+    },
+    "correct_answer": "2",
+    "explanation": "The argument has the form: If P then Q; not P; therefore not Q. This is the formal fallacy called 'denying the antecedent.' The premise 'all hard-studiers pass' establishes that hard study is sufficient for passing -- not that it is the only way to pass. Ravi might have passed through another route. Option 2 correctly names and explains the flaw. Distractor 1 (argument is valid): accepts the invalid inference, confusing sufficiency with necessity. Distractor 3 (circular reasoning): circular reasoning involves assuming the conclusion in a premise, which does not occur here. Distractor 4 (needs data): introduces an irrelevant empirical consideration; the flaw is purely logical.",
+    "difficulty": 1,
+    "t_expert_sec": 40,
+    "t_average_sec": 340,
+    "topic": "logical-reasoning/critical-reasoning"
+  },
+  {
+    "question_id": 44,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "The table below shows sales (thousands of units) and revenue (lakhs of rupees) for four products over two years.\n\nProduct | Sales Y1 | Sales Y2 | Revenue Y1 | Revenue Y2\nA       |    40    |    50    |    200     |    300\nB       |    60    |    48    |    300     |    264\nC       |    80    |   100    |    320     |    450\nD       |    20    |    25    |    100     |    175\n\nFor which product did the price per unit (in lakhs per thousand units) increase by the greatest absolute amount from Y1 to Y2?",
+    "options": {
+      "1": "Product A",
+      "2": "Product B",
+      "3": "Product C",
+      "4": "Product D"
+    },
+    "correct_answer": "4",
+    "explanation": "Price = Revenue / Sales (lakhs per thousand units). Y1 prices: A=200/40=5.0, B=300/60=5.0, C=320/80=4.0, D=100/20=5.0. Y2 prices: A=300/50=6.0, B=264/48=5.5, C=450/100=4.5, D=175/25=7.0. Absolute increases: A=1.0, B=0.5, C=0.5, D=2.0. Product D has the greatest increase of 2.0. Option 4 is correct. Distractor 1 (Product A): student confuses percentage increase with absolute increase; A has 20% increase while D has 40%, but D's absolute increase (2.0) is also largest. Distractor 2 (Product B): student notices B's sales fell and revenue fell, so might mis-identify it as having the largest per-unit change. Distractor 3 (Product C): C has the highest sales volume in Y2 and may seem most changed, but its price increase is only 0.5.",
+    "difficulty": 1,
+    "t_expert_sec": 40,
+    "t_average_sec": 320,
+    "topic": "data-interpretation/multi-source",
+    "verification": {
+      "expr": "pa1=200/40; pa2=300/50; pb1=300/60; pb2=264/48; pc1=320/80; pc2=450/100; pd1=100/20; pd2=175/25; diffs=[pa2-pa1, pb2-pb1, pc2-pc1, pd2-pd1]; idx=diffs.index(max(diffs))+1; str(idx)",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 45,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "Consider a two-digit positive integer N. Evaluate whether N can be uniquely determined using the statements below.\n\nStatement I: The sum of the digits of N is 9.\nStatement II: When the digits of N are reversed, the new number exceeds N by 27.\n\nWhich of the following is correct?",
+    "options": {
+      "1": "Statement I alone is sufficient to uniquely identify N.",
+      "2": "Statement II alone is sufficient to uniquely identify N.",
+      "3": "Both statements together are sufficient, but neither statement alone is sufficient.",
+      "4": "Even combining both statements is not sufficient to identify N uniquely."
+    },
+    "correct_answer": "3",
+    "explanation": "Let N = 10a + b (a and b are digits, a >= 1). Statement I: a + b = 9. Multiple solutions exist: 18, 27, 36, 45, 54, 63, 72, 81, 90 -- insufficient alone. Statement II: Reversed number = 10b + a. (10b+a) - (10a+b) = 27 => 9(b-a) = 27 => b - a = 3. Multiple solutions: 14, 25, 36, 47, 58, 69 -- insufficient alone. Combine: a+b=9 and b-a=3. Adding: 2b=12, b=6, a=3, N=36. Unique. So both together are sufficient but neither alone is. Option 3 is correct. Distractor 1: student checks only a few cases of Statement I and wrongly thinks it is unique. Distractor 2: student solves b-a=3 but fails to notice multiple two-digit solutions. Distractor 4: student fails to solve the simultaneous linear system a+b=9, b-a=3.",
+    "difficulty": 1,
+    "t_expert_sec": 38,
+    "t_average_sec": 300,
+    "topic": "data-interpretation/data-sufficiency",
+    "verification": {
+      "expr": "s1=[(a,b) for a in range(1,10) for b in range(0,10) if a+b==9]; s2=[(a,b) for a in range(1,10) for b in range(0,10) if b-a==3]; both=[x for x in s1 if x in s2]; '3' if (len(s1)>1 and len(s2)>1 and len(both)==1) else '0'",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 46,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A vessel contains 100 litres of a mixture of milk and water in the ratio 3:2. A certain quantity x litres is removed from the vessel and replaced with the same volume of pure milk. After this, the ratio of milk to water becomes 4:1. Find x.",
+    "options": {
+      "1": "10",
+      "2": "25",
+      "3": "50",
+      "4": "40"
+    },
+    "correct_answer": "3",
+    "explanation": "Initial: milk = 60 L, water = 40 L in 100 L (ratio 3:2). When x litres of mixture are removed, milk removed = 3x/5, water removed = 2x/5 (same ratio). Then x litres of pure milk added. New milk = 60 - 3x/5 + x = 60 + 2x/5. New water = 40 - 2x/5. New ratio = (60 + 2x/5) / (40 - 2x/5) = 4/1. Cross-multiplying: 60 + 2x/5 = 4(40 - 2x/5) = 160 - 8x/5. Rearranging: 2x/5 + 8x/5 = 100. 10x/5 = 100. 2x = 100. x = 50. Option 3 is correct. Distractor 1 (10): student sets up the equation but makes an arithmetic error, stopping at an intermediate step with x=10. Distractor 2 (25): student uses a simpler but incorrect formula, computing 40*(1 - final_water_fraction) = 40*(1-1/5) = 32, then treats this as x/2 giving x=25 -- a ratio-confusion error. Distractor 4 (40): student correctly identifies that water must go from 40 to 20 (for 4:1 ratio), then solves 40 - 2*40/5 = 40 - 16 = 24, not 20 -- an off-by-one computation giving x=40.",
+    "difficulty": 1,
+    "t_expert_sec": 38,
+    "t_average_sec": 300,
+    "topic": "arithmetic/mixtures-advanced",
+    "verification": {
+      "expr": "from sympy import symbols, Eq, solve; x=symbols('x'); milk=60+2*x/5; water=40-2*x/5; eq=Eq(milk/water, 4); sol=solve(eq,x); val=int(sol[0]); '3' if val==50 else ('1' if val==10 else ('2' if val==25 else ('4' if val==40 else '0')))",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 47,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "What is the remainder when 7^100 is divided by 100?",
+    "options": {
+      "1": "1",
+      "2": "49",
+      "3": "43",
+      "4": "7"
+    },
+    "correct_answer": "1",
+    "explanation": "Find the pattern of 7^n mod 100: 7^1=7, 7^2=49, 7^3=343 mod 100=43, 7^4=7*43 mod 100=301 mod 100=1. The cycle length is 4 (values: 7, 49, 43, 1). Since 100 = 4*25, 7^100 = (7^4)^25. 7^4 mod 100 = 1, so 7^100 mod 100 = 1^25 = 1. Option 1 is correct. Distractor 2 (49): student correctly identifies the 4-cycle but mistakenly uses 100 mod 4 = 0 to index position 0 (=49 = 7^2), confusing 0-indexed with 4-indexed cycle position. Distractor 3 (43): student uses 100 mod 4 = 0 and takes the third element of the cycle (7^3 mod 100 = 43), using a 1-offset indexing error. Distractor 4 (7): student uses 100 mod 4 = 0 and picks 7^1 = 7 from a misnumbered cycle.",
+    "difficulty": 1,
+    "t_expert_sec": 40,
+    "t_average_sec": 300,
+    "topic": "number-theory/modular-arithmetic",
+    "verification": {
+      "expr": "r=pow(7,100,100); '1' if r==1 else ('2' if r==49 else ('3' if r==43 else ('4' if r==7 else '0')))",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 48,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "For real x, the inequality (x^2 - 5x + 6) / (x^2 - 3x + 2) < 0 holds. Given that the expression is undefined at x = 1 and x = 2, the complete solution set is:",
+    "options": {
+      "1": "x < 1 or x > 3",
+      "2": "1 < x < 2 or 2 < x < 3",
+      "3": "2 < x < 3",
+      "4": "1 < x < 2 or x > 3"
+    },
+    "correct_answer": "2",
+    "explanation": "Factor: numerator = (x-2)(x-3), denominator = (x-1)(x-2). For x not equal to 2, cancel (x-2): the expression equals (x-3)/(x-1). We need (x-3)/(x-1) < 0, which holds when exactly one factor is negative. Sign analysis: x<1: (x-3)<0, (x-1)<0, ratio positive -- does NOT satisfy. 1<x<3: (x-3)<0, (x-1)>0, ratio negative -- satisfies. x>3: (x-3)>0, (x-1)>0, ratio positive -- does NOT satisfy. Combined with exclusion of x=1 and x=2: solution is 1<x<2 or 2<x<3. Option 2 is correct. Distractor 1 (x<1 or x>3): student flips the sign analysis, thinking the inequality holds outside the roots. Distractor 3 (2<x<3 only): student correctly identifies one valid interval but misses that x=2 splits (1,3) into two disjoint intervals, both valid. Distractor 4 (1<x<2 or x>3): student correctly identifies the first interval but then extends beyond x=3 instead of stopping, making the second boundary error.",
+    "difficulty": 1,
+    "t_expert_sec": 42,
+    "t_average_sec": 340,
+    "topic": "algebra/inequalities-advanced",
+    "verification": {
+      "expr": "# Check x=1.5 (in 1<x<2): num=(1.5-2)*(1.5-3); den=(1.5-1)*(1.5-2); v1=num/den\n# Check x=2.5 (in 2<x<3): num=(2.5-2)*(2.5-3); den=(2.5-1)*(2.5-2); v2=num/den\n# Check x=0.5 (x<1): num=(0.5-2)*(0.5-3); den=(0.5-1)*(0.5-2); v3=num/den\n# Check x=4 (x>3): num=(4-2)*(4-3); den=(4-1)*(4-2); v4=num/den\nv1=((1.5-2)*(1.5-3))/((1.5-1)*(1.5-2)); v2=((2.5-2)*(2.5-3))/((2.5-1)*(2.5-2)); v3=((0.5-2)*(0.5-3))/((0.5-1)*(0.5-2)); v4=((4-2)*(4-3))/((4-1)*(4-2)); '2' if (v1<0 and v2<0 and v3>0 and v4>0) else '0'",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 49,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A circle passes through the points A(0, 0), B(6, 0), and C(0, 8). A line L passes through the centre of this circle and is perpendicular to BC. What is the equation of line L?",
+    "options": {
+      "1": "3x - 4y + 7 = 0",
+      "2": "4x - 3y - 4 = 0",
+      "3": "3x - 4y - 7 = 0",
+      "4": "4x + 3y - 25 = 0"
+    },
+    "correct_answer": "1",
+    "explanation": "Step 1: Find the circumcentre. Substituting A(0,0) into x^2+y^2+Dx+Ey+F=0 gives F=0. Substituting B(6,0): 36+6D=0 => D=-6. Substituting C(0,8): 64+8E=0 => E=-8. Centre = (-D/2, -E/2) = (3, 4). Step 2: Slope of BC. B=(6,0), C=(0,8). Slope = (8-0)/(0-6) = -4/3. Step 3: Line L is perpendicular to BC, so its slope = 3/4. Step 4: Equation through (3,4) with slope 3/4: y-4=(3/4)(x-3). Multiply by 4: 4y-16=3x-9. Rearranged: 3x-4y+7=0. This is option 1. Distractor 2 (4x-3y-4=0): student uses the slope of BC itself (not perpendicular), writing the line through (3,4) with slope -4/3: 4x+3y-24=0 -- sign variation gives 4x-3y-4=0 after an error. Distractor 3 (3x-4y-7=0): student gets the correct slope and centre but makes a sign error in the constant: computes 3*3-4*4+c=0 as c=+7, then writes c=-7. Distractor 4 (4x+3y-25=0): student uses the slope of BC (not perpendicular) correctly: line y-4=(-4/3)(x-3) => 3y-12=-4x+12 => 4x+3y=24, but then gets 4x+3y-25=0 due to an arithmetic slip.",
+    "difficulty": 1,
+    "t_expert_sec": 42,
+    "t_average_sec": 330,
+    "topic": "geometry/coordinate-geometry-advanced",
+    "verification": {
+      "expr": "cx=3; cy=4; checks=[3*cx-4*cy+7, 4*cx-3*cy-4, 3*cx-4*cy-7, 4*cx+3*cy-25]; results=['1','2','3','4']; idx=next(i for i,v in enumerate(checks) if v==0); results[idx]",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 50,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A fair six-sided die is rolled up to 3 times. The rolling stops as soon as a 6 appears. You win Rs. 10 if a 6 appears on the 1st roll, Rs. 6 if a 6 first appears on the 2nd roll, and Rs. 3 if a 6 first appears on the 3rd roll. You win nothing if no 6 appears. What is your expected winning (to the nearest paisa)?",
+    "options": {
+      "1": "Rs. 3.50",
+      "2": "Rs. 4.00",
+      "3": "Rs. 2.85",
+      "4": "Rs. 3.20"
+    },
+    "correct_answer": "3",
+    "explanation": "P(6 on roll 1) = 1/6. P(first 6 on roll 2) = (5/6)*(1/6) = 5/36. P(first 6 on roll 3) = (5/6)^2*(1/6) = 25/216. Expected winning = 10*(1/6) + 6*(5/36) + 3*(25/216) = 360/216 + 180/216 + 75/216 = 615/216 = 2.847... ≈ Rs. 2.85. Option 3 is correct. Distractor 1 (Rs. 3.50): student takes a simple average of the three payoffs (10+6+3)/3 = 19/3 ≈ 6.33, then halves it due to a rough 50% win probability estimate, getting ~3.50. Distractor 2 (Rs. 4.00): student assigns equal probability 1/6 to each of the three winning scenarios and zero to losing: E = (10+6+3)/6 + 0 = 19/6 ≈ 3.17, rounded up to 4.00, or computes 24/6=4 by an arithmetic slip. Distractor 4 (Rs. 3.20): student correctly computes probabilities for rolls 1 and 2 (total 1/6+5/36=11/36) but ignores roll 3, computing 10*(1/6)+6*(5/36) = 60/36+30/36 = 90/36 = 2.50, then adds an estimated 0.70 for roll 3, arriving at 3.20.",
+    "difficulty": 1,
+    "t_expert_sec": 42,
+    "t_average_sec": 350,
+    "topic": "probability/expected-value",
+    "verification": {
+      "expr": "from fractions import Fraction; ev=Fraction(10,6)+Fraction(6*5,36)+Fraction(3*25,216); ev_f=float(ev); '3' if abs(ev_f-2.847)<0.01 else '0'",
+      "expected": "3"
+    }
+  }
+]

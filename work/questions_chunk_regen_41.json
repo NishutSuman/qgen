@@ -1,0 +1,24 @@
+[
+  {
+    "question_id": 41,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A factory has two machines, M1 and M2. M1 produces 40% of all bolts; M2 produces the remaining 60%. The defect rate for M1 is 3% and for M2 is 2%. A bolt is picked at random and found to be defective. What is the probability that it was produced by M1?",
+    "options": {
+      "1": "1/2",
+      "2": "2/5",
+      "3": "3/5",
+      "4": "1/3"
+    },
+    "correct_answer": "1",
+    "explanation": "Apply Bayes' theorem. P(defective) = P(def|M1)*P(M1) + P(def|M2)*P(M2) = 0.03*0.40 + 0.02*0.60 = 0.012 + 0.012 = 0.024. P(M1|defective) = 0.012/0.024 = 1/2. Option 1 is correct. Distractor 2 (2/5): uses the prior P(M1) = 40% = 2/5 directly, forgetting to update with defect-rate evidence -- the student reads off the production share instead of applying Bayes. Distractor 3 (3/5): ignores the production-weight priors entirely and computes only the defect-rate ratio, treating the two raw defect rates (3% and 2%) as if they were the only relevant quantities: 3/(3+2) = 3/5. This error collapses the problem to a simple ratio of rates while discarding the prior weights. Distractor 4 (1/3): stems from an arithmetic slip where the student adds the raw defect rates as 0.03+0.02=0.05 and then computes P(M1|defective) as 0.03/(0.03+0.02) ignoring the priors, but then makes a further error by rounding or mis-simplifying to 1/3.",
+    "difficulty": 1,
+    "t_expert_sec": 35,
+    "t_average_sec": 270,
+    "topic": "probability/bayes-conditional",
+    "verification": {
+      "expr": "num=0.4*0.03; denom=0.4*0.03+0.6*0.02; r=num/denom; '1' if abs(r-0.5)<1e-9 else ('2' if abs(r-0.4)<1e-9 else '0')",
+      "expected": "1"
+    }
+  }
+]

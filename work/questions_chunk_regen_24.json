@@ -1,0 +1,24 @@
+[
+  {
+    "question_id": 24,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "Five people P, Q, R, S, and T are seated in a straight row from left to right (positions 1 to 5). The following conditions hold: (i) R sits exactly in the middle. (ii) P sits immediately to the left of Q. (iii) S sits at one of the two ends. (iv) T sits to the right of R. Which of the following is definitely true?",
+    "options": {
+      "1": "S sits at the leftmost position",
+      "2": "Q sits 2nd from the left",
+      "3": "T sits immediately to the right of Q",
+      "4": "P sits 4th from the left"
+    },
+    "correct_answer": "2",
+    "explanation": "Fix R at position 3 (the only middle seat in a 5-seat row). The P-Q pair must be consecutive with P one seat left of Q, giving only two possible placements: (P=1, Q=2) or (P=4, Q=5). Constraint (iv) requires T > 3, so T must be at position 4 or 5. Constraint (iii) requires S at position 1 or 5. Case A — (P=4, Q=5): The remaining seats for S and T are {1, 2}. T must be at position 4 or 5, but both are occupied by P and Q. No valid placement for T — Case A is impossible. Case B — (P=1, Q=2): Remaining seats for S and T are {4, 5}. T must be > 3, so T in {4, 5} — both qualify. S must be at an end (1 or 5); position 1 is taken by P, so S = 5 and T = 4. Unique arrangement: P=1, Q=2, R=3, T=4, S=5. Checking the options: Option 2 (Q 2nd from left) — Q=2, TRUE. Option 1 (S leftmost) — S=5, not position 1, FALSE; error: assuming S is at the left end rather than determining which end. Option 3 (T immediately right of Q) — Q=2, T=4, not adjacent (position 3 lies between them), FALSE; error: confusing 'T to the right of R' with 'T adjacent to Q'. Option 4 (P 4th from left) — P=1, not 4, FALSE; error: placing the P-Q pair at positions 4-5 and failing to check constraint (iv).",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 155,
+    "topic": "logical-reasoning/arrangements",
+    "verification": {
+      "expr": "import itertools; valid=[{p:i+1 for i,p in enumerate(pm)} for pm in itertools.permutations(['P','Q','R','S','T']) if {p:i+1 for i,p in enumerate(pm)}['R']==3 and {p:i+1 for i,p in enumerate(pm)}['P']+1=={p:i+1 for i,p in enumerate(pm)}['Q'] and {p:i+1 for i,p in enumerate(pm)}['S'] in [1,5] and {p:i+1 for i,p in enumerate(pm)}['T']>{p:i+1 for i,p in enumerate(pm)}['R']]; pos=valid[0]; '2' if len(valid)==1 and pos['Q']==2 else '0'",
+      "expected": "2"
+    }
+  }
+]

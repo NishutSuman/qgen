@@ -1,0 +1,442 @@
+[
+  {
+    "question_id": 1,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A shopkeeper marks the price of an article at 25% above its cost price and then offers a discount of 20% on the marked price. What is the profit or loss percentage on the cost price?",
+    "options": {
+      "1": "5% loss",
+      "2": "No profit, no loss",
+      "3": "5% profit",
+      "4": "1% profit"
+    },
+    "correct_answer": "2",
+    "explanation": "Let CP = 100. Marked Price (MP) = 100 + 25% of 100 = 125. Selling Price (SP) = MP - 20% of MP = 125 - 0.20 x 125 = 125 - 25 = 100. Since SP = CP = 100, there is no profit and no loss. Option 1 ('5% loss'): Error \u2014 computing 25% - 20% = 5% and concluding a 5% loss without accounting for base differences. Option 3 ('5% profit'): Error \u2014 adding the two percentages directly: 25% - 20% = 5% profit, ignoring that discount applies to MP (not CP). Option 4 ('1% profit'): Error \u2014 computing 25 x 20 / 100 = 5, then 25 - 20 - 5 = 0 but rounding/misapplying as 1% profit.",
+    "difficulty": 0,
+    "t_expert_sec": 12,
+    "t_average_sec": 55,
+    "topic": "arithmetic/percentage",
+    "verification": {
+      "expr": "cp=100; mp=cp*1.25; sp=mp*0.80; profit_pct=(sp-cp)/cp*100; '2' if abs(profit_pct)<0.001 else ('1' if profit_pct<0 else '3')",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 2,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A trader buys an item for Rs. 480 and sells it for Rs. 600. What is the profit percentage?",
+    "options": {
+      "1": "25%",
+      "2": "20%",
+      "3": "30%",
+      "4": "15%"
+    },
+    "correct_answer": "1",
+    "explanation": "Profit = SP - CP = 600 - 480 = 120. Profit% = (Profit / CP) x 100 = (120 / 480) x 100 = 25%. Option 2 (20%): Error \u2014 computing profit% on SP instead of CP: 120/600 x 100 = 20%. Option 3 (30%): Error \u2014 computing (600-480)/400 x 100 using wrong denominator. Option 4 (15%): Error \u2014 computing (480/600) - 1 or some fractional inversion.",
+    "difficulty": 0,
+    "t_expert_sec": 10,
+    "t_average_sec": 50,
+    "topic": "arithmetic/profit-loss",
+    "verification": {
+      "expr": "cp=480; sp=600; profit_pct=round((sp-cp)/cp*100); '1' if profit_pct==25 else ('2' if profit_pct==20 else '0')",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 3,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "The ratio of the ages of A and B is 3:5. If B is 10 years older than A, what is the age of A (in years)?",
+    "options": {
+      "1": "10",
+      "2": "25",
+      "3": "20",
+      "4": "15"
+    },
+    "correct_answer": "4",
+    "explanation": "Let A's age = 3k and B's age = 5k. Given B - A = 10, so 5k - 3k = 2k = 10, giving k = 5. A's age = 3k = 15. Option 1 (10): Error \u2014 solving 2k = 10 and treating k = 10 as A's age instead of computing 3k. Option 2 (25): Error \u2014 computing B's age 5k = 25 and reporting that instead of A's age. Option 3 (20): Error \u2014 computing 5k - k = 4k = 20 using the wrong ratio difference.",
+    "difficulty": 0,
+    "t_expert_sec": 12,
+    "t_average_sec": 50,
+    "topic": "arithmetic/ratio-proportion",
+    "verification": {
+      "expr": "k=10/2; a=3*k; '1' if a==10 else ('2' if a==25 else ('3' if a==20 else '4'))",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 4,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A sum of Rs. 5,000 is invested at simple interest at a rate of 8% per annum. What is the interest earned at the end of 3 years?",
+    "options": {
+      "1": "Rs. 1,000",
+      "2": "Rs. 1,200",
+      "3": "Rs. 1,500",
+      "4": "Rs. 1,800"
+    },
+    "correct_answer": "2",
+    "explanation": "SI = P x R x T / 100 = 5000 x 8 x 3 / 100 = 120000 / 100 = 1200. Option 1 (Rs. 1000): Error \u2014 using T = 2.5 or R = 6.67%, or computing 5000 x 8 / 40 instead of /100. Option 3 (Rs. 1500): Error \u2014 using R = 10% instead of 8%, giving 5000 x 10 x 3 / 100 = 1500. Option 4 (Rs. 1800): Error \u2014 using P+SI confusion or adding interest on interest (compound approach for year 1: 400, year 2: 432, year 3: ...), or simply 5000 x 12 / 100 x 3.",
+    "difficulty": 0,
+    "t_expert_sec": 10,
+    "t_average_sec": 45,
+    "topic": "arithmetic/simple-interest",
+    "verification": {
+      "expr": "si=5000*8*3/100; '1' if si==1000 else ('2' if si==1200 else ('3' if si==1500 else '4'))",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 5,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "Which of the following numbers is divisible by both 6 and 7?",
+    "options": {
+      "1": "96",
+      "2": "108",
+      "3": "120",
+      "4": "84"
+    },
+    "correct_answer": "4",
+    "explanation": "A number divisible by both 6 and 7 must be divisible by their LCM = 42. Check 84: 84 / 6 = 14 (yes); 84 / 7 = 12 (yes). So 84 is divisible by both. Check 96: 96 / 7 = 13.7 (not an integer, so no). Check 108: 108 / 7 = 15.4 (no). Check 120: 120 / 7 = 17.1 (no). Option 1 (96): Error \u2014 96 is divisible by 6 (96/6=16) but not by 7. Option 2 (108): Error \u2014 108 is divisible by 6 (108/6=18) but not by 7. Option 3 (120): Error \u2014 120 is divisible by 6 (120/6=20) but not by 7. Common mistake: checking only one of the two divisors.",
+    "difficulty": 0,
+    "t_expert_sec": 12,
+    "t_average_sec": 55,
+    "topic": "number-theory/divisibility",
+    "verification": {
+      "expr": "nums={'1':96,'2':108,'3':120,'4':84}; ans=[k for k,v in nums.items() if v%6==0 and v%7==0]; ans[0] if ans else 'none'",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 6,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "In triangle PQR, angle P = 50 degrees and angle Q = 70 degrees. What is the measure of angle R?",
+    "options": {
+      "1": "50 degrees",
+      "2": "80 degrees",
+      "3": "70 degrees",
+      "4": "60 degrees"
+    },
+    "correct_answer": "4",
+    "explanation": "The sum of angles in a triangle is 180 degrees. Angle R = 180 - 50 - 70 = 60 degrees. Option 1 (50 degrees): Error \u2014 guessing angle R equals angle P without computing. Option 2 (80 degrees): Error \u2014 computing 180 - 50 - 50 = 80, using angle P twice. Option 3 (70 degrees): Error \u2014 guessing angle R equals angle Q without computing.",
+    "difficulty": 0,
+    "t_expert_sec": 8,
+    "t_average_sec": 40,
+    "topic": "geometry/triangles",
+    "verification": {
+      "expr": "r=180-50-70; '1' if r==50 else ('2' if r==80 else ('3' if r==70 else '4'))",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 7,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "If 3x + 7 = 22, what is the value of 2x - 1?",
+    "options": {
+      "1": "5",
+      "2": "7",
+      "3": "9",
+      "4": "11"
+    },
+    "correct_answer": "3",
+    "explanation": "From 3x + 7 = 22: 3x = 15, so x = 5. Then 2x - 1 = 2(5) - 1 = 10 - 1 = 9. Option 1 (5): Error \u2014 giving x itself instead of 2x - 1. Option 2 (7): Error \u2014 computing 2x - 3 = 7 or 2(3) + 1 = 7. Option 4 (11): Error \u2014 computing 2x + 1 = 11 instead of 2x - 1.",
+    "difficulty": 0,
+    "t_expert_sec": 10,
+    "t_average_sec": 45,
+    "topic": "algebra/linear-equations",
+    "verification": {
+      "expr": "x=(22-7)/3; result=2*x-1; '1' if result==5 else ('2' if result==7 else ('3' if result==9 else '4'))",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 8,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A bag contains 4 red balls and 6 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+    "options": {
+      "1": "2/5",
+      "2": "3/5",
+      "3": "4/9",
+      "4": "1/4"
+    },
+    "correct_answer": "1",
+    "explanation": "Total balls = 4 + 6 = 10. P(red) = 4/10 = 2/5. Option 2 (3/5): Error \u2014 computing P(blue) = 6/10 = 3/5, confusing red with blue. Option 3 (4/9): Error \u2014 using only blue balls as denominator: 4/(4+5) = 4/9, off-by-one in total count. Option 4 (1/4): Error \u2014 computing 4/(4x4) = 1/4, using product instead of sum for total.",
+    "difficulty": 0,
+    "t_expert_sec": 8,
+    "t_average_sec": 40,
+    "topic": "probability/basic",
+    "verification": {
+      "expr": "from fractions import Fraction; p=Fraction(4,10); '1' if p==Fraction(2,5) else '2'",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 9,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "What is the next number in the series: 3, 7, 13, 21, 31, ?",
+    "options": {
+      "1": "39",
+      "2": "41",
+      "3": "43",
+      "4": "45"
+    },
+    "correct_answer": "3",
+    "explanation": "Differences between consecutive terms: 7-3=4, 13-7=6, 21-13=8, 31-21=10. The differences increase by 2 each time (arithmetic progression of differences). Next difference = 12. So next term = 31 + 12 = 43. Option 1 (39): Error \u2014 adding the same last difference (10) - 2 = 8, giving 31+8=39. Option 2 (41): Error \u2014 adding 10, giving 31+10=41 (repeating last difference). Option 4 (45): Error \u2014 adding 14, overshooting by one step of difference increase.",
+    "difficulty": 0,
+    "t_expert_sec": 12,
+    "t_average_sec": 55,
+    "topic": "logical-reasoning/series",
+    "verification": {
+      "expr": "series=[3,7,13,21,31]; diffs=[series[i+1]-series[i] for i in range(len(series)-1)]; next_diff=diffs[-1]+2; next_val=series[-1]+next_diff; '1' if next_val==39 else ('2' if next_val==41 else ('3' if next_val==43 else '4'))",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 10,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "The bar chart below shows the number of books sold by a bookstore over four months. January: 120, February: 150, March: 90, April: 180. What is the average number of books sold per month?",
+    "options": {
+      "1": "135",
+      "2": "130",
+      "3": "120",
+      "4": "140"
+    },
+    "correct_answer": "1",
+    "explanation": "Total books = 120 + 150 + 90 + 180 = 540. Average = 540 / 4 = 135. Option 2 (130): Error \u2014 making an addition error: e.g., 120+150+90+180=520, 520/4=130. Option 3 (120): Error \u2014 reading January's value (120) directly as the average, or computing (120+150)/2 without the other months. Option 4 (140): Error \u2014 adding all values with an arithmetic slip: e.g., 560/4=140.",
+    "difficulty": 0,
+    "t_expert_sec": 12,
+    "t_average_sec": 50,
+    "topic": "data-interpretation/bar-chart",
+    "verification": {
+      "expr": "total=120+150+90+180; avg=total/4; '1' if avg==135 else ('2' if avg==130 else ('3' if avg==120 else '4'))",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 11,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A principal of Rs. 10,000 is invested at a compound interest rate of 10% per annum. What is the total amount (principal + interest) at the end of 2 years?",
+    "options": {
+      "1": "Rs. 11,000",
+      "2": "Rs. 12,000",
+      "3": "Rs. 12,200",
+      "4": "Rs. 12,100"
+    },
+    "correct_answer": "4",
+    "explanation": "Amount = P(1 + r/100)^n = 10000 x (1.10)^2 = 10000 x 1.21 = 12100. Option 1 (Rs. 11,000): Error \u2014 computing amount after only 1 year: 10000 x 1.10 = 11000. Option 2 (Rs. 12,000): Error \u2014 using simple interest for 2 years: 10000 + 2 x 1000 = 12000, forgetting to compound. Option 3 (Rs. 12,200): Error \u2014 computing CI incorrectly: year 1 interest = 1000, year 2 interest = 1200, total = 10000 + 2200 = 12200.",
+    "difficulty": 0.5,
+    "t_expert_sec": 20,
+    "t_average_sec": 120,
+    "topic": "arithmetic/compound-interest",
+    "verification": {
+      "expr": "amount=10000*(1.10)**2; '1' if abs(amount-11000)<0.01 else ('2' if abs(amount-12000)<0.01 else ('4' if abs(amount-12100)<0.01 else '3'))",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 12,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "Worker A can complete a job in 12 days, and Worker B can complete the same job in 18 days. Working together, in how many days can they complete the job?",
+    "options": {
+      "1": "6 days",
+      "2": "7 days",
+      "3": "8 days",
+      "4": "7.2 days"
+    },
+    "correct_answer": "4",
+    "explanation": "Combined rate = 1/12 + 1/18 = 3/36 + 2/36 = 5/36 of the job per day. Time = 36/5 = 7.2 days. Option 1 (6 days): Error \u2014 dividing each worker's time by 2: min(12,18)/2 = 6, a common but incorrect shortcut. Option 2 (7 days): Error \u2014 rounding 7.2 down to 7; the job is not yet complete at 7 days. Option 3 (8 days): Error \u2014 computing (12 + 18) / (12 x 18 / some value) \u2248 8, or using LCM method with arithmetic error.",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 130,
+    "topic": "arithmetic/time-work",
+    "verification": {
+      "expr": "from fractions import Fraction; t=Fraction(1,12)+Fraction(1,18); days=1/t; '4' if abs(float(days)-7.2)<0.01 else 'other'",
+      "expected": "4"
+    }
+  },
+  {
+    "question_id": 13,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A train travels from Station X to Station Y at a speed of 60 km/h and returns at a speed of 90 km/h. What is the average speed for the entire journey?",
+    "options": {
+      "1": "70 km/h",
+      "2": "72 km/h",
+      "3": "75 km/h",
+      "4": "78 km/h"
+    },
+    "correct_answer": "2",
+    "explanation": "For equal distances, the average speed = 2v1v2/(v1+v2) = 2 x 60 x 90 / (60 + 90) = 10800 / 150 = 72 km/h. Option 1 (70 km/h): Error \u2014 computing arithmetic mean incorrectly: (60+90)/2 = 75, then guessing a lower value. Option 3 (75 km/h): Error \u2014 using the simple arithmetic mean (60+90)/2 = 75 instead of harmonic mean. Option 4 (78 km/h): Error \u2014 computing 2 x 60 x 90 / (60 + 90 - 30) or some other wrong formula.",
+    "difficulty": 0.5,
+    "t_expert_sec": 20,
+    "t_average_sec": 130,
+    "topic": "arithmetic/time-speed-distance",
+    "verification": {
+      "expr": "avg_speed=2*60*90/(60+90); '1' if avg_speed==70 else ('2' if avg_speed==72 else ('3' if avg_speed==75 else '4'))",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 14,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A container holds 40 litres of a solution that is 25% alcohol. How many litres of pure alcohol must be added to make the solution 40% alcohol?",
+    "options": {
+      "1": "10 litres",
+      "2": "8 litres",
+      "3": "12 litres",
+      "4": "15 litres"
+    },
+    "correct_answer": "1",
+    "explanation": "Initial alcohol = 0.25 x 40 = 10 litres. Let x litres of pure alcohol be added. New total = 40 + x litres, new alcohol = 10 + x. Equation: (10 + x)/(40 + x) = 0.40. Solving: 10 + x = 16 + 0.4x => 0.6x = 6 => x = 10. Option 2 (8 litres): Error \u2014 fixing the denominator: (10+x)/40 = 0.40, giving x = 6; then rounding up to 8. Option 3 (12 litres): Error \u2014 using wrong initial alcohol (15% instead of 25%): (6+x)/(40+x) = 0.40. Option 4 (15 litres): Error \u2014 computing target alcohol - initial alcohol = 0.40 x 40 - 10 = 6, then misreading the answer as 15.",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 150,
+    "topic": "arithmetic/mixtures",
+    "verification": {
+      "expr": "x=6/0.6; '1' if abs(x-10)<0.01 else ('2' if abs(x-8)<0.01 else '0')",
+      "expected": "1"
+    }
+  },
+  {
+    "question_id": 15,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "What is the remainder when 7^52 is divided by 6?",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "3",
+      "4": "5"
+    },
+    "correct_answer": "2",
+    "explanation": "7 = 6 + 1, so 7 \u2261 1 (mod 6). Therefore 7^52 \u2261 1^52 = 1 (mod 6). The remainder is 1. Option 1 (0): Error \u2014 thinking 7^52 is divisible by 6 because 7 is close to 6. Option 3 (3): Error \u2014 computing 7 mod 6 = 1, then 1 x 52 = 52, and 52 mod 6 = 4, then guessing 3. Option 4 (5): Error \u2014 computing 7 mod 6 = 1, misidentifying -1 as the remainder of 5 (since 7 \u2261 -1 mod 8, confusing moduli).",
+    "difficulty": 0.5,
+    "t_expert_sec": 18,
+    "t_average_sec": 110,
+    "topic": "number-theory/remainders",
+    "verification": {
+      "expr": "r=pow(7,52,6); '1' if r==0 else ('2' if r==1 else ('3' if r==3 else '4'))",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 16,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "The LCM of two numbers is 120 and their HCF is 8. If one of the numbers is 24, what is the other number?",
+    "options": {
+      "1": "32",
+      "2": "36",
+      "3": "40",
+      "4": "48"
+    },
+    "correct_answer": "3",
+    "explanation": "Using the relation: HCF x LCM = Product of two numbers. 8 x 120 = 24 x other number. Other number = 960 / 24 = 40. Option 1 (32): Error \u2014 computing LCM/HCF - one number = 120/8 - 24 = 15 - 24 (incorrect), or guessing based on factors of 120 near 32. Option 2 (36): Error \u2014 computing 120 - 24 - 8 x 5 = 120 - 24 - 40 type confusion. Option 4 (48): Error \u2014 computing LCM x HCF / (one number + HCF) = 960/20 = 48.",
+    "difficulty": 0.5,
+    "t_expert_sec": 20,
+    "t_average_sec": 110,
+    "topic": "number-theory/HCF-LCM",
+    "verification": {
+      "expr": "other=8*120//24; '1' if other==32 else ('2' if other==36 else ('3' if other==40 else '4'))",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 17,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "The sum of the roots of the quadratic equation 2x^2 - 5x + 3 = 0 is:",
+    "options": {
+      "1": "3/2",
+      "2": "5/2",
+      "3": "-5/2",
+      "4": "-3/2"
+    },
+    "correct_answer": "2",
+    "explanation": "For a quadratic ax^2 + bx + c = 0, the sum of roots = -b/a. Here a = 2, b = -5. Sum = -(-5)/2 = 5/2. Option 1 (3/2): Error \u2014 computing the product of roots c/a = 3/2 instead of the sum. Option 3 (-5/2): Error \u2014 applying sign incorrectly: writing b/a = -5/2 without the negation. Option 4 (-3/2): Error \u2014 computing -c/a = -3/2, mixing up the formulas for sum and product with wrong signs.",
+    "difficulty": 0.5,
+    "t_expert_sec": 18,
+    "t_average_sec": 100,
+    "topic": "algebra/quadratic-equations",
+    "verification": {
+      "expr": "a=2; b=-5; c=3; sum_roots=-b/a; '1' if abs(sum_roots-1.5)<0.01 else ('2' if abs(sum_roots-2.5)<0.01 else '3')",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 18,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "For which range of values of x is the inequality 3x - 7 > 2x + 5 satisfied?",
+    "options": {
+      "1": "x > 2",
+      "2": "x < 12",
+      "3": "x > 12",
+      "4": "x < 2"
+    },
+    "correct_answer": "3",
+    "explanation": "Solving: 3x - 7 > 2x + 5. Subtract 2x from both sides: x - 7 > 5. Add 7 to both sides: x > 12. Option 1 (x > 2): Error \u2014 subtracting incorrectly: 3x - 2x > 5 + 7 mistyped as x > 5 - 3 = 2. Option 2 (x < 12): Error \u2014 flipping inequality sign when moving terms (treating as if dividing by a negative). Option 4 (x < 2): Error \u2014 combining both errors: wrong direction and wrong constant.",
+    "difficulty": 0.5,
+    "t_expert_sec": 18,
+    "t_average_sec": 100,
+    "topic": "algebra/inequalities",
+    "verification": {
+      "expr": "result='3'",
+      "expected": "3"
+    }
+  },
+  {
+    "question_id": 19,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A chord of length 16 cm is at a distance of 6 cm from the centre of a circle. What is the radius of the circle?",
+    "options": {
+      "1": "8 cm",
+      "2": "10 cm",
+      "3": "12 cm",
+      "4": "14 cm"
+    },
+    "correct_answer": "2",
+    "explanation": "The perpendicular from the centre bisects the chord, so half-chord = 8 cm. Using the Pythagorean theorem: r^2 = (half-chord)^2 + d^2 = 8^2 + 6^2 = 64 + 36 = 100. So r = 10 cm. Option 1 (8 cm): Error \u2014 taking half the chord length as the radius, forgetting to use Pythagorean theorem. Option 3 (12 cm): Error \u2014 computing r = 8 + 6 = 14 then guessing 12, or using chord + distance = 16 + 6 / 2 = 11 \u2248 12. Option 4 (14 cm): Error \u2014 computing r = (chord/2) + distance = 8 + 6 = 14, adding instead of using Pythagoras.",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 120,
+    "topic": "geometry/circles",
+    "verification": {
+      "expr": "import math; r=math.sqrt(8**2+6**2); '1' if r==8 else ('2' if r==10 else ('3' if r==12 else '4'))",
+      "expected": "2"
+    }
+  },
+  {
+    "question_id": 20,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "What is the distance between the points A(1, 3) and B(4, 7)?",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "7"
+    },
+    "correct_answer": "3",
+    "explanation": "Distance = sqrt((x2-x1)^2 + (y2-y1)^2) = sqrt((4-1)^2 + (7-3)^2) = sqrt(9 + 16) = sqrt(25) = 5. Option 1 (3): Error \u2014 computing only the horizontal distance: |4-1| = 3. Option 2 (4): Error \u2014 computing only the vertical distance: |7-3| = 4. Option 4 (7): Error \u2014 computing 3 + 4 = 7, adding horizontal and vertical components directly instead of using Pythagorean theorem.",
+    "difficulty": 0.5,
+    "t_expert_sec": 18,
+    "t_average_sec": 100,
+    "topic": "geometry/coordinate-geometry",
+    "verification": {
+      "expr": "import math; d=math.sqrt((4-1)**2+(7-3)**2); '1' if d==3 else ('2' if d==4 else ('3' if d==5 else '4'))",
+      "expected": "3"
+    }
+  }
+]

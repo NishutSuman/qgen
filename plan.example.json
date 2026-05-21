@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "count": 4,
+    "difficulty_ratio": { "0": 2, "1": 2 },
+    "notes": "EXAMPLE ONLY — illustrates the plan.json shape the orchestrator writes. Delete before a real run; the command regenerates this.",
+    "id_start": 1
+  },
+  "questions": [
+    { "question_id": 1, "type": "mcsc", "topic": "Arithmetic / Profit-Loss", "difficulty": 0,   "target_discrimination_band": [4.0, 6.0] },
+    { "question_id": 2, "type": "mcsc", "topic": "Geometry / Angles",         "difficulty": 0,   "target_discrimination_band": [4.0, 6.0] },
+    { "question_id": 3, "type": "mcsc", "topic": "Number Theory / Modular",   "difficulty": 1,   "target_discrimination_band": [7.5, 9.0] },
+    { "question_id": 4, "type": "mcsc", "topic": "Probability / Binomial",    "difficulty": 1,   "target_discrimination_band": [7.5, 9.0] }
+  ]
+}

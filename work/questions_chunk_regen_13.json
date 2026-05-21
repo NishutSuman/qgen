@@ -1,0 +1,24 @@
+[
+  {
+    "question_id": 13,
+    "question_type": "mcsc",
+    "content_type": "text",
+    "question_text": "A train travels from Station X to Station Y at a speed of 60 km/h and returns at a speed of 90 km/h. What is the average speed for the entire journey?",
+    "options": {
+      "1": "73 km/h",
+      "2": "72 km/h",
+      "3": "75 km/h",
+      "4": "78 km/h"
+    },
+    "correct_answer": "2",
+    "explanation": "For two equal-distance legs, average speed = 2v₁v₂ / (v₁ + v₂) = 2 × 60 × 90 / (60 + 90) = 10800 / 150 = 72 km/h.\n\nOption 1 (73 km/h): Error — confusing harmonic mean with geometric mean. The geometric mean of 60 and 90 is √(60 × 90) = √5400 ≈ 73.5 km/h, which the student rounds to 73 km/h. The geometric mean is the correct 'middle' for multiplicative relationships (e.g., compound growth), not for averaging speeds over equal distances.\n\nOption 3 (75 km/h): Error — using the arithmetic mean (60 + 90) / 2 = 75 km/h. This would only be correct if both legs were travelled for equal amounts of TIME, not equal distances. Since the train spends more time at the slower speed (60 km/h), the true average is pulled below 75 km/h.\n\nOption 4 (78 km/h): Error — computing the 'speed-squared weighted mean' (v₁² + v₂²) / (v₁ + v₂) = (3600 + 8100) / 150 = 11700 / 150 = 78 km/h. This formula has no physical basis for this scenario; a student arrives at it by misremembering a velocity-addition rule.",
+    "difficulty": 0.5,
+    "t_expert_sec": 20,
+    "t_average_sec": 130,
+    "topic": "arithmetic/time-speed-distance",
+    "verification": {
+      "expr": "avg_speed=2*60*90/(60+90); '1' if avg_speed==73 else ('2' if avg_speed==72 else ('3' if avg_speed==75 else '4'))",
+      "expected": "2"
+    }
+  }
+]

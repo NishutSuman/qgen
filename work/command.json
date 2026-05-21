@@ -1,0 +1,10 @@
+{
+  "count": 50,
+  "difficulty_ratio": {
+    "0": 10,
+    "0.5": 20,
+    "1": 20
+  },
+  "notes": "",
+  "id_start": 1
+}

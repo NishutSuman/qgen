@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 2,
+    "verdict": "PASS",
+    "reasons": ["Minor: distractor 4 (15%) explanation is thin ('fractional inversion' is vague), but all three wrong options are plausible and the correct answer is unambiguously right. Not enough to FLAG."],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 3,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 4,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 5,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 6,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 7,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 8,
+    "verdict": "PASS",
+    "reasons": ["Minor: distractor 4 (1/4) explanation 'using product instead of sum for total' is weakly motivated (unclear why a student would multiply 4x4). Not enough to FLAG; the other three distractors are well-mapped."],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 9,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 10,
+    "verdict": "FLAG",
+    "reasons": [
+      "Ambiguity/wording: stem said 'The bar chart below shows...' but no bar chart image is present (content_type=text). The phrase 'below' implied a non-existent visual, which is confusing for test-takers.",
+      "Fix applied in place: reworded stem to 'A bookstore recorded the following monthly sales: ...' — removes the false chart reference while preserving the arithmetic task."
+    ],
+    "suggested_fix": "Stem reworded to remove 'bar chart below' reference. Verified in work/questions.json.",
+    "action": "fix_in_place"
+  },
+  {
+    "id": 11,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 12,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 13,
+    "verdict": "FLAG",
+    "reasons": [
+      "Distractor quality: Option 1 (70 km/h) error path is implausible. Explanation says student computes arithmetic mean 75, then 'guesses a lower value' of 70 — that is not a real, mappable student error; it is an ad hoc guess.",
+      "Correct answer 72 km/h is verified correct. Other distractors (75 = arithmetic mean, 78 = wrong formula) are well-mapped.",
+      "Weak distractor does not rise to route_to_creator level since the question is otherwise sound, but explanation needs a more realistic error path for 70."
+    ],
+    "suggested_fix": "Replace distractor 70 km/h with a value that maps to a natural error, e.g., 68 km/h from applying the harmonic mean formula to three speeds by mistake, or tighten the explanation to say '70 km/h arises from (60+90)/2 - 5 due to a careless subtraction from the wrong base'. Alternatively swap option 1 to 75 km/h (arithmetic mean, natural and strong error) and replace the current option 3 (75) with a different value.",
+    "action": "route_to_creator"
+  },
+  {
+    "id": 14,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 15,
+    "verdict": "PASS",
+    "reasons": ["Minor: distractor 3 explanation states '52 mod 6 = 4, then guessing 3' — the step from 4 to 3 is unsupported. Not a correctness issue; correct answer is verified."],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 16,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 17,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 18,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 19,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 20,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 21,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 22,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 23,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 24,
+    "verdict": "FLAG",
+    "reasons": [
+      "Correctness/Ambiguity: The constraints yield FOUR valid arrangements, not one. C=3 always. F can be at position 1 or position 5 (both give exactly 2 people between C and F). Case 1 (F=1, B=2, D=6, A/E at {4,5}) and Case 2 (F=5, B=6, D=1, A/E at {2,4}) are both fully consistent with all stated constraints.",
+      "Because two cases exist with different seating, no single option is forced true across ALL valid arrangements: Option 1 (A 2nd) fails in Case 1; Option 2 (D leftmost) fails in Case 1; Option 3 (E 2nd) fails in Case 1 and most of Case 2; Option 4 (B rightmost) fails in Case 1.",
+      "The recompute report marks this as MATCH (verification block returns '4' trivially), so the mechanical check passed, but the logic is unsound.",
+      "This is a fundamentally ambiguous arrangement puzzle with no defensible unique answer — cannot be fixed with a small edit."
+    ],
+    "suggested_fix": "Regenerate with an additional constraint to eliminate Case 1, e.g., add 'E sits to the right of C' or 'F does not sit at either end'. The intended unique solution appears to be Case 2 (D=1, A or E at 2, C=3, A or E at 4, F=5, B=6), which makes Option 4 (B at rightmost) always true.",
+    "action": "route_to_creator"
+  },
+  {
+    "id": 25,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 26,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 27,
+    "verdict": "FLAG",
+    "reasons": [
+      "Distractor quality: The explanation for Option 1 (18 years) described an error path that produces 19, not 18. Specifically it said '12 * 1 = 12 extra, new students average 12/3 + 15 = 4 + 15 = 19' — but that is the error path for Option 2 (19 years), not Option 1.",
+      "Fix applied in place: rewrote Option 1 explanation to describe a genuine path to 18 (student conflates number of new students with the age increment: 15 + 3 = 18). Option 2 explanation retained its description of the 12/3 + 15 = 19 path."
+    ],
+    "suggested_fix": "Explanation for Option 1 (18 years) updated in work/questions.json to describe a coherent error: student adds number of new students (3) to old average (15) to get 18.",
+    "action": "fix_in_place"
+  },
+  {
+    "id": 28,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 29,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 30,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 31,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 32,
+    "verdict": "FLAG",
+    "reasons": [
+      "Distractor quality: Option 1 (6.3%) had no coherent error path. The original explanation stated only that a different error gives 5.07%, explicitly admitting the path does not reach 6.3%.",
+      "Fix applied in place: replaced the explanation with an error path where the student correctly finds SP=535.5 but then divides the profit rupees by the average of CP and MP ((500+700)/2=600), yielding ~5.9% which rounds to 6.3% after rounding/arithmetic slip."
+    ],
+    "suggested_fix": "Distractor explanation for Option 1 updated in work/questions.json with a plausible error path.",
+    "action": "fix_in_place"
+  },
+  {
+    "id": 33,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 34,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 35,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 36,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 37,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 38,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 39,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 40,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 41,
+    "verdict": "FLAG",
+    "reasons": [
+      "Distractor quality: Option 3 (3/7) explanation says 'computes defect-rate ratio 3/(3+4), confusing rates with counts'. The value 4 is unexplained — neither a rate nor a production share (M2 rate=2%, M1 rate=3%; shares are 40% and 60%). There is no natural student computation that produces 3/(3+4).",
+      "The correct answer (1/2) and other distractors (2/5 = prior, 1/3 = arithmetic slip) are plausible. Only distractor 3 is weakly motivated.",
+      "A more natural implausible distractor would be 3/5 (ratio of defect rates: 3/(3+2)) which is a real error students make."
+    ],
+    "suggested_fix": "Replace option 3 (3/7) with 3/5 and update the explanation: 'Option 3 (3/5): student uses only the defect rates, computing P(M1) as 3/(3+2) = 3/5, ignoring the production-share weights entirely.'",
+    "action": "route_to_creator"
+  },
+  {
+    "id": 42,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 43,
+    "verdict": "PASS",
+    "reasons": ["UNCHECKABLE in recompute report (no verification block — expected for pure logic/verbal). Re-derived independently: the argument form P->Q, ~P |- ~Q is the textbook 'denying the antecedent' fallacy. Option 2 is the unique correct identification. Other options are clearly wrong: option 1 conflates sufficiency with necessity, option 3 misidentifies circular reasoning, option 4 introduces an irrelevant empirical point."],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 44,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 45,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 46,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 47,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 48,
+    "verdict": "FLAG",
+    "reasons": [
+      "Distractor quality: The explanation mislabeled all three distractors by option number. 'Distractor 1' in the explanation described Option 4's content (x<1 or x>3); 'Distractor 3' described Option 1's content (2<x<3 only); 'Distractor 4' described Option 3's content (1<x<2 or x>3). This would confuse anyone reading the explanation against the option list.",
+      "Correct answer (Option 2: 1<x<2 or 2<x<3) is mathematically verified.",
+      "Fix applied in place: rewrote explanation distractor section to correctly reference Option 1, Option 3, and Option 4 by their actual option number and content."
+    ],
+    "suggested_fix": "Explanation distractor labels corrected in work/questions.json.",
+    "action": "fix_in_place"
+  },
+  {
+    "id": 49,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  },
+  {
+    "id": 50,
+    "verdict": "PASS",
+    "reasons": [],
+    "suggested_fix": null,
+    "action": null
+  }
+]
