@@ -1,0 +1,408 @@
+{
+  "threshold": 0.8,
+  "bank_total": 0,
+  "checked": 80,
+  "flagged_ids": [],
+  "results": [
+    {
+      "id": 1,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 2,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 3,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 4,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 5,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 6,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 7,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 8,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 9,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 10,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 11,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 12,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 13,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 14,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 15,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 16,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 17,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 18,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 19,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 20,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 21,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 22,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 23,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 24,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 25,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 26,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 27,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 28,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 29,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 30,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 31,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 32,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 33,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 34,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 35,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 36,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 37,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 38,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 39,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 40,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 41,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 42,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 43,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 44,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 45,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 46,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 47,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 48,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 49,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 50,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 51,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 52,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 53,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 54,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 55,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 56,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 57,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 58,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 59,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 60,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 61,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 62,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 63,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 64,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 65,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 66,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 67,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 68,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 69,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 70,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 71,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 72,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 73,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 74,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 75,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 76,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 77,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 78,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 79,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 80,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    }
+  ]
+}

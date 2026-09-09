@@ -1,0 +1,1884 @@
+{
+  "count": 268,
+  "bank_total": 268,
+  "avoid_stems": [
+    "A positive integer 30 is to be written as a sum of one or more positive integers. Over all such ways, what is the maximum possible value of the product of those parts?",
+    "In a group of 200 people, 100 use app A, 90 use app B and 80 use app C. Exactly 40 people use all three apps and exactly 20 people use none of the three. How many people use exactly two of the three apps?",
+    "What is the remainder when 17 raised to the power 256 is divided by 100? (In other words, give the last two digits of 17^256.)",
+    "An arithmetic progression has first term 7 and common difference 4. Find the sum of its first 30 terms.",
+    "Find the sum of all positive integer divisors of 360 (including 1 and 360 themselves).",
+    "What is the sum 1/(1*3) + 1/(3*5) + 1/(5*7) + ... + 1/(19*21)?",
+    "Among 100 employees, 40 use Python, 48 use R, and 45 use SQL. Also 15 use both Python and R, 18 use both R and SQL, 12 use both Python and SQL, and 8 use all three tools. How many employees use exactly one of the three tools?",
+    "Points A(2, 3) and B(8, 5) lie in the coordinate plane. A point P is chosen on the x-axis. What is the least possible value of AP + PB?",
+    "What is the value of the product (log base 2 of 3)(log base 3 of 4)(log base 4 of 5) ... (log base 63 of 64)?",
+    "For x > 0, what is the minimum value of x^2 + 250/x?",
+    "**If a + b + c = 0 and a² + b² + c² = 14, what is the value of a⁴ + b⁴ + c⁴?**",
+    "The sum of the first n terms of an arithmetic progression is given by 3n squared plus 5n. What is the 12th term of this progression?",
+    "What is the remainder when 3 raised to the power 101 is divided by 100?",
+    "A solid metallic sphere of radius 6 cm is melted and recast into small cones, each having base radius 2 cm and height 3 cm. How many such cones can be made?",
+    "A bag contains 5 red balls and 4 blue balls. Two balls are drawn at random without replacement. What is the probability that at least one of them is red?",
+    "In how many ways can the letters of the word PENCIL be arranged so that the two vowels E and I are never together?",
+    "A sum of Rs 8000 is invested at 20% per annum compounded half-yearly for one year. What is the compound interest earned?",
+    "A can finish a piece of work in 8 days and B can finish the same work in 12 days. They work on alternate days with A starting on the first day. In how many days will the work be completed?",
+    "A boat covers 36 km downstream in 2 hours and the same 36 km upstream in 3 hours. What is the speed of the stream?",
+    "A vessel holds 60 litres of a milk and water mixture in which milk and water are in the ratio 5:1. How much water must be added so that the ratio of milk to water becomes 5:2?",
+    "A invests Rs 16000 for 9 months, B invests Rs 24000 for 4 months and C invests Rs 12000 for 10 months in a business. If the total annual profit is Rs 9000, what is B's share?",
+    "A trader marks his goods 60% above cost price and then allows two successive discounts of 25% and 20% on the marked price. What is his overall profit or loss percentage?",
+    "**By how much did the combined total revenue of all four designs change from FY22 to FY23?**",
+    "**Over the three years, what is Slate's average price per box weighted by the number of boxes shipped?**",
+    "**Which design recorded the highest percentage growth in revenue from FY22 to FY24?**",
+    "**What is the total revenue from all four designs in FY24?**",
+    "**Suppose the condition that Vernon is visited before Xavier is dropped, while the other three conditions still hold. How many different visiting orders for the week are then possible?**",
+    "**On which day is Xavier visited?**",
+    "**Which client does the consultant visit on Friday?**",
+    "**What is the combined number of workshops hosted by the centre that opens first and the centre that opens last?**",
+    "**Suppose only these workshop facts are kept: the counts are distinct whole numbers from 3 to 10 summing to 26, Aster hosts the most, Dune the fewest, and Birch hosts more than Cedar. The facts fixing Cedar at 6, making Aster odd and setting Aster two above Birch are dropped. How many different count-assignments to the four centres are then possible?**",
+    "**Which centre opens in the third of the four months?**",
+    "**How many workshops does Dune host?**",
+    "**By how much does Goa's total revenue exceed Kochi's total revenue?**",
+    "**Which city has the lowest overall average price per package (total revenue divided by total packages sold)?**",
+    "**The ratio of total Mountain revenue to total Heritage revenue (across all cities) is closest to which of the following?**",
+    "**What is the total revenue earned from Coastal packages across all four cities?**",
+    "**Suppose the airport swaps the departure slots of the two flights currently in the second and fourth positions, leaving every destination with its own aircraft unchanged. After the swap, the flight to which city departs immediately before the flight to Oslo?**",
+    "**To which city does Delta fly?**",
+    "**Which airline operates the last flight to depart?**",
+    "**What is the combined experience, in years, of the Finance employee and the Legal employee?**",
+    "**Suppose Omar and Priya exchange only their departments, keeping their desks and their years of experience unchanged. Which statement would then become true?**",
+    "**The employee with 10 years of experience works in which department?**",
+    "**Which employee sits at desk 4?**",
+    "A law that everyone quietly ignores can be more corrosive than no law at all. When a rule is kept on the books but never enforced, it does not simply lie dormant; it teaches citizens that the written word and the real world need not match. Each unpunished breach makes the next one easier to excuse, and over time the habit of selective obedience spreads to rules that were meant to bind. The damage lies less in the single ignored statute than in the lesson it spreads about how seriously any law should be taken.\n\n**Which option best summarises the paragraph?**",
+    "We tend to praise the lone inventor, but most breakthroughs are less a single leap than a last step. By the time a discovery is announced, dozens of others have usually reached the same threshold, held back only by a missing tool or an unasked question. The celebrated name is often simply the one who arrived days ahead, or who framed the result in words the age was ready to hear. To credit a single mind, then, is to mistake the visible tip of a long collective effort for the whole of it.\n\n**Which option best summarises the paragraph?**",
+    "Rating systems promise to guide us toward quality, but a high average can mislead as easily as it informs. A product reviewed by only a dozen buyers may score higher than a rival reviewed by thousands, not because it is better but because a small sample swings more wildly. Worse, the people who bother to rate are rarely typical: the delighted and the furious speak up while the merely satisfied stay silent. A score, then, summarises not the product alone but the peculiar crowd that chose to judge it, and reading it wisely means asking who did the rating before trusting what they said.\n\n**Which option best summarises the paragraph?**",
+    "Learning a second language as an adult rarely produces a flawless accent, yet the effort is far from wasted. Even partial fluency reshapes how the learner hears speech, sharpens attention to grammar in the first language, and opens doors to texts and people that were closed before. The goal need not be to pass as a native; the practical and mental gains arrive long before that distant point.\n\n**Which option best summarises the paragraph?**",
+    "A new road built to relieve congestion often ends up just as crowded as before. The extra capacity lowers the effective cost of driving, so people who once avoided the trip, took the train, or travelled at odd hours now join the traffic. Within a few years the freed-up space fills again, and the promised relief quietly disappears even though the road itself was built exactly as planned.\n\n**Which option best summarises the paragraph?**",
+    "Many species that appear wasteful are in fact insuring themselves against bad years. An oak may drop thousands of acorns although only a handful can ever grow into trees, because the surplus swamps the animals that eat them and guarantees that a few seeds survive in almost any season. What looks like extravagance is a hedge: by producing far more than the average conditions require, the tree buys protection against the years when conditions are worst.\n\n**Which option best summarises the paragraph?**",
+    "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Silence in a conversation is often read as a gap, an awkward failure to keep talking.\n2. In many cultures, however, it carries meaning as rich as any spoken reply.\n3. There a considered pause signals respect, telling the other that the question deserved real thought.\n4. To fill that pause too quickly can therefore seem not friendly but careless.\n\n**Select the correct order.**",
+    "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A map must leave things out, for a chart that showed every detail would be useless.\n2. Yet what it leaves out is never neutral, since each omission quietly reflects the mapmaker's priorities.\n3. Such choices, repeated across thousands of maps, shape how a whole society pictures its own territory.\n4. For this reason a map is best read not only as a guide but as an argument about what deserves notice.\n\n**Select the correct order.**",
+    "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Critics once dismissed the invention as a toy with no serious use.\n2. Its defenders replied that the same had been said of the telephone in its first decade.\n3. They pointed out that such judgements track familiarity, not the real limits of a device.\n4. History, they argued, rarely rewards those who mistake a rough prototype for a finished tool.\n\n**Select the correct order.**",
+    "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A public library began, in most towns, as a single donated room lined with second-hand books.\n2. As demand grew, the room acquired a paid keeper who lent volumes and tracked their return.\n3. That keeper slowly became a trained profession, with rules for cataloguing and preserving the collection.\n4. Today those same rules underpin vast digital archives that no single room could ever hold.\n\n**Select the correct order.**",
+    "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Every autumn, millions of songbirds leave the cooling north for warmer southern feeding grounds.\n2. To survive the journey, each bird nearly doubles its body weight by gorging on insects and berries beforehand.\n3. This stored fat becomes the fuel that powers days of almost continuous flight.\n4. Without it, a small migrant could not cross the wide deserts and seas that lie along the route.\n\n**Select the correct order.**",
+    "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A currency holds its value only because the people using it expect others to accept it tomorrow.\n(2) That expectation is a shared belief, sustained by habit and by trust in the issuing authority.\n(3) When the belief weakens, holders rush to spend, and prices climb faster than the notes can be printed.\n(4) A sudden loss of confidence can thus unravel a currency long before any change in the goods it can buy.\n(5) Central banks set interest rates to steer how much borrowing and lending take place across the economy.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A scientific model is deliberately simpler than the reality it represents, keeping only the features that matter for a given question.\n(2) By stripping away detail, it lets researchers reason about a system that would otherwise be too tangled to follow.\n(3) The value of a model therefore lies not in its completeness but in the useful predictions it yields.\n(4) A model that reproduced every detail of the world would be as hard to understand as the world itself.\n(5) A well-designed model can be tested against fresh observations and discarded the moment it fails to predict them.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) When a folk tale passes from one teller to the next, small changes creep in with every retelling.\n(2) A teller may drop a name, sharpen a joke, or shift the setting to a place the listeners know.\n(3) Over generations these tiny edits accumulate into strikingly different versions of one story.\n(4) Scholars can sometimes trace those versions back to a shared ancestor by comparing their fixed motifs.\n(5) Printing presses lowered the price of books so sharply that private libraries became common.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A tidal wetland acts as a natural buffer, absorbing the energy of incoming storm surges before they reach inland settlements.\n(2) Its dense mat of roots binds loose sediment, so the shoreline erodes far more slowly than an unvegetated coast would.\n(3) The same roots filter runoff, trapping pollutants that would otherwise flow straight into open water.\n(4) Because of these functions, planners increasingly treat wetlands as infrastructure rather than as idle land.\n(5) Modern desalination plants can convert seawater into drinking water at a steadily falling cost per litre.\n\n**Which sentence is the odd one out?**",
+    "**The author's stance toward the original pessimistic model is best described as:**",
+    "**The author observes that a well-meaning government can 'produce the tragedy it meant to prevent' mainly in order to:**",
+    "**The passage credits the durable commons arrangements with all of the following features EXCEPT:**",
+    "**Which of the following best states the central argument of the passage?**",
+    "**Which of the following claims about the debate is fully supported by the passage?**",
+    "**The author calls the appeal to intention 'redundant' when evidence agrees and to be overruled when evidence conflicts chiefly in order to:**",
+    "**It can be inferred that the 'more searching objection' differs from the simpler reply that precedes it because it:**",
+    "**The careful proponents of the anti-intention view would agree with all of the following EXCEPT:**",
+    "**The passage is primarily concerned with:**",
+    "In how many distinct arrangements of all eleven letters of the word MISSISSIPPI do no two letters S stand next to each other? Type your answer as an integer.",
+    "The positive integers x and y satisfy x + y = 30. What is the largest possible value of x^2 y? Type your answer as an integer.",
+    "What is the remainder when 3^2024 + 4^2024 is divided by 100? Type your answer as an integer.",
+    "In a colony of 120 households, every household subscribes to at least one of three newspapers A, B and C. Exactly 70 subscribe to A, 60 subscribe to B and 50 subscribe to C, while 12 households subscribe to all three. How many households subscribe to exactly two of the three newspapers? Type your answer as an integer.",
+    "What is the sum of all the odd positive factors of 1800? Type your answer as an integer.",
+    "What is the value of the sum 2/(1*3) + 2/(3*5) + 2/(5*7) + ... + 2/(47*49) ?",
+    "Among 200 students, 120 play cricket, 90 play football and 70 play tennis. Exactly 40 play both cricket and football, 30 play both football and tennis, 35 play both cricket and tennis, and 15 play all three games. How many students play exactly one of the three games?",
+    "In the coordinate plane, A = (0, 2) and B = (12, 3). A point P moves along the x-axis. What is the smallest possible value of PA + PB ?",
+    "The equation (log_3 x)^2 + 3 = log_3 (x^4) holds for exactly two positive values of x. What is the sum of these two values?",
+    "If a and b are positive real numbers with a + b = 10, what is the maximum possible value of a^2 b^3 ?",
+    "A non-zero real number x satisfies x + 1/x = 3. What is the value of x^5 + 1/x^5 ?",
+    "Three positive numbers are in arithmetic progression. Their sum is 27 and the sum of their squares is 293. What is the product of the three numbers?",
+    "Let N be the number whose prime factorisation is 2^5 x 3^4 x 5^2. How many positive divisors of N are perfect squares and are also multiples of 12?",
+    "A solid metal cone of base radius 6 cm and height 24 cm is melted down, and 10% of the metal is lost in the process. The remaining metal is recast into solid spheres of radius 2 cm each. What is the largest number of complete spheres that can be made?",
+    "Bag A contains 4 red and 6 green balls, while bag B contains 7 red and 3 green balls. One of the two bags is chosen at random and two balls are drawn from it together. Both drawn balls turn out to be red. What is the probability that bag A was the bag chosen?",
+    "Four boys and three girls are to be seated in a row of seven chairs. In how many ways can they be seated if no two girls sit next to each other?",
+    "A sum of Rs 16,000 is lent for one year at 10% per annum. By how much does the interest earned when the rate is compounded half-yearly exceed the interest earned when it is compounded annually?",
+    "Anil alone can paint a hall in 20 days and Bimal alone can paint it in 30 days. They begin painting together, but Anil stops working 5 days before the hall is finished, and Bimal completes the remaining part alone. In how many days is the hall painted?",
+    "A motorboat whose speed in still water is 12 km/h goes 45 km downstream along a river and returns to the starting point, taking 8 hours in all. What is the speed of the current?",
+    "A vessel contains 60 litres of a mixture of milk and water in which milk and water are in the ratio 7 : 3. How many litres of water must be added so that the ratio of milk to water in the new mixture becomes 7 : 5?",
+    "Pranav invests Rs 42,000 for 8 months, Qadir invests Rs 56,000 for 5 months and Rohit invests Rs 35,000 for 12 months in a partnership firm. At the end of the year the firm earns a profit of Rs 74,000, shared in proportion to capital multiplied by time. What is Qadir's share?",
+    "A dealer marks the price of a ceiling fan 60% above its cost price and then allows two successive discounts of 20% and 10% on the marked price. What is his profit percentage on this sale?",
+    "**By approximately what percentage did the combined revenue of the three lines change from 2023 to 2024?**",
+    "**In 2023, what was the average price per unit realised across all units shipped, in Rs?**",
+    "**The line with the highest percentage growth in revenue from 2022 to 2024 grew by approximately what percentage?**",
+    "**What was the total revenue of the three lines together in 2024, in Rs lakh?**",
+    "**If Finance is scheduled, which workshops make up the rest of the group?**",
+    "**Which workshop cannot appear in any acceptable group of four?**",
+    "**How many different groups of four workshops can the coordinator schedule?**",
+    "**Suppose the first truck's town received three times, rather than twice, as many crates as the fourth truck's town, every other clue remaining as stated. How many crates would Dhanbad then receive?**",
+    "**If the clue that the third truck's town received exactly 12 crates is withdrawn and all the other clues still hold, how many complete arrangements of dispatch order and crate counts are possible?**",
+    "**Which town's truck left second, and how many crates did that town receive?**",
+    "**How many crates did Chirala receive?**",
+    "**By how many modules does the firm with the largest number of defective modules exceed the firm with the smallest?**",
+    "**Which firm has the lowest defect rate across its entire installed base?**",
+    "**Taking all four firms and all three grades together, defective modules form approximately what percentage of all modules installed?**",
+    "**In grade G3, how many more defective modules did Cygna and Dhruv together have than Arkin and Bhima together?**",
+    "**If the condition that O is somewhere above L is dropped and all the other conditions still hold, how many different stacking orders are possible?**",
+    "**How many crates rest above R?**",
+    "**Which crate is at the bottom of the tower?**",
+    "**Suppose the information that Dune was audited on Friday is replaced by the information that Dune was audited on Thursday, with every other statement unchanged. Which site is then audited on Friday?**",
+    "**Which of the following statements is true?**",
+    "**What is the combined compliance score of the Monday audit and the Friday audit?**",
+    "**Which inspector audited Birch?**",
+    "An archive looks like a residue of the past, but it is a residue of past decisions about what would be worth keeping. Records survive because someone was obliged to file them, and the obligations fell unevenly, heavily on property and litigation and hardly at all on ordinary agreement. Historians who read the surviving mass as a sample of what happened therefore reconstruct a world of disputes and transactions and miss the settled life around them. The remedy is not more documents but a habit of asking, of every silence, whether it records an absence or only an exemption from paperwork.\n\n**Which option best summarises the paragraph?**",
+    "A standard is valuable in proportion to how many people already use it, so its merits and its market share are hard to tell apart. Once adoption passes a threshold, the standard is defended by everything built on top of it, and a technically superior rival must compensate not for a small gap in quality but for the whole accumulated weight of compatibility. Arguments about which standard is better therefore arrive too late to matter, and the winner's supporters read its survival as evidence that the argument was settled on the merits.\n\n**Which option best summarises the paragraph?**",
+    "Forecasts about human affairs are not merely difficult; they are ingredients. A published prediction of shortage produces hoarding, and a published prediction of stability invites the risk-taking that ends it. This does not make forecasting useless, but it changes what accuracy could mean, since a forecast can be judged only against the world it helped to make, and a forecast that is widely ignored may be the only one ever fairly tested. Practitioners who forget this treat their failures as errors of measurement and answer them by refining instruments that were never the problem.\n\n**Which option best summarises the paragraph?**",
+    "Options are usually treated as free, on the view that holding one costs nothing until it is exercised. In practice every open possibility levies a quiet charge: some attention reserved, some commitment withheld, some relationship kept provisional. Because the charge is never invoiced, options accumulate well past the point where their combined upkeep exceeds anything they could deliver. The person who cannot choose is not made richer by the alternatives; the alternatives are consuming the very capacity that choosing would have released.\n\n**Which option best summarises the paragraph?**",
+    "Averaging many independent guesses often beats the best single guess, because errors pointing in opposite directions cancel. The condition doing the work is independence. Once the guessers can hear one another, their errors begin to align, and the average inherits a bias instead of shedding one. Committees that deliberate before voting therefore give up much of the advantage voting was supposed to secure, and the confidence produced by agreement rises just as the accuracy it is taken to signal falls.\n\n**Which option best summarises the paragraph?**",
+    "Infrastructure is noticed chiefly when it fails. A water main, a switching station, a clearing house: each is built to disappear into the routines it supports, and its success is measured by how little thought it demands. The consequence is political rather than technical. Systems nobody thinks about attract neither scrutiny nor investment, and their upkeep competes badly with projects that can be photographed. Failure then arrives as a surprise, and the surprise is used to argue that nobody could have foreseen it.\n\n**Which option best summarises the paragraph?**",
+    "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The reason travels less well than the exception, since the reason was particular and the exception is not.\n(2) What began as mercy is then read as entitlement, and the rule survives only as a memory.\n(3) Administrators who grasp this record their reasons loudly, hoping the record will do the limiting work the rule no longer can.\n(4) Every exception granted for a good reason becomes a fact that later applicants are free to cite.\n\n**Which of the following is the correct order of the sentences?**",
+    "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) A first reading of anything difficult is mostly navigation, since we are still learning where the parts are.\n(2) Readers who skip it are not saving time; they are trading comprehension for the feeling of having finished.\n(3) For this reason a second reading is not a repetition but a different task, undertaken with the map the first reading drew.\n(4) Only once the shape is known can attention be spent on the joints, which is where arguments usually fail.\n\n**Which of the following is the correct order of the sentences?**",
+    "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The only reliable lever, then, is conduct that gives those custodians something else to carry.\n(2) Its custodians are third parties, who pass it on for reasons of their own and revise it without notice.\n(3) Reputation is information about us that we do not own and cannot directly edit.\n(4) This dependence explains why attempts at correction so often deepen the damage, for a correction is itself testimony and it travels.\n\n**Which of the following is the correct order of the sentences?**",
+    "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) Once the date is fixed, the remaining hours acquire a rank, and the work is fitted to those that are left.\n(2) This is why arbitrary dates can serve as well as reasoned ones, provided they are actually believed.\n(3) A deadline works less by adding motivation than by removing alternatives.\n(4) Until a date is fixed, every hour is a candidate for the task and no hour is obliged to be.\n\n**Which of the following is the correct order of the sentences?**",
+    "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) That demand is what makes boredom productive, since it pushes the mind to supply what the surroundings withhold.\n(2) Boredom is usually described as an absence, the gap left when nothing outside us claims our attention.\n(3) But the state has a content of its own, a restless demand that the world become more interesting than it is.\n(4) Children left with nothing to do therefore stay idle only briefly, building a game out of whatever lies nearest.\n\n**Which of the following is the correct order of the sentences?**",
+    "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) No translator can carry every feature of a sentence across, so the work consists largely in deciding what to give up.\n(2) Readers tend to praise the translations that read most smoothly and to distrust those that preserve the strangeness of the original.\n(3) A pun that depends on sound may be replaced by one that depends on sense, on the ground that the joke matters more than its mechanism.\n(4) Rhythm surrendered in one line is sometimes repaid in another, the debt being settled across the page rather than within it.\n(5) Every such compensation is an argument about which layer of the original counts as the text itself.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) A quantity chosen to stand for a goal starts to be pursued for its own sake as soon as rewards are attached to it.\n(2) Staff learn quickly which parts of their work are counted, and effort drains away from everything that is not.\n(3) The published figures then improve while the purpose they were meant to serve quietly deteriorates.\n(4) Organisations often adopt measurement schemes less to inform their own decisions than to demonstrate propriety to outside audiences.\n(5) Auditors, reading only the figures, record success and recommend that the scheme be extended to further departments.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Experts seldom deliberate over the moves that most impress onlookers; they recognise a familiar pattern and act before reasons are available to them.\n(2) Such fluency is bought by long exposure to situations that return prompt and unambiguous feedback.\n(3) Where the feedback is delayed or noisy, however, long experience yields confidence without yielding accuracy.\n(4) Novices, by contrast, report that they enjoy the earliest stages of learning a craft far more than the later ones.\n(5) Intuition therefore deserves trust only after one has asked what the environment has actually been teaching.\n\n**Which sentence is the odd one out?**",
+    "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Every map begins with an act of omission, since a representation that kept all the detail of a place would be as unusable as the place itself.\n(2) The cartographer must therefore decide in advance which features a reader will need and which can be silently discarded.\n(3) Recent surveys report that most commuters now consult digital route planners rather than printed atlases.\n(4) Those early decisions harden over time into conventions, and later users mistake the conventions for properties of the world.\n(5) What looks like a neutral record of terrain is thus the residue of a long series of judgements about relevance.\n\n**Which sentence is the odd one out?**",
+    "**The author would agree with all of the following EXCEPT:**",
+    "**On the author's account, a transplanted consumer protection rule would be expected to become operative more slowly than a transplanted secured-lending rule mainly because:**",
+    "**The author's principal objection to the cultural explanation is that it:**",
+    "**Which of the following comes closest to the claim the passage is defending?**",
+    "**Which of the following, if true, would most weaken the author's corollary for institutional design?**",
+    "**It can be inferred that the author regards the erosion of a measure's validity as:**",
+    "**The author would agree with all of the following EXCEPT:**",
+    "**The reference to loan officers working on intuition serves mainly to:**",
+    "**The passage is primarily concerned with establishing which of the following?**",
+    "What is the smallest positive integer that leaves a remainder of 3 when divided by 5, a remainder of 4 when divided by 6, and a remainder of 5 when divided by 7? Type your answer as an integer.",
+    "A train 180 m long crosses a platform 240 m long in 21 seconds. What is the speed of the train in km/h? Type your answer as an integer.",
+    "How many four-digit numbers can be formed using the digits 0, 1, 2, 3 and 4 if no digit is repeated in a number? Type your answer as an integer.",
+    "The population of a town is 12500. During the first year it rises by 20%, and during the second year it falls by 10%. What is the population at the end of the second year? Type your answer as an integer.",
+    "What is the sum of all even numbers from 2 to 40, both included? Type your answer as an integer.",
+    "In a geometric progression the first term is 5 and the common ratio is 3. What is the fourth term? Type your answer as an integer.",
+    "In an arithmetic progression the sum of the first 15 terms is 600 and the 5th term is 22. What is the 20th term of this progression?",
+    "Working in pairs, A and B finish a job in 12 days, B and C finish the same job in 15 days, and A and C finish it in 20 days. Working all three together, in how many days will they finish the job?",
+    "What is the smallest positive integer that leaves a remainder of 3 when divided by each of 6, 7 and 8, and is also exactly divisible by 11?",
+    "A closed solid cylinder has a base radius of 7 cm and a height of 10 cm. Taking pi = 22/7, what is its total surface area?",
+    "A committee of 3 members is to be chosen from 5 men and 4 women. In how many ways can this be done if the committee must include at least one woman?",
+    "A box holds 5 red marbles and 3 green marbles. One marble is drawn at random, its colour is noted, and it is put back before a second marble is drawn. What is the probability that the two marbles drawn have the same colour?",
+    "A laboratory has 40 litres of a solution in which acid forms 15% of the volume. How many litres of pure water must be added so that acid forms exactly 10% of the resulting solution?",
+    "Tap A alone can fill an empty tank in 15 minutes, while an outlet pipe B alone can empty a full tank in 20 minutes. If both are opened together when the tank is empty, how long will the tank take to fill completely?",
+    "A sum of 12000 euros is lent for 2 years at 10% per annum. By how many euros does the compound interest, compounded annually, exceed the simple interest for the same period?",
+    "A water tank is 3/5 full. After 24 litres are drawn out, the tank is 1/3 full. What is the full capacity of the tank, in litres?",
+    "A cyclist rides from a village to a market 30 km away at 15 km/h and returns along the same road at 10 km/h. What is the average speed for the whole trip?",
+    "A sum of 12000 euros is lent at 8% per annum simple interest. What total amount, in euros, is repaid at the end of 2 years and 6 months?",
+    "Two bells ring at intervals of 15 seconds and 18 seconds. If they ring together once, after how many seconds will they next ring together?",
+    "A circular flower bed has a diameter of 14 metres. What is the length of the fence needed to enclose it exactly once? (take pi = 22/7)",
+    "Six readings taken during an experiment add up to 261. What is the average of the six readings?",
+    "A sum of 3300 euros is divided between Anna and Bruno in the ratio 4 : 7. How many euros does Bruno receive?",
+    "A trader buys a chair for 250 euros and sells it at a profit of 15% on the cost price. What is the selling price, in euros?",
+    "A school has 640 students, and 35% of them travel to school by bus. How many students travel by bus?",
+    "**By how many thousand units did the three-model total in 2023 exceed the three-model total in 2021?**",
+    "**What were the average annual sales of Kestrel, in thousands, over the three years?**",
+    "**What is the ratio of total Orion sales over the three years to total Nimbus sales over the three years?**",
+    "**By what percentage did Kestrel sales grow from 2021 to 2023?**",
+    "**How many thousand bicycles were sold in total across the three models in 2022?**",
+    "**Suppose Ines and Karim exchange shift days, every duty staying with the same person. Who then works on the day immediately before the inventory shift?**",
+    "**Which volunteer and duty are correctly paired?**",
+    "**Which volunteer works on Monday?**",
+    "**In how many of the nine depot and category combinations did revenue exceed 20,000 euros?**",
+    "**What was the combined revenue from cocoa across the three depots, in euros?**",
+    "**Which depot and category together generated the highest revenue?**",
+    "**How many hundreds of packs were sold in total at the Ferrara depot?**",
+    "**By how many points does the highest total exceed the lowest total?**",
+    "**Who earned the most points?**",
+    "**How many points did Carla earn?**",
+    "**Which of the following statements is true?**",
+    "**In which position did Lena finish?**",
+    "**Which runner finished third?**",
+    "Cities that switch to bright white LED streetlights cut their electricity bills at once. Insects, however, are drawn to that part of the spectrum far more strongly than to the old orange lamps, and the moths gathering under the new lights are eaten or exhausted well before dawn.\n\n**Which option best summarises the paragraph?**",
+    "A translator of poetry cannot keep everything. Sound, rhythm and literal sense pull in different directions, and holding on to one of them usually means loosening the grip on another. Every finished translation is therefore a record of the choices its translator was willing to make.\n\n**Which option best summarises the paragraph?**",
+    "Where beavers return to a river they build dams, and parts of the valley flood. Farmers lose the use of some low-lying fields, but the new ponds slow floodwater heading downstream and hold water through dry spells, so the towns below gain what the fields lose.\n\n**Which option best summarises the paragraph?**",
+    "Delivery apps bring a restaurant orders it would never otherwise have received. They also take a share of every bill, and customers who once walked in now stay at home, so a busy kitchen can finish the month having sold more meals and kept less money.\n\n**Which option best summarises the paragraph?**",
+    "Open-plan offices were introduced partly to encourage conversation between colleagues. In practice many workers find the constant background noise distracting and put on headphones in order to concentrate, which cuts off the very exchanges the layout was meant to create.\n\n**Which option best summarises the paragraph?**",
+    "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Grams simply remove the guesswork that volume measures quietly introduce.\n(2) Bakers who want repeatable results therefore reach for a kitchen scale instead.\n(3) Recipes in many countries still ask the cook to measure flour by the cupful.\n(4) The same cup, though, holds different weights depending on how tightly it is packed.\n\n**Select the correct order.**",
+    "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Rising concern about the emissions of air travel then changed that calculation.\n(2) Cheap flights had made the sleeper look slow and expensive by comparison.\n(3) Several operators have since restored night routes between major European cities.\n(4) Night trains had almost disappeared from Europe by the early years of this century.\n\n**Select the correct order.**",
+    "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) After about a week it is lively enough to raise a loaf without any added yeast.\n(2) A sourdough starter is nothing more than flour and water left to attract wild yeasts.\n(3) Bakers who keep feeding it can go on using the same starter for decades.\n(4) Once bubbles appear, the mixture is fed every day with a little fresh flour.\n\n**Select the correct order.**",
+    "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Riders who still feel unsafe on the road go on avoiding it for months afterwards.\n(2) Planners therefore judge such projects over a span of years rather than weeks.\n(3) When a city paints a cycle lane along a busy road, the effect is rarely immediate.\n(4) Only as the numbers slowly build does the lane start to feel ordinary and safe.\n\n**Select the correct order.**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Trees planted along city streets do far more than soften the look of concrete.\n(2) Their canopies shade the pavement and bring summer temperatures down noticeably.\n(3) Their roots take up rainwater that would otherwise overwhelm drains during a storm.\n(4) Their leaves also trap much of the dust that passing traffic throws into the air.\n(5) Architects still disagree about whether glass facades suit historic city centres.\n\n**Which sentence is the odd one out?**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Before railways, every town kept its own clock, set roughly by the position of the sun.\n(2) Athletes often train at altitude in the hope of raising the oxygen capacity of their blood.\n(3) Timetables grew confusing once a train could cross many such local times in one day.\n(4) Railway companies therefore imposed a single standard time along the whole of their lines.\n(5) Governments later turned these private arrangements into the time zones still used today.\n\n**Which sentence is the odd one out?**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Many plants depend on animals to carry their seeds well away from the parent tree.\n(2) Fleshy fruits attract birds and mammals, which eat the pulp and drop the seeds elsewhere.\n(3) Other seeds carry small hooks that catch on fur and are brushed off much later.\n(4) Wind speed over open grassland is recorded by instruments mounted on tall poles.\n(5) Such journeys reduce the competition between a seedling and the plant that produced it.\n\n**Which sentence is the odd one out?**",
+    "**The tone of the final paragraph is best described as:**",
+    "**It can be inferred that painted cycle lanes attract fewer new riders because:**",
+    "**The passage mentions all of the following as limits on cycling EXCEPT:**",
+    "**Which of the following best expresses the main idea of the passage?**",
+    "**The comparison with water flowing down a gradient serves mainly to:**",
+    "**It can be inferred that the author regards the carbon-tracing experiments as:**",
+    "**According to the passage, the fungal threads do all of the following EXCEPT:**",
+    "**Which of the following best states the main argument of the passage?**",
+    "**The author calls local time 'perfectly accurate' in order to:**",
+    "**It can be inferred from the passage that a town's church clock lost its authority mainly because:**",
+    "**The passage attributes all of the following to the arrival of railways EXCEPT:**",
+    "**Which of the following best captures the central point of the passage?**",
+    "A vessel contains 64 litres of pure wine. 16 litres are drawn out and replaced with water; this operation (drawing 16 litres of the mixture and replacing it with water) is performed two more times, for a total of three times. How many litres of pure wine remain in the vessel? Type your answer as an integer.",
+    "In an arithmetic progression the first term is 7 and the common difference is 5. What is the value of the 12th term? Type your answer as an integer.",
+    "In a class, 30 students study French and 25 study German. Exactly 10 students study both languages. How many students study exactly one of the two languages? Type your answer as an integer.",
+    "Using the digits 1, 2, 3, 4 and 5 without repetition, how many three-digit numbers divisible by 5 can be formed? Type your answer as an integer.",
+    "An item is priced at 80 euros. Its price is first increased by 25%, then the new price is decreased by 20%. What is the final price, in euros? Type your answer as an integer.",
+    "Evaluate the expression (2^5 × 2^3) ÷ 2^4. Type your answer as an integer.",
+    "A rectangular garden is 40 m long and 30 m wide. A path of uniform width 2 m runs all around it on the inside. What is the area of the path?",
+    "Vessel A holds 40 litres of a mixture with milk and water in the ratio 3 : 1, and vessel B holds 20 litres in the ratio 1 : 1. If both are poured into one vessel, what is the ratio of milk to water in the new mixture?",
+    "Two trains start at the same time from stations A and B, 330 km apart, moving towards each other at 60 km/h and 50 km/h. How far from A do they meet?",
+    "The third term of an arithmetic progression is 11 and the seventh term is 27. What is the first term?",
+    "In a group of 50 people, 30 like tea and 25 like coffee. If 10 like neither, how many like both tea and coffee?",
+    "How many distinct arrangements can be made using all the letters of the word LEVEL?",
+    "A bag contains 4 red and 6 blue balls. Two balls are drawn at random without replacement. What is the probability that both are red?",
+    "The HCF of two numbers is 6 and their LCM is 180. If one number is 36, what is the other number?",
+    "When a positive integer n is divided by 7 the remainder is 4. What is the remainder when 3n is divided by 7?",
+    "Pipe A fills a tank in 12 hours and pipe B fills it in 6 hours. If both pipes are opened together, how long do they take to fill the tank?",
+    "A sum of 8000 euros is invested at 10% per annum compound interest. What is the amount after 2 years?",
+    "An article marked at 500 euros is sold after a 20% discount, and the seller still makes a 25% profit on cost. What was the cost price?",
+    "A car travels 150 km in 3 hours. What is its average speed?",
+    "Solve for x: 3x + 7 = 22.",
+    "A circle has radius 7 cm. What is its area? (use pi = 22/7)",
+    "What is the average of the five numbers 4, 8, 10, 12 and 16?",
+    "The ratio of boys to girls in a class is 3 : 5. If there are 20 girls, how many boys are there?",
+    "A shopkeeper buys an article for 80 euros and sells it for 100 euros. What is the profit percentage?",
+    "**What was the total production cost (in rupees) of all four products in Q1?**",
+    "**What is the largest single value of units produced by any one product in any one quarter?**",
+    "**What was the average quarterly production of Cement over the three quarters?**",
+    "**By what percentage did Steel production increase from Q1 to Q3?**",
+    "**What was the total number of Steel units produced across the three quarters?**",
+    "**After the year's returns are added to the amounts invested, which investor ends with the largest total amount of money?**",
+    "**What was the combined amount invested by Priya and Sara together?**",
+    "**How much did Rohan invest?**",
+    "**In how many of the four stores did the total number of packets sold (all products combined) exceed 350?**",
+    "**What was the combined revenue (in rupees) from Tea across all four stores?**",
+    "**What was the total sales revenue (in rupees) earned by store Cera from all three products?**",
+    "**How many packets in total did store Bani sell across all three products during the month?**",
+    "**What was the combined total score of all three friends?**",
+    "**How many questions did Nina answer correctly?**",
+    "**How many points did Mira score?**",
+    "**Which statement about the final points table is correct?**",
+    "**How many of the 6 matches ended with a winner (that is, did NOT end in a tie)?**",
+    "**How many points did Comet earn in the tournament?**",
+    "When a new word enters a language, it rarely arrives by official decree. Instead, speakers begin using it, others copy them, and dictionaries record the word only after it has already taken hold. Language, in other words, is shaped from the bottom up by ordinary use rather than handed down by authorities.\n\n**Which of the following best summarises the paragraph?**",
+    "Volunteering is often described as pure generosity, but studies suggest the giver gains too. People who regularly help others report lower stress, a stronger sense of purpose, and wider social networks. In this sense, the act of giving time quietly returns a benefit to the volunteer.\n\n**Which of the following best summarises the paragraph?**",
+    "Electric cars produce no exhaust as they drive, which clearly improves air quality in cities. Yet whether they are truly cleaner depends on how their electricity is generated. Where power comes mostly from coal, the overall emissions can rival those of petrol cars; where it comes from renewables, the advantage is large.\n\n**Which of the following best summarises the paragraph?**",
+    "Sleep researchers have found that pulling an all-nighter before an exam usually backfires. While extra waking hours seem to allow more study, the tired brain struggles to store new information, and fatigue slows recall the next day. Students who sleep a full night generally remember more, even though they spent fewer hours reviewing.\n\n**Which of the following best summarises the paragraph?**",
+    "Public libraries today do far more than lend books. Many now offer free internet access, run job-search workshops, host story hours for children, and lend tools or musical instruments. For people without these resources at home, the library has become a community centre as much as a place to read.\n\n**Which of the following best summarises the paragraph?**",
+    "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. At first the seedlings were too fragile to survive outdoors.\n2. The gardeners started the tomato plants indoors during early spring.\n3. So they kept the young plants under warm lamps for several weeks.\n4. Only when the stems had thickened did the gardeners move them into the open beds.\n\n**Select the correct sequence of sentences.**",
+    "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. She began by sketching rough thumbnails to test different compositions.\n2. Maria had been asked to design the cover for the school magazine.\n3. Once a layout felt right, she refined it into a detailed digital drawing.\n4. Finally, she added colour and sent the finished file to the printer.\n\n**Select the correct sequence of sentences.**",
+    "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. Over time, this trapped heat raises the planet's average surface temperature.\n2. Certain gases in the atmosphere allow sunlight to pass through but absorb the heat that the ground radiates back.\n3. This natural process is what scientists call the greenhouse effect.\n4. When the concentration of these gases rises, more heat is retained than before.\n\n**Select the correct sequence of sentences.**",
+    "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. The result was a network of stone roads stretching across the whole empire.\n2. Ancient Rome needed a fast way to move its armies between distant provinces.\n3. To meet this need, engineers laid down durable paved routes wherever the legions marched.\n4. Centuries later, many of these same roads still guide the paths of modern highways.\n\n**Select the correct sequence of sentences.**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Honeybees communicate the location of food through a movement known as the waggle dance.\n(2) Beekeepers harvest surplus honey by carefully removing frames from the hive.\n(3) A returning forager runs in a figure-eight pattern on the vertical comb.\n(4) The angle of the run relative to gravity encodes the direction of the food source.\n(5) The duration of the waggle phase signals how far away the food lies.\n\n**Which sentence is the odd one out?**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) The printing press, introduced in fifteenth-century Europe, dramatically lowered the cost of reproducing texts.\n(2) Books that had once taken months to copy by hand could now be produced in days.\n(3) As prices fell, reading spread beyond monasteries and universities to ordinary townspeople.\n(4) This wider circulation of ideas helped fuel movements in science and religion.\n(5) Modern libraries increasingly lend electronic books that readers download to personal devices.\n\n**Which sentence is the odd one out?**",
+    "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Coral reefs occupy less than one percent of the ocean floor, yet they shelter roughly a quarter of all marine species.\n(2) The dense limestone structures act as nurseries where countless fish spawn and mature.\n(3) They also buffer nearby coastlines by absorbing much of the energy carried by incoming waves.\n(4) Many tropical resorts now offer guided diving tours that bring tourists close to these formations.\n(5) Because of this ecological richness, the loss of a single reef can ripple through an entire marine food web.\n\n**Which sentence is the odd one out?**",
+    "**What is the main function of the saying 'all models are wrong, but some are useful' in the passage?**",
+    "**It can be inferred that the author would most likely judge a scientific model by asking:**",
+    "**Why does the author say that a perfectly complete map would be useless?**",
+    "**Which of the following best captures the main idea of the passage?**",
+    "**It can be inferred from the passage that the author regards the documentation of replication failures as:**",
+    "**What is the main purpose of registering hypotheses and planned analyses before collecting data, as described in the passage?**",
+    "**The author identifies all of the following as factors contributing to replication failures EXCEPT:**",
+    "**Which of the following best states the central argument of the passage?**",
+    "**It can be inferred that the author would most likely agree with which of the following statements?**",
+    "**Why does the author contrast light pollution with carbon dioxide?**",
+    "**According to the passage, the author makes all of the following claims EXCEPT:**",
+    "**Which of the following best expresses the main idea of the passage?**"
+  ],
+  "entries": [
+    {
+      "question_text": "A positive integer 30 is to be written as a sum of one or more positive integers. Over all such ways, what is the maximum possible value of the product of those parts?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "In a group of 200 people, 100 use app A, 90 use app B and 80 use app C. Exactly 40 people use all three apps and exactly 20 people use none of the three. How many people use exactly two of the three apps?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "What is the remainder when 17 raised to the power 256 is divided by 100? (In other words, give the last two digits of 17^256.)",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "An arithmetic progression has first term 7 and common difference 4. Find the sum of its first 30 terms.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Find the sum of all positive integer divisors of 360 (including 1 and 360 themselves).",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "What is the sum 1/(1*3) + 1/(3*5) + 1/(5*7) + ... + 1/(19*21)?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Among 100 employees, 40 use Python, 48 use R, and 45 use SQL. Also 15 use both Python and R, 18 use both R and SQL, 12 use both Python and SQL, and 8 use all three tools. How many employees use exactly one of the three tools?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Points A(2, 3) and B(8, 5) lie in the coordinate plane. A point P is chosen on the x-axis. What is the least possible value of AP + PB?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "What is the value of the product (log base 2 of 3)(log base 3 of 4)(log base 4 of 5) ... (log base 63 of 64)?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "For x > 0, what is the minimum value of x^2 + 250/x?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**If a + b + c = 0 and a² + b² + c² = 14, what is the value of a⁴ + b⁴ + c⁴?**",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The sum of the first n terms of an arithmetic progression is given by 3n squared plus 5n. What is the 12th term of this progression?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "What is the remainder when 3 raised to the power 101 is divided by 100?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A solid metallic sphere of radius 6 cm is melted and recast into small cones, each having base radius 2 cm and height 3 cm. How many such cones can be made?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A bag contains 5 red balls and 4 blue balls. Two balls are drawn at random without replacement. What is the probability that at least one of them is red?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "In how many ways can the letters of the word PENCIL be arranged so that the two vowels E and I are never together?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A sum of Rs 8000 is invested at 20% per annum compounded half-yearly for one year. What is the compound interest earned?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A can finish a piece of work in 8 days and B can finish the same work in 12 days. They work on alternate days with A starting on the first day. In how many days will the work be completed?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A boat covers 36 km downstream in 2 hours and the same 36 km upstream in 3 hours. What is the speed of the stream?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A vessel holds 60 litres of a milk and water mixture in which milk and water are in the ratio 5:1. How much water must be added so that the ratio of milk to water becomes 5:2?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A invests Rs 16000 for 9 months, B invests Rs 24000 for 4 months and C invests Rs 12000 for 10 months in a business. If the total annual profit is Rs 9000, what is B's share?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A trader marks his goods 60% above cost price and then allows two successive discounts of 25% and 20% on the marked price. What is his overall profit or loss percentage?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**By how much did the combined total revenue of all four designs change from FY22 to FY23?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Over the three years, what is Slate's average price per box weighted by the number of boxes shipped?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which design recorded the highest percentage growth in revenue from FY22 to FY24?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**What is the total revenue from all four designs in FY24?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Suppose the condition that Vernon is visited before Xavier is dropped, while the other three conditions still hold. How many different visiting orders for the week are then possible?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**On which day is Xavier visited?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which client does the consultant visit on Friday?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**What is the combined number of workshops hosted by the centre that opens first and the centre that opens last?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Suppose only these workshop facts are kept: the counts are distinct whole numbers from 3 to 10 summing to 26, Aster hosts the most, Dune the fewest, and Birch hosts more than Cedar. The facts fixing Cedar at 6, making Aster odd and setting Aster two above Birch are dropped. How many different count-assignments to the four centres are then possible?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which centre opens in the third of the four months?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**How many workshops does Dune host?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**By how much does Goa's total revenue exceed Kochi's total revenue?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which city has the lowest overall average price per package (total revenue divided by total packages sold)?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The ratio of total Mountain revenue to total Heritage revenue (across all cities) is closest to which of the following?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**What is the total revenue earned from Coastal packages across all four cities?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Suppose the airport swaps the departure slots of the two flights currently in the second and fourth positions, leaving every destination with its own aircraft unchanged. After the swap, the flight to which city departs immediately before the flight to Oslo?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**To which city does Delta fly?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which airline operates the last flight to depart?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**What is the combined experience, in years, of the Finance employee and the Legal employee?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Suppose Omar and Priya exchange only their departments, keeping their desks and their years of experience unchanged. Which statement would then become true?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The employee with 10 years of experience works in which department?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which employee sits at desk 4?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A law that everyone quietly ignores can be more corrosive than no law at all. When a rule is kept on the books but never enforced, it does not simply lie dormant; it teaches citizens that the written word and the real world need not match. Each unpunished breach makes the next one easier to excuse, and over time the habit of selective obedience spreads to rules that were meant to bind. The damage lies less in the single ignored statute than in the lesson it spreads about how seriously any law should be taken.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "We tend to praise the lone inventor, but most breakthroughs are less a single leap than a last step. By the time a discovery is announced, dozens of others have usually reached the same threshold, held back only by a missing tool or an unasked question. The celebrated name is often simply the one who arrived days ahead, or who framed the result in words the age was ready to hear. To credit a single mind, then, is to mistake the visible tip of a long collective effort for the whole of it.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Rating systems promise to guide us toward quality, but a high average can mislead as easily as it informs. A product reviewed by only a dozen buyers may score higher than a rival reviewed by thousands, not because it is better but because a small sample swings more wildly. Worse, the people who bother to rate are rarely typical: the delighted and the furious speak up while the merely satisfied stay silent. A score, then, summarises not the product alone but the peculiar crowd that chose to judge it, and reading it wisely means asking who did the rating before trusting what they said.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Learning a second language as an adult rarely produces a flawless accent, yet the effort is far from wasted. Even partial fluency reshapes how the learner hears speech, sharpens attention to grammar in the first language, and opens doors to texts and people that were closed before. The goal need not be to pass as a native; the practical and mental gains arrive long before that distant point.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "A new road built to relieve congestion often ends up just as crowded as before. The extra capacity lowers the effective cost of driving, so people who once avoided the trip, took the train, or travelled at odd hours now join the traffic. Within a few years the freed-up space fills again, and the promised relief quietly disappears even though the road itself was built exactly as planned.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Many species that appear wasteful are in fact insuring themselves against bad years. An oak may drop thousands of acorns although only a handful can ever grow into trees, because the surplus swamps the animals that eat them and guarantees that a few seeds survive in almost any season. What looks like extravagance is a hedge: by producing far more than the average conditions require, the tree buys protection against the years when conditions are worst.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Silence in a conversation is often read as a gap, an awkward failure to keep talking.\n2. In many cultures, however, it carries meaning as rich as any spoken reply.\n3. There a considered pause signals respect, telling the other that the question deserved real thought.\n4. To fill that pause too quickly can therefore seem not friendly but careless.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A map must leave things out, for a chart that showed every detail would be useless.\n2. Yet what it leaves out is never neutral, since each omission quietly reflects the mapmaker's priorities.\n3. Such choices, repeated across thousands of maps, shape how a whole society pictures its own territory.\n4. For this reason a map is best read not only as a guide but as an argument about what deserves notice.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Critics once dismissed the invention as a toy with no serious use.\n2. Its defenders replied that the same had been said of the telephone in its first decade.\n3. They pointed out that such judgements track familiarity, not the real limits of a device.\n4. History, they argued, rarely rewards those who mistake a rough prototype for a finished tool.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A public library began, in most towns, as a single donated room lined with second-hand books.\n2. As demand grew, the room acquired a paid keeper who lent volumes and tracked their return.\n3. That keeper slowly became a trained profession, with rules for cataloguing and preserving the collection.\n4. Today those same rules underpin vast digital archives that no single room could ever hold.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Every autumn, millions of songbirds leave the cooling north for warmer southern feeding grounds.\n2. To survive the journey, each bird nearly doubles its body weight by gorging on insects and berries beforehand.\n3. This stored fat becomes the fuel that powers days of almost continuous flight.\n4. Without it, a small migrant could not cross the wide deserts and seas that lie along the route.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A currency holds its value only because the people using it expect others to accept it tomorrow.\n(2) That expectation is a shared belief, sustained by habit and by trust in the issuing authority.\n(3) When the belief weakens, holders rush to spend, and prices climb faster than the notes can be printed.\n(4) A sudden loss of confidence can thus unravel a currency long before any change in the goods it can buy.\n(5) Central banks set interest rates to steer how much borrowing and lending take place across the economy.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A scientific model is deliberately simpler than the reality it represents, keeping only the features that matter for a given question.\n(2) By stripping away detail, it lets researchers reason about a system that would otherwise be too tangled to follow.\n(3) The value of a model therefore lies not in its completeness but in the useful predictions it yields.\n(4) A model that reproduced every detail of the world would be as hard to understand as the world itself.\n(5) A well-designed model can be tested against fresh observations and discarded the moment it fails to predict them.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) When a folk tale passes from one teller to the next, small changes creep in with every retelling.\n(2) A teller may drop a name, sharpen a joke, or shift the setting to a place the listeners know.\n(3) Over generations these tiny edits accumulate into strikingly different versions of one story.\n(4) Scholars can sometimes trace those versions back to a shared ancestor by comparing their fixed motifs.\n(5) Printing presses lowered the price of books so sharply that private libraries became common.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A tidal wetland acts as a natural buffer, absorbing the energy of incoming storm surges before they reach inland settlements.\n(2) Its dense mat of roots binds loose sediment, so the shoreline erodes far more slowly than an unvegetated coast would.\n(3) The same roots filter runoff, trapping pollutants that would otherwise flow straight into open water.\n(4) Because of these functions, planners increasingly treat wetlands as infrastructure rather than as idle land.\n(5) Modern desalination plants can convert seawater into drinking water at a steadily falling cost per litre.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The author's stance toward the original pessimistic model is best described as:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The author observes that a well-meaning government can 'produce the tragedy it meant to prevent' mainly in order to:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The passage credits the durable commons arrangements with all of the following features EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which of the following best states the central argument of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**Which of the following claims about the debate is fully supported by the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The author calls the appeal to intention 'redundant' when evidence agrees and to be overruled when evidence conflicts chiefly in order to:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**It can be inferred that the 'more searching objection' differs from the simpler reply that precedes it because it:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The careful proponents of the anti-intention view would agree with all of the following EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "**The passage is primarily concerned with:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-31"
+    },
+    {
+      "question_text": "In how many distinct arrangements of all eleven letters of the word MISSISSIPPI do no two letters S stand next to each other? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The positive integers x and y satisfy x + y = 30. What is the largest possible value of x^2 y? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the remainder when 3^2024 + 4^2024 is divided by 100? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "In a colony of 120 households, every household subscribes to at least one of three newspapers A, B and C. Exactly 70 subscribe to A, 60 subscribe to B and 50 subscribe to C, while 12 households subscribe to all three. How many households subscribe to exactly two of the three newspapers? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the sum of all the odd positive factors of 1800? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the value of the sum 2/(1*3) + 2/(3*5) + 2/(5*7) + ... + 2/(47*49) ?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Among 200 students, 120 play cricket, 90 play football and 70 play tennis. Exactly 40 play both cricket and football, 30 play both football and tennis, 35 play both cricket and tennis, and 15 play all three games. How many students play exactly one of the three games?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "In the coordinate plane, A = (0, 2) and B = (12, 3). A point P moves along the x-axis. What is the smallest possible value of PA + PB ?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The equation (log_3 x)^2 + 3 = log_3 (x^4) holds for exactly two positive values of x. What is the sum of these two values?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "If a and b are positive real numbers with a + b = 10, what is the maximum possible value of a^2 b^3 ?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A non-zero real number x satisfies x + 1/x = 3. What is the value of x^5 + 1/x^5 ?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Three positive numbers are in arithmetic progression. Their sum is 27 and the sum of their squares is 293. What is the product of the three numbers?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Let N be the number whose prime factorisation is 2^5 x 3^4 x 5^2. How many positive divisors of N are perfect squares and are also multiples of 12?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A solid metal cone of base radius 6 cm and height 24 cm is melted down, and 10% of the metal is lost in the process. The remaining metal is recast into solid spheres of radius 2 cm each. What is the largest number of complete spheres that can be made?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Bag A contains 4 red and 6 green balls, while bag B contains 7 red and 3 green balls. One of the two bags is chosen at random and two balls are drawn from it together. Both drawn balls turn out to be red. What is the probability that bag A was the bag chosen?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Four boys and three girls are to be seated in a row of seven chairs. In how many ways can they be seated if no two girls sit next to each other?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A sum of Rs 16,000 is lent for one year at 10% per annum. By how much does the interest earned when the rate is compounded half-yearly exceed the interest earned when it is compounded annually?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Anil alone can paint a hall in 20 days and Bimal alone can paint it in 30 days. They begin painting together, but Anil stops working 5 days before the hall is finished, and Bimal completes the remaining part alone. In how many days is the hall painted?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A motorboat whose speed in still water is 12 km/h goes 45 km downstream along a river and returns to the starting point, taking 8 hours in all. What is the speed of the current?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A vessel contains 60 litres of a mixture of milk and water in which milk and water are in the ratio 7 : 3. How many litres of water must be added so that the ratio of milk to water in the new mixture becomes 7 : 5?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Pranav invests Rs 42,000 for 8 months, Qadir invests Rs 56,000 for 5 months and Rohit invests Rs 35,000 for 12 months in a partnership firm. At the end of the year the firm earns a profit of Rs 74,000, shared in proportion to capital multiplied by time. What is Qadir's share?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A dealer marks the price of a ceiling fan 60% above its cost price and then allows two successive discounts of 20% and 10% on the marked price. What is his profit percentage on this sale?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**By approximately what percentage did the combined revenue of the three lines change from 2023 to 2024?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**In 2023, what was the average price per unit realised across all units shipped, in Rs?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The line with the highest percentage growth in revenue from 2022 to 2024 grew by approximately what percentage?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**What was the total revenue of the three lines together in 2024, in Rs lakh?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**If Finance is scheduled, which workshops make up the rest of the group?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which workshop cannot appear in any acceptable group of four?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many different groups of four workshops can the coordinator schedule?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Suppose the first truck's town received three times, rather than twice, as many crates as the fourth truck's town, every other clue remaining as stated. How many crates would Dhanbad then receive?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**If the clue that the third truck's town received exactly 12 crates is withdrawn and all the other clues still hold, how many complete arrangements of dispatch order and crate counts are possible?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which town's truck left second, and how many crates did that town receive?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many crates did Chirala receive?**",
+      "topic": "DILR/logic-constraints",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**By how many modules does the firm with the largest number of defective modules exceed the firm with the smallest?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which firm has the lowest defect rate across its entire installed base?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Taking all four firms and all three grades together, defective modules form approximately what percentage of all modules installed?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**In grade G3, how many more defective modules did Cygna and Dhruv together have than Arkin and Bhima together?**",
+      "topic": "DILR/di-table",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**If the condition that O is somewhere above L is dropped and all the other conditions still hold, how many different stacking orders are possible?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many crates rest above R?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which crate is at the bottom of the tower?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Suppose the information that Dune was audited on Friday is replaced by the information that Dune was audited on Thursday, with every other statement unchanged. Which site is then audited on Friday?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following statements is true?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**What is the combined compliance score of the Monday audit and the Friday audit?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which inspector audited Birch?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "An archive looks like a residue of the past, but it is a residue of past decisions about what would be worth keeping. Records survive because someone was obliged to file them, and the obligations fell unevenly, heavily on property and litigation and hardly at all on ordinary agreement. Historians who read the surviving mass as a sample of what happened therefore reconstruct a world of disputes and transactions and miss the settled life around them. The remedy is not more documents but a habit of asking, of every silence, whether it records an absence or only an exemption from paperwork.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A standard is valuable in proportion to how many people already use it, so its merits and its market share are hard to tell apart. Once adoption passes a threshold, the standard is defended by everything built on top of it, and a technically superior rival must compensate not for a small gap in quality but for the whole accumulated weight of compatibility. Arguments about which standard is better therefore arrive too late to matter, and the winner's supporters read its survival as evidence that the argument was settled on the merits.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Forecasts about human affairs are not merely difficult; they are ingredients. A published prediction of shortage produces hoarding, and a published prediction of stability invites the risk-taking that ends it. This does not make forecasting useless, but it changes what accuracy could mean, since a forecast can be judged only against the world it helped to make, and a forecast that is widely ignored may be the only one ever fairly tested. Practitioners who forget this treat their failures as errors of measurement and answer them by refining instruments that were never the problem.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Options are usually treated as free, on the view that holding one costs nothing until it is exercised. In practice every open possibility levies a quiet charge: some attention reserved, some commitment withheld, some relationship kept provisional. Because the charge is never invoiced, options accumulate well past the point where their combined upkeep exceeds anything they could deliver. The person who cannot choose is not made richer by the alternatives; the alternatives are consuming the very capacity that choosing would have released.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Averaging many independent guesses often beats the best single guess, because errors pointing in opposite directions cancel. The condition doing the work is independence. Once the guessers can hear one another, their errors begin to align, and the average inherits a bias instead of shedding one. Committees that deliberate before voting therefore give up much of the advantage voting was supposed to secure, and the confidence produced by agreement rises just as the accuracy it is taken to signal falls.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Infrastructure is noticed chiefly when it fails. A water main, a switching station, a clearing house: each is built to disappear into the routines it supports, and its success is measured by how little thought it demands. The consequence is political rather than technical. Systems nobody thinks about attract neither scrutiny nor investment, and their upkeep competes badly with projects that can be photographed. Failure then arrives as a surprise, and the surprise is used to argue that nobody could have foreseen it.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The reason travels less well than the exception, since the reason was particular and the exception is not.\n(2) What began as mercy is then read as entitlement, and the rule survives only as a memory.\n(3) Administrators who grasp this record their reasons loudly, hoping the record will do the limiting work the rule no longer can.\n(4) Every exception granted for a good reason becomes a fact that later applicants are free to cite.\n\n**Which of the following is the correct order of the sentences?**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) A first reading of anything difficult is mostly navigation, since we are still learning where the parts are.\n(2) Readers who skip it are not saving time; they are trading comprehension for the feeling of having finished.\n(3) For this reason a second reading is not a repetition but a different task, undertaken with the map the first reading drew.\n(4) Only once the shape is known can attention be spent on the joints, which is where arguments usually fail.\n\n**Which of the following is the correct order of the sentences?**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The only reliable lever, then, is conduct that gives those custodians something else to carry.\n(2) Its custodians are third parties, who pass it on for reasons of their own and revise it without notice.\n(3) Reputation is information about us that we do not own and cannot directly edit.\n(4) This dependence explains why attempts at correction so often deepen the damage, for a correction is itself testimony and it travels.\n\n**Which of the following is the correct order of the sentences?**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) Once the date is fixed, the remaining hours acquire a rank, and the work is fitted to those that are left.\n(2) This is why arbitrary dates can serve as well as reasoned ones, provided they are actually believed.\n(3) A deadline works less by adding motivation than by removing alternatives.\n(4) Until a date is fixed, every hour is a candidate for the task and no hour is obliged to be.\n\n**Which of the following is the correct order of the sentences?**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) That demand is what makes boredom productive, since it pushes the mind to supply what the surroundings withhold.\n(2) Boredom is usually described as an absence, the gap left when nothing outside us claims our attention.\n(3) But the state has a content of its own, a restless demand that the world become more interesting than it is.\n(4) Children left with nothing to do therefore stay idle only briefly, building a game out of whatever lies nearest.\n\n**Which of the following is the correct order of the sentences?**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) No translator can carry every feature of a sentence across, so the work consists largely in deciding what to give up.\n(2) Readers tend to praise the translations that read most smoothly and to distrust those that preserve the strangeness of the original.\n(3) A pun that depends on sound may be replaced by one that depends on sense, on the ground that the joke matters more than its mechanism.\n(4) Rhythm surrendered in one line is sometimes repaid in another, the debt being settled across the page rather than within it.\n(5) Every such compensation is an argument about which layer of the original counts as the text itself.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) A quantity chosen to stand for a goal starts to be pursued for its own sake as soon as rewards are attached to it.\n(2) Staff learn quickly which parts of their work are counted, and effort drains away from everything that is not.\n(3) The published figures then improve while the purpose they were meant to serve quietly deteriorates.\n(4) Organisations often adopt measurement schemes less to inform their own decisions than to demonstrate propriety to outside audiences.\n(5) Auditors, reading only the figures, record success and recommend that the scheme be extended to further departments.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Experts seldom deliberate over the moves that most impress onlookers; they recognise a familiar pattern and act before reasons are available to them.\n(2) Such fluency is bought by long exposure to situations that return prompt and unambiguous feedback.\n(3) Where the feedback is delayed or noisy, however, long experience yields confidence without yielding accuracy.\n(4) Novices, by contrast, report that they enjoy the earliest stages of learning a craft far more than the later ones.\n(5) Intuition therefore deserves trust only after one has asked what the environment has actually been teaching.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Every map begins with an act of omission, since a representation that kept all the detail of a place would be as unusable as the place itself.\n(2) The cartographer must therefore decide in advance which features a reader will need and which can be silently discarded.\n(3) Recent surveys report that most commuters now consult digital route planners rather than printed atlases.\n(4) Those early decisions harden over time into conventions, and later users mistake the conventions for properties of the world.\n(5) What looks like a neutral record of terrain is thus the residue of a long series of judgements about relevance.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The author would agree with all of the following EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**On the author's account, a transplanted consumer protection rule would be expected to become operative more slowly than a transplanted secured-lending rule mainly because:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The author's principal objection to the cultural explanation is that it:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following comes closest to the claim the passage is defending?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following, if true, would most weaken the author's corollary for institutional design?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**It can be inferred that the author regards the erosion of a measure's validity as:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The author would agree with all of the following EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The reference to loan officers working on intuition serves mainly to:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The passage is primarily concerned with establishing which of the following?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the smallest positive integer that leaves a remainder of 3 when divided by 5, a remainder of 4 when divided by 6, and a remainder of 5 when divided by 7? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A train 180 m long crosses a platform 240 m long in 21 seconds. What is the speed of the train in km/h? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "How many four-digit numbers can be formed using the digits 0, 1, 2, 3 and 4 if no digit is repeated in a number? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The population of a town is 12500. During the first year it rises by 20%, and during the second year it falls by 10%. What is the population at the end of the second year? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the sum of all even numbers from 2 to 40, both included? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "In a geometric progression the first term is 5 and the common ratio is 3. What is the fourth term? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "In an arithmetic progression the sum of the first 15 terms is 600 and the 5th term is 22. What is the 20th term of this progression?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Working in pairs, A and B finish a job in 12 days, B and C finish the same job in 15 days, and A and C finish it in 20 days. Working all three together, in how many days will they finish the job?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "What is the smallest positive integer that leaves a remainder of 3 when divided by each of 6, 7 and 8, and is also exactly divisible by 11?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A closed solid cylinder has a base radius of 7 cm and a height of 10 cm. Taking pi = 22/7, what is its total surface area?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A committee of 3 members is to be chosen from 5 men and 4 women. In how many ways can this be done if the committee must include at least one woman?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A box holds 5 red marbles and 3 green marbles. One marble is drawn at random, its colour is noted, and it is put back before a second marble is drawn. What is the probability that the two marbles drawn have the same colour?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A laboratory has 40 litres of a solution in which acid forms 15% of the volume. How many litres of pure water must be added so that acid forms exactly 10% of the resulting solution?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Tap A alone can fill an empty tank in 15 minutes, while an outlet pipe B alone can empty a full tank in 20 minutes. If both are opened together when the tank is empty, how long will the tank take to fill completely?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A sum of 12000 euros is lent for 2 years at 10% per annum. By how many euros does the compound interest, compounded annually, exceed the simple interest for the same period?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A water tank is 3/5 full. After 24 litres are drawn out, the tank is 1/3 full. What is the full capacity of the tank, in litres?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A cyclist rides from a village to a market 30 km away at 15 km/h and returns along the same road at 10 km/h. What is the average speed for the whole trip?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A sum of 12000 euros is lent at 8% per annum simple interest. What total amount, in euros, is repaid at the end of 2 years and 6 months?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Two bells ring at intervals of 15 seconds and 18 seconds. If they ring together once, after how many seconds will they next ring together?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A circular flower bed has a diameter of 14 metres. What is the length of the fence needed to enclose it exactly once? (take pi = 22/7)",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Six readings taken during an experiment add up to 261. What is the average of the six readings?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A sum of 3300 euros is divided between Anna and Bruno in the ratio 4 : 7. How many euros does Bruno receive?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A trader buys a chair for 250 euros and sells it at a profit of 15% on the cost price. What is the selling price, in euros?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A school has 640 students, and 35% of them travel to school by bus. How many students travel by bus?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**By how many thousand units did the three-model total in 2023 exceed the three-model total in 2021?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**What were the average annual sales of Kestrel, in thousands, over the three years?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**What is the ratio of total Orion sales over the three years to total Nimbus sales over the three years?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**By what percentage did Kestrel sales grow from 2021 to 2023?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many thousand bicycles were sold in total across the three models in 2022?**",
+      "topic": "DILR/di-graph",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Suppose Ines and Karim exchange shift days, every duty staying with the same person. Who then works on the day immediately before the inventory shift?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 1.0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which volunteer and duty are correctly paired?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which volunteer works on Monday?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**In how many of the nine depot and category combinations did revenue exceed 20,000 euros?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**What was the combined revenue from cocoa across the three depots, in euros?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which depot and category together generated the highest revenue?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many hundreds of packs were sold in total at the Ferrara depot?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**By how many points does the highest total exceed the lowest total?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Who earned the most points?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**How many points did Carla earn?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following statements is true?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**In which position did Lena finish?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which runner finished third?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Cities that switch to bright white LED streetlights cut their electricity bills at once. Insects, however, are drawn to that part of the spectrum far more strongly than to the old orange lamps, and the moths gathering under the new lights are eaten or exhausted well before dawn.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A translator of poetry cannot keep everything. Sound, rhythm and literal sense pull in different directions, and holding on to one of them usually means loosening the grip on another. Every finished translation is therefore a record of the choices its translator was willing to make.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Where beavers return to a river they build dams, and parts of the valley flood. Farmers lose the use of some low-lying fields, but the new ponds slow floodwater heading downstream and hold water through dry spells, so the towns below gain what the fields lose.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Delivery apps bring a restaurant orders it would never otherwise have received. They also take a share of every bill, and customers who once walked in now stay at home, so a busy kitchen can finish the month having sold more meals and kept less money.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Open-plan offices were introduced partly to encourage conversation between colleagues. In practice many workers find the constant background noise distracting and put on headphones in order to concentrate, which cuts off the very exchanges the layout was meant to create.\n\n**Which option best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Grams simply remove the guesswork that volume measures quietly introduce.\n(2) Bakers who want repeatable results therefore reach for a kitchen scale instead.\n(3) Recipes in many countries still ask the cook to measure flour by the cupful.\n(4) The same cup, though, holds different weights depending on how tightly it is packed.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Rising concern about the emissions of air travel then changed that calculation.\n(2) Cheap flights had made the sleeper look slow and expensive by comparison.\n(3) Several operators have since restored night routes between major European cities.\n(4) Night trains had almost disappeared from Europe by the early years of this century.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) After about a week it is lively enough to raise a loaf without any added yeast.\n(2) A sourdough starter is nothing more than flour and water left to attract wild yeasts.\n(3) Bakers who keep feeding it can go on using the same starter for decades.\n(4) Once bubbles appear, the mixture is fed every day with a little fresh flour.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "The four sentences below, when arranged in the correct order, form a coherent paragraph.\n\n(1) Riders who still feel unsafe on the road go on avoiding it for months afterwards.\n(2) Planners therefore judge such projects over a span of years rather than weeks.\n(3) When a city paints a cycle lane along a busy road, the effect is rarely immediate.\n(4) Only as the numbers slowly build does the lane start to feel ordinary and safe.\n\n**Select the correct order.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Trees planted along city streets do far more than soften the look of concrete.\n(2) Their canopies shade the pavement and bring summer temperatures down noticeably.\n(3) Their roots take up rainwater that would otherwise overwhelm drains during a storm.\n(4) Their leaves also trap much of the dust that passing traffic throws into the air.\n(5) Architects still disagree about whether glass facades suit historic city centres.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Before railways, every town kept its own clock, set roughly by the position of the sun.\n(2) Athletes often train at altitude in the hope of raising the oxygen capacity of their blood.\n(3) Timetables grew confusing once a train could cross many such local times in one day.\n(4) Railway companies therefore imposed a single standard time along the whole of their lines.\n(5) Governments later turned these private arrangements into the time zones still used today.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Many plants depend on animals to carry their seeds well away from the parent tree.\n(2) Fleshy fruits attract birds and mammals, which eat the pulp and drop the seeds elsewhere.\n(3) Other seeds carry small hooks that catch on fur and are brushed off much later.\n(4) Wind speed over open grassland is recorded by instruments mounted on tall poles.\n(5) Such journeys reduce the competition between a seedling and the plant that produced it.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The tone of the final paragraph is best described as:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**It can be inferred that painted cycle lanes attract fewer new riders because:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The passage mentions all of the following as limits on cycling EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following best expresses the main idea of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The comparison with water flowing down a gradient serves mainly to:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**It can be inferred that the author regards the carbon-tracing experiments as:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**According to the passage, the fungal threads do all of the following EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following best states the main argument of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The author calls local time 'perfectly accurate' in order to:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**It can be inferred from the passage that a town's church clock lost its authority mainly because:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**The passage attributes all of the following to the arrival of railways EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "**Which of the following best captures the central point of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-07-23"
+    },
+    {
+      "question_text": "A vessel contains 64 litres of pure wine. 16 litres are drawn out and replaced with water; this operation (drawing 16 litres of the mixture and replacing it with water) is performed two more times, for a total of three times. How many litres of pure wine remain in the vessel? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "In an arithmetic progression the first term is 7 and the common difference is 5. What is the value of the 12th term? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "In a class, 30 students study French and 25 study German. Exactly 10 students study both languages. How many students study exactly one of the two languages? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Using the digits 1, 2, 3, 4 and 5 without repetition, how many three-digit numbers divisible by 5 can be formed? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "An item is priced at 80 euros. Its price is first increased by 25%, then the new price is decreased by 20%. What is the final price, in euros? Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Evaluate the expression (2^5 × 2^3) ÷ 2^4. Type your answer as an integer.",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A rectangular garden is 40 m long and 30 m wide. A path of uniform width 2 m runs all around it on the inside. What is the area of the path?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Vessel A holds 40 litres of a mixture with milk and water in the ratio 3 : 1, and vessel B holds 20 litres in the ratio 1 : 1. If both are poured into one vessel, what is the ratio of milk to water in the new mixture?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Two trains start at the same time from stations A and B, 330 km apart, moving towards each other at 60 km/h and 50 km/h. How far from A do they meet?",
+      "topic": "QA/quant",
+      "difficulty": 1.0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The third term of an arithmetic progression is 11 and the seventh term is 27. What is the first term?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "In a group of 50 people, 30 like tea and 25 like coffee. If 10 like neither, how many like both tea and coffee?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "How many distinct arrangements can be made using all the letters of the word LEVEL?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A bag contains 4 red and 6 blue balls. Two balls are drawn at random without replacement. What is the probability that both are red?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The HCF of two numbers is 6 and their LCM is 180. If one number is 36, what is the other number?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "When a positive integer n is divided by 7 the remainder is 4. What is the remainder when 3n is divided by 7?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Pipe A fills a tank in 12 hours and pipe B fills it in 6 hours. If both pipes are opened together, how long do they take to fill the tank?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A sum of 8000 euros is invested at 10% per annum compound interest. What is the amount after 2 years?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "An article marked at 500 euros is sold after a 20% discount, and the seller still makes a 25% profit on cost. What was the cost price?",
+      "topic": "QA/quant",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A car travels 150 km in 3 hours. What is its average speed?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Solve for x: 3x + 7 = 22.",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A circle has radius 7 cm. What is its area? (use pi = 22/7)",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "What is the average of the five numbers 4, 8, 10, 12 and 16?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The ratio of boys to girls in a class is 3 : 5. If there are 20 girls, how many boys are there?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "A shopkeeper buys an article for 80 euros and sells it for 100 euros. What is the profit percentage?",
+      "topic": "QA/quant",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the total production cost (in rupees) of all four products in Q1?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What is the largest single value of units produced by any one product in any one quarter?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the average quarterly production of Cement over the three quarters?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**By what percentage did Steel production increase from Q1 to Q3?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the total number of Steel units produced across the three quarters?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**After the year's returns are added to the amounts invested, which investor ends with the largest total amount of money?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 1.0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the combined amount invested by Priya and Sara together?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How much did Rohan invest?**",
+      "topic": "DILR/logic-investment",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**In how many of the four stores did the total number of packets sold (all products combined) exceed 350?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the combined revenue (in rupees) from Tea across all four stores?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the total sales revenue (in rupees) earned by store Cera from all three products?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How many packets in total did store Bani sell across all three products during the month?**",
+      "topic": "DILR/di-table",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What was the combined total score of all three friends?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How many questions did Nina answer correctly?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How many points did Mira score?**",
+      "topic": "DILR/logic-quiz-scores",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Which statement about the final points table is correct?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How many of the 6 matches ended with a winner (that is, did NOT end in a tie)?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**How many points did Comet earn in the tournament?**",
+      "topic": "DILR/logic-tournament",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "When a new word enters a language, it rarely arrives by official decree. Instead, speakers begin using it, others copy them, and dictionaries record the word only after it has already taken hold. Language, in other words, is shaped from the bottom up by ordinary use rather than handed down by authorities.\n\n**Which of the following best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Volunteering is often described as pure generosity, but studies suggest the giver gains too. People who regularly help others report lower stress, a stronger sense of purpose, and wider social networks. In this sense, the act of giving time quietly returns a benefit to the volunteer.\n\n**Which of the following best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Electric cars produce no exhaust as they drive, which clearly improves air quality in cities. Yet whether they are truly cleaner depends on how their electricity is generated. Where power comes mostly from coal, the overall emissions can rival those of petrol cars; where it comes from renewables, the advantage is large.\n\n**Which of the following best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Sleep researchers have found that pulling an all-nighter before an exam usually backfires. While extra waking hours seem to allow more study, the tired brain struggles to store new information, and fatigue slows recall the next day. Students who sleep a full night generally remember more, even though they spent fewer hours reviewing.\n\n**Which of the following best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Public libraries today do far more than lend books. Many now offer free internet access, run job-search workshops, host story hours for children, and lend tools or musical instruments. For people without these resources at home, the library has become a community centre as much as a place to read.\n\n**Which of the following best summarises the paragraph?**",
+      "topic": "VARC/summary",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. At first the seedlings were too fragile to survive outdoors.\n2. The gardeners started the tomato plants indoors during early spring.\n3. So they kept the young plants under warm lamps for several weeks.\n4. Only when the stems had thickened did the gardeners move them into the open beds.\n\n**Select the correct sequence of sentences.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. She began by sketching rough thumbnails to test different compositions.\n2. Maria had been asked to design the cover for the school magazine.\n3. Once a layout felt right, she refined it into a detailed digital drawing.\n4. Finally, she added colour and sent the finished file to the printer.\n\n**Select the correct sequence of sentences.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. Over time, this trapped heat raises the planet's average surface temperature.\n2. Certain gases in the atmosphere allow sunlight to pass through but absorb the heat that the ground radiates back.\n3. This natural process is what scientists call the greenhouse effect.\n4. When the concentration of these gases rises, more heat is retained than before.\n\n**Select the correct sequence of sentences.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.\n\n1. The result was a network of stone roads stretching across the whole empire.\n2. Ancient Rome needed a fast way to move its armies between distant provinces.\n3. To meet this need, engineers laid down durable paved routes wherever the legions marched.\n4. Centuries later, many of these same roads still guide the paths of modern highways.\n\n**Select the correct sequence of sentences.**",
+      "topic": "VARC/para-jumble",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Honeybees communicate the location of food through a movement known as the waggle dance.\n(2) Beekeepers harvest surplus honey by carefully removing frames from the hive.\n(3) A returning forager runs in a figure-eight pattern on the vertical comb.\n(4) The angle of the run relative to gravity encodes the direction of the food source.\n(5) The duration of the waggle phase signals how far away the food lies.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) The printing press, introduced in fifteenth-century Europe, dramatically lowered the cost of reproducing texts.\n(2) Books that had once taken months to copy by hand could now be produced in days.\n(3) As prices fell, reading spread beyond monasteries and universities to ordinary townspeople.\n(4) This wider circulation of ideas helped fuel movements in science and religion.\n(5) Modern libraries increasingly lend electronic books that readers download to personal devices.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.\n\n(1) Coral reefs occupy less than one percent of the ocean floor, yet they shelter roughly a quarter of all marine species.\n(2) The dense limestone structures act as nurseries where countless fish spawn and mature.\n(3) They also buffer nearby coastlines by absorbing much of the energy carried by incoming waves.\n(4) Many tropical resorts now offer guided diving tours that bring tourists close to these formations.\n(5) Because of this ecological richness, the loss of a single reef can ripple through an entire marine food web.\n\n**Which sentence is the odd one out?**",
+      "topic": "VARC/odd-one-out",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What is the main function of the saying 'all models are wrong, but some are useful' in the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**It can be inferred that the author would most likely judge a scientific model by asking:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Why does the author say that a perfectly complete map would be useless?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Which of the following best captures the main idea of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**It can be inferred from the passage that the author regards the documentation of replication failures as:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**What is the main purpose of registering hypotheses and planned analyses before collecting data, as described in the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**The author identifies all of the following as factors contributing to replication failures EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Which of the following best states the central argument of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**It can be inferred that the author would most likely agree with which of the following statements?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Why does the author contrast light pollution with carbon dioxide?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**According to the passage, the author makes all of the following claims EXCEPT:**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    },
+    {
+      "question_text": "**Which of the following best expresses the main idea of the passage?**",
+      "topic": "VARC/reading-comprehension",
+      "difficulty": 0.5,
+      "paper_id": "2026-06-25"
+    }
+  ]
+}

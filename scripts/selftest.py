@@ -98,6 +98,46 @@ def main():
         rcrep = json.load(f)
     assert all(r["verdict"] == "MATCH" for r in rcrep), "recompute found a mismatch in fixture"
 
+    # ── question bank round-trip (cross-run de-duplication) ───────────────
+    bank = os.path.join(tmp, "history.jsonl")
+    bank_report = os.path.join(tmp, "bank.json")
+
+    # Fresh bank: nothing should be flagged.
+    rc |= run("scripts/question_bank.py", "check", "--in", qpath,
+              "--bank", bank, "--report", bank_report)
+    with open(bank_report, encoding="utf-8") as f:
+        rep = json.load(f)
+    assert rep["flagged_ids"] == [], "fresh bank flagged something"
+
+    # Record the paper, then check the SAME paper again — every Q must now flag.
+    rc |= run("scripts/question_bank.py", "add", "--in", qpath,
+              "--bank", bank, "--paper-id", "selftest-1")
+    assert os.path.exists(bank), "bank file not written"
+    with open(bank, encoding="utf-8") as f:
+        n_records = sum(1 for ln in f if ln.strip())
+    assert n_records == len(fixture), f"bank should hold {len(fixture)} records, has {n_records}"
+
+    rc |= run("scripts/question_bank.py", "check", "--in", qpath,
+              "--bank", bank, "--report", bank_report)
+    with open(bank_report, encoding="utf-8") as f:
+        rep = json.load(f)
+    assert sorted(rep["flagged_ids"]) == [q["question_id"] for q in fixture], \
+        "re-checking shipped questions did not flag them as duplicates"
+
+    # add is idempotent — re-adding the same paper must not grow the bank.
+    rc |= run("scripts/question_bank.py", "add", "--in", qpath,
+              "--bank", bank, "--paper-id", "selftest-1")
+    with open(bank, encoding="utf-8") as f:
+        n_after = sum(1 for ln in f if ln.strip())
+    assert n_after == n_records, "add was not idempotent — bank grew on re-add"
+
+    # digest exposes the recorded stems as an avoid-list.
+    digest_out = os.path.join(tmp, "bank_recent.json")
+    rc |= run("scripts/question_bank.py", "digest", "--bank", bank, "--out", digest_out)
+    with open(digest_out, encoding="utf-8") as f:
+        dig = json.load(f)
+    assert len(dig["avoid_stems"]) == len(fixture), "digest avoid-list size mismatch"
+
     print("\n[PASS] selftest OK — all scripts ran, outputs well-formed.")
     print(f"       fixture dir: {tmp}")
     sys.exit(0 if rc == 0 else 1)

@@ -57,10 +57,31 @@ question:
 `Discrimination Ratio = t_average_sec ÷ t_expert_sec` — how much longer an
 average student takes than a highly capable one on the same question.
 
+## Cross-run de-duplication (question bank)
+
+Every shipped question is recorded in `bank/history.jsonl` (append-only JSONL,
+one record per question with a normalized-token fingerprint). On the next run the
+pipeline uses it twice, both owned by `scripts/question_bank.py`:
+
+- **Before generation** — `question_bank.py digest` writes `work/bank_recent.json`,
+  an avoid-list of past stems that every `creator` agent reads so it doesn't
+  rewrite an old question.
+- **After merge** — `question_bank.py check` flags any new question whose stem is
+  an exact repeat (identical fingerprint) or a near-duplicate (token Jaccard ≥
+  0.8, same threshold as in-run check M5) of a past paper; those IDs are routed
+  back to a creator for regen (max 2 attempts).
+- **After export** — `question_bank.py add` appends the shipped, validated
+  questions to the bank. It is idempotent: a stem already in the bank is skipped.
+
+The bank persists across runs, so re-running the same command produces a
+*different* paper rather than repeating questions. Delete `bank/history.jsonl`
+to start the history fresh.
+
 ## Hard stops (no infinite loops)
 
 | Loop | Cap |
 |---|---|
+| Cross-run dedup regen (Phase 2) | 2 attempts |
 | Mechanical checks (Phase 3) | 3 cycles |
 | Semantic QC (Phase 4) | 3 cycles |
 | Mechanical re-check (Phase 5) | 2 cycles |

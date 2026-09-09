@@ -10,11 +10,17 @@ correct, unambiguous, bias-free, and free of answer-leaking surface cues.
 2. **Error-mapped distractors.** Each of the 3 wrong options must correspond to
    a real mistake: wrong formula, off-by-one/fencepost, sign error, unit slip,
    averaging instead of weighting, using diameter for radius, etc. State the
-   mapping in `explanation`. No joke options, no absurd magnitudes.
+   mapping in `explanation` — but refer to each distractor by its VALUE/content,
+   never by position ("Option 3"/"(C)"): options are shuffled before export, so
+   position labels go stale. `mechanical_checks.py` M4 blocks position references.
+   No joke options, no absurd magnitudes.
 3. **No surface cues.** The correct option must NOT be the only one with units,
    parentheses, a symbol (× ÷ √ π ° % ₹ $), terminal punctuation, or a distinct
    capitalization/length pattern. Keep all four options the same surface style
-   and similar length. Vary which index is correct across the paper.
+   and within ~±12% length of each other; the **correct option must NOT be the
+   longest** (students guess "longest = correct" on AI papers) -- `mechanical_checks.py`
+   flags this. Vary which index is correct across the paper. **No em-dashes /
+   en-dashes** anywhere -- an AI-writing tell; use commas or hyphens.
 4. **Self-contained.** All data needed is in the stem. No outside general
    knowledge unless `notes` allows it. Replace region-specific references with
    neutral variables (e.g. "Country A / Policy P") to remove knowledge bias.

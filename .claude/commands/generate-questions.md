@@ -27,14 +27,28 @@ python scripts/validate_plan.py --plan plan.json --command work/command.json
 If it fails, fix plan.json and re-run. Only proceed when it passes.
 
 ## Phase 2 — Parallel create + self-QC (20 per agent)
+First build the cross-run avoid-list from the question bank (so creators don't
+reproduce past papers' questions):
+```
+python scripts/question_bank.py digest --bank bank/history.jsonl --out work/bank_recent.json
+```
 Split plan into chunks of 20. For each chunk, launch a `creator` subagent via
-the Task tool (they run concurrently). Each writes ONLY
+the Task tool (they run concurrently). Each reads `work/bank_recent.json` and
+must NOT reproduce any stem listed there. Each writes ONLY
 `work/questions_chunk_<N>.json` and runs the question-qc skill on its own 20
 before returning. Then merge, set content types, and compute ratios:
 ```
 python scripts/merge_chunks.py --plan plan.json --out work/questions.json
 python scripts/set_content_type.py --in work/questions.json
 python scripts/compute_ratios.py --in work/questions.json
+```
+Then run the cross-run de-duplication gate (MAX 2 REGEN ATTEMPTS). Any
+`EXACT_DUPLICATE`/`NEAR_DUPLICATE` is a question we have shipped before — route
+those IDs to a `creator` for targeted regen (reminding it of `work/bank_recent.json`),
+re-run digest + check. After 2 attempts, log leftovers to
+`output/unresolved_report.md` rather than looping:
+```
+python scripts/question_bank.py check --in work/questions.json --bank bank/history.jsonl --report work/bank_report.json
 ```
 
 ## Phase 3 — Mechanical checks (MAX 3 CYCLES)
@@ -74,6 +88,12 @@ python scripts/validate_csv.py --csv output/paper.csv --questions work/questions
 ```
 If validate_csv exits non-zero, STOP and report.
 
+Only after the CSV validates, record the shipped questions in the bank so future
+runs won't repeat them (append-only, idempotent — run exactly once per paper):
+```
+python scripts/question_bank.py add --in work/questions.json --bank bank/history.jsonl
+```
+
 ## Final — Run report (script, not LLM)
 Do NOT write run_report.md yourself. Call the script with the exact cycle counts
 you tracked during the run:
@@ -82,9 +102,15 @@ python scripts/generate_run_report.py \
   --mech-cycles <N> --qc-cycles <N> --remech-cycles <N> \
   [--unresolved output/unresolved_report.md]
 ```
-Ship: paper.csv, paper_answer_key.md, work/questions.json, run_report.md
-(+ unresolved_report.md if any items were dropped).
+Then archive a dated, never-deleted copy (kept separate from the IMAT papers):
+```
+python scripts/archive_paper.py --dir output/mcsc_real --move \
+  --files output/paper.csv output/paper_answer_key.md output/run_report.md
+```
+Ship: the dated `output/mcsc_real/<date>/` folder (CSV + answer key + run report)
+plus work/questions.json (+ unresolved_report.md if any items were dropped). The
+`--move` keeps the dated folder as the single copy (no duplicate loose files).
 
-**Hard stops:** Phase 3 = 3 cycles, Phase 4 = 3 cycles, Phase 5 = 2 cycles,
-single-question regen = 2 attempts then drop to unresolved. The pipeline must
-always terminate and export whatever passed.
+**Hard stops:** Phase 2 cross-run dedup = 2 regen attempts, Phase 3 = 3 cycles,
+Phase 4 = 3 cycles, Phase 5 = 2 cycles, single-question regen = 2 attempts then
+drop to unresolved. The pipeline must always terminate and export whatever passed.

@@ -8,6 +8,12 @@ You own a set of question slots (≤20). Read their stubs from `plan.json`
 (`question_id, topic, difficulty, target_discrimination_band`) and the scope in
 `work/command.json`'s `notes`.
 
+**Avoid past papers.** If `work/bank_recent.json` exists, it lists stems already
+shipped in previous runs (`avoid_stems`). Do NOT reproduce or lightly reword any
+of them — write genuinely new questions (different scenario, numbers, and
+framing). A script (`question_bank.py check`) verifies this after merge and will
+bounce near-duplicates back to you, so divergence here saves a regen cycle.
+
 For each slot, produce one record with this shape and append to your chunk file
 `work/questions_chunk_<N>.json` (a JSON array). **Write only your own file.**
 

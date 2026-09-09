@@ -1,0 +1,439 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Before the middle of the nineteenth century, most towns kept their own local time, setting clocks by the moment the sun stood highest overhead. A traveller moving west by carriage might find each new town a few minutes behind the last, and nobody minded, because journeys were slow enough that small differences never mattered. Railways changed that arithmetic. A train that left one city at noon and reached another whose clocks also read noon had, on paper, taken no time at all. Timetables became puzzles, and collisions on single-track lines were a real danger when two crews disagreed about when a siding had to be cleared.
+
+The response was not a government decree but a private one. Railway companies began publishing schedules based on a single reference clock, usually the time kept at their largest terminus, and asked stations along the line to follow it. Towns that resisted found themselves consulting two clocks: one on the church tower for daily life and one at the station for departures. In practice the station clock won, because it governed the arrival of mail, freight and visitors.
+
+Only later did legislatures ratify what commerce had already settled, dividing territories into broad zones within which every clock agreed. The reform is often described as a triumph of science, and astronomers did supply the measurements, but the pressure came from the ledger rather than the observatory. What made local time intolerable was not that it was inaccurate; by the standard of the sun it was perfectly accurate. It was that accuracy of that kind could not be shared. A network needs its members to agree on a convention, and the value of the convention lies almost entirely in the agreement, not in the truth of the thing agreed. That is why the change, once begun, spread quickly: each town that joined made joining more attractive for the rest.
+
+**Which of the following best captures the central point of the passage?**",,120,,,,2,,Uniform clock time spread because travellers grew tired of resetting their watches in every town they entered.,"Uniform clock time spread because networks needed a shared convention, not because local time was wrong.",Uniform clock time spread because governments saw that public safety required identical clocks everywhere.,Uniform clock time spread because astronomers at last produced measurements accurate enough to trust.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Before the middle of the nineteenth century, most towns kept their own local time, setting clocks by the moment the sun stood highest overhead. A traveller moving west by carriage might find each new town a few minutes behind the last, and nobody minded, because journeys were slow enough that small differences never mattered. Railways changed that arithmetic. A train that left one city at noon and reached another whose clocks also read noon had, on paper, taken no time at all. Timetables became puzzles, and collisions on single-track lines were a real danger when two crews disagreed about when a siding had to be cleared.
+
+The response was not a government decree but a private one. Railway companies began publishing schedules based on a single reference clock, usually the time kept at their largest terminus, and asked stations along the line to follow it. Towns that resisted found themselves consulting two clocks: one on the church tower for daily life and one at the station for departures. In practice the station clock won, because it governed the arrival of mail, freight and visitors.
+
+Only later did legislatures ratify what commerce had already settled, dividing territories into broad zones within which every clock agreed. The reform is often described as a triumph of science, and astronomers did supply the measurements, but the pressure came from the ledger rather than the observatory. What made local time intolerable was not that it was inaccurate; by the standard of the sun it was perfectly accurate. It was that accuracy of that kind could not be shared. A network needs its members to agree on a convention, and the value of the convention lies almost entirely in the agreement, not in the truth of the thing agreed. That is why the change, once begun, spread quickly: each town that joined made joining more attractive for the rest.
+
+**The passage attributes all of the following to the arrival of railways EXCEPT:**",,110,,,,3,,confusion in drawing up timetables that different lines could actually work with,danger of accidents when two crews disagreed about when a track would be clear,a legal rule obliging church towers to show the same hour as the station clock,schedules published from a single reference clock kept at a large terminus,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Before the middle of the nineteenth century, most towns kept their own local time, setting clocks by the moment the sun stood highest overhead. A traveller moving west by carriage might find each new town a few minutes behind the last, and nobody minded, because journeys were slow enough that small differences never mattered. Railways changed that arithmetic. A train that left one city at noon and reached another whose clocks also read noon had, on paper, taken no time at all. Timetables became puzzles, and collisions on single-track lines were a real danger when two crews disagreed about when a siding had to be cleared.
+
+The response was not a government decree but a private one. Railway companies began publishing schedules based on a single reference clock, usually the time kept at their largest terminus, and asked stations along the line to follow it. Towns that resisted found themselves consulting two clocks: one on the church tower for daily life and one at the station for departures. In practice the station clock won, because it governed the arrival of mail, freight and visitors.
+
+Only later did legislatures ratify what commerce had already settled, dividing territories into broad zones within which every clock agreed. The reform is often described as a triumph of science, and astronomers did supply the measurements, but the pressure came from the ledger rather than the observatory. What made local time intolerable was not that it was inaccurate; by the standard of the sun it was perfectly accurate. It was that accuracy of that kind could not be shared. A network needs its members to agree on a convention, and the value of the convention lies almost entirely in the agreement, not in the truth of the thing agreed. That is why the change, once begun, spread quickly: each town that joined made joining more attractive for the rest.
+
+**It can be inferred from the passage that a town's church clock lost its authority mainly because:**",,120,,,,4,,astronomers had declared solar time an unscientific way of setting clocks,residents faced penalties for keeping time that differed from the railway's,the church clock was found to be measurably slower than the railway's own clock,"the station clock decided when mail, goods and visitors would actually arrive",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Before the middle of the nineteenth century, most towns kept their own local time, setting clocks by the moment the sun stood highest overhead. A traveller moving west by carriage might find each new town a few minutes behind the last, and nobody minded, because journeys were slow enough that small differences never mattered. Railways changed that arithmetic. A train that left one city at noon and reached another whose clocks also read noon had, on paper, taken no time at all. Timetables became puzzles, and collisions on single-track lines were a real danger when two crews disagreed about when a siding had to be cleared.
+
+The response was not a government decree but a private one. Railway companies began publishing schedules based on a single reference clock, usually the time kept at their largest terminus, and asked stations along the line to follow it. Towns that resisted found themselves consulting two clocks: one on the church tower for daily life and one at the station for departures. In practice the station clock won, because it governed the arrival of mail, freight and visitors.
+
+Only later did legislatures ratify what commerce had already settled, dividing territories into broad zones within which every clock agreed. The reform is often described as a triumph of science, and astronomers did supply the measurements, but the pressure came from the ledger rather than the observatory. What made local time intolerable was not that it was inaccurate; by the standard of the sun it was perfectly accurate. It was that accuracy of that kind could not be shared. A network needs its members to agree on a convention, and the value of the convention lies almost entirely in the agreement, not in the truth of the thing agreed. That is why the change, once begun, spread quickly: each town that joined made joining more attractive for the rest.
+
+**The author calls local time 'perfectly accurate' in order to:**",,125,,,,4,,suggest that the towns were right to resist the schedules imposed on them,concede that early railway schedules were built on faulty measurements,praise the astronomers who first measured the sun's position from each town,stress that its defect was not error but that it could not be shared,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Beneath the floor of most forests lies a dense mesh of fungal threads, thinner than hair and far more numerous than roots. Many of these fungi wrap themselves around, or grow into, the roots of trees. The arrangement suits both sides: the fungus takes sugars that the tree makes in its leaves, and the tree gains water and minerals that the fungal threads, with their enormous surface area, can gather from soil far beyond a root's reach.
+
+Because a single fungus can be linked to several trees at once, the threads also form a route between plants. Experiments in which one tree is fed carbon labelled so that it can be traced show that a small share of that carbon later turns up in neighbours connected to the same fungal partner. This finding has been retold in popular writing as evidence that forests behave like cooperatives, with vigorous trees deliberately feeding shaded seedlings.
+
+The evidence supports something narrower. That a substance moves between two organisms does not establish that either one intended the transfer, or that the recipient benefited enough to matter. Carbon may simply follow a gradient, flowing from where it is abundant to where it is scarce, much as water does. The fungus, moreover, is not a neutral pipe. It is an organism with interests of its own, and it may retain much of what passes through, trading resources on terms that favour itself rather than any particular tree.
+
+None of this makes the network unimportant. A seedling that gains even a modest supply of minerals in its first seasons may survive a drought it would otherwise not survive, and that is a large effect from a small transfer. The caution concerns the story we drape over the measurement. Describing the forest as generous is a metaphor; the data describe an exchange whose accounting has not yet been done.
+
+**Which of the following best states the main argument of the passage?**",,125,,,,1,,"Fungal links between trees are real, but claims that trees deliberately share food outrun the data.","Fungal links between trees mostly injure the trees, because the fungus keeps nearly every resource.",Fungal links between trees are so faint that the transfers recorded are probably measurement error.,Fungal links between trees prove that a forest works as a cooperative rather than as a competition.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Beneath the floor of most forests lies a dense mesh of fungal threads, thinner than hair and far more numerous than roots. Many of these fungi wrap themselves around, or grow into, the roots of trees. The arrangement suits both sides: the fungus takes sugars that the tree makes in its leaves, and the tree gains water and minerals that the fungal threads, with their enormous surface area, can gather from soil far beyond a root's reach.
+
+Because a single fungus can be linked to several trees at once, the threads also form a route between plants. Experiments in which one tree is fed carbon labelled so that it can be traced show that a small share of that carbon later turns up in neighbours connected to the same fungal partner. This finding has been retold in popular writing as evidence that forests behave like cooperatives, with vigorous trees deliberately feeding shaded seedlings.
+
+The evidence supports something narrower. That a substance moves between two organisms does not establish that either one intended the transfer, or that the recipient benefited enough to matter. Carbon may simply follow a gradient, flowing from where it is abundant to where it is scarce, much as water does. The fungus, moreover, is not a neutral pipe. It is an organism with interests of its own, and it may retain much of what passes through, trading resources on terms that favour itself rather than any particular tree.
+
+None of this makes the network unimportant. A seedling that gains even a modest supply of minerals in its first seasons may survive a drought it would otherwise not survive, and that is a large effect from a small transfer. The caution concerns the story we drape over the measurement. Describing the forest as generous is a metaphor; the data describe an exchange whose accounting has not yet been done.
+
+**According to the passage, the fungal threads do all of the following EXCEPT:**",,110,,,,2,,gather water and minerals from soil that lies beyond the reach of the roots,produce sugars for themselves rather than take them from the tree's leaves,hold back for themselves a share of the resources that move along them,connect one tree to another when a single fungus is joined to both of them,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Beneath the floor of most forests lies a dense mesh of fungal threads, thinner than hair and far more numerous than roots. Many of these fungi wrap themselves around, or grow into, the roots of trees. The arrangement suits both sides: the fungus takes sugars that the tree makes in its leaves, and the tree gains water and minerals that the fungal threads, with their enormous surface area, can gather from soil far beyond a root's reach.
+
+Because a single fungus can be linked to several trees at once, the threads also form a route between plants. Experiments in which one tree is fed carbon labelled so that it can be traced show that a small share of that carbon later turns up in neighbours connected to the same fungal partner. This finding has been retold in popular writing as evidence that forests behave like cooperatives, with vigorous trees deliberately feeding shaded seedlings.
+
+The evidence supports something narrower. That a substance moves between two organisms does not establish that either one intended the transfer, or that the recipient benefited enough to matter. Carbon may simply follow a gradient, flowing from where it is abundant to where it is scarce, much as water does. The fungus, moreover, is not a neutral pipe. It is an organism with interests of its own, and it may retain much of what passes through, trading resources on terms that favour itself rather than any particular tree.
+
+None of this makes the network unimportant. A seedling that gains even a modest supply of minerals in its first seasons may survive a drought it would otherwise not survive, and that is a large effect from a small transfer. The caution concerns the story we drape over the measurement. Describing the forest as generous is a metaphor; the data describe an exchange whose accounting has not yet been done.
+
+**It can be inferred that the author regards the carbon-tracing experiments as:**",,130,,,,2,,flawed in method and therefore in need of repetition by other research teams,sound in what they measure but weak support for the claims built on them,"beside the point, since the quantities involved cannot affect survival",conclusive proof that mature trees support shaded seedlings on purpose,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Beneath the floor of most forests lies a dense mesh of fungal threads, thinner than hair and far more numerous than roots. Many of these fungi wrap themselves around, or grow into, the roots of trees. The arrangement suits both sides: the fungus takes sugars that the tree makes in its leaves, and the tree gains water and minerals that the fungal threads, with their enormous surface area, can gather from soil far beyond a root's reach.
+
+Because a single fungus can be linked to several trees at once, the threads also form a route between plants. Experiments in which one tree is fed carbon labelled so that it can be traced show that a small share of that carbon later turns up in neighbours connected to the same fungal partner. This finding has been retold in popular writing as evidence that forests behave like cooperatives, with vigorous trees deliberately feeding shaded seedlings.
+
+The evidence supports something narrower. That a substance moves between two organisms does not establish that either one intended the transfer, or that the recipient benefited enough to matter. Carbon may simply follow a gradient, flowing from where it is abundant to where it is scarce, much as water does. The fungus, moreover, is not a neutral pipe. It is an organism with interests of its own, and it may retain much of what passes through, trading resources on terms that favour itself rather than any particular tree.
+
+None of this makes the network unimportant. A seedling that gains even a modest supply of minerals in its first seasons may survive a drought it would otherwise not survive, and that is a large effect from a small transfer. The caution concerns the story we drape over the measurement. Describing the forest as generous is a metaphor; the data describe an exchange whose accounting has not yet been done.
+
+**The comparison with water flowing down a gradient serves mainly to:**",,120,,,,4,,show that the fungal threads carry mostly water rather than dissolved sugar,argue that carbon moves too slowly to reach a neighbouring tree in a season,suggest that the labelled carbon was washed through the soil by heavy rain,offer a mechanism for the transfer that needs no intention by either tree,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For much of the twentieth century, planners in growing cities treated the bicycle as a relic. Streets were widened, parking was added, and the space left for anyone on two wheels shrank to a painted strip beside fast traffic. Cycling did not disappear, but it became a choice for the brave.
+
+In the last three decades many of those same cities have reversed course. The reason is mostly arithmetic. A lane of road carries far more people per hour on bicycles than in cars, because a bicycle needs about a tenth of the space and, when parked, almost none. Cities that could not afford to widen a single street found they could move more residents simply by changing what the existing width was used for.
+
+Comfort turned out to matter more than exhortation. Where a city merely painted lines on the asphalt, ridership rose a little. Where it separated the cycle lane from moving traffic with a kerb or a row of parked cars, ridership rose sharply, and the new riders included many more children and older people. Surveys give a consistent explanation: most people are willing to cycle but unwilling to cycle beside lorries.
+
+The change has limits. Bicycles work best for trips under about eight kilometres, so a city spread thinly over a wide area will always need other options, and hills and heavy rain reduce the numbers. Freight and emergency vehicles still need road space. What the experience of recent decades suggests is narrower than a slogan: for short journeys in dense districts, the cheapest way to add capacity is often to give a little room to bicycles, and the room only works if it feels safe.
+
+**Which of the following best expresses the main idea of the passage?**",,100,,,,2,,Cities have returned to cycling because residents demanded a healthier way of travelling each day.,Cities have returned to cycling because protected lanes move many people cheaply on short trips.,Cities have returned to cycling because bicycles can replace cars on journeys of almost any length.,Cities have returned to cycling because widening roads for cars proved technically impossible to do.,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For much of the twentieth century, planners in growing cities treated the bicycle as a relic. Streets were widened, parking was added, and the space left for anyone on two wheels shrank to a painted strip beside fast traffic. Cycling did not disappear, but it became a choice for the brave.
+
+In the last three decades many of those same cities have reversed course. The reason is mostly arithmetic. A lane of road carries far more people per hour on bicycles than in cars, because a bicycle needs about a tenth of the space and, when parked, almost none. Cities that could not afford to widen a single street found they could move more residents simply by changing what the existing width was used for.
+
+Comfort turned out to matter more than exhortation. Where a city merely painted lines on the asphalt, ridership rose a little. Where it separated the cycle lane from moving traffic with a kerb or a row of parked cars, ridership rose sharply, and the new riders included many more children and older people. Surveys give a consistent explanation: most people are willing to cycle but unwilling to cycle beside lorries.
+
+The change has limits. Bicycles work best for trips under about eight kilometres, so a city spread thinly over a wide area will always need other options, and hills and heavy rain reduce the numbers. Freight and emergency vehicles still need road space. What the experience of recent decades suggests is narrower than a slogan: for short journeys in dense districts, the cheapest way to add capacity is often to give a little room to bicycles, and the room only works if it feels safe.
+
+**The passage mentions all of the following as limits on cycling EXCEPT:**",,95,,,,2,,sloping ground and spells of heavy rainfall,the price of buying and keeping up a bicycle,space that freight and emergency vehicles need,journeys longer than roughly eight kilometres,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For much of the twentieth century, planners in growing cities treated the bicycle as a relic. Streets were widened, parking was added, and the space left for anyone on two wheels shrank to a painted strip beside fast traffic. Cycling did not disappear, but it became a choice for the brave.
+
+In the last three decades many of those same cities have reversed course. The reason is mostly arithmetic. A lane of road carries far more people per hour on bicycles than in cars, because a bicycle needs about a tenth of the space and, when parked, almost none. Cities that could not afford to widen a single street found they could move more residents simply by changing what the existing width was used for.
+
+Comfort turned out to matter more than exhortation. Where a city merely painted lines on the asphalt, ridership rose a little. Where it separated the cycle lane from moving traffic with a kerb or a row of parked cars, ridership rose sharply, and the new riders included many more children and older people. Surveys give a consistent explanation: most people are willing to cycle but unwilling to cycle beside lorries.
+
+The change has limits. Bicycles work best for trips under about eight kilometres, so a city spread thinly over a wide area will always need other options, and hills and heavy rain reduce the numbers. Freight and emergency vehicles still need road space. What the experience of recent decades suggests is narrower than a slogan: for short journeys in dense districts, the cheapest way to add capacity is often to give a little room to bicycles, and the room only works if it feels safe.
+
+**It can be inferred that painted cycle lanes attract fewer new riders because:**",,120,,,,3,,they are built only in districts where very few residents own a bicycle,they are usually narrower than the width a bicycle actually needs to use,"they leave riders beside moving traffic, which most people will not take",they are marked in colours that drivers find difficult to notice in time,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For much of the twentieth century, planners in growing cities treated the bicycle as a relic. Streets were widened, parking was added, and the space left for anyone on two wheels shrank to a painted strip beside fast traffic. Cycling did not disappear, but it became a choice for the brave.
+
+In the last three decades many of those same cities have reversed course. The reason is mostly arithmetic. A lane of road carries far more people per hour on bicycles than in cars, because a bicycle needs about a tenth of the space and, when parked, almost none. Cities that could not afford to widen a single street found they could move more residents simply by changing what the existing width was used for.
+
+Comfort turned out to matter more than exhortation. Where a city merely painted lines on the asphalt, ridership rose a little. Where it separated the cycle lane from moving traffic with a kerb or a row of parked cars, ridership rose sharply, and the new riders included many more children and older people. Surveys give a consistent explanation: most people are willing to cycle but unwilling to cycle beside lorries.
+
+The change has limits. Bicycles work best for trips under about eight kilometres, so a city spread thinly over a wide area will always need other options, and hills and heavy rain reduce the numbers. Freight and emergency vehicles still need road space. What the experience of recent decades suggests is narrower than a slogan: for short journeys in dense districts, the cheapest way to add capacity is often to give a little room to bicycles, and the room only works if it feels safe.
+
+**The tone of the final paragraph is best described as:**",,115,,,,3,,"enthusiastic, urging cities to replace their car traffic with bicycles entirely","sceptical, doubting that the recent changes to city streets achieved anything","measured, marking out where cycle lanes help instead of stating a general rule","detached, refusing to take any position at all on the question under review",,,VARC/reading-comprehension,0.5
+VARC,VARC-ODD-1,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) Many plants depend on animals to carry their seeds well away from the parent tree.
+(2) Fleshy fruits attract birds and mammals, which eat the pulp and drop the seeds elsewhere.
+(3) Other seeds carry small hooks that catch on fur and are brushed off much later.
+(4) Wind speed over open grassland is recorded by instruments mounted on tall poles.
+(5) Such journeys reduce the competition between a seedling and the plant that produced it.
+
+**Which sentence is the odd one out?**",,190,,,,1,,(4),(2),(5),(1),(3),,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) Before railways, every town kept its own clock, set roughly by the position of the sun.
+(2) Athletes often train at altitude in the hope of raising the oxygen capacity of their blood.
+(3) Timetables grew confusing once a train could cross many such local times in one day.
+(4) Railway companies therefore imposed a single standard time along the whole of their lines.
+(5) Governments later turned these private arrangements into the time zones still used today.
+
+**Which sentence is the odd one out?**",,195,,,,2,,(5),(2),(4),(1),(3),,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) Trees planted along city streets do far more than soften the look of concrete.
+(2) Their canopies shade the pavement and bring summer temperatures down noticeably.
+(3) Their roots take up rainwater that would otherwise overwhelm drains during a storm.
+(4) Their leaves also trap much of the dust that passing traffic throws into the air.
+(5) Architects still disagree about whether glass facades suit historic city centres.
+
+**Which sentence is the odd one out?**",,185,,,,3,,(2),(4),(5),(1),(3),,VARC/odd-one-out,0.5
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The four sentences below, when arranged in the correct order, form a coherent paragraph.
+
+(1) Riders who still feel unsafe on the road go on avoiding it for months afterwards.
+(2) Planners therefore judge such projects over a span of years rather than weeks.
+(3) When a city paints a cycle lane along a busy road, the effect is rarely immediate.
+(4) Only as the numbers slowly build does the lane start to feel ordinary and safe.
+
+**Select the correct order.**",,210,,,,3,,3412,1432,3142,1342,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The four sentences below, when arranged in the correct order, form a coherent paragraph.
+
+(1) After about a week it is lively enough to raise a loaf without any added yeast.
+(2) A sourdough starter is nothing more than flour and water left to attract wild yeasts.
+(3) Bakers who keep feeding it can go on using the same starter for decades.
+(4) Once bubbles appear, the mixture is fed every day with a little fresh flour.
+
+**Select the correct order.**",,200,,,,3,,2431,4231,2413,4213,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The four sentences below, when arranged in the correct order, form a coherent paragraph.
+
+(1) Rising concern about the emissions of air travel then changed that calculation.
+(2) Cheap flights had made the sleeper look slow and expensive by comparison.
+(3) Several operators have since restored night routes between major European cities.
+(4) Night trains had almost disappeared from Europe by the early years of this century.
+
+**Select the correct order.**",,205,,,,2,,2413,4213,4231,2431,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The four sentences below, when arranged in the correct order, form a coherent paragraph.
+
+(1) Grams simply remove the guesswork that volume measures quietly introduce.
+(2) Bakers who want repeatable results therefore reach for a kitchen scale instead.
+(3) Recipes in many countries still ask the cook to measure flour by the cupful.
+(4) The same cup, though, holds different weights depending on how tightly it is packed.
+
+**Select the correct order.**",,210,,,,2,,4321,3421,3241,4231,,,VARC/para-jumble,0.5
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Open-plan offices were introduced partly to encourage conversation between colleagues. In practice many workers find the constant background noise distracting and put on headphones in order to concentrate, which cuts off the very exchanges the layout was meant to create.
+
+**Which option best summarises the paragraph?**",,160,,,,3,,Workers in open-plan offices wear headphones so that they can concentrate on their own tasks.,Offices ought to be rebuilt with private rooms so that colleagues can talk to one another freely.,"Open-plan offices defeat their own aim, since noise drives workers to shut themselves off.",Quiet matters more to office productivity than the conversation between colleagues ever did.,,,VARC/summary,0
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Delivery apps bring a restaurant orders it would never otherwise have received. They also take a share of every bill, and customers who once walked in now stay at home, so a busy kitchen can finish the month having sold more meals and kept less money.
+
+**Which option best summarises the paragraph?**",,180,,,,3,,Restaurants that use delivery apps must pay a commission on every single order received.,Customers order from home because delivery apps charge less than restaurants themselves do.,Delivery apps lift a restaurant's order count while thinning the margin it earns on each.,Restaurants should abandon delivery apps and serve only customers who come in person.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Where beavers return to a river they build dams, and parts of the valley flood. Farmers lose the use of some low-lying fields, but the new ponds slow floodwater heading downstream and hold water through dry spells, so the towns below gain what the fields lose.
+
+**Which option best summarises the paragraph?**",,185,,,,2,,"Beavers should be returned to every river, since their dams end both flooding and drought.",Beaver dams cost nearby farmland while handing downstream towns a gain in water security.,Beavers build dams that flood low-lying fields and take useful farmland out of production.,Farmers gain more from beaver ponds than the towns downstream do in long spells of dry weather.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-4,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+A translator of poetry cannot keep everything. Sound, rhythm and literal sense pull in different directions, and holding on to one of them usually means loosening the grip on another. Every finished translation is therefore a record of the choices its translator was willing to make.
+
+**Which option best summarises the paragraph?**",,195,,,,4,,"Skilled translators of poetry do manage to preserve sound, rhythm and literal meaning at once.","Poetry is best read in the original, because any translation destroys what really matters in it.",Translators of poetry find it hard to reproduce the rhythm of the original in another language.,"A poem's sound and sense compete, so translation records the trade-offs a translator accepts.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-5,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Cities that switch to bright white LED streetlights cut their electricity bills at once. Insects, however, are drawn to that part of the spectrum far more strongly than to the old orange lamps, and the moths gathering under the new lights are eaten or exhausted well before dawn.
+
+**Which option best summarises the paragraph?**",,180,,,,3,,Moths keep away from white LED lights and so survive better than they did under orange ones.,Cities ought to bring back orange streetlamps in order to protect their declining moths.,The savings from white LED street lighting carry a hidden cost for night-flying insects.,White LED streetlights consume markedly less electricity than the orange lamps they replace.,,,VARC/summary,0.5
+DILR,DILR-1,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Farid, Lena, Mirko, Priya and Tomas, finished a 5 km club race in five different positions, from first to fifth. No two runners finished together.
+
+- Priya finished ahead of Lena, and Lena finished ahead of Mirko.
+- Exactly one runner finished between Farid and Tomas, with Farid ahead of Tomas.
+- Priya did not finish first.
+
+**Which runner finished third?**",,200,,,,2,,Priya,Tomas,Farid,Lena,,,DILR/logic-tournament,0.5
+DILR,DILR-1,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Farid, Lena, Mirko, Priya and Tomas, finished a 5 km club race in five different positions, from first to fifth. No two runners finished together.
+
+- Priya finished ahead of Lena, and Lena finished ahead of Mirko.
+- Exactly one runner finished between Farid and Tomas, with Farid ahead of Tomas.
+- Priya did not finish first.
+
+**In which position did Lena finish?**",,180,,,,1,,Fourth,Second,Fifth,Third,,,DILR/logic-tournament,0.5
+DILR,DILR-1,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Farid, Lena, Mirko, Priya and Tomas, finished a 5 km club race in five different positions, from first to fifth. No two runners finished together.
+
+- Priya finished ahead of Lena, and Lena finished ahead of Mirko.
+- Exactly one runner finished between Farid and Tomas, with Farid ahead of Tomas.
+- Priya did not finish first.
+
+**Which of the following statements is true?**",,220,,,,3,,Lena finished immediately behind Tomas but ahead of Priya,Tomas finished immediately ahead of Priya,Mirko finished immediately behind Lena,Farid finished two places behind Priya,,,DILR/logic-tournament,0.5
+DILR,DILR-2,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four members of a college club, Anya, Boris, Carla and Dev, earned points in a month-long fundraising drive. Together they earned 120 points.
+
+- Boris earned 6 points more than Carla.
+- Anya earned exactly twice as many points as Dev.
+- Dev earned 16 points.
+
+**How many points did Carla earn?**",,190,,,,2,,36,33,30,39,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four members of a college club, Anya, Boris, Carla and Dev, earned points in a month-long fundraising drive. Together they earned 120 points.
+
+- Boris earned 6 points more than Carla.
+- Anya earned exactly twice as many points as Dev.
+- Dev earned 16 points.
+
+**Who earned the most points?**",,170,,,,3,,Carla,Dev,Boris,Anya,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four members of a college club, Anya, Boris, Carla and Dev, earned points in a month-long fundraising drive. Together they earned 120 points.
+
+- Boris earned 6 points more than Carla.
+- Anya earned exactly twice as many points as Dev.
+- Dev earned 16 points.
+
+**By how many points does the highest total exceed the lowest total?**",,195,,,,1,,23,27,7,17,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-3,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A beverage wholesaler reports last month's trade at its three depots. Table 1 gives the number of packs sold, in hundreds of packs. Table 2 gives the selling price of one pack, in euros, at that depot.
+
+Table 1: Packs sold (in hundreds)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 12 | 15 | 9 |
+| Herbal tea | 8 | 6 | 10 |
+| Cocoa | 5 | 9 | 11 |
+
+Table 2: Price per pack (in euros)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 20 | 20 | 25 |
+| Herbal tea | 10 | 15 | 10 |
+| Cocoa | 30 | 20 | 20 |
+
+**How many hundreds of packs were sold in total at the Ferrara depot?**",,150,,,,1,,30,28,25,32,,,DILR/di-table,0.5
+DILR,DILR-3,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A beverage wholesaler reports last month's trade at its three depots. Table 1 gives the number of packs sold, in hundreds of packs. Table 2 gives the selling price of one pack, in euros, at that depot.
+
+Table 1: Packs sold (in hundreds)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 12 | 15 | 9 |
+| Herbal tea | 8 | 6 | 10 |
+| Cocoa | 5 | 9 | 11 |
+
+Table 2: Price per pack (in euros)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 20 | 20 | 25 |
+| Herbal tea | 10 | 15 | 10 |
+| Cocoa | 30 | 20 | 20 |
+
+**Which depot and category together generated the highest revenue?**",,210,,,,1,,"Padua, espresso blend","Ferrara, cocoa","Verona, espresso blend","Ferrara, espresso blend",,,DILR/di-table,0.5
+DILR,DILR-3,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A beverage wholesaler reports last month's trade at its three depots. Table 1 gives the number of packs sold, in hundreds of packs. Table 2 gives the selling price of one pack, in euros, at that depot.
+
+Table 1: Packs sold (in hundreds)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 12 | 15 | 9 |
+| Herbal tea | 8 | 6 | 10 |
+| Cocoa | 5 | 9 | 11 |
+
+Table 2: Price per pack (in euros)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 20 | 20 | 25 |
+| Herbal tea | 10 | 15 | 10 |
+| Cocoa | 30 | 20 | 20 |
+
+**What was the combined revenue from cocoa across the three depots, in euros?**",,220,,,,3,,"52,000","61,000","55,000","58,000",,,DILR/di-table,0.5
+DILR,DILR-3,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A beverage wholesaler reports last month's trade at its three depots. Table 1 gives the number of packs sold, in hundreds of packs. Table 2 gives the selling price of one pack, in euros, at that depot.
+
+Table 1: Packs sold (in hundreds)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 12 | 15 | 9 |
+| Herbal tea | 8 | 6 | 10 |
+| Cocoa | 5 | 9 | 11 |
+
+Table 2: Price per pack (in euros)
+
+| Category | Verona | Padua | Ferrara |
+|---|--:|--:|--:|
+| Espresso blend | 20 | 20 | 25 |
+| Herbal tea | 10 | 15 | 10 |
+| Cocoa | 30 | 20 | 20 |
+
+**In how many of the nine depot and category combinations did revenue exceed 20,000 euros?**",,240,,,,2,,3,4,6,5,,,DILR/di-table,0.5
+DILR,DILR-4,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four volunteers, Ines, Karim, Nadia and Omar, each work exactly one lab shift during a week, on Monday, Tuesday, Wednesday and Thursday, one volunteer per day. Each is also assigned a different single duty: filing, inventory, reception or training.
+
+- Karim works on the day immediately after Nadia's shift.
+- Ines works neither on Monday nor on Thursday.
+- Omar's shift falls earlier in the week than Ines's shift.
+- The volunteer working on Wednesday is assigned inventory.
+- Ines is assigned reception, and Omar is assigned training.
+
+**Which volunteer works on Monday?**",,200,,,,1,,Omar,Karim,Ines,Nadia,,,DILR/logic-investment,0.5
+DILR,DILR-4,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four volunteers, Ines, Karim, Nadia and Omar, each work exactly one lab shift during a week, on Monday, Tuesday, Wednesday and Thursday, one volunteer per day. Each is also assigned a different single duty: filing, inventory, reception or training.
+
+- Karim works on the day immediately after Nadia's shift.
+- Ines works neither on Monday nor on Thursday.
+- Omar's shift falls earlier in the week than Ines's shift.
+- The volunteer working on Wednesday is assigned inventory.
+- Ines is assigned reception, and Omar is assigned training.
+
+**Which volunteer and duty are correctly paired?**",,210,,,,4,,Omar with reception,Karim with inventory,Nadia with filing,Karim with filing,,,DILR/logic-investment,0.5
+DILR,DILR-4,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four volunteers, Ines, Karim, Nadia and Omar, each work exactly one lab shift during a week, on Monday, Tuesday, Wednesday and Thursday, one volunteer per day. Each is also assigned a different single duty: filing, inventory, reception or training.
+
+- Karim works on the day immediately after Nadia's shift.
+- Ines works neither on Monday nor on Thursday.
+- Omar's shift falls earlier in the week than Ines's shift.
+- The volunteer working on Wednesday is assigned inventory.
+- Ines is assigned reception, and Omar is assigned training.
+
+**Suppose Ines and Karim exchange shift days, every duty staying with the same person. Who then works on the day immediately before the inventory shift?**",,260,,,,1,,Karim,Nadia,Omar,Ines,,,DILR/logic-investment,1
+DILR,DILR-5,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The bar chart shows the number of bicycles sold, in thousands, for three models of a manufacturer in each of the years 2021, 2022 and 2023.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-5_0.png)
+
+**How many thousand bicycles were sold in total across the three models in 2022?**",,150,,,,1,,63,65,60,58,,,DILR/di-graph,0.5
+DILR,DILR-5,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The bar chart shows the number of bicycles sold, in thousands, for three models of a manufacturer in each of the years 2021, 2022 and 2023.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-5_0.png)
+
+**By what percentage did Kestrel sales grow from 2021 to 2023?**",,180,,,,2,,120%,140%,58%,240%,,,DILR/di-graph,0.5
+DILR,DILR-5,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The bar chart shows the number of bicycles sold, in thousands, for three models of a manufacturer in each of the years 2021, 2022 and 2023.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-5_0.png)
+
+**What is the ratio of total Orion sales over the three years to total Nimbus sales over the three years?**",,200,,,,3,,3 : 5,5 : 4,4 : 5,2 : 3,,,DILR/di-graph,0.5
+DILR,DILR-5,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The bar chart shows the number of bicycles sold, in thousands, for three models of a manufacturer in each of the years 2021, 2022 and 2023.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-5_0.png)
+
+**What were the average annual sales of Kestrel, in thousands, over the three years?**",,160,,,,2,,20,18,17,16,,,DILR/di-graph,0.5
+DILR,DILR-5,5,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The bar chart shows the number of bicycles sold, in thousands, for three models of a manufacturer in each of the years 2021, 2022 and 2023.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-5_0.png)
+
+**By how many thousand units did the three-model total in 2023 exceed the three-model total in 2021?**",,190,,,,4,,34,40,38,36,,,DILR/di-graph,0.5
+QA,QA-MCQ-1,1,mcsc,text,"A school has 640 students, and 35% of them travel to school by bus. How many students travel by bus?",,60,,,,4,,192,416,448,224,,,QA/quant,0
+QA,QA-MCQ-2,1,mcsc,text,"A trader buys a chair for 250 euros and sells it at a profit of 15% on the cost price. What is the selling price, in euros?",,65,,,,4,,265.00,275.00,212.50,287.50,,,QA/quant,0
+QA,QA-MCQ-3,1,mcsc,text,A sum of 3300 euros is divided between Anna and Bruno in the ratio 4 : 7. How many euros does Bruno receive?,,70,,,,1,,2100,1650,2200,1200,,,QA/quant,0
+QA,QA-MCQ-4,1,mcsc,text,Six readings taken during an experiment add up to 261. What is the average of the six readings?,,55,,,,4,,37.3,52.2,44.5,43.5,,,QA/quant,0
+QA,QA-MCQ-5,1,mcsc,text,A circular flower bed has a diameter of 14 metres. What is the length of the fence needed to enclose it exactly once? (take pi = 22/7),,72,,,,4,,22 m,154 m,88 m,44 m,,,QA/quant,0
+QA,QA-MCQ-6,1,mcsc,text,"Two bells ring at intervals of 15 seconds and 18 seconds. If they ring together once, after how many seconds will they next ring together?",,75,,,,4,,45,270,180,90,,,QA/quant,0
+QA,QA-MCQ-7,1,mcsc,text,"A sum of 12000 euros is lent at 8% per annum simple interest. What total amount, in euros, is repaid at the end of 2 years and 6 months?",,125,,,,1,,14400,13920,14880,2400,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,A cyclist rides from a village to a market 30 km away at 15 km/h and returns along the same road at 10 km/h. What is the average speed for the whole trip?,,140,,,,3,,12.5 km/h,25 km/h,12 km/h,11 km/h,,,QA/quant,0.5
+QA,QA-MCQ-9,1,mcsc,text,"A water tank is 3/5 full. After 24 litres are drawn out, the tank is 1/3 full. What is the full capacity of the tank, in litres?",,150,,,,4,,40,120,72,90,,,QA/quant,0.5
+QA,QA-MCQ-10,1,mcsc,text,"A sum of 12000 euros is lent for 2 years at 10% per annum. By how many euros does the compound interest, compounded annually, exceed the simple interest for the same period?",,130,,,,1,,120 euros,240 euros,252 euros,100 euros,,,QA/quant,0.5
+QA,QA-MCQ-11,1,mcsc,text,"Tap A alone can fill an empty tank in 15 minutes, while an outlet pipe B alone can empty a full tank in 20 minutes. If both are opened together when the tank is empty, how long will the tank take to fill completely?",,120,,,,1,,60 minutes,35 minutes,45 minutes,30 minutes,,,QA/quant,0.5
+QA,QA-MCQ-12,1,mcsc,text,A laboratory has 40 litres of a solution in which acid forms 15% of the volume. How many litres of pure water must be added so that acid forms exactly 10% of the resulting solution?,,135,,,,4,,5 litres,10 litres,15 litres,20 litres,,,QA/quant,0.5
+QA,QA-MCQ-13,1,mcsc,text,"A box holds 5 red marbles and 3 green marbles. One marble is drawn at random, its colour is noted, and it is put back before a second marble is drawn. What is the probability that the two marbles drawn have the same colour?",,145,,,,1,,17/32,1/2,13/28,15/64,,,QA/quant,0.5
+QA,QA-MCQ-14,1,mcsc,text,A committee of 3 members is to be chosen from 5 men and 4 women. In how many ways can this be done if the committee must include at least one woman?,,150,,,,2,,64,74,84,40,,,QA/quant,0.5
+QA,QA-MCQ-15,1,mcsc,text,"A closed solid cylinder has a base radius of 7 cm and a height of 10 cm. Taking pi = 22/7, what is its total surface area?",,130,,,,4,,594 square cm,440 square cm,902 square cm,748 square cm,,,QA/quant,0.5
+QA,QA-MCQ-16,1,mcsc,text,"What is the smallest positive integer that leaves a remainder of 3 when divided by each of 6, 7 and 8, and is also exactly divisible by 11?",,230,,,,1,,1683,1680,2523,171,,,QA/quant,1
+QA,QA-MCQ-17,1,mcsc,text,"Working in pairs, A and B finish a job in 12 days, B and C finish the same job in 15 days, and A and C finish it in 20 days. Working all three together, in how many days will they finish the job?",,210,,,,3,,12 days,5 days,10 days,16 days,,,QA/quant,1
+QA,QA-MCQ-18,1,mcsc,text,In an arithmetic progression the sum of the first 15 terms is 600 and the 5th term is 22. What is the 20th term of this progression?,,215,,,,1,,112,118,100,106,,,QA/quant,1
+QA,QA-TITA-1,1,tita,text,In a geometric progression the first term is 5 and the common ratio is 3. What is the fourth term? Type your answer as an integer.,135,125,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-2,1,tita,text,"What is the sum of all even numbers from 2 to 40, both included? Type your answer as an integer.",420,130,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-3,1,tita,text,"The population of a town is 12500. During the first year it rises by 20%, and during the second year it falls by 10%. What is the population at the end of the second year? Type your answer as an integer.",13500,180,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-4,1,tita,text,"How many four-digit numbers can be formed using the digits 0, 1, 2, 3 and 4 if no digit is repeated in a number? Type your answer as an integer.",96,200,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-5,1,tita,text,A train 180 m long crosses a platform 240 m long in 21 seconds. What is the speed of the train in km/h? Type your answer as an integer.,72,190,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-6,1,tita,text,"What is the smallest positive integer that leaves a remainder of 3 when divided by 5, a remainder of 4 when divided by 6, and a remainder of 5 when divided by 7? Type your answer as an integer.",208,300,,,,,,,,,,,,QA/quant,1

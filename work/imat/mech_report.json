@@ -1,0 +1,32 @@
+{
+  "M1": [
+    {
+      "batch_longest_correct_pct": 3.3,
+      "tolerance_pct": 10.0,
+      "ids": "within tolerance"
+    }
+  ],
+  "M2": [
+    {
+      "histogram": {
+        "1": 60
+      },
+      "note": "balanced by imat_shuffle_options"
+    }
+  ],
+  "M3": [],
+  "M4": [],
+  "M5": [],
+  "M6": [],
+  "M7": [],
+  "M8": [],
+  "M9": [],
+  "M10": [],
+  "M11": [
+    {
+      "batch_correct_is_longest_pct": 3.3,
+      "cap_pct": 30.0,
+      "over_cap": false
+    }
+  ]
+}

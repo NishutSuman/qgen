@@ -1,0 +1,1187 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-SET1,1,mcsc,markdown,"## Comprehension
+
+#### Question No.1 to Question No.4 are based on the following passage
+### Read the passage and answer the folowing question.
+
+For decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.
+
+Researchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a ""save button"" for memories. ""When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,"" explains Walker. ""During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.""
+
+This process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called ""sleep on it"" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.
+
+The implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. ""When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,"" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. ""It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.""
+
+However, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.
+
+The analogy of sleep as a ""save button"" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. ""Sleep is more like an editor than a filing clerk,"" notes Walker. ""It doesn't just store memories; it rewrites them.""
+
+**""Sleep is more like an editor than a filing clerk"". What is the primary purpose of this comparison?**",,100,,,,2,,"To suggest that sleep sometimes creates false memories by editing our experiences, just as an editor might change the meaning of a text.","To emphasize that sleep actively transforms and integrates memories rather than simply storing them unchanged, unlike a passive filing system.","To argue that sleep is unreliable for memory consolidation because editors make mistakes, whereas filing clerks preserve information accurately.","To illustrate that sleep organizes memories into categories, similar to how a filing clerk would organize documents into folders.",,,VARC/Verbal Ability,0
+VARC,VARC-SET1,2,mcsc,markdown,"## Comprehension
+#### Question No.1 to Question No.4 are based on the following passage
+### Read the passage and answer the folowing question.
+
+For decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.
+
+Researchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a ""save button"" for memories. ""When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,"" explains Walker. ""During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.""
+
+This process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called ""sleep on it"" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.
+
+The implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. ""When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,"" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. ""It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.""
+
+However, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.
+
+The analogy of sleep as a ""save button"" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. ""Sleep is more like an editor than a filing clerk,"" notes Walker. ""It doesn't just store memories; it rewrites them.""
+
+**The author makes all of the following arguments in the passage, EXCEPT that:**",,100,,,,4,,"Sleep transfers memories from the hippocampus to the cortex, increasing overall storage capacity.",People who sleep after learning perform better on memory tests than those who remain awake.,Chronic sleep deprivation may contribute to learning difficulties and increased dementia rates.,All types of memories are consolidated equally during sleep regardless of their emotional significance.,,,VARC/Verbal Ability,0
+VARC,VARC-SET1,3,mcsc,markdown,"## Comprehension
+#### Question No.1 to Question No.4 are based on the following passage
+### Read the passage and answer the folowing question.
+
+For decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.
+
+Researchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a ""save button"" for memories. ""When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,"" explains Walker. ""During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.""
+
+This process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called ""sleep on it"" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.
+
+The implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. ""When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,"" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. ""It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.""
+
+However, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.
+
+The analogy of sleep as a ""save button"" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. ""Sleep is more like an editor than a filing clerk,"" notes Walker. ""It doesn't just store memories; it rewrites them.""
+
+**Which one of the following statements best summarizes the central point of the passage?**",,100,,,,3,,"Sleep is essential for physical rest and recovery, and without adequate sleep, the body cannot function properly.","The hippocampus has limited storage capacity compared to the cortex, which is why memory transfer during sleep is necessary.","Sleep plays an active role in memory consolidation, strengthening and reorganizing memories rather than simply preserving them.","Emotional memories are more important for survival than mundane memories, which is why they are preferentially consolidated during sleep.",,,VARC/Verbal Ability,0
+VARC,VARC-SET1,4,mcsc,markdown,"## Comprehension
+#### Question No.1 to Question No.4 are based on the following passage
+### Read the passage and answer the folowing question.
+
+For decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.
+
+Researchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a ""save button"" for memories. ""When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,"" explains Walker. ""During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.""
+
+This process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called ""sleep on it"" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.
+
+The implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. ""When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,"" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. ""It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.""
+
+However, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.
+
+The analogy of sleep as a ""save button"" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. ""Sleep is more like an editor than a filing clerk,"" notes Walker. ""It doesn't just store memories; it rewrites them.""
+
+**None of the following statements can be inferred from the passage EXCEPT that:**",,100,,,,3,,People with chronic insomnia will inevitably develop dementia as they age due to impaired memory consolidation.,"The ""save button"" analogy perfectly captures all aspects of how sleep consolidates memories without any limitations.",Sleep deprivation might have a greater impact on emotional memory processing than on the retention of neutral information.,"During REM sleep, the brain is completely inactive, which allows memories to be transferred from the hippocampus to the cortex.",,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:
+
+1. The standard QWERTY keyboard layout was designed in the 1870s for mechanical typewriters.
+2. Despite numerous attempts to introduce more efficient layouts, QWERTY remains dominant because of the massive cost of retraining users.
+3. The arrangement was intended to prevent the metal arms of frequently used letter combinations from jamming by placing them apart.
+4. Many musicians prefer digital keyboards because they offer a wider range of sounds and are more portable than traditional ones.
+5. Today, even though we no longer use mechanical typewriters, we continue to use this layout on our computers and smartphones.
+
+(Select the odd sentence number.)",,100,,,,4,,1,2,3,4,5,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:
+
+1. Social media algorithms are designed to maximize user engagement by showing content that users are likely to interact with.
+2. This creates ""echo chambers"" where people are primarily exposed to views similar to their own, reinforcing existing beliefs.
+3. Many experts believe that critical thinking skills should be taught in schools to help students evaluate information sources.
+4. As a result, users become less tolerant of opposing viewpoints and political polarization increases.
+5. Studies have shown that these echo chambers contribute to the spread of misinformation, as false content often generates strong emotional reactions.
+
+(Select the odd sentence number.)",,100,,,,3,,1,2,3,4,5,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## DIRECTIONS: Identify the most appropriate summary for the paragraph.
+
+The human microbiome—the collection of trillions of microorganisms living in and on our bodies—plays a far more significant role in human health than previously understood. These microbes, primarily bacteria residing in the gut, perform essential functions including aiding digestion, synthesizing vitamins, and training the immune system. Recent research suggests that disruptions to the microbiome, often caused by antibiotic overuse, poor diet, or excessive hygiene, may be linked to a range of modern health problems including allergies, autoimmune diseases, obesity, and even mental health conditions. The discovery of the gut-brain axis—a bidirectional communication system between the gut microbiome and the brain—has been particularly groundbreaking, suggesting that our microscopic residents may influence our mood, behavior, and cognition.",,100,,,,2,,The human microbiome consists of bacteria that help with digestion and may be linked to various diseases when disrupted.,"The human microbiome, especially gut bacteria, performs vital functions and its disruption may contribute to various health issues including physical and mental conditions, with the gut-brain axis suggesting microbial influence on cognition and mood.","Recent research shows that the human microbiome is important for health, and scientists have discovered a connection between the gut and brain called the gut-brain axis.","The microbiome is a collection of microorganisms that can be damaged by antibiotics and poor diet, leading to allergies, obesity, and autoimmune diseases.",,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## DIRECTIONS: Identify the most appropriate summary for the paragraph.
+
+Behavioral economics challenges the traditional economic assumption that humans are rational actors who always make decisions that maximize their utility. Drawing on insights from psychology, behavioral economists have demonstrated that people's decisions are often influenced by cognitive biases, emotions, and social factors. For instance, the ""anchoring effect"" shows that individuals rely too heavily on the first piece of information they receive when making decisions. Similarly, ""loss aversion"" demonstrates that people feel the pain of losing something more acutely than the pleasure of gaining something of equal value. These insights have important implications for public policy, as governments can design ""nudges"" that help people make better decisions without restricting their freedom of choice.",,100,,,,3,,"Behavioral economics uses psychological insights to show that human decisions are affected by biases and emotions, which has implications for how governments design policies.",Behavioral economics proves that traditional economic theories are completely wrong because people are irrational and make poor decisions due to cognitive biases.,"Behavioral economics incorporates insights from psychology to demonstrate that people's decisions deviate from rational utility maximization due to cognitive biases, emotions, and social factors, enabling policy interventions through nudges.","Behavioral economics focuses on cognitive biases like anchoring effect and loss aversion, which governments can exploit to manipulate people's choices.",,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## DIRECTIONS: Identify the most appropriate summary for the paragraph.
+
+The concept of ""herd immunity"" refers to a form of indirect protection from infectious disease that occurs when a sufficient percentage of a population has become immune to an infection, whether through vaccination or previous infections, thereby reducing the likelihood of infection for individuals who lack immunity. In populations where a large number of individuals are immune, chains of infection are likely to be disrupted, which stops or slows the spread of disease. The greater the proportion of individuals in a community who are immune, the smaller the probability that those who are not immune will come into contact with an infectious individual. This collective immunity is particularly important for protecting vulnerable individuals who cannot be vaccinated, such as newborns and people with compromised immune systems.",,100,,,,2,,"Herd immunity is achieved when most people in a population get vaccinated, which helps protect those who cannot receive vaccines.","Herd immunity occurs when enough people become immune through vaccination or infection, disrupting disease transmission and protecting vulnerable populations who lack immunity.",The concept of herd immunity suggests that infectious diseases can be eliminated if everyone in a population receives proper vaccination.,Herd immunity protects newborns and immunocompromised individuals by ensuring that a sufficient number of people have been previously infected.,,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given in this question, when properly sequenced, form a coherent paragraph. Decide on the proper order for the sentences and key in this sequence of four numbers as your answer:
+
+1. When the body doesn't get enough water, it cannot effectively regulate temperature, leading to fatigue and reduced physical performance.
+2. Additionally, even mild dehydration can impair cognitive functions such as concentration, alertness, and short-term memory.
+3. Water is essential for nearly every bodily function, from regulating temperature to transporting nutrients.
+4. This is why athletes are advised to drink water before, during, and after exercise, and why students are encouraged to stay hydrated during exams.
+
+(Choose the correct sequence.)",,100,,,,2,,3124,3214,1342,3142,,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given in this question, when properly sequenced, form a coherent paragraph. Decide on the proper order for the sentences and key in this sequence of four numbers as your answer:
+
+1. This phenomenon occurs because cold water is denser than warm water and sinks to the ocean floor.
+2. The Gulf Stream, for instance, carries warm water from the tropics to Northern Europe, giving countries like Britain a much milder climate than they would otherwise have.
+3. Ocean currents play a crucial role in regulating Earth's climate by distributing heat around the globe.
+4. As the warm surface water moves toward the poles, it cools down, creating a circulation pattern known as thermohaline circulation.
+
+(Choose the correct sequence.)",,100,,,,1,,3214,3124,2314,3241,,,VARC/Verbal Ability,0
+VARC,VARC-SET2,1,mcsc,markdown,"## Reading Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.
+
+Recent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. ""The placebo effect isn't just about patients feeling better psychologically,"" explains Dr. Ted Kaptchuk of Harvard Medical School. ""We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.""
+
+What makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.
+
+The implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.
+
+The challenge becomes even more intricate when we consider ""open-label placebos""—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.
+
+The metaphor of the placebo as a ""trick"" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. ""The real question isn't whether placebos work,"" notes Dr. Fabrizio Benedetti, a leading placebo researcher. ""It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.""
+
+**The author describes the placebo as a ""tool for accessing the body's own healing mechanisms"" rather than a ""trick."" What is the primary purpose of this reframing?**",,100,,,,2,,To suggest that placebos are just as effective as real medications and should replace expensive pharmaceutical treatments in most cases.,To shift from viewing placebos as deceptive practices to recognizing them as legitimate ways to engage natural physiological healing responses.,To argue that all healing is ultimately psychological and that the distinction between placebo and real medication is meaningless.,To emphasize that placebos work by tricking the body into activating healing mechanisms it wouldn't otherwise use.,,,VARC/Verbal Ability,0
+VARC,VARC-SET2,2,mcsc,markdown,"## Reading Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.
+
+Recent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. ""The placebo effect isn't just about patients feeling better psychologically,"" explains Dr. Ted Kaptchuk of Harvard Medical School. ""We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.""
+
+What makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.
+
+The implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.
+
+The challenge becomes even more intricate when we consider ""open-label placebos""—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.
+
+The metaphor of the placebo as a ""trick"" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. ""The real question isn't whether placebos work,"" notes Dr. Fabrizio Benedetti, a leading placebo researcher. ""It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.""
+
+**The author makes all of the following arguments in the passage, EXCEPT that:**",,100,,,,3,,"The placebo effect involves measurable changes in brain chemistry, not just psychological perceptions of improvement.","The effectiveness of placebos can be influenced by factors such as cost, method of administration, and the doctor-patient relationship.","Open-label placebos, which patients know contain no active ingredients, have been shown to produce no therapeutic benefit whatsoever.",There are ethical concerns about whether doctors should actively leverage placebo effects in clinical practice.,,,VARC/Verbal Ability,0
+VARC,VARC-SET2,3,mcsc,markdown,"## Reading Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.
+
+Recent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. ""The placebo effect isn't just about patients feeling better psychologically,"" explains Dr. Ted Kaptchuk of Harvard Medical School. ""We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.""
+
+What makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.
+
+The implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.
+
+The challenge becomes even more intricate when we consider ""open-label placebos""—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.
+
+The metaphor of the placebo as a ""trick"" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. ""The real question isn't whether placebos work,"" notes Dr. Fabrizio Benedetti, a leading placebo researcher. ""It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.""
+
+**Which one of the following statements best summarizes the central point of the passage?**",,100,,,,3,,The placebo effect is primarily a psychological phenomenon that makes patients feel better without producing real physiological changes.,"Recent research has shown that placebos can be as effective as real medications, raising questions about the value of expensive pharmaceutical treatments.",The placebo effect represents a genuine physiological response that challenges traditional mind-body distinctions and raises complex questions about its ethical use in medicine.,"Doctors should always inform patients when they are receiving placebos, as deception undermines the trust necessary for effective medical care.",,,VARC/Verbal Ability,0
+VARC,VARC-SET2,4,mcsc,markdown,"## Reading Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.
+
+Recent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. ""The placebo effect isn't just about patients feeling better psychologically,"" explains Dr. Ted Kaptchuk of Harvard Medical School. ""We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.""
+
+What makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.
+
+The implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.
+
+The challenge becomes even more intricate when we consider ""open-label placebos""—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.
+
+The metaphor of the placebo as a ""trick"" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. ""The real question isn't whether placebos work,"" notes Dr. Fabrizio Benedetti, a leading placebo researcher. ""It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.""
+
+**None of the following statements can be inferred from the passage EXCEPT that:**",,100,,,,1,,"The effectiveness of a medication might be enhanced by factors beyond its chemical composition, including how it is presented and the quality of the doctor-patient interaction.","All medical treatments work primarily through placebo effects, and the active ingredients in medications contribute minimally to their effectiveness.",Open-label placebos work through exactly the same neurological mechanisms as traditional placebos that involve an element of deception.,The placebo effect only occurs in patients who have a naturally optimistic personality or strong belief in alternative medicine.,,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Odd Sentence Out
+
+**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out.
+
+1. Artificial intelligence systems are increasingly being used to make high-stakes decisions about loan applications, job interviews, and criminal sentencing.
+2. These algorithms often perpetuate and amplify existing biases because they are trained on historical data that reflects past discrimination.
+3. Many technology companies are investing heavily in quantum computing research, hoping to achieve computational breakthroughs.
+4. For instance, an AI trained on past hiring decisions may discriminate against women if the historical data shows that men were predominantly hired.
+5. The lack of transparency in these ""black box"" algorithms makes it difficult to identify and correct discriminatory patterns.
+
+## Select the odd sentence number.",,100,,,,3,,1,2,3,4,5,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Odd Sentence Out
+
+**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out.
+
+1. The traditional five-paragraph essay structure—introduction, three body paragraphs, and conclusion—has dominated writing instruction for decades.
+2. Critics argue that this rigid format stifles creativity and fails to prepare students for the diverse writing demands of college and professional life.
+3. Many educators believe that teaching students multiple languages from an early age improves cognitive flexibility and cultural awareness.
+4. Instead of teaching a single formula, writing instructors increasingly emphasize helping students understand how purpose, audience, and context should shape their organizational choices.
+5. Despite these criticisms, the five-paragraph essay remains popular because it provides a clear, teachable structure for inexperienced writers.
+
+## Select the odd sentence number.",,100,,,,3,,1,2,3,4,5,,VARC/Verbal Ability,0
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Sentence Sequence
+
+**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.
+
+1. As a result, farmers who grow these crops become dependent on purchasing new seeds each year, rather than saving seeds from their harvest as they traditionally did.
+2. However, critics argue that this system prioritizes corporate profits over food security and farmers' rights, particularly in developing countries.
+3. Seed patents allow biotechnology companies to protect their investment in developing drought-resistant, pest-resistant, and higher-yielding crop varieties.
+4. This dependence, combined with the high cost of patented seeds, has contributed to farmer debt and, in some regions, even farmer suicides.
+
+## Choose the correct sequence.",,100,,,,1,,3124,3214,1342,3142,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Sentence Sequence
+
+**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.
+
+1. These tiny particles can bypass the body's natural filtration systems and accumulate in organs, potentially causing inflammation and other health problems.
+2. Recent studies have detected microplastics in human blood, lung tissue, and even placental tissue, raising urgent questions about their health impacts.
+3. Microplastics—plastic fragments smaller than 5 millimeters—have become ubiquitous in our environment, contaminating oceans, soil, and air.
+4. Scientists are now racing to understand the long-term consequences of this exposure, but the slow nature of chronic health effects makes definitive conclusions difficult.
+
+## Choose the correct sequence.",,100,,,,2,,3214,3124,2314,3241,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Identify the most appropriate summary for the paragraph.
+
+The concept of ""food deserts""—urban areas where residents lack access to affordable, nutritious food—has gained significant attention in discussions of public health and social inequality. These areas, typically low-income neighborhoods, are characterized by an absence of supermarkets and grocery stores, leaving residents dependent on convenience stores and fast-food restaurants that offer few healthy options. The resulting poor nutrition contributes to higher rates of obesity, diabetes, and cardiovascular disease in these communities. However, some researchers have challenged the food desert framework, arguing that simply increasing access to healthy food doesn't automatically change eating habits. They point to ""food deserts"" where supermarkets have opened without significantly improving community health outcomes, suggesting that cultural preferences, cooking skills, time constraints, and ingrained habits play equally important roles in food choices. This debate highlights the complexity of addressing nutrition-related health disparities—solutions require not just infrastructure changes, but also education, economic opportunity, and community engagement.
+
+## Choose the best summary.",,100,,,,2,,"Food deserts are urban areas without access to healthy food, and this lack of access is the primary cause of obesity and diet-related diseases in low-income communities.","The food desert concept identifies areas lacking healthy food access, but critics argue that merely improving access doesn't automatically improve health outcomes, as food choices are influenced by multiple factors beyond availability.","Research has shown that food deserts don't actually exist, as even low-income neighborhoods typically have adequate access to nutritious food if residents are willing to travel.","Low-income communities suffer from poor nutrition because residents prefer fast food and lack the education to make healthy choices, not because of limited access to supermarkets.",,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Identify the most appropriate summary for the paragraph.
+
+The ""Mozart effect""—the claim that listening to Mozart's music temporarily enhances spatial-temporal reasoning—captured public imagination in the 1990s, leading to everything from prenatal Mozart playlists to government programs distributing classical music CDs to new parents. The original 1993 study by Rauscher, Shaw, and Ky found that college students who listened to Mozart's Sonata for Two Pianos in D Major performed better on spatial reasoning tasks than those who sat in silence or listened to relaxation instructions. However, subsequent research has largely debunked the Mozart effect as originally conceived. Multiple replication studies have failed to find consistent evidence that Mozart's music specifically enhances cognition. What researchers have found instead is a more general ""arousal and mood"" effect—any stimulating and enjoyable music can temporarily boost performance on certain tasks by increasing alertness and improving mood. In other words, if you hate classical music, listening to Mozart might actually hurt your performance compared to listening to music you enjoy. The Mozart effect story illustrates how a single study with modest findings can be amplified through media coverage and public enthusiasm into a cultural phenomenon that outpaces the scientific evidence.
+
+## Choose the best summary.",,100,,,,3,,"The Mozart effect has been scientifically proven to enhance children's intelligence, which is why parents should play classical music for their babies and toddlers.","Research has shown that listening to any type of music has the same cognitive benefits, making Mozart's compositions no more effective than other musical genres.","The original Mozart effect claim has not held up to scientific scrutiny, with research instead suggesting that enjoyable, stimulating music generally can boost performance through arousal and mood, regardless of genre.","The Mozart effect is a complete myth with no scientific basis whatsoever, and listening to music has no impact on cognitive performance or mood.",,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Identify the most appropriate summary for the paragraph.
+
+The debate over universal basic income (UBI)—a government program providing all citizens with regular, unconditional cash payments—has intensified as automation threatens to displace workers across industries. Proponents argue that UBI would provide economic security in an era of job instability, reduce poverty and inequality, eliminate the bureaucratic complexity of means-tested welfare programs, and give people the freedom to pursue education, entrepreneurship, or caregiving without the immediate pressure of survival. They point to pilot programs in Finland and Kenya showing positive outcomes including reduced stress and increased entrepreneurial activity. Critics, however, raise concerns about the massive cost of such programs, arguing that they would require unprecedented tax increases or radical cuts to other social services. They also worry that unconditional payments might reduce work incentive, leading to labor shortages and economic stagnation. Additionally, some critics from the political left argue that UBI is a neoliberal solution that accepts rather than challenges the fundamental inequalities of capitalism, potentially replacing robust social services with minimal cash payments. The limited scale and duration of existing pilot programs, critics note, makes it difficult to predict how UBI would function as a permanent, society-wide system.
+
+## Choose the best summary.",,100,,,,2,,"Universal basic income would provide financial security and increase entrepreneurship, as demonstrated by successful pilot programs in multiple countries that prove UBI is economically sustainable at scale.","UBI is a controversial proposal with supporters highlighting benefits like security and simplified welfare, while critics cite concerns about costs, work disincentives, and whether it truly addresses economic inequality, with existing pilots too limited to resolve these debates.","The debate over universal basic income shows that while conservatives worry about costs and work disincentives, progressive critics actually support UBI because it represents a fundamental challenge to capitalism.",Universal basic income has been proven ineffective by pilot programs showing that unconditional cash payments reduce people's motivation to work and contribute to society.,,,VARC/Verbal Ability,0.5
+VARC,VARC-SET3,1,mcsc,markdown,"## Comprehension
+
+
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+The conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial ""eureka moment"" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.
+
+Dr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. ""What we call creativity is really an incremental process,"" he explains. ""When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements."" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.
+
+This understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This ""inspiration through perspiration"" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.
+
+The phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls ""group flow""—a collaborative state where ideas build upon each other through rapid interaction and exchange. ""Innovation is almost always a team sport,"" notes Dr. Teresa Amabile of Harvard Business School. ""Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.""
+
+However, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. ""Creativity isn't about thinking outside the box,"" Sawyer argues. ""It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.""
+
+The metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for ""T-shaped"" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation.
+
+**The primary purpose of the statement about understanding what's inside the box first is to:**",,100,,,,2,,Argue that creativity is impossible without extensive formal education and training within a specific discipline.,"Emphasize that creative innovation requires deep domain expertise as a foundation before expanding into new territory, rather than ignoring existing knowledge.",Suggest that truly creative individuals should focus exclusively on mastering one field and avoid exposure to other disciplines.,Illustrate that creative breakthroughs occur by completely rejecting conventional approaches and starting from scratch.,,,VARC/Verbal Ability,0.5
+VARC,VARC-SET3,2,mcsc,markdown,"## Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial ""eureka moment"" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.
+
+Dr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. ""What we call creativity is really an incremental process,"" he explains. ""When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements."" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.
+
+This understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This ""inspiration through perspiration"" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.
+
+The phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls ""group flow""—a collaborative state where ideas build upon each other through rapid interaction and exchange. ""Innovation is almost always a team sport,"" notes Dr. Teresa Amabile of Harvard Business School. ""Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.""
+
+However, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. ""Creativity isn't about thinking outside the box,"" Sawyer argues. ""It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.""
+
+The metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for ""T-shaped"" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation.
+
+**The author makes all of the following claims, EXCEPT that:**",,100,,,,4,,Examination of famous inventors' notebooks reveals gradual refinement rather than sudden breakthroughs.,People who work on creative problems regularly produce more innovative solutions than those who wait for inspiration.,Successful innovation teams demonstrate that breakthrough ideas emerge from collaborative exchange rather than individual genius.,Creative breakthroughs occur with equal frequency across all domains regardless of an individual's expertise or knowledge level.,,,VARC/Verbal Ability,0.5
+VARC,VARC-SET3,3,mcsc,markdown,"## Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial ""eureka moment"" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.
+
+Dr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. ""What we call creativity is really an incremental process,"" he explains. ""When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements."" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.
+
+This understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This ""inspiration through perspiration"" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.
+
+The phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls ""group flow""—a collaborative state where ideas build upon each other through rapid interaction and exchange. ""Innovation is almost always a team sport,"" notes Dr. Teresa Amabile of Harvard Business School. ""Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.""
+
+However, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. ""Creativity isn't about thinking outside the box,"" Sawyer argues. ""It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.""
+
+The metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for ""T-shaped"" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation.
+
+**The central argument of the passage is best captured by:**",,100,,,,2,,"True creativity requires waiting for moments of spontaneous inspiration, as forced creative work rarely produces innovative results.","Creativity is an incremental process involving systematic recombination of knowledge, consistent effort, and deep domain expertise rather than sudden inspiration.","Group collaboration is essential for all creative work, as individuals working alone cannot produce innovative solutions.","The brain's unconscious processing of information is the sole determinant of creative output, making conscious effort largely irrelevant.",,,VARC/Verbal Ability,0.5
+VARC,VARC-SET3,4,mcsc,markdown,"## Comprehension
+
+### Passage
+#### Question No.1 to Question No.4 are based on the following passage
+
+
+The conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial ""eureka moment"" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.
+
+Dr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. ""What we call creativity is really an incremental process,"" he explains. ""When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements."" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.
+
+This understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This ""inspiration through perspiration"" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.
+
+The phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls ""group flow""—a collaborative state where ideas build upon each other through rapid interaction and exchange. ""Innovation is almost always a team sport,"" notes Dr. Teresa Amabile of Harvard Business School. ""Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.""
+
+However, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. ""Creativity isn't about thinking outside the box,"" Sawyer argues. ""It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.""
+
+The metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for ""T-shaped"" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation.
+
+**The following can be inferred from the passage EXCEPT that:**",,100,,,,4,,Individuals who work in multiple unrelated fields will inevitably produce more creative innovations than specialists with deep expertise in one area.,The muscle-building metaphor completely captures all aspects of how creative capacity develops without any limitations.,"Group flow states guarantee breakthrough innovations whenever teams collaborate, regardless of individual preparation or expertise.","The subjective experience of sudden insight may not accurately reflect the gradual, incremental nature of the underlying creative process.",,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Odd Sentence Out
+
+**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and select the number of the sentence as your answer.
+
+1. Artificial intelligence systems are increasingly being used in hiring decisions, analyzing résumés and predicting candidate success.
+2. These algorithms can inadvertently perpetuate historical biases present in training data, such as gender or racial discrimination.
+3. Renewable energy sources like solar and wind power are becoming more cost-effective than traditional fossil fuels.
+4. Consequently, many companies have faced criticism for automated hiring systems that discriminate against qualified candidates from underrepresented groups.
+5. Critics argue that without careful oversight, AI-driven hiring may actually increase workplace inequality rather than reduce it.
+
+## Select the odd sentence number:",,100,,,,3,,1,2,3,4,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Odd Sentence Out
+
+**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and select the number of the sentence as your answer.
+
+1. Ancient Romans developed concrete by mixing volcanic ash, lime, and seawater, creating structures that have lasted over two thousand years.
+2. Modern concrete, while faster to produce, often begins deteriorating within decades due to its chemical composition.
+3. Scientists studying Roman concrete have discovered that seawater actually strengthens it over time through a rare chemical reaction.
+4. Many professional chefs prefer cast iron cookware because it distributes heat evenly and develops a natural non-stick surface.
+5. Researchers are now attempting to recreate Roman concrete formulas to develop more durable and sustainable building materials.
+
+## Select the odd sentence number:",,100,,,,4,,1,2,3,4,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Sentence Sequence
+
+**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.
+
+1. This mechanism allows fish to conserve energy while maintaining the oxygen supply necessary for their tissues.
+2. Unlike mammals that breathe air, fish extract dissolved oxygen from water using specialized organs called gills.
+3. As water flows over the gill filaments, oxygen diffuses into the blood while carbon dioxide diffuses out.
+4. The efficiency of this system depends on the countercurrent exchange mechanism, where blood and water flow in opposite directions.
+
+## Choose the correct sequence:",,100,,,,1,,2341,2431,2314,4231,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Paragraph Organization
+
+### Sentence Sequence
+
+**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.
+
+1. For example, babies who hear multiple languages regularly develop enhanced abilities to distinguish between different speech sounds.
+2. Research shows that exposure to multiple languages in early childhood provides significant cognitive advantages.
+3. These benefits extend beyond language, improving problem-solving skills, mental flexibility, and even delaying the onset of dementia in later life.
+4. This is why linguists recommend introducing children to second languages as early as possible, ideally before age seven.
+
+## Choose the correct sequence:",,100,,,,1,,2134,1234,2143,2314,,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.
+
+The placebo effect demonstrates that the mind can influence the body's physical response to treatment, even when no active medical ingredient is administered. When patients believe they are receiving effective treatment, measurable physiological changes can occur, including pain reduction, improved immune function, and faster healing. This phenomenon is not simply ""mind over matter"" or wishful thinking—brain imaging studies show that placebos trigger the release of real biochemical substances like endorphins and dopamine. The placebo effect is so powerful that all new medications must be tested against placebos in clinical trials to determine their true effectiveness. However, ethical questions arise about whether doctors should sometimes prescribe placebos, given that deception may be necessary for the effect to work, potentially undermining the trust between physician and patient.
+
+## Choose the best summary:",,100,,,,1,,"The placebo effect shows that belief in treatment can trigger real physiological responses, requiring new medications to be tested against placebos, though its use raises ethical concerns about deception in medical practice.","The placebo effect occurs when patients improve simply because they believe they are being treated, which is why doctors must test all new medications carefully.",The placebo effect proves that most physical symptoms are imaginary and can be cured through positive thinking without actual medical intervention.,"The placebo effect demonstrates that the mind influences physical healing through biochemical changes, which is essential for clinical trials but poses ethical dilemmas.",,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.
+
+The tragedy of the commons refers to a situation where individuals, acting independently in their own self-interest, collectively deplete or degrade a shared resource, even when such depletion is contrary to everyone's long-term interests. First articulated by ecologist Garrett Hardin in 1968, the concept explains why common resources like fisheries, forests, and the atmosphere are often overexploited. Each person or entity gains the full benefit of exploiting the resource but shares the cost of depletion with others, creating an incentive structure that leads to overconsumption. Solutions to this problem include establishing property rights, government regulation, or developing community-based management systems where users collectively agree on sustainable practices. The concept has been applied beyond environmental issues to problems ranging from antibiotic resistance (where overuse of antibiotics benefits individual patients but creates resistant bacteria that harm everyone) to internet bandwidth consumption.
+
+## Choose the best summary:",,100,,,,1,,"The tragedy of the commons occurs when shared resources are depleted because individuals pursuing self-interest create collective harm, with solutions including property rights, regulation, or community management, and applications extending beyond environmental issues.",The tragedy of the commons is an environmental concept that explains why fisheries and forests are being destroyed by greedy individuals.,The tragedy of the commons shows that people are inherently selfish and will always exploit shared resources unless governments force them to stop.,"The tragedy of the commons, introduced by Garrett Hardin, describes how shared resources get depleted when everyone uses them for personal gain.",,,VARC/Verbal Ability,0.5
+VARC,,,mcsc,markdown,"## Summary Identification
+
+**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.
+
+Neuroplasticity—the brain's ability to reorganize itself by forming new neural connections throughout life—has fundamentally challenged the long-held belief that the adult brain is fixed and unchangeable. Research demonstrates that the brain can adapt structurally and functionally in response to experience, learning, and even injury. London taxi drivers, for instance, show enlarged hippocampi (brain regions associated with spatial navigation) after years of memorizing the city's complex street layout. Similarly, stroke patients can recover lost functions as undamaged brain areas assume responsibilities previously handled by damaged regions. This adaptability has profound implications for education, rehabilitation, and cognitive aging. However, neuroplasticity is not unlimited—the degree of change possible decreases with age, and certain critical periods in development remain important. Moreover, neuroplasticity can be maladaptive, as seen in chronic pain conditions where the brain becomes oversensitive to pain signals.
+
+## Choose the best summary:",,100,,,,2,,"Neuroplasticity is the brain's ability to form new connections throughout life in response to experience and injury, with significant implications for learning and recovery.","Neuroplasticity shows that the adult brain can reorganize itself structurally and functionally, as demonstrated by taxi drivers and stroke patients, though this capacity decreases with age and can sometimes be maladaptive, challenging the notion of a fixed adult brain.","Recent research on neuroplasticity has proven that the brain can change at any age, which means that anyone can recover completely from brain injuries.","Neuroplasticity refers to how the brain adapts to new experiences, and studies of London taxi drivers show that learning new skills can physically change brain structure.",,,VARC/Verbal Ability,0.5
+DILR,DILR-SET1,1,mcsc,markdown,"## SET: 1 - **QUIZ SCORE**
+### Question  No.1 to Question No.3 are based on the same Set.
+
+### Read the following and answer the questions
+Five students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.
+
+**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.
+
+You are told:
+
+1. All five students scored **different** marks.
+2. The **total** marks of all five students combined is **30**.
+3. Exactly **one** student scored the **maximum possible marks**.
+4. **Chitra scored 2 marks less than Aman.**
+5. **Dev scored 2 marks more than Bala.**
+6. **Esha scored the lowest marks.**
+7. **Bala and Esha together scored 6 marks.**
+
+**How many questions did Dev answer correctly?**",,120,,,,3,,1,2,3,4,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET1,2,mcsc,markdown,"## SET: 1 - **QUIZ SCORE**
+### Question  No.1 to Question No.3 are based on the same Set.
+
+### Read the following and answer the questions
+Five students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.
+
+**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.
+
+You are told:
+
+1. All five students scored **different** marks.
+2. The **total** marks of all five students combined is **30**.
+3. Exactly **one** student scored the **maximum possible marks**.
+4. **Chitra scored 2 marks less than Aman.**
+5. **Dev scored 2 marks more than Bala.**
+6. **Esha scored the lowest marks.**
+7. **Bala and Esha together scored 6 marks.**
+
+**Who scored exactly 8 marks?**",,120,,,,2,,Aman,Chitra,Dev,None of them,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET1,3,mcsc,markdown,"## SET: 1 - **QUIZ SCORE**
+### Question  No.1 to Question No.3 are based on the same Set.
+
+### Read the following and answer the questions
+Five students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.
+
+**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.
+
+You are told:
+
+1. All five students scored **different** marks.
+2. The **total** marks of all five students combined is **30**.
+3. Exactly **one** student scored the **maximum possible marks**.
+4. **Chitra scored 2 marks less than Aman.**
+5. **Dev scored 2 marks more than Bala.**
+6. **Esha scored the lowest marks.**
+7. **Bala and Esha together scored 6 marks.**
+
+**Who scored the highest marks?**",,120,,,,1,,Aman,Bala,Dev,None of them,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,,,mcsc,markdown,"## SET: 2 - **DI SET: SMARTPHONE SALES**
+### Question  No.4 to Question No.7 are based on the same Set.
+
+### Read the following and answer the questions
+
+**Table 1: Units Sold (in ’000 units)**
+![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)
+
+
+
+**Table 2: Average Selling Price (₹ per unit)**
+![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)
+
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+## What was the **total revenue in Q2** (in ₹ million)?",,120,,,,2,,72.2,74.2,76.1,70.4,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET2,1,mcsc,markdown,"## SET: 2 - **DI SET: SMARTPHONE SALES**
+### Question  No.4 to Question No.7 are based on the same Set.
+
+### Read the following and answer the questions
+**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).
+
+**Table 1: Units Sold (in ’000 units)**
+![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)
+
+
+
+**Table 2: Average Selling Price (₹ per unit)**
+![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)
+
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**Which model shows the **highest percentage increase in revenue from Q1 to Q3**?**",,120,,,,4,,Delta,Beta,Alpha,Gamma,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET2,2,mcsc,markdown,"## SET: 2 - **DI SET: SMARTPHONE SALES**
+### Question  No.4 to Question No.7 are based on the same Set.
+
+### Read the following and answer the questions
+**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).
+
+**Table 1: Units Sold (in ’000 units)**
+![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)
+
+
+
+**Table 2: Average Selling Price (₹ per unit)**
+![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)
+
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**If **Gamma’s Q3 price** was reduced by **10%** (units unchanged), what would be the **new total revenue in Q3** (in ₹ million)?**",,120,,,,1,,73.8,74.6,75.1,76.1,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET2,3,mcsc,markdown,"## SET: 2 - **DI SET: SMARTPHONE SALES**
+### Question  No.4 to Question No.7 are based on the same Set.
+
+### Read the following and answer the questions
+**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).
+
+**Table 1: Units Sold (in ’000 units)**
+![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)
+
+
+
+**Table 2: Average Selling Price (₹ per unit)**
+![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)
+
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**What is the **weighted average selling price of Alpha** across Q1–Q3 (weighted by units sold)?**",,120,,,,4,,₹509,₹515,₹513,₹511,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET3,1,mcsc,markdown,"## SET: 3 - **TOURNAMENT**
+### Question  No.8 to Question No.11 are based on the same Set.
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.
+
+The goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.
+
+The following information is known:
+
+1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.
+2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.
+3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.
+4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.
+5. Arsenal's only loss was against Chelsea, who won that match 2-1.
+6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.
+7. Dortmund did not win a single match in the tournament and finished with 2 points.
+8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.
+9. Milan finished last with only 1 point and a goal difference of -7.
+10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0.
+
+**What is the total number of matches lost by Juventus, Dortmund, and Milan combined?**",,120,,,,1,,9,7,8,10,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET3,2,mcsc,markdown,"## SET: 3 - **TOURNAMENT**
+### Question  No.8 to Question No.11 are based on the same Set.
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.
+
+The goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.
+
+The following information is known:
+
+1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.
+2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.
+3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.
+4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.
+5. Arsenal's only loss was against Chelsea, who won that match 2-1.
+6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.
+7. Dortmund did not win a single match in the tournament and finished with 2 points.
+8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.
+9. Milan finished last with only 1 point and a goal difference of -7.
+10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0.
+
+**How many goals did Bayern Munich score in their match against AC Milan?**",,120,,,,3,,0,1,2,3,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET3,3,mcsc,markdown,"## SET: 3 - **TOURNAMENT**
+### Question  No.8 to Question No.11 are based on the same Set.
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.
+
+The goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.
+
+The following information is known:
+
+1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.
+2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.
+3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.
+4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.
+5. Arsenal's only loss was against Chelsea, who won that match 2-1.
+6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.
+7. Dortmund did not win a single match in the tournament and finished with 2 points.
+8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.
+9. Milan finished last with only 1 point and a goal difference of -7.
+10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0.
+
+**How many points did Chelsea accumulate in the tournament?**",,120,,,,3,,9,10,11,12,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,,,mcsc,markdown,"## **TOURNAMENT**
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.
+
+The goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.
+
+The following information is known:
+
+1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.
+2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.
+3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.
+4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.
+5. Arsenal's only loss was against Chelsea, who won that match 2-1.
+6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.
+7. Dortmund did not win a single match in the tournament and finished with 2 points.
+8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.
+9. Milan finished last with only 1 point and a goal difference of -7.
+10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0.
+
+## How many matches ended in a draw in the tournament?",,120,,,,1,,4,3,2,5,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET4,1,mcsc,markdown,"## SET: 1 - Quiz Scoreboard Deduction
+#### Question No.1 to Question No.4 are based on the same SET
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.
+
+**Scoring rule (per question):**
+- Correct = **+2**
+- Incorrect = **-1**
+- Unattempted = **0**
+(Maximum possible score = **16**)
+
+### The following information is known:
+1. All six students scored **different** total marks.
+2. The **total** marks scored by all six students combined is **50**.
+3. Exactly **one** student attempted **all 8 questions**.
+4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.
+5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.
+6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.
+7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.
+8. Dev’s total score was exactly **1 mark more** than Bala’s total score.
+9. **Farhan** got exactly **2 questions incorrect**.
+10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**.
+
+**How many questions did **Bala** answer correctly?**",,120,,,,1,,4,5,6,7,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET4,2,mcsc,markdown,"## SET: 1 - Quiz Scoreboard Deduction
+#### Question No.1 to Question No.4 are based on the same SET
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.
+
+**Scoring rule (per question):**
+- Correct = **+2**
+- Incorrect = **-1**
+- Unattempted = **0**
+(Maximum possible score = **16**)
+
+### The following information is known:
+1. All six students scored **different** total marks.
+2. The **total** marks scored by all six students combined is **50**.
+3. Exactly **one** student attempted **all 8 questions**.
+4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.
+5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.
+6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.
+7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.
+8. Dev’s total score was exactly **1 mark more** than Bala’s total score.
+9. **Farhan** got exactly **2 questions incorrect**.
+10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**.
+
+**What was **Esha’s total score**?**",,120,,,,3,,2,3,4,5,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET4,3,mcsc,markdown,"## SET: 1 - Quiz Scoreboard Deduction
+#### Question No.1 to Question No.4 are based on the same SET
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.
+
+**Scoring rule (per question):**
+- Correct = **+2**
+- Incorrect = **-1**
+- Unattempted = **0**
+(Maximum possible score = **16**)
+
+### The following information is known:
+1. All six students scored **different** total marks.
+2. The **total** marks scored by all six students combined is **50**.
+3. Exactly **one** student attempted **all 8 questions**.
+4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.
+5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.
+6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.
+7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.
+8. Dev’s total score was exactly **1 mark more** than Bala’s total score.
+9. **Farhan** got exactly **2 questions incorrect**.
+10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**.
+
+**What is the **total number of incorrect answers** made by all six students combined?**",,120,,,,2,,5,6,7,8,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,,,mcsc,markdown,"## SET: 1 - Quiz Scoreboard Deduction
+#### Question No.1 to Question No.4 are based on the same SET
+
+**DIRECTIONS:** Read the information given below and answer the questions.
+
+Six students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.
+
+**Scoring rule (per question):**
+- Correct = **+2**
+- Incorrect = **-1**
+- Unattempted = **0**
+(Maximum possible score = **16**)
+
+### The following information is known:
+1. All six students scored **different** total marks.
+2. The **total** marks scored by all six students combined is **50**.
+3. Exactly **one** student attempted **all 8 questions**.
+4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.
+5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.
+6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.
+7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.
+8. Dev’s total score was exactly **1 mark more** than Bala’s total score.
+9. **Farhan** attempted **all 8 questions** and got exactly **2 questions incorrect**.
+10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**.
+
+## How many questions were **left unattempted in total** by all six students combined?",,120,,,,4,,11,12,13,14,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET5,1,mcsc,markdown,"## SET: 2 - SEATING ARRANGEMENT (6 People)
+#### Question No.5 to Question No.7 are based on the same SET
+
+Six people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.
+
+All are facing North.
+(So left/right are as per your view.)
+
+Important: “Exactly one person sits between X and Y” means there is one seat gap between them.
+
+You are told:
+1. Aman and Farhan sit at opposite ends.
+2. Exactly two people sit between Aman and Dev.
+3. Bala sits immediately to the left of Dev.
+4. Exactly one person sits between Dev and Chitra.
+5. Esha sits to the left of Chitra.
+6. Esha is not adjacent to Farhan.
+7. Chitra is not seated at any end.
+
+**Who sits third from the right end?**",,120,,,,4,,Dev,Chitra,Bala,Esha,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET5,2,mcsc,markdown,"## SET: 2 - SEATING ARRANGEMENT (6 People)
+#### Question No.5 to Question No.7 are based on the same SET
+
+Six people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.
+
+All are facing North.
+(So left/right are as per your view.)
+
+Important: “Exactly one person sits between X and Y” means there is one seat gap between them.
+
+You are told:
+1. Aman and Farhan sit at opposite ends.
+2. Exactly two people sit between Aman and Dev.
+3. Bala sits immediately to the left of Dev.
+4. Exactly one person sits between Dev and Chitra.
+5. Esha sits to the left of Chitra.
+6. Esha is not adjacent to Farhan.
+7. Chitra is not seated at any end.
+
+**Who sits immediately to the right of Bala?**",,120,,,,1,,Dev,Aman,Esha,Farhan,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET5,3,mcsc,markdown,"## SET: 2 - SEATING ARRANGEMENT (6 People)
+#### Question No.5 to Question No.7 are based on the same SET
+
+Six people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.
+
+All are facing North.
+(So left/right are as per your view.)
+
+Important: “Exactly one person sits between X and Y” means there is one seat gap between them.
+
+You are told:
+1. Aman and Farhan sit at opposite ends.
+2. Exactly two people sit between Aman and Dev.
+3. Bala sits immediately to the left of Dev.
+4. Exactly one person sits between Dev and Chitra.
+5. Esha sits to the left of Chitra.
+6. Esha is not adjacent to Farhan.
+7. Chitra is not seated at any end.
+
+**Who sits at the extreme left end?**",,120,,,,2,,Aman,Farhan,Bala,Chitra,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET6,1,mcsc,markdown,"## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS
+#### Question No.8 to Question No.11 are based on the same SET
+
+**DIRECTIONS:** Study the following tables carefully and answer the question that follows.
+
+Five companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.
+
+## TABLE 1: PROFIT MARGIN (%)
+
+This table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |
+| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |
+| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |
+| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |
+| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |
+
+*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*
+
+## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)
+
+This table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 200 | 250 | 200 | 300 |
+| **BlueCorp** | 200 | - | 200 | 150 | 200 |
+| **Citadel** | 250 | 200 | - | 300 | 200 |
+| **DynaTech** | 200 | 150 | 300 | - | 250 |
+| **Elevate** | 300 | 200 | 200 | 250 | - |
+
+*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*
+
+**How many companies earned a total profit of more than $60 million from all their trading partners combined in 2025?**",,120,,,,2,,1,2,3,4,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET6,2,mcsc,markdown,"## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS
+#### Question No.8 to Question No.11 are based on the same SET
+**DIRECTIONS:** Study the following tables carefully and answer the question that follows.
+
+Five companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.
+
+## TABLE 1: PROFIT MARGIN (%)
+
+This table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |
+| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |
+| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |
+| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |
+| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |
+
+*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*
+
+## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)
+
+This table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 200 | 250 | 200 | 300 |
+| **BlueCorp** | 200 | - | 200 | 150 | 200 |
+| **Citadel** | 250 | 200 | - | 300 | 200 |
+| **DynaTech** | 200 | 150 | 300 | - | 250 |
+| **Elevate** | 300 | 200 | 200 | 250 | - |
+
+*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*
+
+**What is the absolute profit (in $ million) that Citadel earned from its trade with DynaTech?**",,120,,,,3,,20.5,21,22.5,24,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET6,3,mcsc,markdown,"## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS
+#### Question No.8 to Question No.11 are based on the same SET
+**DIRECTIONS:** Study the following tables carefully and answer the question that follows.
+
+Five companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.
+
+## TABLE 1: PROFIT MARGIN (%)
+
+This table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |
+| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |
+| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |
+| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |
+| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |
+
+*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*
+
+## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)
+
+This table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 200 | 250 | 200 | 300 |
+| **BlueCorp** | 200 | - | 200 | 150 | 200 |
+| **Citadel** | 250 | 200 | - | 300 | 200 |
+| **DynaTech** | 200 | 150 | 300 | - | 250 |
+| **Elevate** | 300 | 200 | 200 | 250 | - |
+
+*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*
+
+**Which company had the lowest overall profit margin (calculated as total profit divided by total business across all trading relationships) in 2025?**",,120,,,,3,,Apex,BlueCorp,Citadel,DynaTech,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET6,4,mcsc,markdown,"## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS
+#### Question No.8 to Question No.11 are based on the same SET
+**DIRECTIONS:** Study the following tables carefully and answer the question that follows.
+
+Five companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.
+
+## TABLE 1: PROFIT MARGIN (%)
+
+This table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |
+| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |
+| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |
+| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |
+| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |
+
+*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*
+
+## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)
+
+This table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.
+
+|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Apex** | - | 200 | 250 | 200 | 300 |
+| **BlueCorp** | 200 | - | 200 | 150 | 200 |
+| **Citadel** | 250 | 200 | - | 300 | 200 |
+| **DynaTech** | 200 | 150 | 300 | - | 250 |
+| **Elevate** | 300 | 200 | 200 | 250 | - |
+
+*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*
+
+**What is the difference (in $ million) between the total profit earned by Elevate from all its trading partners and the total profit earned by BlueCorp from all its trading partners?**",,120,,,,4,,17.5,19.5,21.5,23.5,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET7,1,mcsc,markdown,"## Comprehension
+
+## Question Set 1: Cricket Tournament Rankings
+### Question No.1 to Question No.4 are of the same Set
+
+
+**DIRECTIONS:** Read the information given below and answer the following questions.
+
+Six teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.
+
+**The following information is known:**
+1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.
+2. England finished unbeaten in the tournament and had an NRR of +0.8.
+3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.
+4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.
+5. India's only loss was against England, who won that match by scoring 220 while India scored 190.
+6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.
+7. Bangladesh did not win a single match in the tournament and finished with 2 points.
+8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.
+9. Sri Lanka finished last with only 1 point and an NRR of -1.4.
+10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150.
+
+**What is the total number of matches lost by Pakistan, Bangladesh, and Sri Lanka combined?**",,120,,,,3,,7,8,9,10,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET7,2,mcsc,markdown,"## Comprehension
+
+## Question Set 1: Cricket Tournament Rankings
+### Question No.1 to Question No.4 are of the same Set
+
+
+**DIRECTIONS:** Read the information given below and answer the following questions.
+
+Six teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.
+
+**The following information is known:**
+1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.
+2. England finished unbeaten in the tournament and had an NRR of +0.8.
+3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.
+4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.
+5. India's only loss was against England, who won that match by scoring 220 while India scored 190.
+6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.
+7. Bangladesh did not win a single match in the tournament and finished with 2 points.
+8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.
+9. Sri Lanka finished last with only 1 point and an NRR of -1.4.
+10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150.
+
+**How many matches ended in a tie in the tournament?**",,120,,,,3,,2,3,4,5,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET7,3,mcsc,markdown,"## Comprehension
+
+## Question Set 1: Cricket Tournament Rankings
+### Question No.1 to Question No.4 are of the same Set
+
+**DIRECTIONS:** Read the information given below and answer the following questions.
+
+Six teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.
+
+**The following information is known:**
+1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.
+2. England finished unbeaten in the tournament and had an NRR of +0.8.
+3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.
+4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.
+5. India's only loss was against England, who won that match by scoring 220 while India scored 190.
+6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.
+7. Bangladesh did not win a single match in the tournament and finished with 2 points.
+8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.
+9. Sri Lanka finished last with only 1 point and an NRR of -1.4.
+10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150.
+
+**How many points did England accumulate in the tournament?**",,120,,,,3,,7,8,9,10,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,,,mcsc,markdown,"## Comprehension
+
+## Question Set 1: Cricket Tournament Rankings
+### Question No.1 to Question No.4 are of the same Set
+
+
+**DIRECTIONS:** Read the information given below and answer the following questions.
+
+Six teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.
+
+**The following information is known:**
+1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.
+2. England finished unbeaten in the tournament and had an NRR of +0.8.
+3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.
+4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.
+5. India's only loss was against England, who won that match by scoring 220 while India scored 190.
+6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.
+7. Bangladesh did not win a single match in the tournament and finished with 2 points.
+8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.
+9. Sri Lanka finished last with only 1 point and an NRR of -1.4.
+10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150.
+
+### The tournament organizers are considering a rule change for future editions. Under the proposed new rules, a win would award **3 points** (instead of 2), a tie would award **1.5 points** to each team (instead of 1), and a loss would still award **0 points**.
+
+### If this new points system were applied to the same match results of this tournament and teams were re-ranked based on these new points (with higher points meaning better rank, and in case of ties in points, teams maintain their original relative ranking), **how many teams would change their position in the rankings** compared to the original tournament standings?",,120,,,,1,,0,1,2,3,,,DILR/Data Interpretation & Logical Reasoning,0
+DILR,DILR-SET8,1,mcsc,markdown,"## Comprehension
+
+## Question Set 2: Investment Portfolio
+### Question No.5 to Question No.7 are of the same Set
+
+Five investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.
+
+**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.
+
+**You are told:**
+1. All five investors earned **different** returns.
+2. The **total** returns of all five investors combined is **₹1,50,000**.
+3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.
+4. **Chetna earned ₹10,000 less than Arjun.**
+5. **Dinesh earned ₹10,000 more than Bhanu.**
+6. **Ekta earned the lowest return.**
+7. **Bhanu and Ekta together earned ₹30,000.**
+
+**Who earned the highest return?**",,120,,,,1,,Arjun,Bhanu,Dinesh,None of them,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET8,2,mcsc,markdown,"## Comprehension
+
+## Question Set 2: Investment Portfolio
+### Question No.5 to Question No.7 are of the same Set
+
+Five investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.
+
+**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.
+
+**You are told:**
+1. All five investors earned **different** returns.
+2. The **total** returns of all five investors combined is **₹1,50,000**.
+3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.
+4. **Chetna earned ₹10,000 less than Arjun.**
+5. **Dinesh earned ₹10,000 more than Bhanu.**
+6. **Ekta earned the lowest return.**
+7. **Bhanu and Ekta together earned ₹30,000.**
+
+**Who earned exactly ₹40,000?**",,120,,,,2,,Arjun,Chetna,Dinesh,None of them,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET8,3,mcsc,markdown,"## Comprehension
+
+## Question Set 2: Investment Portfolio
+### Question No.5 to Question No.7 are of the same Set
+
+
+Five investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.
+
+**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.
+
+**You are told:**
+1. All five investors earned **different** returns.
+2. The **total** returns of all five investors combined is **₹1,50,000**.
+3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.
+4. **Chetna earned ₹10,000 less than Arjun.**
+5. **Dinesh earned ₹10,000 more than Bhanu.**
+6. **Ekta earned the lowest return.**
+7. **Bhanu and Ekta together earned ₹30,000.**
+
+**What was Dinesh's return (in ₹)?**",,120,,,,2,,"25,000","30,000","35,000","40,000",,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET9,1,mcsc,markdown,"## Comprehension
+
+## Question Set 3: Laptop Sales Analysis
+### Question No.8 to Question No.11 are of the same Set
+
+
+**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).
+
+### Chart 1: Units Sold (in '000 units)
+![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)
+
+### Chart 2: Average Selling Price (₹ per unit)
+![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**What was the total revenue in Q2 (in ₹ million)?**",,120,,,,2,,73.3,75.3,77.3,79.3,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET9,2,mcsc,markdown,"## Comprehension
+
+## Question Set 3: Laptop Sales Analysis
+### Question No.8 to Question No.11 are of the same Set
+
+
+**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).
+
+### Chart 1: Units Sold (in '000 units)
+![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)
+
+### Chart 2: Average Selling Price (₹ per unit)
+![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**Which model shows the highest percentage increase in revenue from Q1 to Q3?**",,120,,,,3,,ProBook,EliteBook,ZenBook,ThinkPad,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET9,3,mcsc,markdown,"## Comprehension
+
+## Question Set 3: Laptop Sales Analysis
+### Question No.8 to Question No.11 are of the same Set
+
+
+**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).
+
+
+### Chart 1: Units Sold (in '000 units)
+![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)
+
+### Chart 2: Average Selling Price (₹ per unit)
+![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**If ZenBook's Q3 price was reduced by 10% (units unchanged), what would be the new total revenue in Q3 (in ₹ million)?**",,120,,,,2,,88.6,90.3,92.1,93,,,DILR/Data Interpretation & Logical Reasoning,0.5
+DILR,DILR-SET9,4,mcsc,markdown,"## Comprehension
+
+## Question Set 3: Laptop Sales Analysis
+### Question No.8 to Question No.11 are of the same Set
+
+
+**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).
+
+### Chart 1: Units Sold (in '000 units)
+![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)
+
+### Chart 2: Average Selling Price (₹ per unit)
+![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)
+
+**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.
+
+**What is the weighted average selling price of ProBook across Q1–Q3 (weighted by units sold)?**",,120,,,,2,,"₹4,100","₹4,200","₹4,300","₹4,400",,,DILR/Data Interpretation & Logical Reasoning,0.5
+QA,,,mcsc,text,"A car traveled a certain distance at a constant speed. If the speed had been 10 km per hour more, it would have taken 3 hours less. If the speed had been 10 km per hour less, it would have taken 5 hours more. The distance, in km, traveled by the car is",,90,,,,2,,300,600,450,500,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A circular garden is divided into two regions by a chord of length 12 meters such that the chord subtends an angle of 90° at the center. Then, the area, in square meters, of the smaller region is",,90,,,,2,,18(π - 1),18(π - 2),36(π - 2),36(π - 1),,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"If 5^48 is divided by 11, the remainder is",,90,,,,1,,4,5,9,10,,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"Amit and Bharat spend 40 hours and 50 hours per week, respectively, on work and leisure activities. The time Bharat spends on work and leisure are in the ratio of 2 : 3. If the total time spent on work and leisure by both Amit and Bharat together are in the ratio 5 : 4, then the ratio of time spent on work and leisure by Amit is",,90,,,,1,,3 : 1,4 : 1,5 : 3,2 : 1,,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"A rectangular park PQRS has length 20 meters and width 12 meters. A diagonal PR is drawn. Then the area, in square meters, of triangle PQR is",,90,,,,4,,60,80,100,120,,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"A boat takes 3 hours to travel from point A to point B downstream and 6 hours to return from B to A upstream. If the boat's speed in still water is increased by 3 km/hr, it would take 2.5 hours to go downstream from A to B. The distance, in km, between A and B is",,90,,,,4,,30,36,40,45,,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"The sum of the first 10 terms of an arithmetic progression is 240, and the sum of the next 10 terms is 640. Then, the first term of the arithmetic progression is",,90,,,,4,,3,4,5,6,,,QA/Quantitative Ability,0
+QA,,,mcsc,text,"A father, mother, and son have a combined present age of 90 years. 5 years ago, the father was twice as old as the mother was then. 5 years from now, the father's age will be twice the son's age at that time. The present age of the son, in years, is",,90,,,,3,,15,18,20,25,,,QA/Quantitative Ability,0
+QA,,,tita,text,"If 2^a = 8, 3^b = 81, 4^c = 64, and 5^d = 25, then find the value of abcd.",72,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,How many three-digit positive integers have all three digits distinct and odd?,60,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"A machine's value depreciates such that its value after 2 years is to its value after 5 years in the ratio 125 : 64. If the machine was purchased for Rs 50000, then the minimum number of complete years required for the machine's value to fall below Rs 10000 is",8,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"In a survey of 150 students, 78 students play cricket, 63 students play football, and 45 students play basketball. Additionally, 28 students play both cricket and football, 20 students play both football and basketball, 23 students play both cricket and basketball, and 8 students play all three sports. The number of students who play exactly one sport is",68,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A sum of money is invested at simple interest. The ratio of the amount after 2 years to the amount after 5 years is 4 : 5. If the amount after 5 years is Rs 7500, then the rate of simple interest per annum is",,90,,,,2,,8%,10%,12%,15%,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,A cube is painted red on all faces and then cut into 64 smaller identical cubes. The number of smaller cubes that have exactly two faces painted red is,,90,,,,4,,8,12,16,24,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"Two vessels contain mixtures of milk and water. The first vessel contains milk and water in the ratio 3 : 2, and the second vessel contains them in the ratio 5 : 3. If equal quantities from both vessels are mixed, then the ratio of milk to water in the resulting mixture is",,90,,,,2,,47 : 33,49 : 31,51 : 29,53 : 27,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,A shopkeeper buys two articles for Rs 1000 each. He sells one at a profit of 20% and the other at a loss of 24%. His overall gain or loss percentage in the entire transaction is,,90,,,,2,,"No profit, no loss",2% loss,2% gain,4% loss,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"Two pipes A and B can fill a tank in 12 hours and 18 hours respectively. Both pipes are opened together, but after 4 hours, pipe A is closed. The total time taken to fill the tank is",,90,,,,2,,10 hours,12 hours,13 hours,14 hours,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"In a geometric progression, the sum of the first three terms is 26 and the sum of the first six terms is 728. The common ratio of the progression is",,90,,,,2,,2,3,4,5,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"Points A(2, 3), B(8, 7), and C(5, k) form a triangle. If the area of triangle ABC is 6 square units, then the sum of all possible values of k is",,90,,,,2,,8,10,12,14,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,A bag contains 6 red balls and 6 blue balls. Three balls are drawn at random without replacement. The probability that exactly 2 balls are red is,,90,,,,1,,45/110,54/110,63/110,72/110,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"How many four-digit numbers can be formed using the digits 1, 2, 3, 4, 5, 6, 7 without repetition such that the number is divisible by 5?",120,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"A two-digit number is such that the product of its digits is 8. When 18 is subtracted from the number, the digits interchange their positions. The two-digit number is",42,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"If the sum of the roots of the quadratic equation x^2 + px + q = 0 is equal to the product of the reciprocals of the roots, then the value of pq is",-1,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"Three workers A, B, and C can complete a task in 10, 12, and 15 days respectively when working alone. They start working together, but A leaves after 2 days and B leaves 1 day before the work is completed. If the total number of days required to complete the task is expressed as a fraction p/q in lowest terms, what is the value of p + q?",62,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A train traveled a certain distance at a constant speed. If the speed had been 15 km per hour more, it would have taken 2 hours less. If the speed had been 15 km per hour less, it would have taken 3 hours more. The distance, in km, traveled by the train is:",,90,,,,2,,750,900,1050,1200,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A circular garden is divided into two regions by a chord of length 10 meters such that the chord subtends an angle of 90° at the center. Then, the area, in square meters, of the smaller region is:",,90,,,,1,,25((pi/2) - 1),25(pi - 1),50((pi/2) - 1),50(pi - 1),,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"If 7^36 is divided by 13, the remainder is:",,90,,,,1,,1,3,7,9,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"Priya and Qasim spend 30 hours and 40 hours per week, respectively, on study and recreation activities. The time Qasim spends on study and recreation are in the ratio of 3:1. If the total time spent on study and recreation by both Priya and Qasim together are in the ratio 9:5, then the ratio of time spent on study and recreation by Priya is:",,90,,,,1,,1:1,2:1,3:2,4:3,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A rectangular field ABCD has length 30 meters and width 16 meters. A diagonal AC is drawn. Then the area, in square meters, of triangle ABC is:",,90,,,,3,,180,200,240,280,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A boat takes 4 hours to travel from point A to point B downstream and 8 hours to return from B to A upstream. If the boat's speed in still water is increased by 2 km/hr, it would take 3.2 hours to go downstream from A to B. The distance, in km, between A and B is:",,90,,,,3,,24,28,32,36,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"The sum of the first 10 terms of an arithmetic progression is 200, and the sum of the next 10 terms is 600. Then, the first term of the arithmetic progression is:",,90,,,,1,,2,3,4,5,,,QA/Quantitative Ability,0.5
+QA,,,mcsc,text,"A mother, father, and daughter have a combined present age of 85 years. 10 years ago, the mother was twice as old as the daughter was then. 5 years from now, the father's age will be twice the daughter's age at that time. The present age of the daughter, in years, is:",,90,,,,2,,15,18,20,22,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"If 3^p = 27, 2^q = 16, 5^r = 125, and 7^s = 49, then find the value of pqrs. (Product)",72,90,,,,,,,,,,,,QA/Quantitative Ability,0
+QA,,,tita,text,How many four-digit positive integers have all four digits distinct and even?,96,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"A machine's value depreciates such that its value after 3 years is to its value after 6 years in the ratio 64:27. If the machine was purchased for Rs 40000, then the minimum number of complete years required for the machine's value to fall below Rs 8000 is:",6,90,,,,,,,,,,,,QA/Quantitative Ability,0.5
+QA,,,tita,text,"In a survey of 200 students, 95 students read novels, 80 students read magazines, and 60 students read newspapers. Additionally, 35 students read both novels and magazines, 28 students read both magazines and newspapers, 30 students read both novels and newspapers, and 12 students read all three. The number of students who read exactly one type of reading material is:",85,90,,,,,,,,,,,,QA/Quantitative Ability,0.5

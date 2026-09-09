@@ -1,0 +1,2892 @@
+[
+  {
+    "question_id": 1,
+    "source_id": "6969dcd904a6d30e22be4f70",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "VARC-SET1",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n#### Question No.1 to Question No.4 are based on the following passage\n### Read the passage and answer the folowing question.\n\nFor decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.\n\nResearchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a \"save button\" for memories. \"When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,\" explains Walker. \"During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.\"\n\nThis process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called \"sleep on it\" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.\n\nThe implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. \"When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,\" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. \"It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.\"\n\nHowever, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.\n\nThe analogy of sleep as a \"save button\" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. \"Sleep is more like an editor than a filing clerk,\" notes Walker. \"It doesn't just store memories; it rewrites them.\""
+    },
+    "question_text": "**\"Sleep is more like an editor than a filing clerk\". What is the primary purpose of this comparison?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "To suggest that sleep sometimes creates false memories by editing our experiences, just as an editor might change the meaning of a text.",
+      "2": "To emphasize that sleep actively transforms and integrates memories rather than simply storing them unchanged, unlike a passive filing system.",
+      "3": "To argue that sleep is unreliable for memory consolidation because editors make mistakes, whereas filing clerks preserve information accurately.",
+      "4": "To illustrate that sleep organizes memories into categories, similar to how a filing clerk would organize documents into folders."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 2,
+    "source_id": "6969dcd904a6d30e22be4f75",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "VARC-SET1",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n#### Question No.1 to Question No.4 are based on the following passage\n### Read the passage and answer the folowing question.\n\nFor decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.\n\nResearchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a \"save button\" for memories. \"When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,\" explains Walker. \"During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.\"\n\nThis process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called \"sleep on it\" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.\n\nThe implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. \"When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,\" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. \"It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.\"\n\nHowever, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.\n\nThe analogy of sleep as a \"save button\" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. \"Sleep is more like an editor than a filing clerk,\" notes Walker. \"It doesn't just store memories; it rewrites them.\""
+    },
+    "question_text": "**The author makes all of the following arguments in the passage, EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Sleep transfers memories from the hippocampus to the cortex, increasing overall storage capacity.",
+      "2": "People who sleep after learning perform better on memory tests than those who remain awake.",
+      "3": "Chronic sleep deprivation may contribute to learning difficulties and increased dementia rates.",
+      "4": "All types of memories are consolidated equally during sleep regardless of their emotional significance."
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 3,
+    "source_id": "6969dcd904a6d30e22be4f7a",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "VARC-SET1",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n#### Question No.1 to Question No.4 are based on the following passage\n### Read the passage and answer the folowing question.\n\nFor decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.\n\nResearchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a \"save button\" for memories. \"When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,\" explains Walker. \"During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.\"\n\nThis process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called \"sleep on it\" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.\n\nThe implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. \"When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,\" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. \"It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.\"\n\nHowever, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.\n\nThe analogy of sleep as a \"save button\" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. \"Sleep is more like an editor than a filing clerk,\" notes Walker. \"It doesn't just store memories; it rewrites them.\""
+    },
+    "question_text": "**Which one of the following statements best summarizes the central point of the passage?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Sleep is essential for physical rest and recovery, and without adequate sleep, the body cannot function properly.",
+      "2": "The hippocampus has limited storage capacity compared to the cortex, which is why memory transfer during sleep is necessary.",
+      "3": "Sleep plays an active role in memory consolidation, strengthening and reorganizing memories rather than simply preserving them.",
+      "4": "Emotional memories are more important for survival than mundane memories, which is why they are preferentially consolidated during sleep."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 4,
+    "source_id": "6969dcd904a6d30e22be4f7f",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "VARC-SET1",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n#### Question No.1 to Question No.4 are based on the following passage\n### Read the passage and answer the folowing question.\n\nFor decades, scientists believed that sleep's primary function was to give the body and brain a chance to rest and recover. However, recent research suggests that sleep plays a far more active role in learning and memory than previously thought. During sleep, particularly during deep sleep and REM (rapid eye movement) phases, the brain doesn't simply switch off – it reorganizes and consolidates memories from the day.\n\nResearchers at the University of California, led by Dr. Matthew Walker, have found that sleep acts like a \"save button\" for memories. \"When we learn something new during the day, that memory is initially stored in the hippocampus, which has limited storage capacity,\" explains Walker. \"During sleep, these memories are transferred to the cortex, which has much larger storage capacity. It's like moving files from your computer's RAM to its hard drive.\"\n\nThis process, called memory consolidation, doesn't just preserve memories – it actually strengthens and reorganizes them. Studies have shown that people who sleep after learning perform significantly better on memory tests than those who stay awake. Even more surprisingly, sleep seems to extract patterns and rules from the information we've learned, allowing us to gain insights that weren't obvious when we were awake. This phenomenon, sometimes called \"sleep on it\" wisdom, may explain why problems that seem unsolvable at night often have obvious solutions in the morning.\n\nThe implications extend beyond individual learning. Some researchers now believe that chronic sleep deprivation in modern society may be contributing to widespread learning difficulties and even to the rising rates of dementia in aging populations. \"When you deprive the brain of sleep, you're essentially short-circuiting this memory consolidation process,\" says Dr. Susanne Diekelmann of the University of Tübingen in Germany. \"It's like trying to save a document on a computer but never clicking the save button – the work you've done simply disappears.\"\n\nHowever, not all memories benefit equally from sleep. Emotional memories, particularly those associated with strong feelings, appear to be preferentially consolidated during sleep. This selective strengthening may have evolutionary advantages – remembering emotionally significant events could be more important for survival than remembering mundane details. But it also means that sleep deprivation might disproportionately affect our ability to process and cope with emotional experiences.\n\nThe analogy of sleep as a \"save button\" is helpful, but it's not perfect. Unlike a computer save operation, sleep doesn't just preserve memories unchanged – it actively transforms them, integrating new information with existing knowledge and sometimes even distorting memories in the process. \"Sleep is more like an editor than a filing clerk,\" notes Walker. \"It doesn't just store memories; it rewrites them.\""
+    },
+    "question_text": "**None of the following statements can be inferred from the passage EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "People with chronic insomnia will inevitably develop dementia as they age due to impaired memory consolidation.",
+      "2": "The \"save button\" analogy perfectly captures all aspects of how sleep consolidates memories without any limitations.",
+      "3": "Sleep deprivation might have a greater impact on emotional memory processing than on the retention of neutral information.",
+      "4": "During REM sleep, the brain is completely inactive, which allows memories to be transferred from the hippocampus to the cortex."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 5,
+    "source_id": "6969ddfc3bba17c3bd0bbede",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 5,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:\n\n1. The standard QWERTY keyboard layout was designed in the 1870s for mechanical typewriters.\n2. Despite numerous attempts to introduce more efficient layouts, QWERTY remains dominant because of the massive cost of retraining users.\n3. The arrangement was intended to prevent the metal arms of frequently used letter combinations from jamming by placing them apart.\n4. Many musicians prefer digital keyboards because they offer a wider range of sounds and are more portable than traditional ones.\n5. Today, even though we no longer use mechanical typewriters, we continue to use this layout on our computers and smartphones.\n\n(Select the odd sentence number.)",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 6,
+    "source_id": "6969dd81e80c5d76d167ad84",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 5,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and key in the number of the sentence as your answer:\n\n1. Social media algorithms are designed to maximize user engagement by showing content that users are likely to interact with.\n2. This creates \"echo chambers\" where people are primarily exposed to views similar to their own, reinforcing existing beliefs.\n3. Many experts believe that critical thinking skills should be taught in schools to help students evaluate information sources.\n4. As a result, users become less tolerant of opposing viewpoints and political polarization increases.\n5. Studies have shown that these echo chambers contribute to the spread of misinformation, as false content often generates strong emotional reactions.\n\n(Select the odd sentence number.)",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 7,
+    "source_id": "6969dcd904a6d30e22be4f98",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## DIRECTIONS: Identify the most appropriate summary for the paragraph.\n\nThe human microbiome—the collection of trillions of microorganisms living in and on our bodies—plays a far more significant role in human health than previously understood. These microbes, primarily bacteria residing in the gut, perform essential functions including aiding digestion, synthesizing vitamins, and training the immune system. Recent research suggests that disruptions to the microbiome, often caused by antibiotic overuse, poor diet, or excessive hygiene, may be linked to a range of modern health problems including allergies, autoimmune diseases, obesity, and even mental health conditions. The discovery of the gut-brain axis—a bidirectional communication system between the gut microbiome and the brain—has been particularly groundbreaking, suggesting that our microscopic residents may influence our mood, behavior, and cognition.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The human microbiome consists of bacteria that help with digestion and may be linked to various diseases when disrupted.",
+      "2": "The human microbiome, especially gut bacteria, performs vital functions and its disruption may contribute to various health issues including physical and mental conditions, with the gut-brain axis suggesting microbial influence on cognition and mood.",
+      "3": "Recent research shows that the human microbiome is important for health, and scientists have discovered a connection between the gut and brain called the gut-brain axis.",
+      "4": "The microbiome is a collection of microorganisms that can be damaged by antibiotics and poor diet, leading to allergies, obesity, and autoimmune diseases."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 8,
+    "source_id": "6969dcd904a6d30e22be4f93",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## DIRECTIONS: Identify the most appropriate summary for the paragraph.\n\nBehavioral economics challenges the traditional economic assumption that humans are rational actors who always make decisions that maximize their utility. Drawing on insights from psychology, behavioral economists have demonstrated that people's decisions are often influenced by cognitive biases, emotions, and social factors. For instance, the \"anchoring effect\" shows that individuals rely too heavily on the first piece of information they receive when making decisions. Similarly, \"loss aversion\" demonstrates that people feel the pain of losing something more acutely than the pleasure of gaining something of equal value. These insights have important implications for public policy, as governments can design \"nudges\" that help people make better decisions without restricting their freedom of choice.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Behavioral economics uses psychological insights to show that human decisions are affected by biases and emotions, which has implications for how governments design policies.",
+      "2": "Behavioral economics proves that traditional economic theories are completely wrong because people are irrational and make poor decisions due to cognitive biases.",
+      "3": "Behavioral economics incorporates insights from psychology to demonstrate that people's decisions deviate from rational utility maximization due to cognitive biases, emotions, and social factors, enabling policy interventions through nudges.",
+      "4": "Behavioral economics focuses on cognitive biases like anchoring effect and loss aversion, which governments can exploit to manipulate people's choices."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 9,
+    "source_id": "6969dcd904a6d30e22be4f8e",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## DIRECTIONS: Identify the most appropriate summary for the paragraph.\n\nThe concept of \"herd immunity\" refers to a form of indirect protection from infectious disease that occurs when a sufficient percentage of a population has become immune to an infection, whether through vaccination or previous infections, thereby reducing the likelihood of infection for individuals who lack immunity. In populations where a large number of individuals are immune, chains of infection are likely to be disrupted, which stops or slows the spread of disease. The greater the proportion of individuals in a community who are immune, the smaller the probability that those who are not immune will come into contact with an infectious individual. This collective immunity is particularly important for protecting vulnerable individuals who cannot be vaccinated, such as newborns and people with compromised immune systems.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Herd immunity is achieved when most people in a population get vaccinated, which helps protect those who cannot receive vaccines.",
+      "2": "Herd immunity occurs when enough people become immune through vaccination or infection, disrupting disease transmission and protecting vulnerable populations who lack immunity.",
+      "3": "The concept of herd immunity suggests that infectious diseases can be eliminated if everyone in a population receives proper vaccination.",
+      "4": "Herd immunity protects newborns and immunocompromised individuals by ensuring that a sufficient number of people have been previously infected."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 10,
+    "source_id": "6969dcd904a6d30e22be4f89",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given in this question, when properly sequenced, form a coherent paragraph. Decide on the proper order for the sentences and key in this sequence of four numbers as your answer:\n\n1. When the body doesn't get enough water, it cannot effectively regulate temperature, leading to fatigue and reduced physical performance.\n2. Additionally, even mild dehydration can impair cognitive functions such as concentration, alertness, and short-term memory.\n3. Water is essential for nearly every bodily function, from regulating temperature to transporting nutrients.\n4. This is why athletes are advised to drink water before, during, and after exercise, and why students are encouraged to stay hydrated during exams.\n\n(Choose the correct sequence.)",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3124",
+      "2": "3214",
+      "3": "1342",
+      "4": "3142"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 11,
+    "source_id": "6969dcd904a6d30e22be4f84",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given in this question, when properly sequenced, form a coherent paragraph. Decide on the proper order for the sentences and key in this sequence of four numbers as your answer:\n\n1. This phenomenon occurs because cold water is denser than warm water and sinks to the ocean floor.\n2. The Gulf Stream, for instance, carries warm water from the tropics to Northern Europe, giving countries like Britain a much milder climate than they would otherwise have.\n3. Ocean currents play a crucial role in regulating Earth's climate by distributing heat around the globe.\n4. As the warm surface water moves toward the poles, it cools down, creating a circulation pattern known as thermohaline circulation.\n\n(Choose the correct sequence.)",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3214",
+      "2": "3124",
+      "3": "2314",
+      "4": "3241"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 12,
+    "source_id": "696b4110d5e08fb946c06237",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "VARC-SET2",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Reading Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.\n\nRecent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. \"The placebo effect isn't just about patients feeling better psychologically,\" explains Dr. Ted Kaptchuk of Harvard Medical School. \"We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.\"\n\nWhat makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.\n\nThe implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.\n\nThe challenge becomes even more intricate when we consider \"open-label placebos\"—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.\n\nThe metaphor of the placebo as a \"trick\" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. \"The real question isn't whether placebos work,\" notes Dr. Fabrizio Benedetti, a leading placebo researcher. \"It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.\""
+    },
+    "question_text": "**The author describes the placebo as a \"tool for accessing the body's own healing mechanisms\" rather than a \"trick.\" What is the primary purpose of this reframing?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "To suggest that placebos are just as effective as real medications and should replace expensive pharmaceutical treatments in most cases.",
+      "2": "To shift from viewing placebos as deceptive practices to recognizing them as legitimate ways to engage natural physiological healing responses.",
+      "3": "To argue that all healing is ultimately psychological and that the distinction between placebo and real medication is meaningless.",
+      "4": "To emphasize that placebos work by tricking the body into activating healing mechanisms it wouldn't otherwise use."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 13,
+    "source_id": "696b4110d5e08fb946c0623c",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "VARC-SET2",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Reading Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.\n\nRecent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. \"The placebo effect isn't just about patients feeling better psychologically,\" explains Dr. Ted Kaptchuk of Harvard Medical School. \"We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.\"\n\nWhat makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.\n\nThe implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.\n\nThe challenge becomes even more intricate when we consider \"open-label placebos\"—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.\n\nThe metaphor of the placebo as a \"trick\" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. \"The real question isn't whether placebos work,\" notes Dr. Fabrizio Benedetti, a leading placebo researcher. \"It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.\""
+    },
+    "question_text": "**The author makes all of the following arguments in the passage, EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The placebo effect involves measurable changes in brain chemistry, not just psychological perceptions of improvement.",
+      "2": "The effectiveness of placebos can be influenced by factors such as cost, method of administration, and the doctor-patient relationship.",
+      "3": "Open-label placebos, which patients know contain no active ingredients, have been shown to produce no therapeutic benefit whatsoever.",
+      "4": "There are ethical concerns about whether doctors should actively leverage placebo effects in clinical practice."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 14,
+    "source_id": "696b4110d5e08fb946c06241",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "VARC-SET2",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Reading Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.\n\nRecent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. \"The placebo effect isn't just about patients feeling better psychologically,\" explains Dr. Ted Kaptchuk of Harvard Medical School. \"We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.\"\n\nWhat makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.\n\nThe implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.\n\nThe challenge becomes even more intricate when we consider \"open-label placebos\"—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.\n\nThe metaphor of the placebo as a \"trick\" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. \"The real question isn't whether placebos work,\" notes Dr. Fabrizio Benedetti, a leading placebo researcher. \"It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.\""
+    },
+    "question_text": "**Which one of the following statements best summarizes the central point of the passage?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The placebo effect is primarily a psychological phenomenon that makes patients feel better without producing real physiological changes.",
+      "2": "Recent research has shown that placebos can be as effective as real medications, raising questions about the value of expensive pharmaceutical treatments.",
+      "3": "The placebo effect represents a genuine physiological response that challenges traditional mind-body distinctions and raises complex questions about its ethical use in medicine.",
+      "4": "Doctors should always inform patients when they are receiving placebos, as deception undermines the trust necessary for effective medical care."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 15,
+    "source_id": "696b4110d5e08fb946c06246",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "VARC-SET2",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Reading Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe placebo effect—the phenomenon where patients experience real improvements in their condition after receiving treatments with no active medical ingredients—has long puzzled scientists and challenged our understanding of the relationship between mind and body. What was once dismissed as mere psychological trickery is now recognized as a genuine physiological response that can be measured, quantified, and potentially harnessed for therapeutic benefit.\n\nRecent neuroimaging studies have revealed that placebos trigger the release of endorphins and dopamine in the brain, the same neurotransmitters activated by actual pain medications. \"The placebo effect isn't just about patients feeling better psychologically,\" explains Dr. Ted Kaptchuk of Harvard Medical School. \"We can observe real, measurable changes in brain chemistry and neural activity. In some cases, the brain's response to a placebo can be indistinguishable from its response to active medication.\"\n\nWhat makes the placebo effect particularly fascinating is its dependence on context and expectation. The same inert pill can produce dramatically different results depending on how it's presented. Studies have shown that expensive placebos work better than cheap ones, that injections are more effective than pills, and that the color and size of placebo pills can influence their perceived efficacy. Even more remarkably, the therapeutic relationship between doctor and patient appears to amplify the effect—placebos administered by warm, empathetic physicians produce stronger responses than those given by distant or hurried ones.\n\nThe implications for medical practice are profound but ethically complex. Some researchers argue that doctors should actively leverage the placebo effect by carefully managing patient expectations and optimizing the clinical environment, even when prescribing real medications. After all, if a medication's effectiveness can be enhanced by 30% through positive framing and a strong doctor-patient relationship, wouldn't it be unethical not to do so? Others worry that this approach veers dangerously close to deception, potentially undermining the trust that forms the foundation of medical care.\n\nThe challenge becomes even more intricate when we consider \"open-label placebos\"—placebos that patients know are placebos. Surprisingly, even when patients are explicitly told they're receiving sugar pills with no active ingredients, many still experience symptom relief. This suggests that the placebo effect might not require deception after all, though researchers debate whether these open-label placebos work through different mechanisms than traditional placebos.\n\nThe metaphor of the placebo as a \"trick\" may itself be misleading. Perhaps it's more accurate to think of placebos as a tool for accessing the body's own healing mechanisms—a way of activating internal pharmacies that we all possess but rarely tap into consciously. \"The real question isn't whether placebos work,\" notes Dr. Fabrizio Benedetti, a leading placebo researcher. \"It's how we can ethically and effectively integrate our understanding of mind-body interactions into mainstream medical practice.\""
+    },
+    "question_text": "**None of the following statements can be inferred from the passage EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The effectiveness of a medication might be enhanced by factors beyond its chemical composition, including how it is presented and the quality of the doctor-patient interaction.",
+      "2": "All medical treatments work primarily through placebo effects, and the active ingredients in medications contribute minimally to their effectiveness.",
+      "3": "Open-label placebos work through exactly the same neurological mechanisms as traditional placebos that involve an element of deception.",
+      "4": "The placebo effect only occurs in patients who have a naturally optimistic personality or strong belief in alternative medicine."
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 16,
+    "source_id": "696b4110d5e08fb946c0624b",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 5,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Odd Sentence Out\n\n**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out.\n\n1. Artificial intelligence systems are increasingly being used to make high-stakes decisions about loan applications, job interviews, and criminal sentencing.\n2. These algorithms often perpetuate and amplify existing biases because they are trained on historical data that reflects past discrimination.\n3. Many technology companies are investing heavily in quantum computing research, hoping to achieve computational breakthroughs.\n4. For instance, an AI trained on past hiring decisions may discriminate against women if the historical data shows that men were predominantly hired.\n5. The lack of transparency in these \"black box\" algorithms makes it difficult to identify and correct discriminatory patterns.\n\n## Select the odd sentence number.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 17,
+    "source_id": "696b4110d5e08fb946c06250",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 5,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Odd Sentence Out\n\n**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out.\n\n1. The traditional five-paragraph essay structure—introduction, three body paragraphs, and conclusion—has dominated writing instruction for decades.\n2. Critics argue that this rigid format stifles creativity and fails to prepare students for the diverse writing demands of college and professional life.\n3. Many educators believe that teaching students multiple languages from an early age improves cognitive flexibility and cultural awareness.\n4. Instead of teaching a single formula, writing instructors increasingly emphasize helping students understand how purpose, audience, and context should shape their organizational choices.\n5. Despite these criticisms, the five-paragraph essay remains popular because it provides a clear, teachable structure for inexperienced writers.\n\n## Select the odd sentence number.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 18,
+    "source_id": "696b4110d5e08fb946c06255",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Sentence Sequence\n\n**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.\n\n1. As a result, farmers who grow these crops become dependent on purchasing new seeds each year, rather than saving seeds from their harvest as they traditionally did.\n2. However, critics argue that this system prioritizes corporate profits over food security and farmers' rights, particularly in developing countries.\n3. Seed patents allow biotechnology companies to protect their investment in developing drought-resistant, pest-resistant, and higher-yielding crop varieties.\n4. This dependence, combined with the high cost of patented seeds, has contributed to farmer debt and, in some regions, even farmer suicides.\n\n## Choose the correct sequence.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3124",
+      "2": "3214",
+      "3": "1342",
+      "4": "3142"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 19,
+    "source_id": "696b4110d5e08fb946c0625a",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Sentence Sequence\n\n**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.\n\n1. These tiny particles can bypass the body's natural filtration systems and accumulate in organs, potentially causing inflammation and other health problems.\n2. Recent studies have detected microplastics in human blood, lung tissue, and even placental tissue, raising urgent questions about their health impacts.\n3. Microplastics—plastic fragments smaller than 5 millimeters—have become ubiquitous in our environment, contaminating oceans, soil, and air.\n4. Scientists are now racing to understand the long-term consequences of this exposure, but the slow nature of chronic health effects makes definitive conclusions difficult.\n\n## Choose the correct sequence.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3214",
+      "2": "3124",
+      "3": "2314",
+      "4": "3241"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 20,
+    "source_id": "696b4110d5e08fb946c0625f",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Identify the most appropriate summary for the paragraph.\n\nThe concept of \"food deserts\"—urban areas where residents lack access to affordable, nutritious food—has gained significant attention in discussions of public health and social inequality. These areas, typically low-income neighborhoods, are characterized by an absence of supermarkets and grocery stores, leaving residents dependent on convenience stores and fast-food restaurants that offer few healthy options. The resulting poor nutrition contributes to higher rates of obesity, diabetes, and cardiovascular disease in these communities. However, some researchers have challenged the food desert framework, arguing that simply increasing access to healthy food doesn't automatically change eating habits. They point to \"food deserts\" where supermarkets have opened without significantly improving community health outcomes, suggesting that cultural preferences, cooking skills, time constraints, and ingrained habits play equally important roles in food choices. This debate highlights the complexity of addressing nutrition-related health disparities—solutions require not just infrastructure changes, but also education, economic opportunity, and community engagement.\n\n## Choose the best summary.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Food deserts are urban areas without access to healthy food, and this lack of access is the primary cause of obesity and diet-related diseases in low-income communities.",
+      "2": "The food desert concept identifies areas lacking healthy food access, but critics argue that merely improving access doesn't automatically improve health outcomes, as food choices are influenced by multiple factors beyond availability.",
+      "3": "Research has shown that food deserts don't actually exist, as even low-income neighborhoods typically have adequate access to nutritious food if residents are willing to travel.",
+      "4": "Low-income communities suffer from poor nutrition because residents prefer fast food and lack the education to make healthy choices, not because of limited access to supermarkets."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 21,
+    "source_id": "696b4110d5e08fb946c06264",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Identify the most appropriate summary for the paragraph.\n\nThe \"Mozart effect\"—the claim that listening to Mozart's music temporarily enhances spatial-temporal reasoning—captured public imagination in the 1990s, leading to everything from prenatal Mozart playlists to government programs distributing classical music CDs to new parents. The original 1993 study by Rauscher, Shaw, and Ky found that college students who listened to Mozart's Sonata for Two Pianos in D Major performed better on spatial reasoning tasks than those who sat in silence or listened to relaxation instructions. However, subsequent research has largely debunked the Mozart effect as originally conceived. Multiple replication studies have failed to find consistent evidence that Mozart's music specifically enhances cognition. What researchers have found instead is a more general \"arousal and mood\" effect—any stimulating and enjoyable music can temporarily boost performance on certain tasks by increasing alertness and improving mood. In other words, if you hate classical music, listening to Mozart might actually hurt your performance compared to listening to music you enjoy. The Mozart effect story illustrates how a single study with modest findings can be amplified through media coverage and public enthusiasm into a cultural phenomenon that outpaces the scientific evidence.\n\n## Choose the best summary.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The Mozart effect has been scientifically proven to enhance children's intelligence, which is why parents should play classical music for their babies and toddlers.",
+      "2": "Research has shown that listening to any type of music has the same cognitive benefits, making Mozart's compositions no more effective than other musical genres.",
+      "3": "The original Mozart effect claim has not held up to scientific scrutiny, with research instead suggesting that enjoyable, stimulating music generally can boost performance through arousal and mood, regardless of genre.",
+      "4": "The Mozart effect is a complete myth with no scientific basis whatsoever, and listening to music has no impact on cognitive performance or mood."
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 22,
+    "source_id": "696b4110d5e08fb946c06269",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Identify the most appropriate summary for the paragraph.\n\nThe debate over universal basic income (UBI)—a government program providing all citizens with regular, unconditional cash payments—has intensified as automation threatens to displace workers across industries. Proponents argue that UBI would provide economic security in an era of job instability, reduce poverty and inequality, eliminate the bureaucratic complexity of means-tested welfare programs, and give people the freedom to pursue education, entrepreneurship, or caregiving without the immediate pressure of survival. They point to pilot programs in Finland and Kenya showing positive outcomes including reduced stress and increased entrepreneurial activity. Critics, however, raise concerns about the massive cost of such programs, arguing that they would require unprecedented tax increases or radical cuts to other social services. They also worry that unconditional payments might reduce work incentive, leading to labor shortages and economic stagnation. Additionally, some critics from the political left argue that UBI is a neoliberal solution that accepts rather than challenges the fundamental inequalities of capitalism, potentially replacing robust social services with minimal cash payments. The limited scale and duration of existing pilot programs, critics note, makes it difficult to predict how UBI would function as a permanent, society-wide system.\n\n## Choose the best summary.",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Universal basic income would provide financial security and increase entrepreneurship, as demonstrated by successful pilot programs in multiple countries that prove UBI is economically sustainable at scale.",
+      "2": "UBI is a controversial proposal with supporters highlighting benefits like security and simplified welfare, while critics cite concerns about costs, work disincentives, and whether it truly addresses economic inequality, with existing pilots too limited to resolve these debates.",
+      "3": "The debate over universal basic income shows that while conservatives worry about costs and work disincentives, progressive critics actually support UBI because it represents a fundamental challenge to capitalism.",
+      "4": "Universal basic income has been proven ineffective by pilot programs showing that unconditional cash payments reduce people's motivation to work and contribute to society."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 23,
+    "source_id": "696b5f86575b41acdf0039ed",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "VARC-SET3",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\nThe conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial \"eureka moment\" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.\n\nDr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. \"What we call creativity is really an incremental process,\" he explains. \"When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements.\" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.\n\nThis understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This \"inspiration through perspiration\" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.\n\nThe phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls \"group flow\"—a collaborative state where ideas build upon each other through rapid interaction and exchange. \"Innovation is almost always a team sport,\" notes Dr. Teresa Amabile of Harvard Business School. \"Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.\"\n\nHowever, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. \"Creativity isn't about thinking outside the box,\" Sawyer argues. \"It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.\"\n\nThe metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for \"T-shaped\" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation."
+    },
+    "question_text": "**The primary purpose of the statement about understanding what's inside the box first is to:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Argue that creativity is impossible without extensive formal education and training within a specific discipline.",
+      "2": "Emphasize that creative innovation requires deep domain expertise as a foundation before expanding into new territory, rather than ignoring existing knowledge.",
+      "3": "Suggest that truly creative individuals should focus exclusively on mastering one field and avoid exposure to other disciplines.",
+      "4": "Illustrate that creative breakthroughs occur by completely rejecting conventional approaches and starting from scratch."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 24,
+    "source_id": "696b5f86575b41acdf0039f2",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "VARC-SET3",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial \"eureka moment\" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.\n\nDr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. \"What we call creativity is really an incremental process,\" he explains. \"When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements.\" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.\n\nThis understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This \"inspiration through perspiration\" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.\n\nThe phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls \"group flow\"—a collaborative state where ideas build upon each other through rapid interaction and exchange. \"Innovation is almost always a team sport,\" notes Dr. Teresa Amabile of Harvard Business School. \"Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.\"\n\nHowever, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. \"Creativity isn't about thinking outside the box,\" Sawyer argues. \"It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.\"\n\nThe metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for \"T-shaped\" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation."
+    },
+    "question_text": "**The author makes all of the following claims, EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Examination of famous inventors' notebooks reveals gradual refinement rather than sudden breakthroughs.",
+      "2": "People who work on creative problems regularly produce more innovative solutions than those who wait for inspiration.",
+      "3": "Successful innovation teams demonstrate that breakthrough ideas emerge from collaborative exchange rather than individual genius.",
+      "4": "Creative breakthroughs occur with equal frequency across all domains regardless of an individual's expertise or knowledge level."
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 25,
+    "source_id": "696b5f86575b41acdf0039f7",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "VARC-SET3",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial \"eureka moment\" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.\n\nDr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. \"What we call creativity is really an incremental process,\" he explains. \"When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements.\" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.\n\nThis understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This \"inspiration through perspiration\" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.\n\nThe phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls \"group flow\"—a collaborative state where ideas build upon each other through rapid interaction and exchange. \"Innovation is almost always a team sport,\" notes Dr. Teresa Amabile of Harvard Business School. \"Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.\"\n\nHowever, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. \"Creativity isn't about thinking outside the box,\" Sawyer argues. \"It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.\"\n\nThe metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for \"T-shaped\" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation."
+    },
+    "question_text": "**The central argument of the passage is best captured by:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "True creativity requires waiting for moments of spontaneous inspiration, as forced creative work rarely produces innovative results.",
+      "2": "Creativity is an incremental process involving systematic recombination of knowledge, consistent effort, and deep domain expertise rather than sudden inspiration.",
+      "3": "Group collaboration is essential for all creative work, as individuals working alone cannot produce innovative solutions.",
+      "4": "The brain's unconscious processing of information is the sole determinant of creative output, making conscious effort largely irrelevant."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 26,
+    "source_id": "696b5f86575b41acdf0039fc",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "VARC-SET3",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n### Passage\n#### Question No.1 to Question No.4 are based on the following passage\n\n\nThe conventional wisdom about creativity suggests that groundbreaking ideas emerge from moments of sudden insight—the proverbial \"eureka moment\" when a solution appears fully formed in the mind. However, research into the creative process reveals a far more complex and gradual reality. Creativity, according to cognitive psychologists, is less about spontaneous inspiration and more about the systematic recombination of existing knowledge in novel ways.\n\nDr. Keith Sawyer of the University of North Carolina has spent decades studying creative cognition. \"What we call creativity is really an incremental process,\" he explains. \"When we examine the notebooks of famous inventors and artists, we rarely find sudden breakthroughs. Instead, we see countless small iterations, failed experiments, and gradual refinements.\" His research suggests that the brain continuously processes information in the background, making connections between disparate concepts without our conscious awareness. These unconscious connections eventually surface as what feels like a sudden insight, but the groundwork has been laid through sustained engagement with a problem.\n\nThis understanding has important implications for how we approach creative work. The popular notion that creativity requires waiting for inspiration can actually be counterproductive. Studies show that people who work on creative problems regularly, even when they don't feel particularly inspired, tend to produce more innovative solutions than those who wait for the perfect moment. This \"inspiration through perspiration\" approach suggests that creativity is more like a muscle that strengthens with consistent use than a lightning bolt that strikes randomly.\n\nThe phenomenon extends to group creativity as well. Research on successful innovation teams reveals that breakthrough ideas rarely come from a single brilliant individual. Instead, they emerge from what Sawyer calls \"group flow\"—a collaborative state where ideas build upon each other through rapid interaction and exchange. \"Innovation is almost always a team sport,\" notes Dr. Teresa Amabile of Harvard Business School. \"Even when we credit a single person with an invention, closer examination usually reveals extensive collaboration and iteration.\"\n\nHowever, this incremental view of creativity doesn't diminish the importance of preparation and expertise. Studies consistently show that creative breakthroughs occur most frequently within domains where individuals have deep knowledge and extensive experience. A chemist is unlikely to have revolutionary insights in music composition, and vice versa. \"Creativity isn't about thinking outside the box,\" Sawyer argues. \"It's about thoroughly understanding what's inside the box first, then carefully and systematically expanding its boundaries.\"\n\nThe metaphor of creativity as muscle-building is instructive, but it has limitations. Unlike physical muscles, which grow through repetition of the same exercise, creative capacity requires varied experiences and exposure to diverse fields. Some researchers now advocate for \"T-shaped\" knowledge—deep expertise in one area combined with broad familiarity across many domains—as the optimal foundation for creative innovation."
+    },
+    "question_text": "**The following can be inferred from the passage EXCEPT that:**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Individuals who work in multiple unrelated fields will inevitably produce more creative innovations than specialists with deep expertise in one area.",
+      "2": "The muscle-building metaphor completely captures all aspects of how creative capacity develops without any limitations.",
+      "3": "Group flow states guarantee breakthrough innovations whenever teams collaborate, regardless of individual preparation or expertise.",
+      "4": "The subjective experience of sudden insight may not accurately reflect the gradual, incremental nature of the underlying creative process."
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 27,
+    "source_id": "696b5f86575b41acdf003a01",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Odd Sentence Out\n\n**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and select the number of the sentence as your answer.\n\n1. Artificial intelligence systems are increasingly being used in hiring decisions, analyzing résumés and predicting candidate success.\n2. These algorithms can inadvertently perpetuate historical biases present in training data, such as gender or racial discrimination.\n3. Renewable energy sources like solar and wind power are becoming more cost-effective than traditional fossil fuels.\n4. Consequently, many companies have faced criticism for automated hiring systems that discriminate against qualified candidates from underrepresented groups.\n5. Critics argue that without careful oversight, AI-driven hiring may actually increase workplace inequality rather than reduce it.\n\n## Select the odd sentence number:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 28,
+    "source_id": "696b5f86575b41acdf003a06",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Odd Sentence Out\n\n**DIRECTIONS:** Five jumbled up sentences, related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd one out and select the number of the sentence as your answer.\n\n1. Ancient Romans developed concrete by mixing volcanic ash, lime, and seawater, creating structures that have lasted over two thousand years.\n2. Modern concrete, while faster to produce, often begins deteriorating within decades due to its chemical composition.\n3. Scientists studying Roman concrete have discovered that seawater actually strengthens it over time through a rare chemical reaction.\n4. Many professional chefs prefer cast iron cookware because it distributes heat evenly and develops a natural non-stick surface.\n5. Researchers are now attempting to recreate Roman concrete formulas to develop more durable and sustainable building materials.\n\n## Select the odd sentence number:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 29,
+    "source_id": "696b5f86575b41acdf003a0b",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Sentence Sequence\n\n**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.\n\n1. This mechanism allows fish to conserve energy while maintaining the oxygen supply necessary for their tissues.\n2. Unlike mammals that breathe air, fish extract dissolved oxygen from water using specialized organs called gills.\n3. As water flows over the gill filaments, oxygen diffuses into the blood while carbon dioxide diffuses out.\n4. The efficiency of this system depends on the countercurrent exchange mechanism, where blood and water flow in opposite directions.\n\n## Choose the correct sequence:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2341",
+      "2": "2431",
+      "3": "2314",
+      "4": "4231"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 30,
+    "source_id": "696b5f86575b41acdf003a10",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Paragraph Organization\n\n### Sentence Sequence\n\n**DIRECTIONS:** The four sentences (labelled 1, 2, 3 and 4) given below, when properly sequenced, form a coherent paragraph. Choose the correct sequence.\n\n1. For example, babies who hear multiple languages regularly develop enhanced abilities to distinguish between different speech sounds.\n2. Research shows that exposure to multiple languages in early childhood provides significant cognitive advantages.\n3. These benefits extend beyond language, improving problem-solving skills, mental flexibility, and even delaying the onset of dementia in later life.\n4. This is why linguists recommend introducing children to second languages as early as possible, ideally before age seven.\n\n## Choose the correct sequence:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2134",
+      "2": "1234",
+      "3": "2143",
+      "4": "2314"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 31,
+    "source_id": "696b5f86575b41acdf003a15",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.\n\nThe placebo effect demonstrates that the mind can influence the body's physical response to treatment, even when no active medical ingredient is administered. When patients believe they are receiving effective treatment, measurable physiological changes can occur, including pain reduction, improved immune function, and faster healing. This phenomenon is not simply \"mind over matter\" or wishful thinking—brain imaging studies show that placebos trigger the release of real biochemical substances like endorphins and dopamine. The placebo effect is so powerful that all new medications must be tested against placebos in clinical trials to determine their true effectiveness. However, ethical questions arise about whether doctors should sometimes prescribe placebos, given that deception may be necessary for the effect to work, potentially undermining the trust between physician and patient.\n\n## Choose the best summary:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The placebo effect shows that belief in treatment can trigger real physiological responses, requiring new medications to be tested against placebos, though its use raises ethical concerns about deception in medical practice.",
+      "2": "The placebo effect occurs when patients improve simply because they believe they are being treated, which is why doctors must test all new medications carefully.",
+      "3": "The placebo effect proves that most physical symptoms are imaginary and can be cured through positive thinking without actual medical intervention.",
+      "4": "The placebo effect demonstrates that the mind influences physical healing through biochemical changes, which is essential for clinical trials but poses ethical dilemmas."
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 32,
+    "source_id": "696b5f86575b41acdf003a1a",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.\n\nThe tragedy of the commons refers to a situation where individuals, acting independently in their own self-interest, collectively deplete or degrade a shared resource, even when such depletion is contrary to everyone's long-term interests. First articulated by ecologist Garrett Hardin in 1968, the concept explains why common resources like fisheries, forests, and the atmosphere are often overexploited. Each person or entity gains the full benefit of exploiting the resource but shares the cost of depletion with others, creating an incentive structure that leads to overconsumption. Solutions to this problem include establishing property rights, government regulation, or developing community-based management systems where users collectively agree on sustainable practices. The concept has been applied beyond environmental issues to problems ranging from antibiotic resistance (where overuse of antibiotics benefits individual patients but creates resistant bacteria that harm everyone) to internet bandwidth consumption.\n\n## Choose the best summary:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "The tragedy of the commons occurs when shared resources are depleted because individuals pursuing self-interest create collective harm, with solutions including property rights, regulation, or community management, and applications extending beyond environmental issues.",
+      "2": "The tragedy of the commons is an environmental concept that explains why fisheries and forests are being destroyed by greedy individuals.",
+      "3": "The tragedy of the commons shows that people are inherently selfish and will always exploit shared resources unless governments force them to stop.",
+      "4": "The tragedy of the commons, introduced by Garrett Hardin, describes how shared resources get depleted when everyone uses them for personal gain."
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 33,
+    "source_id": "696b5f86575b41acdf003a1f",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "VARC",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "VARC/Verbal Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 25,
+    "t_average_sec": 100,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Summary Identification\n\n**DIRECTIONS:** Read the paragraph and identify the most appropriate summary.\n\nNeuroplasticity—the brain's ability to reorganize itself by forming new neural connections throughout life—has fundamentally challenged the long-held belief that the adult brain is fixed and unchangeable. Research demonstrates that the brain can adapt structurally and functionally in response to experience, learning, and even injury. London taxi drivers, for instance, show enlarged hippocampi (brain regions associated with spatial navigation) after years of memorizing the city's complex street layout. Similarly, stroke patients can recover lost functions as undamaged brain areas assume responsibilities previously handled by damaged regions. This adaptability has profound implications for education, rehabilitation, and cognitive aging. However, neuroplasticity is not unlimited—the degree of change possible decreases with age, and certain critical periods in development remain important. Moreover, neuroplasticity can be maladaptive, as seen in chronic pain conditions where the brain becomes oversensitive to pain signals.\n\n## Choose the best summary:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Neuroplasticity is the brain's ability to form new connections throughout life in response to experience and injury, with significant implications for learning and recovery.",
+      "2": "Neuroplasticity shows that the adult brain can reorganize itself structurally and functionally, as demonstrated by taxi drivers and stroke patients, though this capacity decreases with age and can sometimes be maladaptive, challenging the notion of a fixed adult brain.",
+      "3": "Recent research on neuroplasticity has proven that the brain can change at any age, which means that anyone can recover completely from brain injuries.",
+      "4": "Neuroplasticity refers to how the brain adapts to new experiences, and studies of London taxi drivers show that learning new skills can physically change brain structure."
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 34,
+    "source_id": "6969dcd904a6d30e22be4f21",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET1",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - **QUIZ SCORE**\n### Question  No.1 to Question No.3 are based on the same Set.\n\n### Read the following and answer the questions\nFive students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.\n\n**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.\n\nYou are told:\n\n1. All five students scored **different** marks.\n2. The **total** marks of all five students combined is **30**.\n3. Exactly **one** student scored the **maximum possible marks**.\n4. **Chitra scored 2 marks less than Aman.**\n5. **Dev scored 2 marks more than Bala.**\n6. **Esha scored the lowest marks.**\n7. **Bala and Esha together scored 6 marks.**"
+    },
+    "question_text": "**How many questions did Dev answer correctly?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 35,
+    "source_id": "6969dcd904a6d30e22be4f26",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET1",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - **QUIZ SCORE**\n### Question  No.1 to Question No.3 are based on the same Set.\n\n### Read the following and answer the questions\nFive students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.\n\n**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.\n\nYou are told:\n\n1. All five students scored **different** marks.\n2. The **total** marks of all five students combined is **30**.\n3. Exactly **one** student scored the **maximum possible marks**.\n4. **Chitra scored 2 marks less than Aman.**\n5. **Dev scored 2 marks more than Bala.**\n6. **Esha scored the lowest marks.**\n7. **Bala and Esha together scored 6 marks.**"
+    },
+    "question_text": "**Who scored exactly 8 marks?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Aman",
+      "2": "Chitra",
+      "3": "Dev",
+      "4": "None of them"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 36,
+    "source_id": "6969dcd904a6d30e22be4f2b",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET1",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - **QUIZ SCORE**\n### Question  No.1 to Question No.3 are based on the same Set.\n\n### Read the following and answer the questions\nFive students — **Aman, Bala, Chitra, Dev, Esha** — took a 5-question quiz.\n\n**Scoring:** Each correct answer gives **2 marks**. Incorrect/unattempted gives **0**.\n\nYou are told:\n\n1. All five students scored **different** marks.\n2. The **total** marks of all five students combined is **30**.\n3. Exactly **one** student scored the **maximum possible marks**.\n4. **Chitra scored 2 marks less than Aman.**\n5. **Dev scored 2 marks more than Bala.**\n6. **Esha scored the lowest marks.**\n7. **Bala and Esha together scored 6 marks.**"
+    },
+    "question_text": "**Who scored the highest marks?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Aman",
+      "2": "Bala",
+      "3": "Dev",
+      "4": "None of them"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 37,
+    "source_id": "6969dcd904a6d30e22be4f30",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## SET: 2 - **DI SET: SMARTPHONE SALES**\n### Question  No.4 to Question No.7 are based on the same Set.\n\n### Read the following and answer the questions\n\n**Table 1: Units Sold (in ’000 units)**\n![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)\n\n\n\n**Table 2: Average Selling Price (₹ per unit)**\n![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)\n\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands.\n\n## What was the **total revenue in Q2** (in ₹ million)?",
+    "question_type": "mcsc",
+    "options": {
+      "1": "72.2",
+      "2": "74.2",
+      "3": "76.1",
+      "4": "70.4"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 38,
+    "source_id": "6969dcd904a6d30e22be4f35",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET2",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - **DI SET: SMARTPHONE SALES**\n### Question  No.4 to Question No.7 are based on the same Set.\n\n### Read the following and answer the questions\n**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).\n\n**Table 1: Units Sold (in ’000 units)**\n![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)\n\n\n\n**Table 2: Average Selling Price (₹ per unit)**\n![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)\n\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**Which model shows the **highest percentage increase in revenue from Q1 to Q3**?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Delta",
+      "2": "Beta",
+      "3": "Alpha",
+      "4": "Gamma"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 39,
+    "source_id": "6969dcd904a6d30e22be4f3a",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET2",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - **DI SET: SMARTPHONE SALES**\n### Question  No.4 to Question No.7 are based on the same Set.\n\n### Read the following and answer the questions\n**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).\n\n**Table 1: Units Sold (in ’000 units)**\n![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)\n\n\n\n**Table 2: Average Selling Price (₹ per unit)**\n![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)\n\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**If **Gamma’s Q3 price** was reduced by **10%** (units unchanged), what would be the **new total revenue in Q3** (in ₹ million)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "73.8",
+      "2": "74.6",
+      "3": "75.1",
+      "4": "76.1"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 40,
+    "source_id": "6969dcd904a6d30e22be4f3f",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET2",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - **DI SET: SMARTPHONE SALES**\n### Question  No.4 to Question No.7 are based on the same Set.\n\n### Read the following and answer the questions\n**DIRECTIONS:** The following two tables show the Units Sold (in ’000 units) and Average Selling Price (₹ per unit) for four smartphone models — Alpha, Beta, Gamma, Delta — across three quarters (Q1, Q2, Q3).\n\n**Table 1: Units Sold (in ’000 units)**\n![units_sold_bar.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547064826-units_sold_bar.png)\n\n\n\n**Table 2: Average Selling Price (₹ per unit)**\n![avg_price_bar_labeled.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768547086749-avg_price_bar_labeled.png)\n\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**What is the **weighted average selling price of Alpha** across Q1–Q3 (weighted by units sold)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "₹509",
+      "2": "₹515",
+      "3": "₹513",
+      "4": "₹511"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 41,
+    "source_id": "6969dcd904a6d30e22be4f1c",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET3",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - **TOURNAMENT**\n### Question  No.8 to Question No.11 are based on the same Set.\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.\n\nThe goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.\n\nThe following information is known:\n\n1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.\n2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.\n3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.\n4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.\n5. Arsenal's only loss was against Chelsea, who won that match 2-1.\n6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.\n7. Dortmund did not win a single match in the tournament and finished with 2 points.\n8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.\n9. Milan finished last with only 1 point and a goal difference of -7.\n10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0."
+    },
+    "question_text": "**What is the total number of matches lost by Juventus, Dortmund, and Milan combined?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "9",
+      "2": "7",
+      "3": "8",
+      "4": "10"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 42,
+    "source_id": "6969dcd904a6d30e22be4f17",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET3",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - **TOURNAMENT**\n### Question  No.8 to Question No.11 are based on the same Set.\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.\n\nThe goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.\n\nThe following information is known:\n\n1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.\n2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.\n3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.\n4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.\n5. Arsenal's only loss was against Chelsea, who won that match 2-1.\n6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.\n7. Dortmund did not win a single match in the tournament and finished with 2 points.\n8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.\n9. Milan finished last with only 1 point and a goal difference of -7.\n10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0."
+    },
+    "question_text": "**How many goals did Bayern Munich score in their match against AC Milan?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 43,
+    "source_id": "6969dcd904a6d30e22be4f0d",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "DILR-SET3",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - **TOURNAMENT**\n### Question  No.8 to Question No.11 are based on the same Set.\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.\n\nThe goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.\n\nThe following information is known:\n\n1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.\n2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.\n3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.\n4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.\n5. Arsenal's only loss was against Chelsea, who won that match 2-1.\n6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.\n7. Dortmund did not win a single match in the tournament and finished with 2 points.\n8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.\n9. Milan finished last with only 1 point and a goal difference of -7.\n10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0."
+    },
+    "question_text": "**How many points did Chelsea accumulate in the tournament?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "9",
+      "2": "10",
+      "3": "11",
+      "4": "12"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 44,
+    "source_id": "6969dcd904a6d30e22be4f12",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "DILR",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## **TOURNAMENT**\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix teams - Arsenal, Bayern, Chelsea, Dortmund, Juventus, and Milan - participated in a round-robin football tournament where each team played every other team exactly once. A win awarded 3 points, a draw awarded 1 point to each team, and a loss awarded 0 points.\n\nThe goal difference for a team is calculated as (goals scored - goals conceded) across all their matches. No match ended with more than 3 goals being scored in total.\n\nThe following information is known:\n\n1. Arsenal finished first with 12 points, winning 4 matches and losing only 1 match. Their goal difference was +6.\n2. Chelsea finished unbeaten in the tournament and had a goal difference of +5.\n3. Bayern finished with 10 points and scored exactly 8 goals. They lost only 1 match in the tournament.\n4. The match between Arsenal and Bayern ended 2-1 in favor of Arsenal. This was Bayern's only loss.\n5. Arsenal's only loss was against Chelsea, who won that match 2-1.\n6. Arsenal beat Juventus 3-0, and Chelsea beat Milan 3-0. These were the only two matches where a team scored 3 or more goals.\n7. Dortmund did not win a single match in the tournament and finished with 2 points.\n8. The match between Bayern and Chelsea ended in a draw with both teams scoring 1 goal each.\n9. Milan finished last with only 1 point and a goal difference of -7.\n10. Juventus finished with 5 points and their only win was against Milan by a scoreline of 1-0.\n\n## How many matches ended in a draw in the tournament?",
+    "question_type": "mcsc",
+    "options": {
+      "1": "4",
+      "2": "3",
+      "3": "2",
+      "4": "5"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 45,
+    "source_id": "696b4110d5e08fb946c06223",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET4",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - Quiz Scoreboard Deduction\n#### Question No.1 to Question No.4 are based on the same SET\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.\n\n**Scoring rule (per question):**\n- Correct = **+2**\n- Incorrect = **-1**\n- Unattempted = **0**\n(Maximum possible score = **16**)\n\n### The following information is known:\n1. All six students scored **different** total marks.\n2. The **total** marks scored by all six students combined is **50**.\n3. Exactly **one** student attempted **all 8 questions**.\n4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.\n5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.\n6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.\n7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.\n8. Dev’s total score was exactly **1 mark more** than Bala’s total score.\n9. **Farhan** got exactly **2 questions incorrect**.\n10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**."
+    },
+    "question_text": "**How many questions did **Bala** answer correctly?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "6",
+      "4": "7"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 46,
+    "source_id": "696b4110d5e08fb946c06228",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET4",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - Quiz Scoreboard Deduction\n#### Question No.1 to Question No.4 are based on the same SET\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.\n\n**Scoring rule (per question):**\n- Correct = **+2**\n- Incorrect = **-1**\n- Unattempted = **0**\n(Maximum possible score = **16**)\n\n### The following information is known:\n1. All six students scored **different** total marks.\n2. The **total** marks scored by all six students combined is **50**.\n3. Exactly **one** student attempted **all 8 questions**.\n4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.\n5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.\n6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.\n7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.\n8. Dev’s total score was exactly **1 mark more** than Bala’s total score.\n9. **Farhan** got exactly **2 questions incorrect**.\n10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**."
+    },
+    "question_text": "**What was **Esha’s total score**?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 47,
+    "source_id": "696b4110d5e08fb946c06232",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET4",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 1 - Quiz Scoreboard Deduction\n#### Question No.1 to Question No.4 are based on the same SET\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.\n\n**Scoring rule (per question):**\n- Correct = **+2**\n- Incorrect = **-1**\n- Unattempted = **0**\n(Maximum possible score = **16**)\n\n### The following information is known:\n1. All six students scored **different** total marks.\n2. The **total** marks scored by all six students combined is **50**.\n3. Exactly **one** student attempted **all 8 questions**.\n4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.\n5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.\n6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.\n7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.\n8. Dev’s total score was exactly **1 mark more** than Bala’s total score.\n9. **Farhan** got exactly **2 questions incorrect**.\n10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**."
+    },
+    "question_text": "**What is the **total number of incorrect answers** made by all six students combined?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "5",
+      "2": "6",
+      "3": "7",
+      "4": "8"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 48,
+    "source_id": "696b4110d5e08fb946c0622d",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## SET: 1 - Quiz Scoreboard Deduction\n#### Question No.1 to Question No.4 are based on the same SET\n\n**DIRECTIONS:** Read the information given below and answer the questions.\n\nSix students — **Aman, Bala, Chitra, Dev, Esha, Farhan** — took an **8-question** quiz.\n\n**Scoring rule (per question):**\n- Correct = **+2**\n- Incorrect = **-1**\n- Unattempted = **0**\n(Maximum possible score = **16**)\n\n### The following information is known:\n1. All six students scored **different** total marks.\n2. The **total** marks scored by all six students combined is **50**.\n3. Exactly **one** student attempted **all 8 questions**.\n4. **Chitra** had **no incorrect** answers and left exactly **2 questions unattempted**.\n5. **Aman** left exactly **2 questions unattempted** and scored **3 marks less** than Chitra.\n6. **Bala** scored **2 marks less** than Aman and left exactly **1 more** question unattempted than Aman.\n7. **Dev** had **no incorrect** answers and attempted exactly **half** of the questions.\n8. Dev’s total score was exactly **1 mark more** than Bala’s total score.\n9. **Farhan** attempted **all 8 questions** and got exactly **2 questions incorrect**.\n10. **Esha** attempted the **same number of questions as Bala** and got exactly **2 questions incorrect**.\n\n## How many questions were **left unattempted in total** by all six students combined?",
+    "question_type": "mcsc",
+    "options": {
+      "1": "11",
+      "2": "12",
+      "3": "13",
+      "4": "14"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 49,
+    "source_id": "696b4110d5e08fb946c0621e",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET5",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - SEATING ARRANGEMENT (6 People)\n#### Question No.5 to Question No.7 are based on the same SET\n\nSix people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.\n\nAll are facing North.\n(So left/right are as per your view.)\n\nImportant: “Exactly one person sits between X and Y” means there is one seat gap between them.\n\nYou are told:\n1. Aman and Farhan sit at opposite ends.\n2. Exactly two people sit between Aman and Dev.\n3. Bala sits immediately to the left of Dev.\n4. Exactly one person sits between Dev and Chitra.\n5. Esha sits to the left of Chitra.\n6. Esha is not adjacent to Farhan.\n7. Chitra is not seated at any end."
+    },
+    "question_text": "**Who sits third from the right end?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Dev",
+      "2": "Chitra",
+      "3": "Bala",
+      "4": "Esha"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 50,
+    "source_id": "696b4110d5e08fb946c06219",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET5",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - SEATING ARRANGEMENT (6 People)\n#### Question No.5 to Question No.7 are based on the same SET\n\nSix people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.\n\nAll are facing North.\n(So left/right are as per your view.)\n\nImportant: “Exactly one person sits between X and Y” means there is one seat gap between them.\n\nYou are told:\n1. Aman and Farhan sit at opposite ends.\n2. Exactly two people sit between Aman and Dev.\n3. Bala sits immediately to the left of Dev.\n4. Exactly one person sits between Dev and Chitra.\n5. Esha sits to the left of Chitra.\n6. Esha is not adjacent to Farhan.\n7. Chitra is not seated at any end."
+    },
+    "question_text": "**Who sits immediately to the right of Bala?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Dev",
+      "2": "Aman",
+      "3": "Esha",
+      "4": "Farhan"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 51,
+    "source_id": "696b4110d5e08fb946c06214",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET5",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 2 - SEATING ARRANGEMENT (6 People)\n#### Question No.5 to Question No.7 are based on the same SET\n\nSix people — Aman, Bala, Chitra, Dev, Esha, Farhan — are seated in a row of 6 chairs.\n\nAll are facing North.\n(So left/right are as per your view.)\n\nImportant: “Exactly one person sits between X and Y” means there is one seat gap between them.\n\nYou are told:\n1. Aman and Farhan sit at opposite ends.\n2. Exactly two people sit between Aman and Dev.\n3. Bala sits immediately to the left of Dev.\n4. Exactly one person sits between Dev and Chitra.\n5. Esha sits to the left of Chitra.\n6. Esha is not adjacent to Farhan.\n7. Chitra is not seated at any end."
+    },
+    "question_text": "**Who sits at the extreme left end?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Aman",
+      "2": "Farhan",
+      "3": "Bala",
+      "4": "Chitra"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 52,
+    "source_id": "696b4110d5e08fb946c06200",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET6",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS\n#### Question No.8 to Question No.11 are based on the same SET\n\n**DIRECTIONS:** Study the following tables carefully and answer the question that follows.\n\nFive companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.\n\n## TABLE 1: PROFIT MARGIN (%)\n\nThis table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |\n| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |\n| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |\n| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |\n| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |\n\n*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*\n\n## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)\n\nThis table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 200 | 250 | 200 | 300 |\n| **BlueCorp** | 200 | - | 200 | 150 | 200 |\n| **Citadel** | 250 | 200 | - | 300 | 200 |\n| **DynaTech** | 200 | 150 | 300 | - | 250 |\n| **Elevate** | 300 | 200 | 200 | 250 | - |\n\n*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*"
+    },
+    "question_text": "**How many companies earned a total profit of more than $60 million from all their trading partners combined in 2025?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 53,
+    "source_id": "696b4110d5e08fb946c06205",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET6",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS\n#### Question No.8 to Question No.11 are based on the same SET\n**DIRECTIONS:** Study the following tables carefully and answer the question that follows.\n\nFive companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.\n\n## TABLE 1: PROFIT MARGIN (%)\n\nThis table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |\n| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |\n| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |\n| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |\n| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |\n\n*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*\n\n## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)\n\nThis table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 200 | 250 | 200 | 300 |\n| **BlueCorp** | 200 | - | 200 | 150 | 200 |\n| **Citadel** | 250 | 200 | - | 300 | 200 |\n| **DynaTech** | 200 | 150 | 300 | - | 250 |\n| **Elevate** | 300 | 200 | 200 | 250 | - |\n\n*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*"
+    },
+    "question_text": "**What is the absolute profit (in $ million) that Citadel earned from its trade with DynaTech?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "20.5",
+      "2": "21",
+      "3": "22.5",
+      "4": "24"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 54,
+    "source_id": "696b4110d5e08fb946c0620a",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET6",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS\n#### Question No.8 to Question No.11 are based on the same SET\n**DIRECTIONS:** Study the following tables carefully and answer the question that follows.\n\nFive companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.\n\n## TABLE 1: PROFIT MARGIN (%)\n\nThis table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |\n| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |\n| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |\n| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |\n| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |\n\n*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*\n\n## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)\n\nThis table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 200 | 250 | 200 | 300 |\n| **BlueCorp** | 200 | - | 200 | 150 | 200 |\n| **Citadel** | 250 | 200 | - | 300 | 200 |\n| **DynaTech** | 200 | 150 | 300 | - | 250 |\n| **Elevate** | 300 | 200 | 200 | 250 | - |\n\n*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*"
+    },
+    "question_text": "**Which company had the lowest overall profit margin (calculated as total profit divided by total business across all trading relationships) in 2025?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Apex",
+      "2": "BlueCorp",
+      "3": "Citadel",
+      "4": "DynaTech"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 55,
+    "source_id": "696b4110d5e08fb946c0620f",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "DILR",
+    "set_id": "DILR-SET6",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## SET: 3 - DATA INTERPRETATION - INTER-COMPANY TRADE ANALYSIS\n#### Question No.8 to Question No.11 are based on the same SET\n**DIRECTIONS:** Study the following tables carefully and answer the question that follows.\n\nFive companies—Apex, BlueCorp, Citadel, DynaTech, and Elevate—engage in trade with each other. The tables below provide information about their trading relationships.\n\n## TABLE 1: PROFIT MARGIN (%)\n\nThis table shows the profit margin (as a percentage of total business volume) earned **BY** the row company **FROM** trading with the column company during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 7.5 | 8.0 | 5.0 | 10.0 |\n| **BlueCorp** | 6.0 | - | 9.0 | 8.0 | 5.0 |\n| **Citadel** | 3.0 | 8.0 | - | 7.5 | 6.0 |\n| **DynaTech** | 7.0 | 6.0 | 5.0 | - | 8.0 |\n| **Elevate** | 5.0 | 12.0 | 9.0 | 7.4 | - |\n\n*Note: Profit Margin (%) = (Profit earned / Total Business Volume) × 100*\n\n## TABLE 2: TOTAL BUSINESS VOLUME (in $ million)\n\nThis table shows the total value of trade (imports + exports combined) between companies during the financial year 2025.\n\n|  | **Apex** | **BlueCorp** | **Citadel** | **DynaTech** | **Elevate** |\n|---|:---:|:---:|:---:|:---:|:---:|\n| **Apex** | - | 200 | 250 | 200 | 300 |\n| **BlueCorp** | 200 | - | 200 | 150 | 200 |\n| **Citadel** | 250 | 200 | - | 300 | 200 |\n| **DynaTech** | 200 | 150 | 300 | - | 250 |\n| **Elevate** | 300 | 200 | 200 | 250 | - |\n\n*Note: Total business between Company X and Company Y is the same in both directions (symmetric matrix).*"
+    },
+    "question_text": "**What is the difference (in $ million) between the total profit earned by Elevate from all its trading partners and the total profit earned by BlueCorp from all its trading partners?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "17.5",
+      "2": "19.5",
+      "3": "21.5",
+      "4": "23.5"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 56,
+    "source_id": "696b5f86575b41acdf0039c5",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET7",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 1: Cricket Tournament Rankings\n### Question No.1 to Question No.4 are of the same Set\n\n\n**DIRECTIONS:** Read the information given below and answer the following questions.\n\nSix teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.\n\n**The following information is known:**\n1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.\n2. England finished unbeaten in the tournament and had an NRR of +0.8.\n3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.\n4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.\n5. India's only loss was against England, who won that match by scoring 220 while India scored 190.\n6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.\n7. Bangladesh did not win a single match in the tournament and finished with 2 points.\n8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.\n9. Sri Lanka finished last with only 1 point and an NRR of -1.4.\n10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150."
+    },
+    "question_text": "**What is the total number of matches lost by Pakistan, Bangladesh, and Sri Lanka combined?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "7",
+      "2": "8",
+      "3": "9",
+      "4": "10"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 57,
+    "source_id": "696b5f86575b41acdf0039bb",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET7",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 1: Cricket Tournament Rankings\n### Question No.1 to Question No.4 are of the same Set\n\n\n**DIRECTIONS:** Read the information given below and answer the following questions.\n\nSix teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.\n\n**The following information is known:**\n1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.\n2. England finished unbeaten in the tournament and had an NRR of +0.8.\n3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.\n4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.\n5. India's only loss was against England, who won that match by scoring 220 while India scored 190.\n6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.\n7. Bangladesh did not win a single match in the tournament and finished with 2 points.\n8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.\n9. Sri Lanka finished last with only 1 point and an NRR of -1.4.\n10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150."
+    },
+    "question_text": "**How many matches ended in a tie in the tournament?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 58,
+    "source_id": "696b5f86575b41acdf0039b6",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET7",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 1: Cricket Tournament Rankings\n### Question No.1 to Question No.4 are of the same Set\n\n**DIRECTIONS:** Read the information given below and answer the following questions.\n\nSix teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.\n\n**The following information is known:**\n1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.\n2. England finished unbeaten in the tournament and had an NRR of +0.8.\n3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.\n4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.\n5. India's only loss was against England, who won that match by scoring 220 while India scored 190.\n6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.\n7. Bangladesh did not win a single match in the tournament and finished with 2 points.\n8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.\n9. Sri Lanka finished last with only 1 point and an NRR of -1.4.\n10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150."
+    },
+    "question_text": "**How many points did England accumulate in the tournament?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "7",
+      "2": "8",
+      "3": "9",
+      "4": "10"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 59,
+    "source_id": "696b5f86575b41acdf0039c0",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "## Comprehension\n\n## Question Set 1: Cricket Tournament Rankings\n### Question No.1 to Question No.4 are of the same Set\n\n\n**DIRECTIONS:** Read the information given below and answer the following questions.\n\nSix teams - **Australia, Bangladesh, England, India, Pakistan, and Sri Lanka** - participated in a round-robin cricket tournament where each team played every other team exactly once. A win awarded 2 points, a tie awarded 1 point to each team, and a loss awarded 0 points. The net run rate (NRR) for a team is calculated as (runs scored per over - runs conceded per over) across all their matches. No team scored more than 250 runs in any single match.\n\n**The following information is known:**\n1. India finished first with 8 points, winning 4 matches and losing only 1 match. Their NRR was +1.2.\n2. England finished unbeaten in the tournament and had an NRR of +0.8.\n3. Australia finished with 6 points and scored exactly 180 runs in each of their matches. They lost only 1 match in the tournament.\n4. The match between India and Australia ended with India scoring 200 and Australia scoring 180. This was Australia's only loss.\n5. India's only loss was against England, who won that match by scoring 220 while India scored 190.\n6. India beat Pakistan by scoring 240 while Pakistan scored 140, and England beat Sri Lanka by scoring 230 while Sri Lanka scored 130. These were the only two matches where the winning margin exceeded 90 runs.\n7. Bangladesh did not win a single match in the tournament and finished with 2 points.\n8. The match between Australia and England ended in a tie with both teams scoring 180 runs each.\n9. Sri Lanka finished last with only 1 point and an NRR of -1.4.\n10. Pakistan finished with 4 points and their only win was against Sri Lanka by scoring 170 while Sri Lanka scored 150.\n\n### The tournament organizers are considering a rule change for future editions. Under the proposed new rules, a win would award **3 points** (instead of 2), a tie would award **1.5 points** to each team (instead of 1), and a loss would still award **0 points**.\n\n### If this new points system were applied to the same match results of this tournament and teams were re-ranked based on these new points (with higher points meaning better rank, and in case of ties in points, teams maintain their original relative ranking), **how many teams would change their position in the rankings** compared to the original tournament standings?",
+    "question_type": "mcsc",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 60,
+    "source_id": "696b5f86575b41acdf0039d4",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET8",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 2: Investment Portfolio\n### Question No.5 to Question No.7 are of the same Set\n\nFive investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.\n\n**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.\n\n**You are told:**\n1. All five investors earned **different** returns.\n2. The **total** returns of all five investors combined is **₹1,50,000**.\n3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.\n4. **Chetna earned ₹10,000 less than Arjun.**\n5. **Dinesh earned ₹10,000 more than Bhanu.**\n6. **Ekta earned the lowest return.**\n7. **Bhanu and Ekta together earned ₹30,000.**"
+    },
+    "question_text": "**Who earned the highest return?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Arjun",
+      "2": "Bhanu",
+      "3": "Dinesh",
+      "4": "None of them"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 61,
+    "source_id": "696b5f86575b41acdf0039cf",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET8",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 2: Investment Portfolio\n### Question No.5 to Question No.7 are of the same Set\n\nFive investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.\n\n**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.\n\n**You are told:**\n1. All five investors earned **different** returns.\n2. The **total** returns of all five investors combined is **₹1,50,000**.\n3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.\n4. **Chetna earned ₹10,000 less than Arjun.**\n5. **Dinesh earned ₹10,000 more than Bhanu.**\n6. **Ekta earned the lowest return.**\n7. **Bhanu and Ekta together earned ₹30,000.**"
+    },
+    "question_text": "**Who earned exactly ₹40,000?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "Arjun",
+      "2": "Chetna",
+      "3": "Dinesh",
+      "4": "None of them"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 62,
+    "source_id": "696b5f86575b41acdf0039ca",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET8",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 2: Investment Portfolio\n### Question No.5 to Question No.7 are of the same Set\n\n\nFive investors — **Arjun, Bhanu, Chetna, Dinesh, Ekta** — each invested in a mutual fund scheme.\n\n**Returns:** Each investor earned a return that is a **multiple of ₹5,000**.\n\n**You are told:**\n1. All five investors earned **different** returns.\n2. The **total** returns of all five investors combined is **₹1,50,000**.\n3. Exactly **one** investor earned the **maximum possible return of ₹50,000**.\n4. **Chetna earned ₹10,000 less than Arjun.**\n5. **Dinesh earned ₹10,000 more than Bhanu.**\n6. **Ekta earned the lowest return.**\n7. **Bhanu and Ekta together earned ₹30,000.**"
+    },
+    "question_text": "**What was Dinesh's return (in ₹)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "25,000",
+      "2": "30,000",
+      "3": "35,000",
+      "4": "40,000"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 63,
+    "source_id": "696b5f86575b41acdf0039d9",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET9",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 3: Laptop Sales Analysis\n### Question No.8 to Question No.11 are of the same Set\n\n\n**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).\n\n### Chart 1: Units Sold (in '000 units)\n![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)\n\n### Chart 2: Average Selling Price (₹ per unit)\n![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**What was the total revenue in Q2 (in ₹ million)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "73.3",
+      "2": "75.3",
+      "3": "77.3",
+      "4": "79.3"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 64,
+    "source_id": "696b5f86575b41acdf0039de",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET9",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 3: Laptop Sales Analysis\n### Question No.8 to Question No.11 are of the same Set\n\n\n**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).\n\n### Chart 1: Units Sold (in '000 units)\n![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)\n\n### Chart 2: Average Selling Price (₹ per unit)\n![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**Which model shows the highest percentage increase in revenue from Q1 to Q3?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "ProBook",
+      "2": "EliteBook",
+      "3": "ZenBook",
+      "4": "ThinkPad"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 65,
+    "source_id": "696b5f86575b41acdf0039e3",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET9",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 3: Laptop Sales Analysis\n### Question No.8 to Question No.11 are of the same Set\n\n\n**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).\n\n\n### Chart 1: Units Sold (in '000 units)\n![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)\n\n### Chart 2: Average Selling Price (₹ per unit)\n![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**If ZenBook's Q3 price was reduced by 10% (units unchanged), what would be the new total revenue in Q3 (in ₹ million)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "88.6",
+      "2": "90.3",
+      "3": "92.1",
+      "4": "93"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 66,
+    "source_id": "696b5f86575b41acdf0039e8",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "DILR",
+    "set_id": "DILR-SET9",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "num_options": 4,
+    "topic": "DILR/Data Interpretation & Logical Reasoning",
+    "difficulty": 0.5,
+    "t_expert_sec": 30,
+    "t_average_sec": 120,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "## Comprehension\n\n## Question Set 3: Laptop Sales Analysis\n### Question No.8 to Question No.11 are of the same Set\n\n\n**DIRECTIONS:** The following two charts show the Units Sold (in '000 units) and Average Selling Price (₹ per unit) for four laptop models — **ProBook, EliteBook, ZenBook, ThinkPad** — across three quarters (Q1, Q2, Q3).\n\n### Chart 1: Units Sold (in '000 units)\n![chart1_units_sold.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643468228-chart1_units_sold.png)\n\n### Chart 2: Average Selling Price (₹ per unit)\n![chart2_avg_price.png](https://assess-platform-prod-user-data.s3.ap-south-1.amazonaws.com/admin/64cb939e88382767d8b2491b/1768643473219-chart2_avg_price.png)\n\n**Note:** Revenue in a quarter = (Units Sold × Price). Units Sold are in thousands."
+    },
+    "question_text": "**What is the weighted average selling price of ProBook across Q1–Q3 (weighted by units sold)?**",
+    "question_type": "mcsc",
+    "options": {
+      "1": "₹4,100",
+      "2": "₹4,200",
+      "3": "₹4,300",
+      "4": "₹4,400"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 67,
+    "source_id": "6969dcd904a6d30e22be4f45",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A car traveled a certain distance at a constant speed. If the speed had been 10 km per hour more, it would have taken 3 hours less. If the speed had been 10 km per hour less, it would have taken 5 hours more. The distance, in km, traveled by the car is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "300",
+      "2": "600",
+      "3": "450",
+      "4": "500"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 68,
+    "source_id": "6969dcd904a6d30e22be4f4a",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A circular garden is divided into two regions by a chord of length 12 meters such that the chord subtends an angle of 90° at the center. Then, the area, in square meters, of the smaller region is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "18(π - 1)",
+      "2": "18(π - 2)",
+      "3": "36(π - 2)",
+      "4": "36(π - 1)"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 69,
+    "source_id": "6969dcd904a6d30e22be4f4f",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "If 5^48 is divided by 11, the remainder is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "9",
+      "4": "10"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 70,
+    "source_id": "6969dcd904a6d30e22be4f55",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Amit and Bharat spend 40 hours and 50 hours per week, respectively, on work and leisure activities. The time Bharat spends on work and leisure are in the ratio of 2 : 3. If the total time spent on work and leisure by both Amit and Bharat together are in the ratio 5 : 4, then the ratio of time spent on work and leisure by Amit is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3 : 1",
+      "2": "4 : 1",
+      "3": "5 : 3",
+      "4": "2 : 1"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 71,
+    "source_id": "6969dcd904a6d30e22be4f5b",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A rectangular park PQRS has length 20 meters and width 12 meters. A diagonal PR is drawn. Then the area, in square meters, of triangle PQR is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "60",
+      "2": "80",
+      "3": "100",
+      "4": "120"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 72,
+    "source_id": "6969dcd904a6d30e22be4f61",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A boat takes 3 hours to travel from point A to point B downstream and 6 hours to return from B to A upstream. If the boat's speed in still water is increased by 3 km/hr, it would take 2.5 hours to go downstream from A to B. The distance, in km, between A and B is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "30",
+      "2": "36",
+      "3": "40",
+      "4": "45"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 73,
+    "source_id": "6969dcd904a6d30e22be4f66",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "The sum of the first 10 terms of an arithmetic progression is 240, and the sum of the next 10 terms is 640. Then, the first term of the arithmetic progression is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "6"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 74,
+    "source_id": "6969dcd904a6d30e22be4f6b",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A father, mother, and son have a combined present age of 90 years. 5 years ago, the father was twice as old as the mother was then. 5 years from now, the father's age will be twice the son's age at that time. The present age of the son, in years, is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "15",
+      "2": "18",
+      "3": "20",
+      "4": "25"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 75,
+    "source_id": "6969dcd904a6d30e22be4f44",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "If 2^a = 8, 3^b = 81, 4^c = 64, and 5^d = 25, then find the value of abcd.",
+    "question_type": "tita",
+    "tita_answer": "72"
+  },
+  {
+    "question_id": 76,
+    "source_id": "6969dcd904a6d30e22be4f54",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "How many three-digit positive integers have all three digits distinct and odd?",
+    "question_type": "tita",
+    "tita_answer": "60"
+  },
+  {
+    "question_id": 77,
+    "source_id": "6969dcd904a6d30e22be4f5a",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A machine's value depreciates such that its value after 2 years is to its value after 5 years in the ratio 125 : 64. If the machine was purchased for Rs 50000, then the minimum number of complete years required for the machine's value to fall below Rs 10000 is",
+    "question_type": "tita",
+    "tita_answer": "8"
+  },
+  {
+    "question_id": 78,
+    "source_id": "6969dcd904a6d30e22be4f60",
+    "slot": "IIM Mumbai - IMAT - Slot 1",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "In a survey of 150 students, 78 students play cricket, 63 students play football, and 45 students play basketball. Additionally, 28 students play both cricket and football, 20 students play both football and basketball, 23 students play both cricket and basketball, and 8 students play all three sports. The number of students who play exactly one sport is",
+    "question_type": "tita",
+    "tita_answer": "68"
+  },
+  {
+    "question_id": 79,
+    "source_id": "696b4110d5e08fb946c061d4",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A sum of money is invested at simple interest. The ratio of the amount after 2 years to the amount after 5 years is 4 : 5. If the amount after 5 years is Rs 7500, then the rate of simple interest per annum is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "8%",
+      "2": "10%",
+      "3": "12%",
+      "4": "15%"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 80,
+    "source_id": "696b4110d5e08fb946c061da",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A cube is painted red on all faces and then cut into 64 smaller identical cubes. The number of smaller cubes that have exactly two faces painted red is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "8",
+      "2": "12",
+      "3": "16",
+      "4": "24"
+    },
+    "correct_answer": "4"
+  },
+  {
+    "question_id": 81,
+    "source_id": "696b4110d5e08fb946c061df",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Two vessels contain mixtures of milk and water. The first vessel contains milk and water in the ratio 3 : 2, and the second vessel contains them in the ratio 5 : 3. If equal quantities from both vessels are mixed, then the ratio of milk to water in the resulting mixture is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "47 : 33",
+      "2": "49 : 31",
+      "3": "51 : 29",
+      "4": "53 : 27"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 82,
+    "source_id": "696b4110d5e08fb946c061e4",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A shopkeeper buys two articles for Rs 1000 each. He sells one at a profit of 20% and the other at a loss of 24%. His overall gain or loss percentage in the entire transaction is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "No profit, no loss",
+      "2": "2% loss",
+      "3": "2% gain",
+      "4": "4% loss"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 83,
+    "source_id": "696b4110d5e08fb946c061e9",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Two pipes A and B can fill a tank in 12 hours and 18 hours respectively. Both pipes are opened together, but after 4 hours, pipe A is closed. The total time taken to fill the tank is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "10 hours",
+      "2": "12 hours",
+      "3": "13 hours",
+      "4": "14 hours"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 84,
+    "source_id": "696b4110d5e08fb946c061ef",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "In a geometric progression, the sum of the first three terms is 26 and the sum of the first six terms is 728. The common ratio of the progression is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 85,
+    "source_id": "696b4110d5e08fb946c061f4",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Points A(2, 3), B(8, 7), and C(5, k) form a triangle. If the area of triangle ABC is 6 square units, then the sum of all possible values of k is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "8",
+      "2": "10",
+      "3": "12",
+      "4": "14"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 86,
+    "source_id": "696b4110d5e08fb946c061f9",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A bag contains 6 red balls and 6 blue balls. Three balls are drawn at random without replacement. The probability that exactly 2 balls are red is",
+    "question_type": "mcsc",
+    "options": {
+      "1": "45/110",
+      "2": "54/110",
+      "3": "63/110",
+      "4": "72/110"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 87,
+    "source_id": "696b4110d5e08fb946c061d9",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "How many four-digit numbers can be formed using the digits 1, 2, 3, 4, 5, 6, 7 without repetition such that the number is divisible by 5?",
+    "question_type": "tita",
+    "tita_answer": "120"
+  },
+  {
+    "question_id": 88,
+    "source_id": "696b4110d5e08fb946c061ee",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A two-digit number is such that the product of its digits is 8. When 18 is subtracted from the number, the digits interchange their positions. The two-digit number is",
+    "question_type": "tita",
+    "tita_answer": "42"
+  },
+  {
+    "question_id": 89,
+    "source_id": "696b4110d5e08fb946c061fe",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "If the sum of the roots of the quadratic equation x^2 + px + q = 0 is equal to the product of the reciprocals of the roots, then the value of pq is",
+    "question_type": "tita",
+    "tita_answer": "-1"
+  },
+  {
+    "question_id": 90,
+    "source_id": "696b4110d5e08fb946c061ff",
+    "slot": "IIM Mumbai - IMAT - Slot 2",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Three workers A, B, and C can complete a task in 10, 12, and 15 days respectively when working alone. They start working together, but A leaves after 2 days and B leaves 1 day before the work is completed. If the total number of days required to complete the task is expressed as a fraction p/q in lowest terms, what is the value of p + q?",
+    "question_type": "tita",
+    "tita_answer": "62"
+  },
+  {
+    "question_id": 91,
+    "source_id": "696b5f86575b41acdf00398b",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A train traveled a certain distance at a constant speed. If the speed had been 15 km per hour more, it would have taken 2 hours less. If the speed had been 15 km per hour less, it would have taken 3 hours more. The distance, in km, traveled by the train is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "750",
+      "2": "900",
+      "3": "1050",
+      "4": "1200"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 92,
+    "source_id": "696b5f86575b41acdf003990",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A circular garden is divided into two regions by a chord of length 10 meters such that the chord subtends an angle of 90° at the center. Then, the area, in square meters, of the smaller region is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "25((pi/2) - 1)",
+      "2": "25(pi - 1)",
+      "3": "50((pi/2) - 1)",
+      "4": "50(pi - 1)"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 93,
+    "source_id": "696b5f86575b41acdf003995",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "If 7^36 is divided by 13, the remainder is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1",
+      "2": "3",
+      "3": "7",
+      "4": "9"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 94,
+    "source_id": "696b5f86575b41acdf00399b",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "Priya and Qasim spend 30 hours and 40 hours per week, respectively, on study and recreation activities. The time Qasim spends on study and recreation are in the ratio of 3:1. If the total time spent on study and recreation by both Priya and Qasim together are in the ratio 9:5, then the ratio of time spent on study and recreation by Priya is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "1:1",
+      "2": "2:1",
+      "3": "3:2",
+      "4": "4:3"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 95,
+    "source_id": "696b5f86575b41acdf0039a1",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A rectangular field ABCD has length 30 meters and width 16 meters. A diagonal AC is drawn. Then the area, in square meters, of triangle ABC is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "180",
+      "2": "200",
+      "3": "240",
+      "4": "280"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 96,
+    "source_id": "696b5f86575b41acdf0039a7",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A boat takes 4 hours to travel from point A to point B downstream and 8 hours to return from B to A upstream. If the boat's speed in still water is increased by 2 km/hr, it would take 3.2 hours to go downstream from A to B. The distance, in km, between A and B is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "24",
+      "2": "28",
+      "3": "32",
+      "4": "36"
+    },
+    "correct_answer": "3"
+  },
+  {
+    "question_id": 97,
+    "source_id": "696b5f86575b41acdf0039ac",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "The sum of the first 10 terms of an arithmetic progression is 200, and the sum of the next 10 terms is 600. Then, the first term of the arithmetic progression is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "correct_answer": "1"
+  },
+  {
+    "question_id": 98,
+    "source_id": "696b5f86575b41acdf0039b1",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 4,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A mother, father, and daughter have a combined present age of 85 years. 10 years ago, the mother was twice as old as the daughter was then. 5 years from now, the father's age will be twice the daughter's age at that time. The present age of the daughter, in years, is:",
+    "question_type": "mcsc",
+    "options": {
+      "1": "15",
+      "2": "18",
+      "3": "20",
+      "4": "22"
+    },
+    "correct_answer": "2"
+  },
+  {
+    "question_id": 99,
+    "source_id": "696b5f86575b41acdf00398a",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "If 3^p = 27, 2^q = 16, 5^r = 125, and 7^s = 49, then find the value of pqrs. (Product)",
+    "question_type": "tita",
+    "tita_answer": "72"
+  },
+  {
+    "question_id": 100,
+    "source_id": "696b5f86575b41acdf00399a",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "How many four-digit positive integers have all four digits distinct and even?",
+    "question_type": "tita",
+    "tita_answer": "96"
+  },
+  {
+    "question_id": 101,
+    "source_id": "696b5f86575b41acdf0039a0",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "A machine's value depreciates such that its value after 3 years is to its value after 6 years in the ratio 64:27. If the machine was purchased for Rs 40000, then the minimum number of complete years required for the machine's value to fall below Rs 8000 is:",
+    "question_type": "tita",
+    "tita_answer": "6"
+  },
+  {
+    "question_id": 102,
+    "source_id": "696b5f86575b41acdf0039a6",
+    "slot": "IIM Mumbai - IMAT - Slot 3",
+    "section": "QA",
+    "set_id": "",
+    "set_seq": "",
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "num_options": 0,
+    "topic": "QA/Quantitative Ability",
+    "difficulty": 0.5,
+    "t_expert_sec": 22,
+    "t_average_sec": 90,
+    "stimulus": {
+      "kind": "none",
+      "markdown": ""
+    },
+    "question_text": "In a survey of 200 students, 95 students read novels, 80 students read magazines, and 60 students read newspapers. Additionally, 35 students read both novels and magazines, 28 students read both magazines and newspapers, 30 students read both novels and newspapers, and 12 students read all three. The number of students who read exactly one type of reading material is:",
+    "question_type": "tita",
+    "tita_answer": "85"
+  }
+]

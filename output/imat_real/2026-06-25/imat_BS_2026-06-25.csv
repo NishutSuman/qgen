@@ -1,0 +1,403 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"For most of human history, the night sky was a shared inheritance: a band of stars visible to anyone who looked upward. That inheritance is quietly dissolving. The spread of electrified cities has scattered artificial light into the atmosphere, where dust and moisture scatter it further, producing a diffuse glow that astronomers call skyglow. Under this veil, the faint light of distant stars is simply drowned out. Surveys now suggest that a large share of people alive today have never seen the Milky Way from where they live, and that the brightness of the night sky over inhabited regions is rising by a few per cent each year.
+
+The consequences reach well beyond stargazing. Many organisms time their behaviour by natural cycles of darkness. Migrating birds, which navigate partly by the stars, can be disoriented by illuminated buildings; insects exhaust themselves circling lamps; hatchling sea turtles, which instinctively crawl toward the brightest horizon, may turn inland toward roads instead of out to sea. In each case a cue that was reliable for millions of years has been overwritten by a human signal.
+
+What makes light pollution unusual among environmental problems is how readily it can be reversed. Carbon dioxide lingers in the atmosphere for centuries; a poorly aimed streetlamp stops polluting the moment it is switched off or shielded. Lighting that points downward, that is no brighter than a task requires, and that is dimmed when no one is present can preserve both safety and darkness. The obstacle is not technical but a habit of mind that equates more light with more progress. Recovering the night sky, then, asks less for new invention than for a willingness to use, more thoughtfully, the light we already command.
+
+**Which of the following best expresses the main idea of the passage?**",,120,,,,3,,Artificial light has now made it completely impossible for most people on Earth to see any stars at all from any of the places where they currently live and work.,"The disorientation of migrating birds, circling insects, and stranded sea turtles is now the single most urgent environmental crisis facing the entire planet.","Light pollution is a serious but unusually reversible problem, and addressing it depends more on changing our lighting habits than on inventing new technology.","Astronomers, rather than elected officials, should be given final authority over urban lighting decisions because they understand skyglow better than city planners.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"For most of human history, the night sky was a shared inheritance: a band of stars visible to anyone who looked upward. That inheritance is quietly dissolving. The spread of electrified cities has scattered artificial light into the atmosphere, where dust and moisture scatter it further, producing a diffuse glow that astronomers call skyglow. Under this veil, the faint light of distant stars is simply drowned out. Surveys now suggest that a large share of people alive today have never seen the Milky Way from where they live, and that the brightness of the night sky over inhabited regions is rising by a few per cent each year.
+
+The consequences reach well beyond stargazing. Many organisms time their behaviour by natural cycles of darkness. Migrating birds, which navigate partly by the stars, can be disoriented by illuminated buildings; insects exhaust themselves circling lamps; hatchling sea turtles, which instinctively crawl toward the brightest horizon, may turn inland toward roads instead of out to sea. In each case a cue that was reliable for millions of years has been overwritten by a human signal.
+
+What makes light pollution unusual among environmental problems is how readily it can be reversed. Carbon dioxide lingers in the atmosphere for centuries; a poorly aimed streetlamp stops polluting the moment it is switched off or shielded. Lighting that points downward, that is no brighter than a task requires, and that is dimmed when no one is present can preserve both safety and darkness. The obstacle is not technical but a habit of mind that equates more light with more progress. Recovering the night sky, then, asks less for new invention than for a willingness to use, more thoughtfully, the light we already command.
+
+**According to the passage, the author makes all of the following claims EXCEPT:**",,110,,,,2,,Skyglow is produced partly because dust and moisture in the atmosphere scatter artificial light.,Reducing light pollution requires expensive new lighting technologies that have not yet been invented.,Some animals rely on natural darkness or starlight as a behavioural cue that artificial light can disrupt.,The brightness of the night sky over inhabited regions has been increasing year by year.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"For most of human history, the night sky was a shared inheritance: a band of stars visible to anyone who looked upward. That inheritance is quietly dissolving. The spread of electrified cities has scattered artificial light into the atmosphere, where dust and moisture scatter it further, producing a diffuse glow that astronomers call skyglow. Under this veil, the faint light of distant stars is simply drowned out. Surveys now suggest that a large share of people alive today have never seen the Milky Way from where they live, and that the brightness of the night sky over inhabited regions is rising by a few per cent each year.
+
+The consequences reach well beyond stargazing. Many organisms time their behaviour by natural cycles of darkness. Migrating birds, which navigate partly by the stars, can be disoriented by illuminated buildings; insects exhaust themselves circling lamps; hatchling sea turtles, which instinctively crawl toward the brightest horizon, may turn inland toward roads instead of out to sea. In each case a cue that was reliable for millions of years has been overwritten by a human signal.
+
+What makes light pollution unusual among environmental problems is how readily it can be reversed. Carbon dioxide lingers in the atmosphere for centuries; a poorly aimed streetlamp stops polluting the moment it is switched off or shielded. Lighting that points downward, that is no brighter than a task requires, and that is dimmed when no one is present can preserve both safety and darkness. The obstacle is not technical but a habit of mind that equates more light with more progress. Recovering the night sky, then, asks less for new invention than for a willingness to use, more thoughtfully, the light we already command.
+
+**Why does the author contrast light pollution with carbon dioxide?**",,115,,,,4,,"To argue that carbon dioxide is, in the end, a far less serious threat to migrating wildlife than artificial light is.",To suggest that the two problems are caused by exactly the same kind of polluting industrial activity in modern cities.,To prove that most environmental problems generally cannot be solved at all without first achieving major scientific breakthroughs.,"To highlight that light pollution can be reversed almost at once, whereas carbon dioxide lingers for a very long time.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,4,mcsc,markdown,"For most of human history, the night sky was a shared inheritance: a band of stars visible to anyone who looked upward. That inheritance is quietly dissolving. The spread of electrified cities has scattered artificial light into the atmosphere, where dust and moisture scatter it further, producing a diffuse glow that astronomers call skyglow. Under this veil, the faint light of distant stars is simply drowned out. Surveys now suggest that a large share of people alive today have never seen the Milky Way from where they live, and that the brightness of the night sky over inhabited regions is rising by a few per cent each year.
+
+The consequences reach well beyond stargazing. Many organisms time their behaviour by natural cycles of darkness. Migrating birds, which navigate partly by the stars, can be disoriented by illuminated buildings; insects exhaust themselves circling lamps; hatchling sea turtles, which instinctively crawl toward the brightest horizon, may turn inland toward roads instead of out to sea. In each case a cue that was reliable for millions of years has been overwritten by a human signal.
+
+What makes light pollution unusual among environmental problems is how readily it can be reversed. Carbon dioxide lingers in the atmosphere for centuries; a poorly aimed streetlamp stops polluting the moment it is switched off or shielded. Lighting that points downward, that is no brighter than a task requires, and that is dimmed when no one is present can preserve both safety and darkness. The obstacle is not technical but a habit of mind that equates more light with more progress. Recovering the night sky, then, asks less for new invention than for a willingness to use, more thoughtfully, the light we already command.
+
+**It can be inferred that the author would most likely agree with which of the following statements?**",,125,,,,1,,A community could cut its light pollution without sacrificing safety by aiming lamps downward and dimming them when no one is around.,"The loss of the visible Milky Way is, regrettably, an entirely unavoidable cost of building any modern, fully electrified society.",Cities ought to abandon their street lighting almost entirely in order to recover the lost visibility of the dark and starry night sky.,Concern about the fading night sky is mainly a private preoccupation of professional astronomers rather than a truly broad public issue.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,1,mcsc,markdown,"When a result in science is described as 'replicated,' it means that an independent team, following the same procedure, has obtained a similar finding. Replication is often called the gatekeeper of reliable knowledge, because a single study, however carefully done, can be misled by chance, by an unusual sample, or by an undetected flaw in its design. Only when a result reappears under different hands does the community gain confidence that it reflects something real rather than an accident of one laboratory.
+
+In recent years, however, attempts to repeat well-known studies have frequently failed to reproduce the original effects. Several factors contribute. Researchers face strong incentives to publish striking, novel results, while careful repetitions of someone else's work attract little reward and are seldom published. Small samples can yield impressive-looking outcomes that vanish when the study is enlarged. And the freedom to analyse data in many ways allows a researcher, even unintentionally, to keep adjusting the analysis until a pattern emerges.
+
+None of this means that science is broken. The very fact that the failures are being documented is itself a product of the scientific method turning its scrutiny on its own practices. Reforms are already spreading: some journals now invite researchers to register their hypotheses and planned analyses before collecting data, and commit to publishing the results whether or not they are striking. Others reserve space specifically for replication studies. What looks at first like a crisis of confidence may be better understood as a discipline learning, in public, to hold itself to its own standards.
+
+**Which of the following best states the central argument of the passage?**",,120,,,,2,,Scientific journals are the primary cause of unreliable published findings and therefore should no longer be trusted at all by readers.,"Although many well-known studies have failed to replicate, this reflects science correcting itself rather than a breakdown of the method.","Small samples are, on their own, the single underlying reason that so many famous studies have proven difficult to reproduce reliably.",Replication is essentially impossible in actual practice because no two separate laboratories ever follow exactly the same detailed procedure.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"When a result in science is described as 'replicated,' it means that an independent team, following the same procedure, has obtained a similar finding. Replication is often called the gatekeeper of reliable knowledge, because a single study, however carefully done, can be misled by chance, by an unusual sample, or by an undetected flaw in its design. Only when a result reappears under different hands does the community gain confidence that it reflects something real rather than an accident of one laboratory.
+
+In recent years, however, attempts to repeat well-known studies have frequently failed to reproduce the original effects. Several factors contribute. Researchers face strong incentives to publish striking, novel results, while careful repetitions of someone else's work attract little reward and are seldom published. Small samples can yield impressive-looking outcomes that vanish when the study is enlarged. And the freedom to analyse data in many ways allows a researcher, even unintentionally, to keep adjusting the analysis until a pattern emerges.
+
+None of this means that science is broken. The very fact that the failures are being documented is itself a product of the scientific method turning its scrutiny on its own practices. Reforms are already spreading: some journals now invite researchers to register their hypotheses and planned analyses before collecting data, and commit to publishing the results whether or not they are striking. Others reserve space specifically for replication studies. What looks at first like a crisis of confidence may be better understood as a discipline learning, in public, to hold itself to its own standards.
+
+**The author identifies all of the following as factors contributing to replication failures EXCEPT:**",,110,,,,2,,The freedom to analyse data in many ways until a pattern happens to appear.,A deliberate effort by most researchers to fabricate data in order to deceive their peers.,Incentives that reward novel findings while offering little reward for repeating others' work.,Small samples that can produce striking results which disappear when the study is enlarged.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"When a result in science is described as 'replicated,' it means that an independent team, following the same procedure, has obtained a similar finding. Replication is often called the gatekeeper of reliable knowledge, because a single study, however carefully done, can be misled by chance, by an unusual sample, or by an undetected flaw in its design. Only when a result reappears under different hands does the community gain confidence that it reflects something real rather than an accident of one laboratory.
+
+In recent years, however, attempts to repeat well-known studies have frequently failed to reproduce the original effects. Several factors contribute. Researchers face strong incentives to publish striking, novel results, while careful repetitions of someone else's work attract little reward and are seldom published. Small samples can yield impressive-looking outcomes that vanish when the study is enlarged. And the freedom to analyse data in many ways allows a researcher, even unintentionally, to keep adjusting the analysis until a pattern emerges.
+
+None of this means that science is broken. The very fact that the failures are being documented is itself a product of the scientific method turning its scrutiny on its own practices. Reforms are already spreading: some journals now invite researchers to register their hypotheses and planned analyses before collecting data, and commit to publishing the results whether or not they are striking. Others reserve space specifically for replication studies. What looks at first like a crisis of confidence may be better understood as a discipline learning, in public, to hold itself to its own standards.
+
+**What is the main purpose of registering hypotheses and planned analyses before collecting data, as described in the passage?**",,120,,,,4,,To guarantee that each and every registered study will reliably end up producing some kind of novel and publishable finding.,"To replace careful replication studies entirely, so that any repetition of other people's earlier work is no longer needed at all.","To allow researchers to choose freely, after they have seen the data, which analysis presents their results most favourably.","To limit the freedom to adjust the analysis until a desired pattern appears, and to ensure results are reported either way.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,4,mcsc,markdown,"When a result in science is described as 'replicated,' it means that an independent team, following the same procedure, has obtained a similar finding. Replication is often called the gatekeeper of reliable knowledge, because a single study, however carefully done, can be misled by chance, by an unusual sample, or by an undetected flaw in its design. Only when a result reappears under different hands does the community gain confidence that it reflects something real rather than an accident of one laboratory.
+
+In recent years, however, attempts to repeat well-known studies have frequently failed to reproduce the original effects. Several factors contribute. Researchers face strong incentives to publish striking, novel results, while careful repetitions of someone else's work attract little reward and are seldom published. Small samples can yield impressive-looking outcomes that vanish when the study is enlarged. And the freedom to analyse data in many ways allows a researcher, even unintentionally, to keep adjusting the analysis until a pattern emerges.
+
+None of this means that science is broken. The very fact that the failures are being documented is itself a product of the scientific method turning its scrutiny on its own practices. Reforms are already spreading: some journals now invite researchers to register their hypotheses and planned analyses before collecting data, and commit to publishing the results whether or not they are striking. Others reserve space specifically for replication studies. What looks at first like a crisis of confidence may be better understood as a discipline learning, in public, to hold itself to its own standards.
+
+**It can be inferred from the passage that the author regards the documentation of replication failures as:**",,118,,,,4,,"definite proof that most published scientific results will, sooner or later, be shown to be entirely false.",an unfortunate and costly distraction that needlessly diverts attention away from producing genuinely novel discoveries.,a serious problem that can only ever be solved by abandoning the basic requirement of replication altogether.,evidence that science is applying its own critical methods to itself rather than a sign of fundamental decay.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,1,mcsc,markdown,"A city map is never a perfect copy of the city it represents. If it were, it would have to be exactly as large and as complicated as the city itself, and so would be useless to a traveller. The value of a map lies precisely in what it leaves out. By dropping countless details and keeping only roads, rivers, and a few landmarks, a map becomes small enough to hold in the hand and clear enough to guide a journey.
+
+The same principle applies to scientific models. A model of the weather, or of a population of animals, does not try to capture every raindrop or every individual creature. Instead it keeps the features that matter for the question being asked and ignores the rest. A model built to predict tomorrow's temperature can safely leave out the colour of people's umbrellas; a model of how a disease spreads can ignore the brand of car that infected people drive. Choosing what to leave out is not a weakness of a model but the very thing that makes it useful.
+
+This has a practical lesson. When we judge a model, the right question is not 'Is it complete?' but 'Is it useful for its purpose?' A simple model that answers the question at hand may be far more valuable than an elaborate one that tries to include everything and so becomes impossible to understand. As one saying among scientists puts it, all models are wrong, but some are useful. Wisdom lies in matching the simplicity of the model to the job it must do.
+
+**Which of the following best captures the main idea of the passage?**",,95,,,,3,,Scientific models should always try to include as much fine-grained detail as they possibly can in order to be truly accurate.,"Maps are, in the end, far more reliable guides to a city than scientific models can ever be to the natural world.","A good model, much like a good map, is valuable precisely because it leaves out details that do not matter for its purpose.",The colour of people's umbrellas and the brand of a car are in fact important variables in both weather and disease models.,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,2,mcsc,markdown,"A city map is never a perfect copy of the city it represents. If it were, it would have to be exactly as large and as complicated as the city itself, and so would be useless to a traveller. The value of a map lies precisely in what it leaves out. By dropping countless details and keeping only roads, rivers, and a few landmarks, a map becomes small enough to hold in the hand and clear enough to guide a journey.
+
+The same principle applies to scientific models. A model of the weather, or of a population of animals, does not try to capture every raindrop or every individual creature. Instead it keeps the features that matter for the question being asked and ignores the rest. A model built to predict tomorrow's temperature can safely leave out the colour of people's umbrellas; a model of how a disease spreads can ignore the brand of car that infected people drive. Choosing what to leave out is not a weakness of a model but the very thing that makes it useful.
+
+This has a practical lesson. When we judge a model, the right question is not 'Is it complete?' but 'Is it useful for its purpose?' A simple model that answers the question at hand may be far more valuable than an elaborate one that tries to include everything and so becomes impossible to understand. As one saying among scientists puts it, all models are wrong, but some are useful. Wisdom lies in matching the simplicity of the model to the job it must do.
+
+**Why does the author say that a perfectly complete map would be useless?**",,92,,,,2,,Because maps are always rather less accurate than the kind of scientific models that are discussed later on in the passage.,"Because it would have to be as large and as complicated as the city itself, and so could not guide a traveller.",Because real cities change far too quickly for any printed map of them to remain fully correct for very long.,"Because no ordinary traveller is ever genuinely interested in the roads, the rivers, or the landmarks of a city.",,,VARC/reading-comprehension,0
+VARC,VARC-RC3,3,mcsc,markdown,"A city map is never a perfect copy of the city it represents. If it were, it would have to be exactly as large and as complicated as the city itself, and so would be useless to a traveller. The value of a map lies precisely in what it leaves out. By dropping countless details and keeping only roads, rivers, and a few landmarks, a map becomes small enough to hold in the hand and clear enough to guide a journey.
+
+The same principle applies to scientific models. A model of the weather, or of a population of animals, does not try to capture every raindrop or every individual creature. Instead it keeps the features that matter for the question being asked and ignores the rest. A model built to predict tomorrow's temperature can safely leave out the colour of people's umbrellas; a model of how a disease spreads can ignore the brand of car that infected people drive. Choosing what to leave out is not a weakness of a model but the very thing that makes it useful.
+
+This has a practical lesson. When we judge a model, the right question is not 'Is it complete?' but 'Is it useful for its purpose?' A simple model that answers the question at hand may be far more valuable than an elaborate one that tries to include everything and so becomes impossible to understand. As one saying among scientists puts it, all models are wrong, but some are useful. Wisdom lies in matching the simplicity of the model to the job it must do.
+
+**It can be inferred that the author would most likely judge a scientific model by asking:**",,105,,,,1,,"whether it serves its intended purpose well, even if it leaves out many features of the real situation.",whether it manages to include every single variable that could conceivably affect the final outcome in any way.,whether it is noticeably more detailed and elaborate than any competing model that addresses the same question.,whether it perfectly reproduces the whole of reality without leaving out or omitting anything at all whatsoever.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,4,mcsc,markdown,"A city map is never a perfect copy of the city it represents. If it were, it would have to be exactly as large and as complicated as the city itself, and so would be useless to a traveller. The value of a map lies precisely in what it leaves out. By dropping countless details and keeping only roads, rivers, and a few landmarks, a map becomes small enough to hold in the hand and clear enough to guide a journey.
+
+The same principle applies to scientific models. A model of the weather, or of a population of animals, does not try to capture every raindrop or every individual creature. Instead it keeps the features that matter for the question being asked and ignores the rest. A model built to predict tomorrow's temperature can safely leave out the colour of people's umbrellas; a model of how a disease spreads can ignore the brand of car that infected people drive. Choosing what to leave out is not a weakness of a model but the very thing that makes it useful.
+
+This has a practical lesson. When we judge a model, the right question is not 'Is it complete?' but 'Is it useful for its purpose?' A simple model that answers the question at hand may be far more valuable than an elaborate one that tries to include everything and so becomes impossible to understand. As one saying among scientists puts it, all models are wrong, but some are useful. Wisdom lies in matching the simplicity of the model to the job it must do.
+
+**What is the main function of the saying 'all models are wrong, but some are useful' in the passage?**",,108,,,,4,,To warn readers firmly that scientific models really should not be trusted when making any practical decision.,To introduce a fresh objection that the author then goes on to refute carefully and in some detail.,"To claim that maps, quite unlike scientific models, are essentially never wrong about the cities they represent.",To reinforce the author's point that a model need not be complete in order to be valuable for its purpose.,,,VARC/reading-comprehension,0.5
+VARC,VARC-ODD-1,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) Coral reefs occupy less than one percent of the ocean floor, yet they shelter roughly a quarter of all marine species.
+(2) The dense limestone structures act as nurseries where countless fish spawn and mature.
+(3) They also buffer nearby coastlines by absorbing much of the energy carried by incoming waves.
+(4) Many tropical resorts now offer guided diving tours that bring tourists close to these formations.
+(5) Because of this ecological richness, the loss of a single reef can ripple through an entire marine food web.
+
+**Which sentence is the odd one out?**",,130,,,,3,,3,5,4,1,2,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) The printing press, introduced in fifteenth-century Europe, dramatically lowered the cost of reproducing texts.
+(2) Books that had once taken months to copy by hand could now be produced in days.
+(3) As prices fell, reading spread beyond monasteries and universities to ordinary townspeople.
+(4) This wider circulation of ideas helped fuel movements in science and religion.
+(5) Modern libraries increasingly lend electronic books that readers download to personal devices.
+
+**Which sentence is the odd one out?**",,135,,,,1,,5,1,2,3,4,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Four of the following five sentences, when arranged properly, form a coherent paragraph on a single theme; one sentence does not belong.
+
+(1) Honeybees communicate the location of food through a movement known as the waggle dance.
+(2) Beekeepers harvest surplus honey by carefully removing frames from the hive.
+(3) A returning forager runs in a figure-eight pattern on the vertical comb.
+(4) The angle of the run relative to gravity encodes the direction of the food source.
+(5) The duration of the waggle phase signals how far away the food lies.
+
+**Which sentence is the odd one out?**",,132,,,,2,,5,2,1,4,3,,VARC/odd-one-out,0.5
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.
+
+1. The result was a network of stone roads stretching across the whole empire.
+2. Ancient Rome needed a fast way to move its armies between distant provinces.
+3. To meet this need, engineers laid down durable paved routes wherever the legions marched.
+4. Centuries later, many of these same roads still guide the paths of modern highways.
+
+**Select the correct sequence of sentences.**",,140,,,,3,,2341,3214,2314,2134,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.
+
+1. Over time, this trapped heat raises the planet's average surface temperature.
+2. Certain gases in the atmosphere allow sunlight to pass through but absorb the heat that the ground radiates back.
+3. This natural process is what scientists call the greenhouse effect.
+4. When the concentration of these gases rises, more heat is retained than before.
+
+**Select the correct sequence of sentences.**",,145,,,,3,,2341,3241,2314,2431,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.
+
+1. She began by sketching rough thumbnails to test different compositions.
+2. Maria had been asked to design the cover for the school magazine.
+3. Once a layout felt right, she refined it into a detailed digital drawing.
+4. Finally, she added colour and sent the finished file to the printer.
+
+**Select the correct sequence of sentences.**",,130,,,,3,,1234,2143,2134,2314,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The following four sentences, labelled 1 to 4, can be arranged to form a coherent paragraph.
+
+1. At first the seedlings were too fragile to survive outdoors.
+2. The gardeners started the tomato plants indoors during early spring.
+3. So they kept the young plants under warm lamps for several weeks.
+4. Only when the stems had thickened did the gardeners move them into the open beds.
+
+**Select the correct sequence of sentences.**",,133,,,,3,,2314,1234,2134,2143,,,VARC/para-jumble,0.5
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"Public libraries today do far more than lend books. Many now offer free internet access, run job-search workshops, host story hours for children, and lend tools or musical instruments. For people without these resources at home, the library has become a community centre as much as a place to read.
+
+**Which of the following best summarises the paragraph?**",,115,,,,1,,Modern public libraries have grown into broad community centres that now offer many services going well beyond simply lending out books.,Public libraries today mainly function as places that lend out musical instruments and household tools to the local residents who ask.,Libraries have lost all interest in books and now devote themselves entirely to providing free internet access to their local visitors.,The single most valuable thing libraries do now is to host the enjoyable weekly story hours for the young children of the community.,,,VARC/summary,0
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"Sleep researchers have found that pulling an all-nighter before an exam usually backfires. While extra waking hours seem to allow more study, the tired brain struggles to store new information, and fatigue slows recall the next day. Students who sleep a full night generally remember more, even though they spent fewer hours reviewing.
+
+**Which of the following best summarises the paragraph?**",,125,,,,2,,Students who choose to stay awake all night before an exam manage to study far more material and so tend to recall it better.,"Sacrificing sleep to study longer tends to weaken memory and recall, so a full night of proper rest usually serves students better.",How much a student sleeps has no measurable effect at all on how well that student later performs on a difficult written examination.,Sleep researchers now firmly advise students that they should never review any of their own notes during the evening before an exam.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"Electric cars produce no exhaust as they drive, which clearly improves air quality in cities. Yet whether they are truly cleaner depends on how their electricity is generated. Where power comes mostly from coal, the overall emissions can rival those of petrol cars; where it comes from renewables, the advantage is large.
+
+**Which of the following best summarises the paragraph?**",,130,,,,4,,Coal-fired power stations still remain the main source of almost all of the electricity that is used to charge most electric cars today.,"Electric cars are always far cleaner than ordinary petrol cars in every situation, no matter how their electrical power happens to be generated.",Electric cars release no pollution at all from their tailpipes while they are being driven along busy city streets and the open roads beyond.,"Electric cars cut local pollution, but their full environmental benefit ultimately depends on how the electricity charging them is produced.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-4,1,mcsc,markdown,"Volunteering is often described as pure generosity, but studies suggest the giver gains too. People who regularly help others report lower stress, a stronger sense of purpose, and wider social networks. In this sense, the act of giving time quietly returns a benefit to the volunteer.
+
+**Which of the following best summarises the paragraph?**",,128,,,,1,,"Although volunteering clearly helps other people in many ways, research indicates that it also brings the volunteer real personal benefits.",Volunteering is best understood as a wholly selfless act of giving that quietly returns no benefit of any real kind to the person doing it.,People generally choose to volunteer mainly because doing so lets them expand and strengthen their own valuable personal social networks.,Regular volunteers consistently report that they now feel considerably less stressed and rather more relaxed than they did before they began.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-5,1,mcsc,markdown,"When a new word enters a language, it rarely arrives by official decree. Instead, speakers begin using it, others copy them, and dictionaries record the word only after it has already taken hold. Language, in other words, is shaped from the bottom up by ordinary use rather than handed down by authorities.
+
+**Which of the following best summarises the paragraph?**",,132,,,,3,,Dictionaries hold the real authority here and are the bodies responsible for officially deciding which new words a language may properly adopt.,Most new words manage to enter a language only after some official government body has formally reviewed and then finally approved each one.,"New words spread through everyday use among ordinary speakers, and dictionaries follow rather than simply lead this gradual change over time.",Speakers occasionally invent striking new words that many other people across the wider language community then choose to copy and reuse.,,,VARC/summary,0.5
+DILR,DILR-1,1,mcsc,markdown,"Four teams, Alfa, Bravo, Comet and Delta, play a single round-robin tournament: every team plays every other team exactly once (6 matches in all). A win is worth 3 points, a tie is worth 1 point to each team, and a loss is worth 0 points. The following facts are known about the completed tournament:
+
+- Alfa won every match it played.
+- Delta lost every match it played.
+- Exactly one match in the whole tournament ended in a tie.
+- That single tie was the match between Bravo and Comet.
+
+**How many points did Comet earn in the tournament?**",,210,,,,1,,4 points,7 points,3 points,6 points,,,DILR/logic-tournament,0.5
+DILR,DILR-1,2,mcsc,markdown,"Four teams, Alfa, Bravo, Comet and Delta, play a single round-robin tournament: every team plays every other team exactly once (6 matches in all). A win is worth 3 points, a tie is worth 1 point to each team, and a loss is worth 0 points. The following facts are known about the completed tournament:
+
+- Alfa won every match it played.
+- Delta lost every match it played.
+- Exactly one match in the whole tournament ended in a tie.
+- That single tie was the match between Bravo and Comet.
+
+**How many of the 6 matches ended with a winner (that is, did NOT end in a tie)?**",,160,,,,3,,6 matches,4 matches,5 matches,3 matches,,,DILR/logic-tournament,0.5
+DILR,DILR-1,3,mcsc,markdown,"Four teams, Alfa, Bravo, Comet and Delta, play a single round-robin tournament: every team plays every other team exactly once (6 matches in all). A win is worth 3 points, a tie is worth 1 point to each team, and a loss is worth 0 points. The following facts are known about the completed tournament:
+
+- Alfa won every match it played.
+- Delta lost every match it played.
+- Exactly one match in the whole tournament ended in a tie.
+- That single tie was the match between Bravo and Comet.
+
+**Which statement about the final points table is correct?**",,230,,,,2,,"Comet finished ahead of Bravo on points, with Alfa on top.","Bravo and Comet finished level on points, behind Alfa and ahead of Delta.","Delta finished level on points with Bravo, behind Alfa and Comet.","Alfa and Bravo finished level on points at the top, ahead of Comet and Delta.",,,DILR/logic-tournament,0.5
+DILR,DILR-2,1,mcsc,markdown,"Three friends, Mira, Nina and Owen, each take the same short quiz of 5 questions. Every correct answer is worth 3 points; a wrong or blank answer scores 0 points. So each person's score equals 3 times the number of questions they answered correctly. The following facts are known:
+
+- Between them, the three friends answered exactly 9 questions correctly.
+- Mira answered more questions correctly than Nina, and Nina answered more correctly than Owen.
+- Owen answered exactly 2 questions correctly.
+- No one answered all 5 questions correctly.
+
+**How many points did Mira score?**",,230,,,,3,,9 points,6 points,12 points,15 points,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,2,mcsc,markdown,"Three friends, Mira, Nina and Owen, each take the same short quiz of 5 questions. Every correct answer is worth 3 points; a wrong or blank answer scores 0 points. So each person's score equals 3 times the number of questions they answered correctly. The following facts are known:
+
+- Between them, the three friends answered exactly 9 questions correctly.
+- Mira answered more questions correctly than Nina, and Nina answered more correctly than Owen.
+- Owen answered exactly 2 questions correctly.
+- No one answered all 5 questions correctly.
+
+**How many questions did Nina answer correctly?**",,210,,,,2,,4 questions,3 questions,2 questions,5 questions,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,3,mcsc,markdown,"Three friends, Mira, Nina and Owen, each take the same short quiz of 5 questions. Every correct answer is worth 3 points; a wrong or blank answer scores 0 points. So each person's score equals 3 times the number of questions they answered correctly. The following facts are known:
+
+- Between them, the three friends answered exactly 9 questions correctly.
+- Mira answered more questions correctly than Nina, and Nina answered more correctly than Owen.
+- Owen answered exactly 2 questions correctly.
+- No one answered all 5 questions correctly.
+
+**What was the combined total score of all three friends?**",,180,,,,1,,27 points,30 points,9 points,18 points,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-3,1,mcsc,markdown,"Units sold during the month (number of packets)
+| Product | Aria | Bani | Cera | Dovi |
+|---|--:|--:|--:|--:|
+| Tea | 120 | 200 | 150 | 180 |
+| Coffee | 80 | 150 | 200 | 120 |
+| Cocoa | 60 | 100 | 50 | 90 |
+
+Selling price per packet (in rupees)
+| Product | Price |
+|---|--:|
+| Tea | 20 |
+| Coffee | 30 |
+| Cocoa | 40 |
+
+**How many packets in total did store Bani sell across all three products during the month?**",,170,,,,3,,350,400,450,260,,,DILR/di-table,0.5
+DILR,DILR-3,2,mcsc,markdown,"Units sold during the month (number of packets)
+| Product | Aria | Bani | Cera | Dovi |
+|---|--:|--:|--:|--:|
+| Tea | 120 | 200 | 150 | 180 |
+| Coffee | 80 | 150 | 200 | 120 |
+| Cocoa | 60 | 100 | 50 | 90 |
+
+Selling price per packet (in rupees)
+| Product | Price |
+|---|--:|
+| Tea | 20 |
+| Coffee | 30 |
+| Cocoa | 40 |
+
+**What was the total sales revenue (in rupees) earned by store Cera from all three products?**",,230,,,,2,,12500,11000,10800,7200,,,DILR/di-table,0.5
+DILR,DILR-3,3,mcsc,markdown,"Units sold during the month (number of packets)
+| Product | Aria | Bani | Cera | Dovi |
+|---|--:|--:|--:|--:|
+| Tea | 120 | 200 | 150 | 180 |
+| Coffee | 80 | 150 | 200 | 120 |
+| Cocoa | 60 | 100 | 50 | 90 |
+
+Selling price per packet (in rupees)
+| Product | Price |
+|---|--:|
+| Tea | 20 |
+| Coffee | 30 |
+| Cocoa | 40 |
+
+**What was the combined revenue (in rupees) from Tea across all four stores?**",,200,,,,4,,650,16500,11000,13000,,,DILR/di-table,0.5
+DILR,DILR-3,4,mcsc,markdown,"Units sold during the month (number of packets)
+| Product | Aria | Bani | Cera | Dovi |
+|---|--:|--:|--:|--:|
+| Tea | 120 | 200 | 150 | 180 |
+| Coffee | 80 | 150 | 200 | 120 |
+| Cocoa | 60 | 100 | 50 | 90 |
+
+Selling price per packet (in rupees)
+| Product | Price |
+|---|--:|
+| Tea | 20 |
+| Coffee | 30 |
+| Cocoa | 40 |
+
+**In how many of the four stores did the total number of packets sold (all products combined) exceed 350?**",,220,,,,2,,4,3,1,2,,,DILR/di-table,0.5
+DILR,DILR-4,1,mcsc,markdown,"Three investors, Priya, Rohan and Sara, each put a whole number of lakhs of rupees into a separate fund at the start of the year. The following facts are known:
+
+- Together the three invested a total of 24 lakh.
+- Rohan invested exactly twice as much as Priya.
+- Sara invested 4 lakh more than Priya.
+
+Over the year the funds gave these returns on the amount invested: Priya's fund returned 20%, Rohan's fund returned 10%, and Sara's fund returned 30%.
+
+**How much did Rohan invest?**",,180,,,,2,,5 lakh,10 lakh,9 lakh,12 lakh,,,DILR/logic-investment,0.5
+DILR,DILR-4,2,mcsc,markdown,"Three investors, Priya, Rohan and Sara, each put a whole number of lakhs of rupees into a separate fund at the start of the year. The following facts are known:
+
+- Together the three invested a total of 24 lakh.
+- Rohan invested exactly twice as much as Priya.
+- Sara invested 4 lakh more than Priya.
+
+Over the year the funds gave these returns on the amount invested: Priya's fund returned 20%, Rohan's fund returned 10%, and Sara's fund returned 30%.
+
+**What was the combined amount invested by Priya and Sara together?**",,190,,,,4,,19 lakh,10 lakh,15 lakh,14 lakh,,,DILR/logic-investment,0.5
+DILR,DILR-4,3,mcsc,markdown,"Three investors, Priya, Rohan and Sara, each put a whole number of lakhs of rupees into a separate fund at the start of the year. The following facts are known:
+
+- Together the three invested a total of 24 lakh.
+- Rohan invested exactly twice as much as Priya.
+- Sara invested 4 lakh more than Priya.
+
+Over the year the funds gave these returns on the amount invested: Priya's fund returned 20%, Rohan's fund returned 10%, and Sara's fund returned 30%.
+
+**After the year's returns are added to the amounts invested, which investor ends with the largest total amount of money?**",,280,,,,2,,"Rohan and Sara end level, each with 11 lakh","Sara, with 11.7 lakh","Rohan, with 11 lakh","Priya, with 6 lakh",,,DILR/logic-investment,1
+DILR,DILR-5,1,mcsc,markdown,"Units produced by a factory in each quarter
+| Product | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Steel | 400 | 500 | 600 |
+| Cement | 300 | 300 | 450 |
+| Glass | 200 | 250 | 200 |
+| Wood | 100 | 150 | 250 |
+
+Production cost per unit (in rupees)
+| Product | Rate |
+|---|--:|
+| Steel | 50 |
+| Cement | 40 |
+| Glass | 60 |
+| Wood | 30 |
+
+**What was the total number of Steel units produced across the three quarters?**",,160,,,,1,,1500,1050,1100,1300,,,DILR/di-table,0.5
+DILR,DILR-5,2,mcsc,markdown,"Units produced by a factory in each quarter
+| Product | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Steel | 400 | 500 | 600 |
+| Cement | 300 | 300 | 450 |
+| Glass | 200 | 250 | 200 |
+| Wood | 100 | 150 | 250 |
+
+Production cost per unit (in rupees)
+| Product | Rate |
+|---|--:|
+| Steel | 50 |
+| Cement | 40 |
+| Glass | 60 |
+| Wood | 30 |
+
+**By what percentage did Steel production increase from Q1 to Q3?**",,200,,,,4,,20,200,33,50,,,DILR/di-table,0.5
+DILR,DILR-5,3,mcsc,markdown,"Units produced by a factory in each quarter
+| Product | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Steel | 400 | 500 | 600 |
+| Cement | 300 | 300 | 450 |
+| Glass | 200 | 250 | 200 |
+| Wood | 100 | 150 | 250 |
+
+Production cost per unit (in rupees)
+| Product | Rate |
+|---|--:|
+| Steel | 50 |
+| Cement | 40 |
+| Glass | 60 |
+| Wood | 30 |
+
+**What was the average quarterly production of Cement over the three quarters?**",,190,,,,3,,300,1050,350,375,,,DILR/di-table,0.5
+DILR,DILR-5,4,mcsc,markdown,"Units produced by a factory in each quarter
+| Product | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Steel | 400 | 500 | 600 |
+| Cement | 300 | 300 | 450 |
+| Glass | 200 | 250 | 200 |
+| Wood | 100 | 150 | 250 |
+
+Production cost per unit (in rupees)
+| Product | Rate |
+|---|--:|
+| Steel | 50 |
+| Cement | 40 |
+| Glass | 60 |
+| Wood | 30 |
+
+**What is the largest single value of units produced by any one product in any one quarter?**",,160,,,,4,,500,450,250,600,,,DILR/di-table,0.5
+DILR,DILR-5,5,mcsc,markdown,"Units produced by a factory in each quarter
+| Product | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Steel | 400 | 500 | 600 |
+| Cement | 300 | 300 | 450 |
+| Glass | 200 | 250 | 200 |
+| Wood | 100 | 150 | 250 |
+
+Production cost per unit (in rupees)
+| Product | Rate |
+|---|--:|
+| Steel | 50 |
+| Cement | 40 |
+| Glass | 60 |
+| Wood | 30 |
+
+**What was the total production cost (in rupees) of all four products in Q1?**",,250,,,,1,,47000,44000,1000,50000,,,DILR/di-table,0.5
+QA,QA-MCQ-1,1,mcsc,text,A shopkeeper buys an article for 80 euros and sells it for 100 euros. What is the profit percentage?,,60,,,,4,,20%,80%,125%,25%,,,QA/quant,0
+QA,QA-MCQ-2,1,mcsc,text,"The ratio of boys to girls in a class is 3 : 5. If there are 20 girls, how many boys are there?",,60,,,,4,,33 boys,15 boys,8 boys,12 boys,,,QA/quant,0
+QA,QA-MCQ-3,1,mcsc,text,"What is the average of the five numbers 4, 8, 10, 12 and 16?",,65,,,,1,,10,50,12,8,,,QA/quant,0
+QA,QA-MCQ-4,1,mcsc,text,A circle has radius 7 cm. What is its area? (use pi = 22/7),,70,,,,2,,44 cm^2,154 cm^2,616 cm^2,49 cm^2,,,QA/quant,0
+QA,QA-MCQ-5,1,mcsc,text,Solve for x: 3x + 7 = 22.,,55,,,,3,,29/3,9,5,15,,,QA/quant,0
+QA,QA-MCQ-6,1,mcsc,text,A car travels 150 km in 3 hours. What is its average speed?,,55,,,,1,,50 km/h,450 km/h,75 km/h,2 km/h,,,QA/quant,0
+QA,QA-MCQ-7,1,mcsc,text,"An article marked at 500 euros is sold after a 20% discount, and the seller still makes a 25% profit on cost. What was the cost price?",,150,,,,3,,400 euros,333 euros,320 euros,300 euros,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,A sum of 8000 euros is invested at 10% per annum compound interest. What is the amount after 2 years?,,160,,,,4,,1680 euros,9700 euros,9600 euros,9680 euros,,,QA/quant,0.5
+QA,QA-MCQ-9,1,mcsc,text,"Pipe A fills a tank in 12 hours and pipe B fills it in 6 hours. If both pipes are opened together, how long do they take to fill the tank?",,140,,,,1,,4 hours,9 hours,18 hours,3 hours,,,QA/quant,0.5
+QA,QA-MCQ-10,1,mcsc,text,When a positive integer n is divided by 7 the remainder is 4. What is the remainder when 3n is divided by 7?,,155,,,,4,,4,12,2,5,,,QA/quant,0.5
+QA,QA-MCQ-11,1,mcsc,text,"The HCF of two numbers is 6 and their LCM is 180. If one number is 36, what is the other number?",,150,,,,1,,30,180,1080,5,,,QA/quant,0.5
+QA,QA-MCQ-12,1,mcsc,text,A bag contains 4 red and 6 blue balls. Two balls are drawn at random without replacement. What is the probability that both are red?,,165,,,,1,,2/15,4/25,1/5,2/9,,,QA/quant,0.5
+QA,QA-MCQ-13,1,mcsc,text,How many distinct arrangements can be made using all the letters of the word LEVEL?,,145,,,,2,,120,30,60,20,,,QA/quant,0.5
+QA,QA-MCQ-14,1,mcsc,text,"In a group of 50 people, 30 like tea and 25 like coffee. If 10 like neither, how many like both tea and coffee?",,150,,,,2,,5,15,55,40,,,QA/quant,0.5
+QA,QA-MCQ-15,1,mcsc,text,The third term of an arithmetic progression is 11 and the seventh term is 27. What is the first term?,,160,,,,4,,5,4,7,3,,,QA/quant,0.5
+QA,QA-MCQ-16,1,mcsc,text,"Two trains start at the same time from stations A and B, 330 km apart, moving towards each other at 60 km/h and 50 km/h. How far from A do they meet?",,230,,,,1,,180 km,150 km,165 km,110 km,,,QA/quant,1
+QA,QA-MCQ-17,1,mcsc,text,"Vessel A holds 40 litres of a mixture with milk and water in the ratio 3 : 1, and vessel B holds 20 litres in the ratio 1 : 1. If both are poured into one vessel, what is the ratio of milk to water in the new mixture?",,250,,,,1,,2 : 1,4 : 3,5 : 3,3 : 2,,,QA/quant,1
+QA,QA-MCQ-18,1,mcsc,text,A rectangular garden is 40 m long and 30 m wide. A path of uniform width 2 m runs all around it on the inside. What is the area of the path?,,240,,,,3,,280 m^2,144 m^2,264 m^2,536 m^2,,,QA/quant,1
+QA,QA-TITA-1,1,tita,text,Evaluate the expression (2^5 × 2^3) ÷ 2^4. Type your answer as an integer.,16,75,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-2,1,tita,text,"An item is priced at 80 euros. Its price is first increased by 25%, then the new price is decreased by 20%. What is the final price, in euros? Type your answer as an integer.",80,85,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-3,1,tita,text,"Using the digits 1, 2, 3, 4 and 5 without repetition, how many three-digit numbers divisible by 5 can be formed? Type your answer as an integer.",12,140,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-4,1,tita,text,"In a class, 30 students study French and 25 study German. Exactly 10 students study both languages. How many students study exactly one of the two languages? Type your answer as an integer.",35,120,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-5,1,tita,text,In an arithmetic progression the first term is 7 and the common difference is 5. What is the value of the 12th term? Type your answer as an integer.,62,115,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-6,1,tita,text,"A vessel contains 64 litres of pure wine. 16 litres are drawn out and replaced with water; this operation (drawing 16 litres of the mixture and replacing it with water) is performed two more times, for a total of three times. How many litres of pure wine remain in the vessel? Type your answer as an integer.",27,250,,,,,,,,,,,,QA/quant,1

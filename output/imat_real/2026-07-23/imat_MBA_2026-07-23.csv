@@ -1,0 +1,516 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.
+
+It is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.
+
+This has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with.
+
+**The passage is primarily concerned with establishing which of the following?**",,200,,,,4,,Credit scoring shows how a poorly constructed statistic can end up distorting the very market that comes to depend on it.,"Because quantitative indicators are routinely gamed, consequential decisions are better left to experienced human judgment.",Social measures fail chiefly because those who design them pay too little attention to how the underlying quantity is defined.,"A measure's validity falls once it is given consequences, so refining its design cannot fix the problem.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.
+
+It is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.
+
+This has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with.
+
+**The reference to loan officers working on intuition serves mainly to:**",,200,,,,4,,suggest that decisions taken without written records can never be usefully audited,establish that discretionary human judgment was historically more faithful to the world,illustrate the process by which lenders learn to price loans off a managed score,block the conclusion that dispensing with measurement would improve accuracy,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.
+
+It is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.
+
+This has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with.
+
+**The author would agree with all of the following EXCEPT:**",,265,,,,1,,A well specified metric retains its validity indefinitely if it is applied consistently.,A statistic may describe its object reasonably well while its use stays confined to research.,Errors produced by unaudited discretion are harder to correct than errors of formal measurement.,Relying on several imperfect indicators at once costs a system some of its clarity of accountability.,,,VARC/reading-comprehension,1
+VARC,VARC-RC1,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.
+
+It is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.
+
+This has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with.
+
+**It can be inferred that the author regards the erosion of a measure's validity as:**",,265,,,,1,,"incentive-driven, and hence beyond the reach of purely technical refinement",a consequence of borrowers and lenders misunderstanding what a score measures,an unavoidable feature of every attempt to describe social behaviour in numbers,slower in those cases where the measure has been constructed with greater care,,,VARC/reading-comprehension,1
+VARC,VARC-RC1,5,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.
+
+It is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.
+
+This has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with.
+
+**Which of the following, if true, would most weaken the author's corollary for institutional design?**",,265,,,,1,,Indicators published but never written into contracts decay at the same rate as those that are.,Regulators in practice revise their key indicators as soon as any clear evidence of widespread gaming reaches them.,Firms devote considerable resources to learning exactly how scoring models weight the inputs they receive.,Certain metrics embedded in regulation have gone on predicting the outcomes they were built to target for several decades.,,,VARC/reading-comprehension,1
+VARC,VARC-RC2,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.
+
+A tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.
+
+This reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.
+
+None of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative.
+
+**Which of the following comes closest to the claim the passage is defending?**",,200,,,,3,,Reform programmes that export commercial codes to other jurisdictions should be discontinued as a matter of policy.,Bankruptcy statutes and securities regulation are the two bodies of law least suited to transfer across borders.,"Transplants stall less from cultural mismatch than from missing shared expectation, which only local use builds.",Legal transplants take root only in those societies that already share the values held by the exporting country.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.
+
+A tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.
+
+This reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.
+
+None of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative.
+
+**The author's principal objection to the cultural explanation is that it:**",,200,,,,3,,draws its evidence almost entirely from transplants that are already known to have failed,confuses the substance of a rule with the circumstances under which it was drafted,"can be reconciled with any observed result, and so accounts for nothing in particular",understates the extent to which commercial habits differ from one society to another,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.
+
+A tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.
+
+This reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.
+
+None of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative.
+
+**On the author's account, a transplanted consumer protection rule would be expected to become operative more slowly than a transplanted secured-lending rule mainly because:**",,265,,,,3,,consumer protection sits in sharper conflict with the commercial customs prevailing locally,consumers as a group tend to be much less aware of the legal remedies formally available to them,the benefit from enforcing it is spread too thinly for repeated litigation to be worthwhile,rules governing secured lending are drafted more simply and are easier for officials to apply,,,VARC/reading-comprehension,1
+VARC,VARC-RC2,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.
+
+A tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.
+
+This reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.
+
+None of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative.
+
+**The author would agree with all of the following EXCEPT:**",,265,,,,3,,Departures from the imported text can form part of the very process by which a rule is adopted.,How a rule works depends on what parties predict officials will do when the rule is breached.,"Where local values are hostile to an imported rule, enforcement cannot make it effective.",Transplants settle sooner in those fields where a small number of parties go to court frequently.,,,VARC/reading-comprehension,1
+VARC,VARC-ODD-1,1,mcsc,markdown,"Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.
+
+(1) Every map begins with an act of omission, since a representation that kept all the detail of a place would be as unusable as the place itself.
+(2) The cartographer must therefore decide in advance which features a reader will need and which can be silently discarded.
+(3) Recent surveys report that most commuters now consult digital route planners rather than printed atlases.
+(4) Those early decisions harden over time into conventions, and later users mistake the conventions for properties of the world.
+(5) What looks like a neutral record of terrain is thus the residue of a long series of judgements about relevance.
+
+**Which sentence is the odd one out?**",,205,,,,3,,1,2,3,4,5,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.
+
+(1) Experts seldom deliberate over the moves that most impress onlookers; they recognise a familiar pattern and act before reasons are available to them.
+(2) Such fluency is bought by long exposure to situations that return prompt and unambiguous feedback.
+(3) Where the feedback is delayed or noisy, however, long experience yields confidence without yielding accuracy.
+(4) Novices, by contrast, report that they enjoy the earliest stages of learning a craft far more than the later ones.
+(5) Intuition therefore deserves trust only after one has asked what the environment has actually been teaching.
+
+**Which sentence is the odd one out?**",,210,,,,2,,3,4,5,1,2,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.
+
+(1) A quantity chosen to stand for a goal starts to be pursued for its own sake as soon as rewards are attached to it.
+(2) Staff learn quickly which parts of their work are counted, and effort drains away from everything that is not.
+(3) The published figures then improve while the purpose they were meant to serve quietly deteriorates.
+(4) Organisations often adopt measurement schemes less to inform their own decisions than to demonstrate propriety to outside audiences.
+(5) Auditors, reading only the figures, record success and recommend that the scheme be extended to further departments.
+
+**Which sentence is the odd one out?**",,240,,,,1,,4,5,2,3,1,,VARC/odd-one-out,1
+VARC,VARC-ODD-4,1,mcsc,markdown,"Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.
+
+(1) No translator can carry every feature of a sentence across, so the work consists largely in deciding what to give up.
+(2) Readers tend to praise the translations that read most smoothly and to distrust those that preserve the strangeness of the original.
+(3) A pun that depends on sound may be replaced by one that depends on sense, on the ground that the joke matters more than its mechanism.
+(4) Rhythm surrendered in one line is sometimes repaid in another, the debt being settled across the page rather than within it.
+(5) Every such compensation is an argument about which layer of the original counts as the text itself.
+
+**Which sentence is the odd one out?**",,245,,,,4,,1,4,5,2,3,,VARC/odd-one-out,1
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.
+
+(1) That demand is what makes boredom productive, since it pushes the mind to supply what the surroundings withhold.
+(2) Boredom is usually described as an absence, the gap left when nothing outside us claims our attention.
+(3) But the state has a content of its own, a restless demand that the world become more interesting than it is.
+(4) Children left with nothing to do therefore stay idle only briefly, building a game out of whatever lies nearest.
+
+**Which of the following is the correct order of the sentences?**",,195,,,,2,,2341,2314,3241,2134,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.
+
+(1) Once the date is fixed, the remaining hours acquire a rank, and the work is fitted to those that are left.
+(2) This is why arbitrary dates can serve as well as reasoned ones, provided they are actually believed.
+(3) A deadline works less by adding motivation than by removing alternatives.
+(4) Until a date is fixed, every hour is a candidate for the task and no hour is obliged to be.
+
+**Which of the following is the correct order of the sentences?**",,195,,,,3,,3421,3142,3412,4312,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.
+
+(1) The only reliable lever, then, is conduct that gives those custodians something else to carry.
+(2) Its custodians are third parties, who pass it on for reasons of their own and revise it without notice.
+(3) Reputation is information about us that we do not own and cannot directly edit.
+(4) This dependence explains why attempts at correction so often deepen the damage, for a correction is itself testimony and it travels.
+
+**Which of the following is the correct order of the sentences?**",,235,,,,3,,3421,2431,3241,2341,,,VARC/para-jumble,1
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.
+
+(1) A first reading of anything difficult is mostly navigation, since we are still learning where the parts are.
+(2) Readers who skip it are not saving time; they are trading comprehension for the feeling of having finished.
+(3) For this reason a second reading is not a repetition but a different task, undertaken with the map the first reading drew.
+(4) Only once the shape is known can attention be spent on the joints, which is where arguments usually fail.
+
+**Which of the following is the correct order of the sentences?**",,240,,,,3,,4132,1342,1432,1423,,,VARC/para-jumble,1
+VARC,VARC-JUMBLE-5,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.
+
+(1) The reason travels less well than the exception, since the reason was particular and the exception is not.
+(2) What began as mercy is then read as entitlement, and the rule survives only as a memory.
+(3) Administrators who grasp this record their reasons loudly, hoping the record will do the limiting work the rule no longer can.
+(4) Every exception granted for a good reason becomes a fact that later applicants are free to cite.
+
+**Which of the following is the correct order of the sentences?**",,245,,,,4,,4213,1423,4132,4123,,,VARC/para-jumble,1
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Infrastructure is noticed chiefly when it fails. A water main, a switching station, a clearing house: each is built to disappear into the routines it supports, and its success is measured by how little thought it demands. The consequence is political rather than technical. Systems nobody thinks about attract neither scrutiny nor investment, and their upkeep competes badly with projects that can be photographed. Failure then arrives as a surprise, and the surprise is used to argue that nobody could have foreseen it.
+
+**Which option best summarises the paragraph?**",,235,,,,4,,"Public money should be redirected from photogenic new construction towards the unglamorous upkeep of water mains, switching stations and clearing houses.","Infrastructure fails because engineers deliberately design systems to disappear, and systems that are invisible are inherently more fragile than visible ones.","Since infrastructure failures are always surprises, the political value of such systems lies in the attention that their breakdowns finally bring to them.","Designed to go unnoticed, working infrastructure draws little scrutiny or funding, so its breakdowns look unforeseeable when they were merely unattended.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Averaging many independent guesses often beats the best single guess, because errors pointing in opposite directions cancel. The condition doing the work is independence. Once the guessers can hear one another, their errors begin to align, and the average inherits a bias instead of shedding one. Committees that deliberate before voting therefore give up much of the advantage voting was supposed to secure, and the confidence produced by agreement rises just as the accuracy it is taken to signal falls.
+
+**Which option best summarises the paragraph?**",,240,,,,3,,"Confidence is a poor guide to accuracy, since agreement inside a group can show only that its members have all been exposed to the same limited information.","Groups outperform their ablest members because pooling opinions cancels error, which is why committees ought always to vote instead of trusting one expert.","Aggregation improves accuracy only while guesses stay independent; discussion correlates errors, so deliberating groups gain confidence and lose accuracy.",Deliberation harms committees chiefly because the members who happen to speak first impose their own private biases on all of those who speak later.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Options are usually treated as free, on the view that holding one costs nothing until it is exercised. In practice every open possibility levies a quiet charge: some attention reserved, some commitment withheld, some relationship kept provisional. Because the charge is never invoiced, options accumulate well past the point where their combined upkeep exceeds anything they could deliver. The person who cannot choose is not made richer by the alternatives; the alternatives are consuming the very capacity that choosing would have released.
+
+**Which option best summarises the paragraph?**",,235,,,,1,,"Open possibilities exact hidden upkeep in attention and commitment, so options collected beyond a point cost more than they could ever deliver.","Because an option costs nothing at all until it is exercised, a rational person should hold as many as possible and delay commitment for as long as possible.","Indecisive people are poorer than decisive ones, because real wealth consists in commitments actually made rather than in alternatives that remain available.","The chief trouble with unexercised options is that their true price is never invoiced, which makes any accounting of their value unreliable in practice.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-4,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Forecasts about human affairs are not merely difficult; they are ingredients. A published prediction of shortage produces hoarding, and a published prediction of stability invites the risk-taking that ends it. This does not make forecasting useless, but it changes what accuracy could mean, since a forecast can be judged only against the world it helped to make, and a forecast that is widely ignored may be the only one ever fairly tested. Practitioners who forget this treat their failures as errors of measurement and answer them by refining instruments that were never the problem.
+
+**Which option best summarises the paragraph?**",,255,,,,2,,"Predictions about human affairs are self-fulfilling, so forecasters should publish nothing until their instruments are accurate enough to withstand contact with the public.","Predictions about human affairs alter the conditions they describe, so accuracy can be judged only against an already altered world, and better instruments cannot help.","Social forecasts change the behaviour they describe, which is why only those forecasts that nobody happens to notice can ever be tested fairly against events.","Failures of social forecasting come from measurement error, and sharper instruments will in time let practitioners predict hoarding and risk-taking reliably enough.",,,VARC/summary,1
+VARC,VARC-SUMMARY-5,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+A standard is valuable in proportion to how many people already use it, so its merits and its market share are hard to tell apart. Once adoption passes a threshold, the standard is defended by everything built on top of it, and a technically superior rival must compensate not for a small gap in quality but for the whole accumulated weight of compatibility. Arguments about which standard is better therefore arrive too late to matter, and the winner's supporters read its survival as evidence that the argument was settled on the merits.
+
+**Which option best summarises the paragraph?**",,255,,,,2,,"Technically superior standards displace entrenched ones eventually, provided their supporters can show that the original choice was never really settled on the merits.","A standard's worth grows with its user base, so entrenched standards defeat better rivals through compatibility, and survival is then misread as proof of merit.","Because compatibility counts for more than quality, users should simply adopt whichever standard is most widely used instead of assessing competing designs themselves.","A standard's dominance owes far more to the number of people using it than to its quality, so late arguments about technical merit rarely change which one prevails.",,,VARC/summary,1
+VARC,VARC-SUMMARY-6,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+An archive looks like a residue of the past, but it is a residue of past decisions about what would be worth keeping. Records survive because someone was obliged to file them, and the obligations fell unevenly, heavily on property and litigation and hardly at all on ordinary agreement. Historians who read the surviving mass as a sample of what happened therefore reconstruct a world of disputes and transactions and miss the settled life around them. The remedy is not more documents but a habit of asking, of every silence, whether it records an absence or only an exemption from paperwork.
+
+**Which option best summarises the paragraph?**",,260,,,,4,,"Because filing obligations bore most heavily on property and litigation, surviving archives over-represent disputes and transactions at the expense of ordinary agreement.","Every silence in an archive records a genuine absence, which is why the past appears to consist mainly of litigation, transactions and disputes rather than agreement.","Historians ought to seek out further documents about settled everyday life, since the archives that do survive were shaped by the interests of owners and courts.","Archives keep whatever filing duties happened to capture, so reading them as a fair sample distorts the past unless each silence is itself interrogated.",,,VARC/summary,1
+DILR,DILR-1,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.
+
+- Lena's audit took place before Marco's, and Marco's took place before Omar's.
+- Cedar was audited on Wednesday.
+- Nadia audited Alpha, on the day immediately after Priya's audit.
+- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.
+- Lena did not audit Cedar.
+- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.
+- Priya's score was lower than both Nadia's score and Omar's score.
+
+**Which inspector audited Birch?**",,340,,,,4,,Priya,Nadia,Lena,Marco,,,DILR/logic-tournament,1
+DILR,DILR-1,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.
+
+- Lena's audit took place before Marco's, and Marco's took place before Omar's.
+- Cedar was audited on Wednesday.
+- Nadia audited Alpha, on the day immediately after Priya's audit.
+- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.
+- Lena did not audit Cedar.
+- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.
+- Priya's score was lower than both Nadia's score and Omar's score.
+
+**What is the combined compliance score of the Monday audit and the Friday audit?**",,320,,,,4,,42,33,30,39,,,DILR/logic-tournament,1
+DILR,DILR-1,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.
+
+- Lena's audit took place before Marco's, and Marco's took place before Omar's.
+- Cedar was audited on Wednesday.
+- Nadia audited Alpha, on the day immediately after Priya's audit.
+- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.
+- Lena did not audit Cedar.
+- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.
+- Priya's score was lower than both Nadia's score and Omar's score.
+
+**Which of the following statements is true?**",,300,,,,1,,Priya recorded the lowest of the five scores and worked on Wednesday.,Lena audited Elm and scored higher than Marco did on the same week.,"Omar recorded the highest of the five scores, and he worked on Friday.",Nadia audited Alpha on the day immediately before Cedar was audited.,,,DILR/logic-tournament,1
+DILR,DILR-1,4,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.
+
+- Lena's audit took place before Marco's, and Marco's took place before Omar's.
+- Cedar was audited on Wednesday.
+- Nadia audited Alpha, on the day immediately after Priya's audit.
+- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.
+- Lena did not audit Cedar.
+- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.
+- Priya's score was lower than both Nadia's score and Omar's score.
+
+**Suppose the information that Dune was audited on Friday is replaced by the information that Dune was audited on Thursday, with every other statement unchanged. Which site is then audited on Friday?**",,380,,,,4,,Cedar,Birch,Dune,Alpha,,,DILR/logic-tournament,1
+DILR,DILR-2,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.
+
+- Crate M rests immediately above crate K.
+- Exactly two crates lie between L and M.
+- R is neither at the bottom nor at the top of the tower.
+- O is somewhere above L.
+- Exactly one crate lies between N and R.
+
+**Which crate is at the bottom of the tower?**",,250,,,,3,,K,L,N,R,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.
+
+- Crate M rests immediately above crate K.
+- Exactly two crates lie between L and M.
+- R is neither at the bottom nor at the top of the tower.
+- O is somewhere above L.
+- Exactly one crate lies between N and R.
+
+**How many crates rest above R?**",,260,,,,1,,3,4,2,1,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.
+
+- Crate M rests immediately above crate K.
+- Exactly two crates lie between L and M.
+- R is neither at the bottom nor at the top of the tower.
+- O is somewhere above L.
+- Exactly one crate lies between N and R.
+
+**If the condition that O is somewhere above L is dropped and all the other conditions still hold, how many different stacking orders are possible?**",,330,,,,2,,3,4,2,5,,,DILR/logic-quiz-scores,1
+DILR,DILR-3,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.
+
+Table 1: Modules installed (in hundreds)
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 24 | 36 | 20 |
+| Bhima | 30 | 18 | 42 |
+| Cygna | 45 | 25 | 15 |
+| Dhruv | 16 | 40 | 34 |
+
+Table 2: Defective modules as a percentage of modules installed
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 2 | 5 | 4 |
+| Bhima | 6 | 3 | 2 |
+| Cygna | 4 | 2 | 8 |
+| Dhruv | 5 | 4 | 3 |
+
+**In grade G3, how many more defective modules did Cygna and Dhruv together have than Arkin and Bhima together?**",,330,,,,3,,46,64,58,38,,,DILR/di-table,1
+DILR,DILR-3,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.
+
+Table 1: Modules installed (in hundreds)
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 24 | 36 | 20 |
+| Bhima | 30 | 18 | 42 |
+| Cygna | 45 | 25 | 15 |
+| Dhruv | 16 | 40 | 34 |
+
+Table 2: Defective modules as a percentage of modules installed
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 2 | 5 | 4 |
+| Bhima | 6 | 3 | 2 |
+| Cygna | 4 | 2 | 8 |
+| Dhruv | 5 | 4 | 3 |
+
+**Taking all four firms and all three grades together, defective modules form approximately what percentage of all modules installed?**",,380,,,,1,,3.82%,3.90%,4.05%,3.68%,,,DILR/di-table,1
+DILR,DILR-3,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.
+
+Table 1: Modules installed (in hundreds)
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 24 | 36 | 20 |
+| Bhima | 30 | 18 | 42 |
+| Cygna | 45 | 25 | 15 |
+| Dhruv | 16 | 40 | 34 |
+
+Table 2: Defective modules as a percentage of modules installed
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 2 | 5 | 4 |
+| Bhima | 6 | 3 | 2 |
+| Cygna | 4 | 2 | 8 |
+| Dhruv | 5 | 4 | 3 |
+
+**Which firm has the lowest defect rate across its entire installed base?**",,350,,,,2,,Dhruv,Bhima,Cygna,Arkin,,,DILR/di-table,1
+DILR,DILR-3,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.
+
+Table 1: Modules installed (in hundreds)
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 24 | 36 | 20 |
+| Bhima | 30 | 18 | 42 |
+| Cygna | 45 | 25 | 15 |
+| Dhruv | 16 | 40 | 34 |
+
+Table 2: Defective modules as a percentage of modules installed
+
+| Firm | G1 | G2 | G3 |
+|---|--:|--:|--:|
+| Arkin | 2 | 5 | 4 |
+| Bhima | 6 | 3 | 2 |
+| Cygna | 4 | 2 | 8 |
+| Dhruv | 5 | 4 | 3 |
+
+**By how many modules does the firm with the largest number of defective modules exceed the firm with the smallest?**",,300,,,,2,,24,42,34,56,,,DILR/di-table,1
+DILR,DILR-4,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.
+
+- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.
+- Chirala received more crates than Alwar.
+- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.
+- Dhanbad's truck left immediately after Betul's truck.
+- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.
+- The town whose truck left third received exactly 12 crates.
+- Chirala's truck left before Betul's truck.
+
+**How many crates did Chirala receive?**",,330,,,,4,,12 crates,24 crates,4 crates,8 crates,,,DILR/logic-constraints,0.5
+DILR,DILR-4,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.
+
+- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.
+- Chirala received more crates than Alwar.
+- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.
+- Dhanbad's truck left immediately after Betul's truck.
+- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.
+- The town whose truck left third received exactly 12 crates.
+- Chirala's truck left before Betul's truck.
+
+**Which town's truck left second, and how many crates did that town receive?**",,300,,,,2,,"Chirala, with 8 crates","Betul, with 24 crates","Alwar, with 20 crates","Dhanbad, with 12 crates",,,DILR/logic-constraints,1
+DILR,DILR-4,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.
+
+- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.
+- Chirala received more crates than Alwar.
+- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.
+- Dhanbad's truck left immediately after Betul's truck.
+- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.
+- The town whose truck left third received exactly 12 crates.
+- Chirala's truck left before Betul's truck.
+
+**If the clue that the third truck's town received exactly 12 crates is withdrawn and all the other clues still hold, how many complete arrangements of dispatch order and crate counts are possible?**",,390,,,,1,,7 arrangements,6 arrangements,9 arrangements,5 arrangements,,,DILR/logic-constraints,1
+DILR,DILR-4,4,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.
+
+- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.
+- Chirala received more crates than Alwar.
+- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.
+- Dhanbad's truck left immediately after Betul's truck.
+- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.
+- The town whose truck left third received exactly 12 crates.
+- Chirala's truck left before Betul's truck.
+
+**Suppose the first truck's town received three times, rather than twice, as many crates as the fourth truck's town, every other clue remaining as stated. How many crates would Dhanbad then receive?**",,360,,,,1,,8 crates,24 crates,4 crates,12 crates,,,DILR/logic-constraints,1
+DILR,DILR-5,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.
+
+- Coding is scheduled only if Design is also scheduled.
+- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.
+- Auditing and Finance need the same laboratory, so they cannot both be scheduled.
+- Grammar is scheduled if and only if Auditing is scheduled.
+- If Design is scheduled, then Branding is not scheduled.
+
+**How many different groups of four workshops can the coordinator schedule?**",,290,,,,1,,3 groups,4 groups,5 groups,2 groups,,,DILR/logic-investment,0.5
+DILR,DILR-5,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.
+
+- Coding is scheduled only if Design is also scheduled.
+- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.
+- Auditing and Finance need the same laboratory, so they cannot both be scheduled.
+- Grammar is scheduled if and only if Auditing is scheduled.
+- If Design is scheduled, then Branding is not scheduled.
+
+**Which workshop cannot appear in any acceptable group of four?**",,300,,,,2,,Grammar,Branding,Auditing,Coding,,,DILR/logic-investment,0.5
+DILR,DILR-5,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.
+
+- Coding is scheduled only if Design is also scheduled.
+- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.
+- Auditing and Finance need the same laboratory, so they cannot both be scheduled.
+- Grammar is scheduled if and only if Auditing is scheduled.
+- If Design is scheduled, then Branding is not scheduled.
+
+**If Finance is scheduled, which workshops make up the rest of the group?**",,340,,,,4,,"Coding, Design and Grammar","Auditing, Design and Grammar","Design, Ethics and Grammar","Coding, Design and Ethics",,,DILR/logic-investment,1
+DILR,DILR-6,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png)
+
+**What was the total revenue of the three lines together in 2024, in Rs lakh?**",,300,,,,2,,2612,2537,2350,2465,,,DILR/di-graph,1
+DILR,DILR-6,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png)
+
+**The line with the highest percentage growth in revenue from 2022 to 2024 grew by approximately what percentage?**",,380,,,,3,,92%,60%,82%,71%,,,DILR/di-graph,1
+DILR,DILR-6,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png)
+
+**In 2023, what was the average price per unit realised across all units shipped, in Rs?**",,360,,,,1,,2280,2124,2217,2350,,,DILR/di-graph,1
+DILR,DILR-6,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png)
+
+**By approximately what percentage did the combined revenue of the three lines change from 2023 to 2024?**",,340,,,,2,,18.2%,22.3%,24.9%,20.5%,,,DILR/di-graph,1
+QA,QA-MCQ-1,1,mcsc,text,A dealer marks the price of a ceiling fan 60% above its cost price and then allows two successive discounts of 20% and 10% on the marked price. What is his profit percentage on this sale?,,200,,,,1,,15.2%,12.0%,16.0%,28.0%,,,QA/quant,0.5
+QA,QA-MCQ-2,1,mcsc,text,"Pranav invests Rs 42,000 for 8 months, Qadir invests Rs 56,000 for 5 months and Rohit invests Rs 35,000 for 12 months in a partnership firm. At the end of the year the firm earns a profit of Rs 74,000, shared in proportion to capital multiplied by time. What is Qadir's share?",,240,,,,3,,"Rs 24,000","Rs 22,000","Rs 20,000","Rs 30,000",,,QA/quant,0.5
+QA,QA-MCQ-3,1,mcsc,text,A vessel contains 60 litres of a mixture of milk and water in which milk and water are in the ratio 7 : 3. How many litres of water must be added so that the ratio of milk to water in the new mixture becomes 7 : 5?,,190,,,,2,,15 litres,12 litres,8 litres,10 litres,,,QA/quant,0.5
+QA,QA-MCQ-4,1,mcsc,text,"A motorboat whose speed in still water is 12 km/h goes 45 km downstream along a river and returns to the starting point, taking 8 hours in all. What is the speed of the current?",,250,,,,1,,3 km/h,2.5 km/h,4 km/h,6 km/h,,,QA/quant,0.5
+QA,QA-MCQ-5,1,mcsc,text,"Anil alone can paint a hall in 20 days and Bimal alone can paint it in 30 days. They begin painting together, but Anil stops working 5 days before the hall is finished, and Bimal completes the remaining part alone. In how many days is the hall painted?",,220,,,,4,,14 days,12 days,18 days,15 days,,,QA/quant,0.5
+QA,QA-MCQ-6,1,mcsc,text,"A sum of Rs 16,000 is lent for one year at 10% per annum. By how much does the interest earned when the rate is compounded half-yearly exceed the interest earned when it is compounded annually?",,190,,,,4,,Rs 20,Rs 80,"Rs 1,640",Rs 40,,,QA/quant,0.5
+QA,QA-MCQ-7,1,mcsc,text,Four boys and three girls are to be seated in a row of seven chairs. In how many ways can they be seated if no two girls sit next to each other?,,210,,,,4,,5040,720,2880,1440,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,"Bag A contains 4 red and 6 green balls, while bag B contains 7 red and 3 green balls. One of the two bags is chosen at random and two balls are drawn from it together. Both drawn balls turn out to be red. What is the probability that bag A was the bag chosen?",,290,,,,2,,1/3,2/9,7/9,2/15,,,QA/quant,1
+QA,QA-MCQ-9,1,mcsc,text,"A solid metal cone of base radius 6 cm and height 24 cm is melted down, and 10% of the metal is lost in the process. The remaining metal is recast into solid spheres of radius 2 cm each. What is the largest number of complete spheres that can be made?",,280,,,,3,,8,25,24,27,,,QA/quant,1
+QA,QA-MCQ-10,1,mcsc,text,Let N be the number whose prime factorisation is 2^5 x 3^4 x 5^2. How many positive divisors of N are perfect squares and are also multiples of 12?,,300,,,,2,,12,8,4,6,,,QA/quant,1
+QA,QA-MCQ-11,1,mcsc,text,Three positive numbers are in arithmetic progression. Their sum is 27 and the sum of their squares is 293. What is the product of the three numbers?,,270,,,,3,,405,585,504,729,,,QA/quant,1
+QA,QA-MCQ-12,1,mcsc,text,A non-zero real number x satisfies x + 1/x = 3. What is the value of x^5 + 1/x^5 ?,,280,,,,3,,141,243,123,126,,,QA/quant,1
+QA,QA-MCQ-13,1,mcsc,text,"If a and b are positive real numbers with a + b = 10, what is the maximum possible value of a^2 b^3 ?",,320,,,,4,,3087,4000,3125,3456,,,QA/quant,1
+QA,QA-MCQ-14,1,mcsc,text,The equation (log_3 x)^2 + 3 = log_3 (x^4) holds for exactly two positive values of x. What is the sum of these two values?,,250,,,,1,,30,84,12,28,,,QA/quant,1
+QA,QA-MCQ-15,1,mcsc,text,"In the coordinate plane, A = (0, 2) and B = (12, 3). A point P moves along the x-axis. What is the smallest possible value of PA + PB ?",,290,,,,1,,13,17,15,12,,,QA/quant,1
+QA,QA-MCQ-16,1,mcsc,text,"Among 200 students, 120 play cricket, 90 play football and 70 play tennis. Exactly 40 play both cricket and football, 30 play both football and tennis, 35 play both cricket and tennis, and 15 play all three games. How many students play exactly one of the three games?",,300,,,,2,,145,115,130,100,,,QA/quant,1
+QA,QA-MCQ-17,1,mcsc,text,What is the value of the sum 2/(1*3) + 2/(3*5) + 2/(5*7) + ... + 2/(47*49) ?,,270,,,,2,,24/25,48/49,47/49,24/49,,,QA/quant,1
+QA,QA-TITA-1,1,tita,text,What is the sum of all the odd positive factors of 1800? Type your answer as an integer.,403,280,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-2,1,tita,text,"In a colony of 120 households, every household subscribes to at least one of three newspapers A, B and C. Exactly 70 subscribe to A, 60 subscribe to B and 50 subscribe to C, while 12 households subscribe to all three. How many households subscribe to exactly two of the three newspapers? Type your answer as an integer.",36,300,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-3,1,tita,text,What is the remainder when 3^2024 + 4^2024 is divided by 100? Type your answer as an integer.,37,420,,,,,,,,,,,,QA/quant,1
+QA,QA-TITA-4,1,tita,text,The positive integers x and y satisfy x + y = 30. What is the largest possible value of x^2 y? Type your answer as an integer.,4000,400,,,,,,,,,,,,QA/quant,1
+QA,QA-TITA-5,1,tita,text,In how many distinct arrangements of all eleven letters of the word MISSISSIPPI do no two letters S stand next to each other? Type your answer as an integer.,7350,450,,,,,,,,,,,,QA/quant,1

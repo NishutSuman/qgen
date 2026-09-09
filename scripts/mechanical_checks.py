@@ -88,27 +88,51 @@ def cue_profile(opt):
 EXPLAIN_MIN_CHARS = 50
 
 
+DASHES = "‒–—―"          # em / en / figure / horizontal-bar dashes (AI tell)
+LEN_BIAS_MARGIN = 0.15    # correct option may not exceed the 2nd-longest by >15%
+LEN_BIAS_MIN_ABS = 6      # ...and by at least this many chars (spares proper-noun sets)
+
+
+def _strip_tells(t):
+    if not t:
+        return t, False
+    orig = t
+    for k, v in UNICODE_FIXES.items():
+        t = t.replace(k, v)
+    t = t.replace(" — ", ", ").replace(" – ", ", ")
+    t = re.sub(f"[{DASHES}]", "-", t)
+    return t, (t != orig)
+
+
 def check(qs, fix, rng):
     report = {"M1": [], "M2": [], "M3": [], "M4": [], "M5": [],
-              "M6": [], "M7": [], "M8": [], "M9": []}
+              "M6": [], "M7": [], "M8": [], "M9": [], "M10": []}
 
-    # ---- M6 encoding/LaTeX (auto-fix escapes) ----
+    # ---- M6 encoding/LaTeX + dash tells (auto-fix across text + options) ----
     for q in qs:
-        for field in ["question_text", "explanation"]:
+        text_fields = ["question_text", "explanation"]
+        for field in text_fields:
             txt = q.get(field, "")
-            if any(k in txt for k in UNICODE_FIXES) or "\\u" in txt:
+            new, changed = _strip_tells(txt)
+            if changed:
                 if fix:
-                    for k, v in UNICODE_FIXES.items():
-                        txt = txt.replace(k, v)
-                    q[field] = txt
+                    q[field] = new
                 report["M6"].append({"id": q["question_id"], "field": field,
-                                      "issue": "unicode escape", "fixed": fix})
-            if re.search(r"\\frac\{[^}]*\},\{", q.get(field, "")):
+                                      "issue": "unicode/dash tell", "fixed": fix})
+            chk = new if fix else txt
+            if re.search(r"\\frac\{[^}]*\},\{", chk):
                 report["M6"].append({"id": q["question_id"], "field": field,
                                       "issue": "\\frac{}{} comma corruption", "fixed": False})
-            if q.get(field, "").count("$") % 2 != 0:
+            if chk.count("$") % 2 != 0:
                 report["M6"].append({"id": q["question_id"], "field": field,
                                       "issue": "unbalanced $", "fixed": False})
+        for ok, ov in (q.get("options") or {}).items():     # strip dashes in options too
+            new, changed = _strip_tells(ov)
+            if changed:
+                if fix:
+                    q["options"][ok] = new
+                report["M6"].append({"id": q["question_id"], "field": f"option.{ok}",
+                                      "issue": "unicode/dash tell", "fixed": fix})
 
     # ---- M4 structure ----
     for q in qs:
@@ -125,6 +149,9 @@ def check(qs, fix, rng):
         if len(expl.replace(" ", "")) < EXPLAIN_MIN_CHARS:
             problems.append(f"explanation too short ({len(expl.replace(' ',''))} chars, "
                             f"min {EXPLAIN_MIN_CHARS})")
+        if re.search(r"\b[Oo]ption\s*\(?\s*[1-4]\b|\b[Cc]hoice\s+[A-D]\b|\([A-D]\)\b|\bthe (first|second|third|fourth|last) (option|statement|choice)\b", expl, re.I):
+            problems.append("explanation cites an option position (use the value, "
+                            "not 'Option N'/'(A)' — positions get shuffled)")
         if problems:
             report["M4"].append({"id": q["question_id"], "problems": problems})
 
@@ -253,6 +280,22 @@ def check(qs, fix, rng):
                 "issue": "verification.expected does not match correct_answer",
             })
 
+    # ---- M10 length-bias: correct option must not be noticeably the longest ----
+    for q in qs:
+        opts = q.get("options", {})
+        if len(opts) != 4:
+            continue
+        ca = str(q.get("correct_answer"))
+        if ca not in opts:
+            continue
+        lens = {k: norm_len(v) for k, v in opts.items()}
+        cl = lens[ca]
+        mx = max(v for k, v in lens.items() if k != ca)
+        if cl > mx and (cl - mx) > LEN_BIAS_MARGIN * max(cl, 1) and (cl - mx) >= LEN_BIAS_MIN_ABS:
+            report["M10"].append({"id": q["question_id"],
+                                  "issue": "correct option is noticeably the longest",
+                                  "correct_len": cl, "max_distractor_len": mx})
+
     return report
 
 
@@ -282,7 +325,7 @@ def main():
         len(report["M4"]) + len(report["M5"]) +
         sum(1 for x in report["M6"] if not x.get("fixed", False)) +
         len(report["M3"]) + len(report["M7"]) +
-        len(report["M8"]) + len(report["M9"])
+        len(report["M8"]) + len(report["M9"]) + len(report["M10"])
     )
     print(f"[OK] mechanical report -> {args.report}")
     print(f"   M1 longest-correct : {report['M1'][-1]}")
@@ -294,6 +337,7 @@ def main():
     print(f"   M7 ratio           : {len(report['M7'])}")
     print(f"   M8 verify syntax   : {len(report['M8'])}")
     print(f"   M9 expected/answer : {len(report['M9'])}")
+    print(f"   M10 length-bias    : {len(report['M10'])}")
     print(f"   BLOCKING (need attention): {blocking}")
 
 

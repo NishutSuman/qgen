@@ -1,0 +1,420 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.
+
+This selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.
+
+Modern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces.
+
+**Which of the following best expresses the main idea of the passage?**",,120,,,,4,,Trade maps and military maps differ chiefly because rivers matter more to merchants than mountain passes ever will.,Early cartographers decorated unknown regions with imaginary creatures to disguise the limits of their knowledge from buyers.,Digital maps have finally removed the distortions that troubled the printed maps of earlier centuries and travellers.,Maps are selective representations whose contents reflect the aims of their makers rather than a neutral picture of the land.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.
+
+This selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.
+
+Modern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces.
+
+**According to the passage, all of the following are true of maps EXCEPT:**",,110,,,,2,,The features a map emphasises depend on the purpose for which it was commissioned by its makers.,A digital map presents a complete and objective record precisely because it labels every street and business.,A boundary drawn as a firm line can come to feel solid even where the land shows no real division.,"A map cannot display everything at once, so being useful depends on deliberately leaving certain things out.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.
+
+This selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.
+
+Modern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces.
+
+**It can be inferred from the passage that a reader who wants to judge a map fairly should:**",,118,,,,3,,assume that the roads a road map displays are always the ones that truly matter,prefer digital maps to printed ones because their surfaces are cleaner and easier,consider the intentions behind the map and notice what its maker chose not to show,accept that any boundary drawn as a firm line marks a genuine division in the land,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.
+
+This selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.
+
+Modern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces.
+
+**Why does the author mention trade maps and military maps in the first paragraph?**",,112,,,,3,,To suggest that the two kinds of map were usually produced by the same workshops,To prove that military needs have always mattered far more than trade did to early states everywhere,To show that different aims lead makers to highlight different features of the same land,To argue that rivers are harder to chart accurately than ridges and mountain passes,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.
+
+The difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.
+
+This paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away.
+
+**Which of the following best states the central argument of the passage?**",,122,,,,2,,Foresters in several regions have recently begun to distrust the public's reaction to any deliberate fire.,"Because many forests are adapted to regular fire, suppressing all fires can make later blazes more destructive.",The resin-sealed cones of certain pines will open only when a passing blaze first melts the seal and then frees the seeds.,"Controlled burns should be set on damp days so that the flames stay small, contained, and easy to watch.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.
+
+The difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.
+
+This paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away.
+
+**According to the passage, why does suppressing every small fire eventually lead to a more severe blaze?**",,108,,,,2,,The resin seals on pine cones grow thicker each season and demand a hotter fire to open.,"Dead wood and dry brush pile up over the years, giving a later fire far more fuel to burn.",Mature trees lose their natural resistance to heat when they are protected for too long.,"Damp weather becomes rarer over time, so foresters can no longer schedule any cool burns.",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.
+
+The difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.
+
+This paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away.
+
+**It can be inferred that the author would most likely agree with which of the following statements?**",,120,,,,4,,Popular opinion about fire is usually a reliable guide to how forests should actually be managed.,"The safest forest is one in which every fire, however small, is put out as quickly as it can be found.",Protecting the property of nearby residents should never once be counted among the goals of any modern forest-management plan.,A management policy works better when it cooperates with a landscape's natural patterns than when it fights them.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.
+
+The difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.
+
+This paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away.
+
+**Which word best describes the author's overall tone in the passage?**",,105,,,,1,,"Measured and explanatory, presenting a corrective view of a common belief","Alarmed and urgent, warning that forests everywhere face imminent collapse","Playful and ironic, mocking the foresters who still set deliberate burns","Nostalgic and mournful, lamenting woodlands that can no longer be saved",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.
+
+Over time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.
+
+Today, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door.
+
+**Which of the following best captures the main point of the passage?**",,95,,,,2,,Librarians spend more of their time helping job seekers than assisting young children.,The public library has long offered free access to knowledge and remains valuable today.,Early lending libraries failed mainly because the fees they charged were set far too high.,Search engines have replaced most of the services that public libraries once provided.,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.
+
+Over time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.
+
+Today, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door.
+
+**According to the passage, what change made borrowing free at the point of use?**",,90,,,,2,,Librarians volunteered their time so that no salaries had to be paid at all.,Towns agreed to fund libraries through shared taxes instead of charging each reader.,Publishers lowered the price of books until borrowing them cost almost nothing.,Wealthy donors bought up large private collections of books and then handed them over to the towns.,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.
+
+Over time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.
+
+Today, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door.
+
+**It can be inferred from the passage that the author regards the claim that libraries are no longer needed as:**",,112,,,,3,,"reasonable, since a search engine now answers nearly every possible question","unimportant, because libraries were never truly meant to serve the whole public","mistaken, because many people still lack the resources a library freely provides","proven, given that most families already own computers of their own at home",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.
+
+Over time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.
+
+Today, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door.
+
+**What is the main purpose of the second paragraph?**",,108,,,,2,,To compare the reading hours for children with the desks used by job seekers,"To show that libraries came to serve as shared community spaces, not only stores of books",To describe how librarians are trained before they begin helping the public,To explain the exact set of rules that a reader had to carefully follow in order to borrow any book,,,VARC/reading-comprehension,0.5
+VARC,VARC-ODD-1,1,mcsc,markdown,"Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.
+
+(1) Honeybees communicate the location of food through a series of movements known as the waggle dance.
+(2) The angle of the dance relative to vertical tells other bees the direction of the flowers.
+(3) The duration of each waggle run signals roughly how far away the food source lies.
+(4) A large hive can hold tens of thousands of individual worker bees during summer.
+(5) Observers can even estimate distance by timing how long each run lasts.
+
+**Which sentence is the odd one out?**",,150,,,,2,,Sentence 1,Sentence 4,Sentence 3,Sentence 5,Sentence 2,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.
+
+(1) The invention of movable type allowed identical pages to be printed quickly and cheaply.
+(2) Books that once took months to copy by hand could suddenly be produced in days.
+(3) Wider access to printed texts helped standardise spelling across many regions.
+(4) Lower prices meant that ideas spread far beyond wealthy monasteries and courts.
+(5) Many early manuscripts were decorated with gold leaf and elaborate hand-painted borders.
+
+**Which sentence is the odd one out?**",,150,,,,3,,Sentence 2,Sentence 3,Sentence 5,Sentence 1,Sentence 4,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.
+
+(1) Coral reefs support a quarter of all marine species despite covering a tiny fraction of the ocean.
+(2) The corals depend on algae living inside their tissues to provide most of their food.
+(3) When water grows too warm, the corals expel these algae and turn a pale white.
+(4) A prolonged loss of algae can leave the corals starving and eventually dead.
+(5) Deep-sea trenches remain among the least explored regions of the entire planet.
+
+**Which sentence is the odd one out?**",,150,,,,1,,Sentence 5,Sentence 3,Sentence 1,Sentence 4,Sentence 2,,VARC/odd-one-out,0.5
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.
+
+1. A city planted thousands of trees along its hottest streets to cool them down.
+2. Within a few summers, shaded pavements were measurably cooler than bare ones.
+3. Residents also reported walking more often once the routes felt pleasant.
+4. The idea began as a simple response to rising temperatures in the centre.
+
+**Select the correct order.**",,160,,,,1,,4-1-2-3,1-2-3-4,4-2-1-3,1-4-3-2,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.
+
+1. This layer traps heat and keeps the surface warm enough for liquid water.
+2. The atmosphere of a planet is the blanket of gases held by its gravity.
+3. Without it, the same surface would swing between scorching days and freezing nights.
+4. On our world that blanket is mostly nitrogen with a smaller share of oxygen.
+
+**Select the correct order.**",,160,,,,1,,2-4-1-3,2-1-4-3,4-2-1-3,2-3-1-4,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.
+
+1. She began by sorting the beans by size before the roasting could start.
+2. A small cafe decided to roast its own coffee for the first time.
+3. Only then did the owner adjust the heat to bring out the flavour.
+4. Uneven beans, she knew, would scorch and cook at different rates.
+
+**Select the correct order.**",,160,,,,1,,2-1-4-3,2-3-1-4,1-4-2-3,2-4-1-3,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.
+
+1. Early maps of the region were drawn mostly from travellers' rough sketches.
+2. As a result, coastlines were often placed dozens of miles from their true position.
+3. Later surveys with proper instruments corrected many of these old errors.
+4. Today satellites fix the same coastlines to within a few metres.
+
+**Select the correct order.**",,160,,,,4,,3-1-2-4,1-3-2-4,1-2-4-3,1-2-3-4,,,VARC/para-jumble,0.5
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Libraries once measured their worth by how many books they owned, but many now judge themselves by how well they connect people to information wherever it lives. A modern library lends digital files, offers work and meeting space, and guides visitors through vast online collections it does not physically hold. The building still matters, yet its main job has shifted from storing objects to giving access.
+
+**Which option best summarises the paragraph?**",,130,,,,1,,Libraries now judge their worth by how well they connect people to information rather than by how many books they own.,Modern libraries lend out digital files and provide quiet meeting rooms as well as long shelves of printed books for their many visitors.,"Libraries no longer need any physical building at all, since nearly every part of their collection is now stored and read online.",The sheer number of books that a library owns remains the clearest and most reliable measure of how useful it truly is.,,,VARC/summary,0
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Sleep is often treated as lost time, yet the brain stays busy during it. While a person rests, the brain sorts through the day's experiences, strengthens useful memories and clears away waste that builds up during waking hours. Far from being idle, sleep is active maintenance that keeps the mind working well the next day.
+
+**Which option best summarises the paragraph?**",,150,,,,4,,Sleep feels like wasted time to most people because nothing worth measuring ever happens inside the resting brain.,People who sleep for longer will always think faster and remember far more facts than those who choose to sleep much less.,During each period of sleep the brain quietly strengthens the useful memories a person has formed across the whole of the previous day.,Sleep is not lost time but active brain upkeep that sorts memories and clears waste to keep the mind sharp.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Fixing a bicycle taught the student more than any lecture had. By taking the gears apart and putting them back together, she saw how each part depended on the others in a way diagrams had never made clear. The lesson was not really about bicycles; it was that handling something directly can reveal what mere description leaves hidden.
+
+**Which option best summarises the paragraph?**",,150,,,,3,,Bicycles are surprisingly complicated machines whose many gears turn out to depend on one another in unexpected ways.,The student slowly learned how to take the gears of a bicycle apart and then reassemble them correctly during her afternoon repair.,Handling a real object directly can reveal how its parts relate in ways that descriptions and diagrams cannot.,Lectures and diagrams are quite useless for teaching almost anything and should be replaced entirely by hands-on practice sessions.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-4,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+A town worried about litter tried fines for a year with little effect. It then placed more bins and painted cheerful footpaths leading to them, and litter fell sharply. The change suggested that making the right action easy and inviting often works better than simply punishing the wrong one.
+
+**Which option best summarises the paragraph?**",,150,,,,2,,Fines can never change the way the public behaves and ought to be abolished by every town that seriously hopes to stay clean.,Making a desired action easy and inviting can cut a problem more than punishing the unwanted behaviour does.,The town first tried out fines for a full year before it finally decided to add many more bins around its busy streets.,The town carefully painted a set of cheerful footpaths that were meant to guide residents toward its newly installed litter bins.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-5,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Maps always leave things out, and that is their strength. A useful subway map ignores true distances and street layouts so that riders can see the lines and stops at a glance. By dropping detail that would only clutter the task at hand, a good map makes the information that matters easy to read.
+
+**Which option best summarises the paragraph?**",,150,,,,4,,Maps that leave out any information are basically misleading and cannot really be trusted for any kind of serious purpose.,Subway riders simply need to see the coloured lines and the stops so that they can plan their daily journeys across the city.,Subway maps very deliberately ignore both the true distances between stations and the real layout of the streets above them.,"A good map is useful because it leaves out detail that would clutter the task, showing only what matters.",,,VARC/summary,0.5
+DILR,DILR-1,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.
+
+- Omar finished last.
+- Priya finished immediately before Rahul.
+- Neha finished ahead of both Priya and Sana.
+- Sana did not finish fourth.
+
+**Who finished in second place?**",,200,,,,1,,Sana,Priya,Neha,Rahul,,,DILR/logic-tournament,0.5
+DILR,DILR-1,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.
+
+- Omar finished last.
+- Priya finished immediately before Rahul.
+- Neha finished ahead of both Priya and Sana.
+- Sana did not finish fourth.
+
+**Who finished in fourth place?**",,190,,,,3,,Priya,Sana,Rahul,Omar,,,DILR/logic-tournament,0.5
+DILR,DILR-1,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.
+
+- Omar finished last.
+- Priya finished immediately before Rahul.
+- Neha finished ahead of both Priya and Sana.
+- Sana did not finish fourth.
+
+**How many runners finished between Sana and Omar?**",,200,,,,4,,Three,Zero,One,Two,,,DILR/logic-tournament,0.5
+DILR,DILR-2,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.
+
+- The Hawks scored exactly 20 points more than the Owls.
+- The Ravens outscored the Falcons.
+- The Falcons did not finish with the lowest score.
+
+**Which team won the quiz with the highest score?**",,210,,,,3,,Hawks,Owls,Ravens,Falcons,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.
+
+- The Hawks scored exactly 20 points more than the Owls.
+- The Ravens outscored the Falcons.
+- The Falcons did not finish with the lowest score.
+
+**How many points did the Falcons score?**",,200,,,,1,,40,30,60,50,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.
+
+- The Hawks scored exactly 20 points more than the Owls.
+- The Ravens outscored the Falcons.
+- The Falcons did not finish with the lowest score.
+
+**What is the difference between the highest and the lowest team scores?**",,205,,,,1,,30,10,20,60,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-3,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.
+
+Table 1: Bottles sold (in thousands)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 12 | 8 | 10 | 6 |
+| Guava | 5 | 9 | 7 | 4 |
+| Litchi | 8 | 6 | 5 | 9 |
+
+Table 2: Price per bottle (in rupees)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 25 | 25 | 30 | 30 |
+| Guava | 20 | 20 | 20 | 20 |
+| Litchi | 15 | 15 | 10 | 10 |
+
+**How many bottles in total (in thousands) were sold at kiosk Q across all three flavours?**",,160,,,,2,,22 thousand,23 thousand,21 thousand,24 thousand,,,DILR/di-table,0.5
+DILR,DILR-3,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.
+
+Table 1: Bottles sold (in thousands)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 12 | 8 | 10 | 6 |
+| Guava | 5 | 9 | 7 | 4 |
+| Litchi | 8 | 6 | 5 | 9 |
+
+Table 2: Price per bottle (in rupees)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 25 | 25 | 30 | 30 |
+| Guava | 20 | 20 | 20 | 20 |
+| Litchi | 15 | 15 | 10 | 10 |
+
+**What was the total revenue (in thousands of rupees) generated by kiosk P?**",,220,,,,3,,540 thousand,470 thousand,520 thousand,500 thousand,,,DILR/di-table,0.5
+DILR,DILR-3,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.
+
+Table 1: Bottles sold (in thousands)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 12 | 8 | 10 | 6 |
+| Guava | 5 | 9 | 7 | 4 |
+| Litchi | 8 | 6 | 5 | 9 |
+
+Table 2: Price per bottle (in rupees)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 25 | 25 | 30 | 30 |
+| Guava | 20 | 20 | 20 | 20 |
+| Litchi | 15 | 15 | 10 | 10 |
+
+**What was the combined revenue of the Mango flavour (in thousands of rupees) across all four kiosks?**",,220,,,,4,,880 thousand,1000 thousand,900 thousand,980 thousand,,,DILR/di-table,0.5
+DILR,DILR-3,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.
+
+Table 1: Bottles sold (in thousands)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 12 | 8 | 10 | 6 |
+| Guava | 5 | 9 | 7 | 4 |
+| Litchi | 8 | 6 | 5 | 9 |
+
+Table 2: Price per bottle (in rupees)
+
+| Flavour | P | Q | R | S |
+|---|--:|--:|--:|--:|
+| Mango | 25 | 25 | 30 | 30 |
+| Guava | 20 | 20 | 20 | 20 |
+| Litchi | 15 | 15 | 10 | 10 |
+
+**In how many of the twelve flavour-kiosk cells did the revenue exceed 150 thousand rupees?**",,240,,,,3,,3 cells,4 cells,5 cells,6 cells,,,DILR/di-table,0.5
+DILR,DILR-4,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.
+
+- Arjun trained on an earlier day than Bela.
+- Carlos trained exactly two days after Diana.
+- Diana did not train on Monday.
+
+**On which day did Arjun train?**",,200,,,,2,,Thursday,Monday,Tuesday,Wednesday,,,DILR/logic-investment,0.5
+DILR,DILR-4,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.
+
+- Arjun trained on an earlier day than Bela.
+- Carlos trained exactly two days after Diana.
+- Diana did not train on Monday.
+
+**Who trained on Wednesday?**",,200,,,,4,,Diana,Carlos,Arjun,Bela,,,DILR/logic-investment,0.5
+DILR,DILR-4,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.
+
+- Arjun trained on an earlier day than Bela.
+- Carlos trained exactly two days after Diana.
+- Diana did not train on Monday.
+
+**Who trained on the day immediately before Carlos?**",,230,,,,3,,Arjun,"No one, Carlos trained on the first day",Bela,Diana,,,DILR/logic-investment,1
+DILR,DILR-5,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png)
+
+**How many units in total (in thousands) were sold across all three models in 2023?**",,150,,,,4,,115 thousand,130 thousand,110 thousand,120 thousand,,,DILR/di-graph,0.5
+DILR,DILR-5,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png)
+
+**By what percentage did the units sold of Solaris grow from 2022 to 2024?**",,170,,,,1,,50 percent,33 percent,20 percent,40 percent,,,DILR/di-graph,0.5
+DILR,DILR-5,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png)
+
+**In which year were the total units sold across all three models the highest?**",,180,,,,3,,Equal in 2023 and 2024,2022,2024,2023,,,DILR/di-graph,0.5
+DILR,DILR-5,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png)
+
+**What is the ratio of Lumen units sold in 2024 to Vireo units sold in 2022?**",,170,,,,1,,5 : 2,5 : 3,3 : 1,2 : 1,,,DILR/di-graph,0.5
+DILR,DILR-5,5,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png)
+
+**What was the average number of units (in thousands) sold per model in 2024?**",,160,,,,3,,45 thousand,48 thousand,50 thousand,55 thousand,,,DILR/di-graph,0.5
+QA,QA-MCQ-1,1,mcsc,text,"In a class of 250 students, 36% opted for the science club. How many students opted for the science club?",,70,,,,1,,90,214,160,36,,,QA/quant,0
+QA,QA-MCQ-2,1,mcsc,text,A shopkeeper buys a bag for 400 rupees and sells it for 460 rupees. What is the profit percentage?,,75,,,,2,,13%,15%,12%,60%,,,QA/quant,0
+QA,QA-MCQ-3,1,mcsc,text,"Two numbers are in the ratio 3 : 5, and their sum is 96. What is the larger number?",,80,,,,3,,48,36,60,58,,,QA/quant,0
+QA,QA-MCQ-4,1,mcsc,text,The average of five numbers is 24. What is their total sum?,,60,,,,2,,24,120,100,29,,,QA/quant,0
+QA,QA-MCQ-5,1,mcsc,text,A sum of 2000 rupees is invested at 6% simple interest per year. What is the interest earned in one year?,,70,,,,1,,120,2120,60,112,,,QA/quant,0
+QA,QA-MCQ-6,1,mcsc,text,A rectangular garden is 14 metres long and 9 metres wide. What is its perimeter?,,70,,,,4,,52,126,23,46,,,QA/quant,0
+QA,QA-MCQ-7,1,mcsc,text,"A car travels 165 kilometres in 3 hours, then 120 kilometres in 2 hours. What is its average speed for the whole journey?",,200,,,,2,,55,57,60,56,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,"The smallest number that is exactly divisible by 8, 12, and 18 is:",,210,,,,4,,144,36,24,72,,,QA/quant,0.5
+QA,QA-MCQ-9,1,mcsc,text,"A shirt is marked at 800 rupees. After a discount of 15%, the shopkeeper still makes a profit of 20% on the cost price. What was the cost price?",,230,,,,1,,567,600,680,544,,,QA/quant,0.5
+QA,QA-MCQ-10,1,mcsc,text,"A sum of Rs 8000 is invested at 10% per annum compound interest, compounded annually. What is the compound interest earned at the end of 2 years?",,130,,,,4,,Rs 1600,Rs 968,Rs 1728,Rs 1680,,,QA/quant,0.5
+QA,QA-MCQ-11,1,mcsc,text,"Pipe A can fill a tank in 12 hours and pipe B can fill the same tank in 18 hours. If both pipes are opened together, how long will they take to fill the tank?",,120,,,,4,,7.5 hours,15 hours,6 hours,7.2 hours,,,QA/quant,0.5
+QA,QA-MCQ-12,1,mcsc,text,A 40-litre mixture contains milk and water in the ratio 3:1. How many litres of water must be added so that the ratio of milk to water becomes 3:2?,,140,,,,2,,5 litres,10 litres,20 litres,8 litres,,,QA/quant,0.5
+QA,QA-MCQ-13,1,mcsc,text,Two fair six-sided dice are rolled together. What is the probability that the sum of the two numbers shown is exactly 8?,,130,,,,2,,1/9,5/36,1/6,7/36,,,QA/quant,0.5
+QA,QA-MCQ-14,1,mcsc,text,In how many distinct ways can all the letters of the word BANANA be arranged?,,120,,,,4,,720,120,360,60,,,QA/quant,0.5
+QA,QA-MCQ-15,1,mcsc,text,A solid sphere has a radius of 3 cm. What is its volume?,,110,,,,1,,36π cm³,27π cm³,12π cm³,9π cm³,,,QA/quant,0.5
+QA,QA-MCQ-16,1,mcsc,text,"A certain sum invested at compound interest, compounded annually, amounts to Rs 4840 in 2 years and to Rs 5324 in 3 years. What was the original sum invested?",,210,,,,3,,Rs 3993,Rs 4400,Rs 4000,Rs 4200,,,QA/quant,1
+QA,QA-MCQ-17,1,mcsc,text,In an arithmetic progression the third term is 12 and the seventh term is 24. What is the sum of the first 10 terms of this progression?,,220,,,,1,,195,165,210,180,,,QA/quant,1
+QA,QA-MCQ-18,1,mcsc,text,"In a group of 120 students, 70 like tea, 80 like coffee, and 20 like neither tea nor coffee. How many students like both tea and coffee?",,190,,,,3,,40,30,50,60,,,QA/quant,1
+QA,QA-TITA-1,1,tita,text,Find the value of the expression (2^5 x 3^2) divided by (2^3 x 3).,12,120,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-2,1,tita,text,A train travels at a constant speed of 72 kilometres per hour. Express this speed in metres per second.,20,110,,,,,,,,,,,,QA/quant,0
+QA,QA-TITA-3,1,tita,text,"In an election between two candidates, the winner secured 60 percent of the total valid votes and won by a margin of 4800 votes. Find the total number of valid votes polled.",24000,210,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-4,1,tita,text,**How many positive integer factors does 180 have?**,18,220,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-5,1,tita,text,"In a group of students, 60 like tea, 50 like coffee, and 20 like both tea and coffee. How many students like exactly one of the two drinks?",70,200,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-6,1,tita,text,Find the remainder when 7 raised to the power 103 is divided by 100.,43,300,,,,,,,,,,,,QA/quant,1

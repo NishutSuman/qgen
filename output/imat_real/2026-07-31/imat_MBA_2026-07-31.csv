@@ -1,0 +1,534 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.
+
+The argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.
+
+Critics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct.
+
+**The passage is primarily concerned with:**",,250,,,,3,,defending the claim that a reader is free to assign a poem almost any meaning that the language will loosely permit,tracing how twentieth-century literary criticism gradually abandoned nearly all close attention to the words on the page,"presenting a view that denies the author's intention fixes a poem's meaning, and weighing the replies it draws",arguing that an author's stated intention is wholly irrelevant to every form of literary and biographical inquiry,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.
+
+The argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.
+
+Critics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct.
+
+**The careful proponents of the anti-intention view would agree with all of the following EXCEPT:**",,240,,,,3,,The diction and structure of a text limit its readings more tightly than a private confession by its author,"Where internal and external evidence point the same way, invoking the author's intention adds nothing new",A finished poem has no determinate meaning until its author supplies an authoritative gloss on it,Recovering an author's documented intention can still teach us something about that author's biography,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.
+
+The argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.
+
+Critics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct.
+
+**It can be inferred that the 'more searching objection' differs from the simpler reply that precedes it because it:**",,275,,,,4,,abandons the appeal to textual evidence and defends interpretation as the reader's free play of association,denies outright that any individual author ever meant anything determinate by the words chosen for a poem,rests on the premise that a work can carry no meaning at all unless a single mind stands directly behind it,grants the priority given to the text while relocating intention to the conventions the language carries,,,VARC/reading-comprehension,1
+VARC,VARC-RC1,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.
+
+The argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.
+
+Critics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct.
+
+**The author calls the appeal to intention 'redundant' when evidence agrees and to be overruled when evidence conflicts chiefly in order to:**",,270,,,,1,,show that on either alignment of the evidence the author's intention does no decisive work,establish the separate point that authors are habitually unreliable witnesses to their own real aims,suggest that external evidence about a work is nearly always misleading and is best set entirely aside,concede that in a narrow range of disputes an author's own stated intention does settle the reading,,,VARC/reading-comprehension,1
+VARC,VARC-RC1,5,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.
+
+The argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.
+
+Critics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct.
+
+**Which of the following claims about the debate is fully supported by the passage?**",,280,,,,2,,The passage shows that intention of every kind can be dispensed with once a text is complete,"The live question is which intentions, and how far mediated, a competent reading must reconstruct",The critics have demonstrated that the anti-intention view collapses into arbitrary reading,The passage concludes that an individual author's intention proves indispensable to interpretation after all,,,VARC/reading-comprehension,1
+VARC,VARC-RC2,1,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.
+
+Field research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.
+
+The lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent.
+
+**Which of the following best states the central argument of the passage?**",,235,,,,1,,"Communities can sometimes govern shared resources by self-made rules, so the pessimistic model fits a special case",State regulation from above is shown to be the single most dependable remedy for the overuse of any common resource,"Traditional rural communities, unlike modern states, essentially never deplete the natural resources placed in their care",Shared resources are inevitably destroyed unless they are divided up into privately owned parcels by their own users,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.
+
+Field research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.
+
+The lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent.
+
+**The passage credits the durable commons arrangements with all of the following features EXCEPT:**",,225,,,,4,,provisions allowing the governing rules to be revised as surrounding conditions change,penalties that fall lightly on a first offence and grow heavier when the offence is repeated,the ability of users to keep watch on one another and to communicate about the resource,the assignment of a separately owned private parcel of the resource to each individual user,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.
+
+Field research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.
+
+The lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent.
+
+**The author observes that a well-meaning government can 'produce the tragedy it meant to prevent' mainly in order to:**",,268,,,,1,,warn that overriding a working local arrangement can destroy the conditions that sustained restraint,"argue that governments are, almost as a rule, indifferent to whether shared resources survive or collapse",claim that locally made rules are plainly superior to state rules in virtually every respect and setting,show that dividing a resource into private holdings will reliably outperform any centrally imposed public rule,,,VARC/reading-comprehension,1
+VARC,VARC-RC2,4,mcsc,markdown,"**Read the following passage carefully and answer the question that follows.**
+
+For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.
+
+Field research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.
+
+The lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent.
+
+**The author's stance toward the original pessimistic model is best described as:**",,272,,,,4,,full endorsement of it as a fixed law that governs shared resources in every setting,"studied indifference, on the ground that the model's assumptions are said to be untestable",outright rejection of it as an account that field evidence has now proved plainly false,"qualified acceptance, treating it as accurate for a restricted range of conditions",,,VARC/reading-comprehension,1
+VARC,VARC-ODD-1,1,mcsc,markdown,"Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.
+
+(1) A tidal wetland acts as a natural buffer, absorbing the energy of incoming storm surges before they reach inland settlements.
+(2) Its dense mat of roots binds loose sediment, so the shoreline erodes far more slowly than an unvegetated coast would.
+(3) The same roots filter runoff, trapping pollutants that would otherwise flow straight into open water.
+(4) Because of these functions, planners increasingly treat wetlands as infrastructure rather than as idle land.
+(5) Modern desalination plants can convert seawater into drinking water at a steadily falling cost per litre.
+
+**Which sentence is the odd one out?**",,150,,,,3,,(3),(4),(5),(2),(1),,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.
+
+(1) When a folk tale passes from one teller to the next, small changes creep in with every retelling.
+(2) A teller may drop a name, sharpen a joke, or shift the setting to a place the listeners know.
+(3) Over generations these tiny edits accumulate into strikingly different versions of one story.
+(4) Scholars can sometimes trace those versions back to a shared ancestor by comparing their fixed motifs.
+(5) Printing presses lowered the price of books so sharply that private libraries became common.
+
+**Which sentence is the odd one out?**",,150,,,,4,,(2),(1),(3),(5),(4),,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.
+
+(1) A scientific model is deliberately simpler than the reality it represents, keeping only the features that matter for a given question.
+(2) By stripping away detail, it lets researchers reason about a system that would otherwise be too tangled to follow.
+(3) The value of a model therefore lies not in its completeness but in the useful predictions it yields.
+(4) A model that reproduced every detail of the world would be as hard to understand as the world itself.
+(5) A well-designed model can be tested against fresh observations and discarded the moment it fails to predict them.
+
+**Which sentence is the odd one out?**",,200,,,,1,,(5),(2),(1),(3),(4),,VARC/odd-one-out,1
+VARC,VARC-ODD-4,1,mcsc,markdown,"Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.
+
+(1) A currency holds its value only because the people using it expect others to accept it tomorrow.
+(2) That expectation is a shared belief, sustained by habit and by trust in the issuing authority.
+(3) When the belief weakens, holders rush to spend, and prices climb faster than the notes can be printed.
+(4) A sudden loss of confidence can thus unravel a currency long before any change in the goods it can buy.
+(5) Central banks set interest rates to steer how much borrowing and lending take place across the economy.
+
+**Which sentence is the odd one out?**",,200,,,,2,,(4),(5),(2),(1),(3),,VARC/odd-one-out,1
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.
+
+1. Every autumn, millions of songbirds leave the cooling north for warmer southern feeding grounds.
+2. To survive the journey, each bird nearly doubles its body weight by gorging on insects and berries beforehand.
+3. This stored fat becomes the fuel that powers days of almost continuous flight.
+4. Without it, a small migrant could not cross the wide deserts and seas that lie along the route.
+
+**Select the correct order.**",,150,,,,4,,2134,1324,1243,1234,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.
+
+1. A public library began, in most towns, as a single donated room lined with second-hand books.
+2. As demand grew, the room acquired a paid keeper who lent volumes and tracked their return.
+3. That keeper slowly became a trained profession, with rules for cataloguing and preserving the collection.
+4. Today those same rules underpin vast digital archives that no single room could ever hold.
+
+**Select the correct order.**",,150,,,,4,,1324,1243,2134,1234,,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.
+
+1. Critics once dismissed the invention as a toy with no serious use.
+2. Its defenders replied that the same had been said of the telephone in its first decade.
+3. They pointed out that such judgements track familiarity, not the real limits of a device.
+4. History, they argued, rarely rewards those who mistake a rough prototype for a finished tool.
+
+**Select the correct order.**",,220,,,,2,,1324,1234,2134,1243,,,VARC/para-jumble,1
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.
+
+1. A map must leave things out, for a chart that showed every detail would be useless.
+2. Yet what it leaves out is never neutral, since each omission quietly reflects the mapmaker's priorities.
+3. Such choices, repeated across thousands of maps, shape how a whole society pictures its own territory.
+4. For this reason a map is best read not only as a guide but as an argument about what deserves notice.
+
+**Select the correct order.**",,220,,,,3,,2134,1324,1234,1243,,,VARC/para-jumble,1
+VARC,VARC-JUMBLE-5,1,mcsc,markdown,"The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.
+
+1. Silence in a conversation is often read as a gap, an awkward failure to keep talking.
+2. In many cultures, however, it carries meaning as rich as any spoken reply.
+3. There a considered pause signals respect, telling the other that the question deserved real thought.
+4. To fill that pause too quickly can therefore seem not friendly but careless.
+
+**Select the correct order.**",,220,,,,2,,1243,1234,2134,1324,,,VARC/para-jumble,1
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Many species that appear wasteful are in fact insuring themselves against bad years. An oak may drop thousands of acorns although only a handful can ever grow into trees, because the surplus swamps the animals that eat them and guarantees that a few seeds survive in almost any season. What looks like extravagance is a hedge: by producing far more than the average conditions require, the tree buys protection against the years when conditions are worst.
+
+**Which option best summarises the paragraph?**",,170,,,,1,,"Apparent overproduction in nature is often a safeguard, letting a species survive poor years by making far more offspring than good conditions alone would need.",Animals that feed on seeds are usually overwhelmed by the sheer number a plant produces and so fail to eat the entire crop.,Oak trees drop many thousands of acorns every single year even though almost none of those scattered acorns will ever manage to grow into a mature standing tree.,"Nature tends to be wasteful, and much of what living things produce serves no real purpose beyond simple excess.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+A new road built to relieve congestion often ends up just as crowded as before. The extra capacity lowers the effective cost of driving, so people who once avoided the trip, took the train, or travelled at odd hours now join the traffic. Within a few years the freed-up space fills again, and the promised relief quietly disappears even though the road itself was built exactly as planned.
+
+**Which option best summarises the paragraph?**",,170,,,,2,,"Roads are frequently built exactly to their original plans, yet the traffic engineers still misjudge how drivers will respond.","Adding road capacity tends to attract new trips that fill the space, so the expected easing of congestion often fails to last.",Traffic congestion is one of the most stubborn and expensive problems that fast-growing modern cities are forced to confront.,People who used to take the train will switch to driving as soon as a wider and more convenient road becomes available to them.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Learning a second language as an adult rarely produces a flawless accent, yet the effort is far from wasted. Even partial fluency reshapes how the learner hears speech, sharpens attention to grammar in the first language, and opens doors to texts and people that were closed before. The goal need not be to pass as a native; the practical and mental gains arrive long before that distant point.
+
+**Which option best summarises the paragraph?**",,170,,,,3,,Studying grammar in a new language happens to sharpen a learner's awareness of the grammar of their own first language.,Reaching the fluent level of a genuine native speaker is really the one true and proper measure of success for anyone setting out to learn a new foreign language.,"Adult language learning brings real practical and mental benefits well before fluency, so a perfect accent need not be the aim.",Adults who study a second language almost never manage to acquire an accent that a native speaker would accept as flawless.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-4,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+Rating systems promise to guide us toward quality, but a high average can mislead as easily as it informs. A product reviewed by only a dozen buyers may score higher than a rival reviewed by thousands, not because it is better but because a small sample swings more wildly. Worse, the people who bother to rate are rarely typical: the delighted and the furious speak up while the merely satisfied stay silent. A score, then, summarises not the product alone but the peculiar crowd that chose to judge it, and reading it wisely means asking who did the rating before trusting what they said.
+
+**Which option best summarises the paragraph?**",,240,,,,4,,A product judged by only a handful of reviewers can post a higher average than a rival that thousands of buyers have carefully rated.,"Rating systems were originally designed to steer ordinary shoppers toward higher quality goods, and for the most part they seem to carry out that useful task quite reliably.",People who feel delighted or furious about a purchase are much more likely to leave a review than those who feel merely satisfied.,"Average ratings can mislead because small samples fluctuate and reviewers are unrepresentative, so a score reflects who rated as much as the product.",,,VARC/summary,1
+VARC,VARC-SUMMARY-5,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+We tend to praise the lone inventor, but most breakthroughs are less a single leap than a last step. By the time a discovery is announced, dozens of others have usually reached the same threshold, held back only by a missing tool or an unasked question. The celebrated name is often simply the one who arrived days ahead, or who framed the result in words the age was ready to hear. To credit a single mind, then, is to mistake the visible tip of a long collective effort for the whole of it.
+
+**Which option best summarises the paragraph?**",,240,,,,2,,"The lone individual inventor still fully deserves the praise that we give, because framing a raw result in exactly the right words is itself the single hardest part of any discovery.","Great discoveries are usually the final step of a wide shared effort, so crediting one inventor mistakes a visible moment for the whole.",A breakthrough is frequently delayed by nothing more than a missing instrument or a question that no one has yet thought to ask.,Whoever announces a discovery first has often arrived only a few days ahead of several rivals working on the very same problem.,,,VARC/summary,1
+VARC,VARC-SUMMARY-6,1,mcsc,markdown,"**Read the paragraph given below and answer the question that follows.**
+
+A law that everyone quietly ignores can be more corrosive than no law at all. When a rule is kept on the books but never enforced, it does not simply lie dormant; it teaches citizens that the written word and the real world need not match. Each unpunished breach makes the next one easier to excuse, and over time the habit of selective obedience spreads to rules that were meant to bind. The damage lies less in the single ignored statute than in the lesson it spreads about how seriously any law should be taken.
+
+**Which option best summarises the paragraph?**",,240,,,,2,,"Once one violation of a statute goes unpunished, excusing the next similar violation becomes noticeably easier to justify.","An unenforced law erodes respect for law in general, because tolerating its breach teaches that rules need not be obeyed.",Lawmakers should take care to repeal statutes they no longer intend to enforce rather than leaving them on the books.,A rule that stays on the books without ever being enforced does not vanish but quietly remains available for later use.,,,VARC/summary,1
+DILR,DILR-1,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.
+
+- The Finance employee sits immediately to the left of the Legal employee.
+- Priya has more experience than exactly three of her colleagues.
+- The Tech employee has the least experience.
+- Omar sits at desk 3 and works in Finance.
+- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.
+- The employee at desk 1 has 6 years of experience.
+- Mira sits somewhere to the right of Rehan.
+- The HR employee sits at desk 5.
+- The Legal employee has 8 years of experience.
+
+**Which employee sits at desk 4?**",,360,,,,3,,Sana,Mira,Priya,Omar,,,DILR/logic-tournament,1
+DILR,DILR-1,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.
+
+- The Finance employee sits immediately to the left of the Legal employee.
+- Priya has more experience than exactly three of her colleagues.
+- The Tech employee has the least experience.
+- Omar sits at desk 3 and works in Finance.
+- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.
+- The employee at desk 1 has 6 years of experience.
+- Mira sits somewhere to the right of Rehan.
+- The HR employee sits at desk 5.
+- The Legal employee has 8 years of experience.
+
+**The employee with 10 years of experience works in which department?**",,330,,,,1,,HR,Finance,Sales,Legal,,,DILR/logic-tournament,1
+DILR,DILR-1,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.
+
+- The Finance employee sits immediately to the left of the Legal employee.
+- Priya has more experience than exactly three of her colleagues.
+- The Tech employee has the least experience.
+- Omar sits at desk 3 and works in Finance.
+- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.
+- The employee at desk 1 has 6 years of experience.
+- Mira sits somewhere to the right of Rehan.
+- The HR employee sits at desk 5.
+- The Legal employee has 8 years of experience.
+
+**Suppose Omar and Priya exchange only their departments, keeping their desks and their years of experience unchanged. Which statement would then become true?**",,400,,,,2,,The Tech employee would end up with the most experience overall.,The Finance and Legal employees would no longer sit adjacently.,The employee at desk 1 would then work in the Legal department.,Exactly two of the five employees would then share one department.,,,DILR/logic-tournament,1
+DILR,DILR-1,4,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.
+
+- The Finance employee sits immediately to the left of the Legal employee.
+- Priya has more experience than exactly three of her colleagues.
+- The Tech employee has the least experience.
+- Omar sits at desk 3 and works in Finance.
+- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.
+- The employee at desk 1 has 6 years of experience.
+- Mira sits somewhere to the right of Rehan.
+- The HR employee sits at desk 5.
+- The Legal employee has 8 years of experience.
+
+**What is the combined experience, in years, of the Finance employee and the Legal employee?**",,300,,,,1,,12,16,10,14,,,DILR/logic-tournament,1
+DILR,DILR-2,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.
+
+- Aster departs earlier than Birch.
+- The flight to Tokyo departs first.
+- Cedar flies to Cairo.
+- The flight to Oslo departs immediately after the flight to Lisbon.
+- Delta departs third.
+- Cedar departs earlier than Delta.
+
+**Which airline operates the last flight to depart?**",,260,,,,4,,Aster,Delta,Cedar,Birch,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.
+
+- Aster departs earlier than Birch.
+- The flight to Tokyo departs first.
+- Cedar flies to Cairo.
+- The flight to Oslo departs immediately after the flight to Lisbon.
+- Delta departs third.
+- Cedar departs earlier than Delta.
+
+**To which city does Delta fly?**",,275,,,,1,,Lisbon,Cairo,Tokyo,Oslo,,,DILR/logic-quiz-scores,0.5
+DILR,DILR-2,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.
+
+- Aster departs earlier than Birch.
+- The flight to Tokyo departs first.
+- Cedar flies to Cairo.
+- The flight to Oslo departs immediately after the flight to Lisbon.
+- Delta departs third.
+- Cedar departs earlier than Delta.
+
+**Suppose the airport swaps the departure slots of the two flights currently in the second and fourth positions, leaving every destination with its own aircraft unchanged. After the swap, the flight to which city departs immediately before the flight to Oslo?**",,345,,,,3,,Cairo,Oslo,Tokyo,Lisbon,,,DILR/logic-quiz-scores,1
+DILR,DILR-3,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.
+
+**Packages sold (in thousands)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 4 | 10 | 8 | 6 |
+| Coastal | 30 | 8 | 5 | 4 |
+| Mountain | 2 | 6 | 10 | 20 |
+
+**Price per package (in thousand rupees)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 20 | 22 | 25 | 18 |
+| Coastal | 15 | 16 | 14 | 12 |
+| Mountain | 30 | 28 | 26 | 24 |
+
+**What is the total revenue earned from Coastal packages across all four cities?**",,300,,,,3,,664 million rupees,720 million rupees,696 million rupees,648 million rupees,,,DILR/di-table,1
+DILR,DILR-3,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.
+
+**Packages sold (in thousands)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 4 | 10 | 8 | 6 |
+| Coastal | 30 | 8 | 5 | 4 |
+| Mountain | 2 | 6 | 10 | 20 |
+
+**Price per package (in thousand rupees)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 20 | 22 | 25 | 18 |
+| Coastal | 15 | 16 | 14 | 12 |
+| Mountain | 30 | 28 | 26 | 24 |
+
+**The ratio of total Mountain revenue to total Heritage revenue (across all cities) is closest to which of the following?**",,340,,,,3,,7 : 4,3 : 2,8 : 5,5 : 3,,,DILR/di-table,1
+DILR,DILR-3,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.
+
+**Packages sold (in thousands)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 4 | 10 | 8 | 6 |
+| Coastal | 30 | 8 | 5 | 4 |
+| Mountain | 2 | 6 | 10 | 20 |
+
+**Price per package (in thousand rupees)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 20 | 22 | 25 | 18 |
+| Coastal | 15 | 16 | 14 | 12 |
+| Mountain | 30 | 28 | 26 | 24 |
+
+**Which city has the lowest overall average price per package (total revenue divided by total packages sold)?**",,400,,,,4,,Goa,Shimla,Kochi,Jaipur,,,DILR/di-table,1
+DILR,DILR-3,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.
+
+**Packages sold (in thousands)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 4 | 10 | 8 | 6 |
+| Coastal | 30 | 8 | 5 | 4 |
+| Mountain | 2 | 6 | 10 | 20 |
+
+**Price per package (in thousand rupees)**
+
+| Package | Jaipur | Kochi | Shimla | Goa |
+|---|--:|--:|--:|--:|
+| Heritage | 20 | 22 | 25 | 18 |
+| Coastal | 15 | 16 | 14 | 12 |
+| Mountain | 30 | 28 | 26 | 24 |
+
+**By how much does Goa's total revenue exceed Kochi's total revenue?**",,290,,,,2,,96 million rupees,120 million rupees,132 million rupees,108 million rupees,,,DILR/di-table,1
+DILR,DILR-4,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.
+
+The following facts are known about the workshop counts:
+
+- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.
+- Birch hosts more workshops than Cedar.
+- Cedar hosts exactly 6 workshops.
+- Aster hosts an odd number of workshops.
+- Aster hosts exactly two more workshops than Birch.
+
+The following facts are known about the opening months:
+
+- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.
+- Aster opens in an earlier month than Dune.
+
+**How many workshops does Dune host?**",,280,,,,1,,4,9,7,6,,,DILR/logic-constraints,0.5
+DILR,DILR-4,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.
+
+The following facts are known about the workshop counts:
+
+- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.
+- Birch hosts more workshops than Cedar.
+- Cedar hosts exactly 6 workshops.
+- Aster hosts an odd number of workshops.
+- Aster hosts exactly two more workshops than Birch.
+
+The following facts are known about the opening months:
+
+- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.
+- Aster opens in an earlier month than Dune.
+
+**Which centre opens in the third of the four months?**",,300,,,,4,,Cedar,Birch,Aster,Dune,,,DILR/logic-constraints,1
+DILR,DILR-4,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.
+
+The following facts are known about the workshop counts:
+
+- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.
+- Birch hosts more workshops than Cedar.
+- Cedar hosts exactly 6 workshops.
+- Aster hosts an odd number of workshops.
+- Aster hosts exactly two more workshops than Birch.
+
+The following facts are known about the opening months:
+
+- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.
+- Aster opens in an earlier month than Dune.
+
+**Suppose only these workshop facts are kept: the counts are distinct whole numbers from 3 to 10 summing to 26, Aster hosts the most, Dune the fewest, and Birch hosts more than Cedar. The facts fixing Cedar at 6, making Aster odd and setting Aster two above Birch are dropped. How many different count-assignments to the four centres are then possible?**",,340,,,,3,,10,6,8,12,,,DILR/logic-constraints,1
+DILR,DILR-4,4,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.
+
+The following facts are known about the workshop counts:
+
+- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.
+- Birch hosts more workshops than Cedar.
+- Cedar hosts exactly 6 workshops.
+- Aster hosts an odd number of workshops.
+- Aster hosts exactly two more workshops than Birch.
+
+The following facts are known about the opening months:
+
+- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.
+- Aster opens in an earlier month than Dune.
+
+**What is the combined number of workshops hosted by the centre that opens first and the centre that opens last?**",,300,,,,4,,16,11,15,13,,,DILR/logic-constraints,1
+DILR,DILR-5,1,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.
+
+The following conditions all hold:
+
+- Wesley is visited on Monday.
+- Zane is visited on the day immediately after the day on which Xavier is visited.
+- Xavier is visited on an earlier day than Yara.
+- Vernon is visited on an earlier day than Xavier.
+
+**Which client does the consultant visit on Friday?**",,260,,,,1,,Yara,Zane,Vernon,Xavier,,,DILR/logic-investment,0.5
+DILR,DILR-5,2,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.
+
+The following conditions all hold:
+
+- Wesley is visited on Monday.
+- Zane is visited on the day immediately after the day on which Xavier is visited.
+- Xavier is visited on an earlier day than Yara.
+- Vernon is visited on an earlier day than Xavier.
+
+**On which day is Xavier visited?**",,260,,,,2,,Tuesday,Wednesday,Monday,Thursday,,,DILR/logic-investment,0.5
+DILR,DILR-5,3,mcsc,markdown,"**Read the information given below and answer the question that follows.**
+
+A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.
+
+The following conditions all hold:
+
+- Wesley is visited on Monday.
+- Zane is visited on the day immediately after the day on which Xavier is visited.
+- Xavier is visited on an earlier day than Yara.
+- Vernon is visited on an earlier day than Xavier.
+
+**Suppose the condition that Vernon is visited before Xavier is dropped, while the other three conditions still hold. How many different visiting orders for the week are then possible?**",,330,,,,3,,4,5,3,2,,,DILR/logic-investment,1
+DILR,DILR-6,1,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png)
+
+**What is the total revenue from all four designs in FY24?**",,340,,,,3,,"44,300 thousand rupees","46,200 thousand rupees","45,710 thousand rupees","43,950 thousand rupees",,,DILR/di-graph,1
+DILR,DILR-6,2,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png)
+
+**Which design recorded the highest percentage growth in revenue from FY22 to FY24?**",,400,,,,2,,Terra,Onyx,Marble,Slate,,,DILR/di-graph,1
+DILR,DILR-6,3,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png)
+
+**Over the three years, what is Slate's average price per box weighted by the number of boxes shipped?**",,320,,,,3,,215.00 rupees,210.00 rupees,211.33 rupees,213.33 rupees,,,DILR/di-graph,1
+DILR,DILR-6,4,mcsc,markdown,"**Study the data given below and answer the question that follows.**
+
+A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png)
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png)
+
+**By how much did the combined total revenue of all four designs change from FY22 to FY23?**",,360,,,,4,,"increased by 9,780 thousand rupees","increased by 8,900 thousand rupees","increased by 8,320 thousand rupees","increased by 9,320 thousand rupees",,,DILR/di-graph,1
+QA,QA-MCQ-1,1,mcsc,text,A trader marks his goods 60% above cost price and then allows two successive discounts of 25% and 20% on the marked price. What is his overall profit or loss percentage?,,200,,,,1,,4% loss,6% loss,4% profit,2% loss,,,QA/quant,0.5
+QA,QA-MCQ-2,1,mcsc,text,"A invests Rs 16000 for 9 months, B invests Rs 24000 for 4 months and C invests Rs 12000 for 10 months in a business. If the total annual profit is Rs 9000, what is B's share?",,210,,,,3,,Rs 3600,Rs 3000,Rs 2400,Rs 2000,,,QA/quant,0.5
+QA,QA-MCQ-3,1,mcsc,text,A vessel holds 60 litres of a milk and water mixture in which milk and water are in the ratio 5:1. How much water must be added so that the ratio of milk to water becomes 5:2?,,190,,,,2,,12 litres,10 litres,15 litres,8 litres,,,QA/quant,0.5
+QA,QA-MCQ-4,1,mcsc,text,A boat covers 36 km downstream in 2 hours and the same 36 km upstream in 3 hours. What is the speed of the stream?,,180,,,,2,,6 km/h,3 km/h,2 km/h,15 km/h,,,QA/quant,0.5
+QA,QA-MCQ-5,1,mcsc,text,A can finish a piece of work in 8 days and B can finish the same work in 12 days. They work on alternate days with A starting on the first day. In how many days will the work be completed?,,240,,,,1,,9.5 days,9 days,10 days,8.5 days,,,QA/quant,0.5
+QA,QA-MCQ-6,1,mcsc,text,A sum of Rs 8000 is invested at 20% per annum compounded half-yearly for one year. What is the compound interest earned?,,200,,,,4,,Rs 1600,Rs 1728,Rs 1764,Rs 1680,,,QA/quant,0.5
+QA,QA-MCQ-7,1,mcsc,text,In how many ways can the letters of the word PENCIL be arranged so that the two vowels E and I are never together?,,220,,,,1,,480,720,240,600,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,A bag contains 5 red balls and 4 blue balls. Two balls are drawn at random without replacement. What is the probability that at least one of them is red?,,240,,,,1,,5/6,5/9,1/6,2/3,,,QA/quant,1
+QA,QA-MCQ-9,1,mcsc,text,"A solid metallic sphere of radius 6 cm is melted and recast into small cones, each having base radius 2 cm and height 3 cm. How many such cones can be made?",,230,,,,1,,72,36,54,108,,,QA/quant,1
+QA,QA-MCQ-10,1,mcsc,text,What is the remainder when 3 raised to the power 101 is divided by 100?,,250,,,,2,,9,3,1,27,,,QA/quant,1
+QA,QA-MCQ-11,1,mcsc,text,The sum of the first n terms of an arithmetic progression is given by 3n squared plus 5n. What is the 12th term of this progression?,,220,,,,2,,68,74,80,72,,,QA/quant,1
+QA,QA-MCQ-12,1,mcsc,text,"**If a + b + c = 0 and a² + b² + c² = 14, what is the value of a⁴ + b⁴ + c⁴?**",,260,,,,3,,196,49,98,72,,,QA/quant,1
+QA,QA-MCQ-13,1,mcsc,text,"For x > 0, what is the minimum value of x^2 + 250/x?",,270,,,,3,,100,70,75,80,,,QA/quant,1
+QA,QA-MCQ-14,1,mcsc,text,What is the value of the product (log base 2 of 3)(log base 3 of 4)(log base 4 of 5) ... (log base 63 of 64)?,,230,,,,4,,5,8,32,6,,,QA/quant,1
+QA,QA-MCQ-15,1,mcsc,text,"Points A(2, 3) and B(8, 5) lie in the coordinate plane. A point P is chosen on the x-axis. What is the least possible value of AP + PB?",,250,,,,4,,12,√52,√68,10,,,QA/quant,1
+QA,QA-MCQ-16,1,mcsc,text,"Among 100 employees, 40 use Python, 48 use R, and 45 use SQL. Also 15 use both Python and R, 18 use both R and SQL, 12 use both Python and SQL, and 8 use all three tools. How many employees use exactly one of the three tools?",,260,,,,1,,67,96,75,59,,,QA/quant,1
+QA,QA-MCQ-17,1,mcsc,text,What is the sum 1/(1*3) + 1/(3*5) + 1/(5*7) + ... + 1/(19*21)?,,240,,,,2,,9/19,10/21,20/21,11/23,,,QA/quant,1
+QA,QA-TITA-1,1,tita,text,Find the sum of all positive integer divisors of 360 (including 1 and 360 themselves).,1170,240,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-2,1,tita,text,An arithmetic progression has first term 7 and common difference 4. Find the sum of its first 30 terms.,1950,220,,,,,,,,,,,,QA/quant,0.5
+QA,QA-TITA-3,1,tita,text,"What is the remainder when 17 raised to the power 256 is divided by 100? (In other words, give the last two digits of 17^256.)",81,420,,,,,,,,,,,,QA/quant,1
+QA,QA-TITA-4,1,tita,text,"In a group of 200 people, 100 use app A, 90 use app B and 80 use app C. Exactly 40 people use all three apps and exactly 20 people use none of the three. How many people use exactly two of the three apps?",10,450,,,,,,,,,,,,QA/quant,1
+QA,QA-TITA-5,1,tita,text,"A positive integer 30 is to be written as a sum of one or more positive integers. Over all such ways, what is the maximum possible value of the product of those parts?",59049,430,,,,,,,,,,,,QA/quant,1

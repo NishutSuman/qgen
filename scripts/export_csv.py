@@ -43,6 +43,11 @@ def main():
     with open(args.inp, encoding="utf-8") as f:
         qs = json.load(f)
 
+    # Guard against cross-pipeline confusion: IMAT records carry 'section'.
+    if qs and any("section" in q for q in qs):
+        raise SystemExit("[FAIL] input looks like IMAT data (has 'section'). "
+                         "Use scripts/imat_export_csv.py for the IMAT flow.")
+
     extra = [c.strip() for c in args.extra_cols.split(",") if c.strip()]
     header = BASE_HEADER + extra
 

@@ -1,0 +1,338 @@
+[
+  {
+    "question_id": 1,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**Which of the following best expresses the main idea of the passage?**",
+    "options": {
+      "1": "Maps are selective representations whose contents reflect the aims of their makers rather than a neutral picture of the land.",
+      "2": "Early cartographers decorated unknown regions with imaginary creatures to disguise the limits of their knowledge from buyers.",
+      "3": "Digital maps have finally removed the distortions that troubled the printed maps of earlier centuries and travellers.",
+      "4": "Trade maps and military maps differ chiefly because rivers matter more to merchants than mountain passes ever will."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage repeatedly argues that maps leave things out according to the maker's purpose and thus are not neutral mirrors, which the first statement captures. The creatures point is a single opening example, not the thesis. The claim that digital maps remove distortion is contradicted, since the text says they intensify the effect. The trade-versus-military contrast is one illustration, not the overall point.",
+    "t_expert_sec": 26,
+    "t_average_sec": 120
+  },
+  {
+    "question_id": 2,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**According to the passage, all of the following are true of maps EXCEPT:**",
+    "options": {
+      "1": "A digital map presents a complete and objective record precisely because it labels every street and business.",
+      "2": "A map cannot display everything at once, so being useful depends on deliberately leaving certain things out.",
+      "3": "A boundary drawn as a firm line can come to feel solid even where the land shows no real division.",
+      "4": "The features a map emphasises depend on the purpose for which it was commissioned by its makers."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage says digital maps only appear complete and objective while resting on hidden editing choices, so treating them as genuinely complete is the claim the text denies. The other statements are directly supported: maps must omit to be useful, a firm boundary line can feel like a wall, and emphasis follows the commissioning purpose.",
+    "t_expert_sec": 24,
+    "t_average_sec": 110
+  },
+  {
+    "question_id": 3,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**It can be inferred from the passage that a reader who wants to judge a map fairly should:**",
+    "options": {
+      "1": "consider the intentions behind the map and notice what its maker chose not to show",
+      "2": "prefer digital maps to printed ones because their surfaces are cleaner and easier",
+      "3": "accept that any boundary drawn as a firm line marks a genuine division in the land",
+      "4": "assume that the roads a road map displays are always the ones that truly matter"
+    },
+    "correct_answer": "1",
+    "explanation": "The closing lines say understanding a map requires asking who made it, for whom, and what was left in the blank spaces, so a fair reader weighs purpose and omission. Preferring digital maps ignores the warning that clean surfaces hide editing. Trusting firm boundaries and displayed roads repeats the very errors the passage cautions against.",
+    "t_expert_sec": 25,
+    "t_average_sec": 118
+  },
+  {
+    "question_id": 4,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**Why does the author mention trade maps and military maps in the first paragraph?**",
+    "options": {
+      "1": "To show that different aims lead makers to highlight different features of the same land",
+      "2": "To prove that military needs have always mattered far more than trade did to early states everywhere",
+      "3": "To argue that rivers are harder to chart accurately than ridges and mountain passes",
+      "4": "To suggest that the two kinds of map were usually produced by the same workshops"
+    },
+    "correct_answer": "1",
+    "explanation": "The two examples illustrate the point that a map's emphasis follows its purpose, one stressing routes to markets and the other stressing terrain for movement. The passage makes no ranking of military over trade, offers no claim about charting difficulty, and says nothing about shared workshops.",
+    "t_expert_sec": 24,
+    "t_average_sec": 112
+  },
+  {
+    "question_id": 5,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**Which of the following best states the central argument of the passage?**",
+    "options": {
+      "1": "Because many forests are adapted to regular fire, suppressing all fires can make later blazes more destructive.",
+      "2": "Controlled burns should be set on damp days so that the flames stay small, contained, and easy to watch.",
+      "3": "The resin-sealed cones of certain pines will open only when a passing blaze first melts the seal and then frees the seeds.",
+      "4": "Foresters in several regions have recently begun to distrust the public's reaction to any deliberate fire."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage builds from fire-adapted forests to the paradox that blanket suppression lets fuel accumulate and produces worse fires, which the first statement summarises. The damp-day detail and the pine cones are supporting examples, and public distrust is a practical hurdle mentioned in passing, not the core claim.",
+    "t_expert_sec": 26,
+    "t_average_sec": 122
+  },
+  {
+    "question_id": 6,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**According to the passage, why does suppressing every small fire eventually lead to a more severe blaze?**",
+    "options": {
+      "1": "Dead wood and dry brush pile up over the years, giving a later fire far more fuel to burn.",
+      "2": "The resin seals on pine cones grow thicker each season and demand a hotter fire to open.",
+      "3": "Mature trees lose their natural resistance to heat when they are protected for too long.",
+      "4": "Damp weather becomes rarer over time, so foresters can no longer schedule any cool burns."
+    },
+    "correct_answer": "1",
+    "explanation": "The second paragraph states that when small fires are suppressed, dead wood and dry brush accumulate year after year, so the next fire burns hotter and higher. The other options invent mechanisms the passage never gives: thickening seals, lost heat resistance, or vanishing damp weather.",
+    "t_expert_sec": 23,
+    "t_average_sec": 108
+  },
+  {
+    "question_id": 7,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**It can be inferred that the author would most likely agree with which of the following statements?**",
+    "options": {
+      "1": "A management policy works better when it cooperates with a landscape's natural patterns than when it fights them.",
+      "2": "Protecting the property of nearby residents should never once be counted among the goals of any modern forest-management plan.",
+      "3": "The safest forest is one in which every fire, however small, is put out as quickly as it can be found.",
+      "4": "Popular opinion about fire is usually a reliable guide to how forests should actually be managed."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage praises restoring fire's natural frequency and warns against pretending fire away, so the author favours working with natural patterns. Dismissing property protection goes further than the text, which treats it as a real concern. Extinguishing every fire is the very policy criticised, and the passage says the popular image of fire is misleading.",
+    "t_expert_sec": 25,
+    "t_average_sec": 120
+  },
+  {
+    "question_id": 8,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**Which word best describes the author's overall tone in the passage?**",
+    "options": {
+      "1": "Measured and explanatory, presenting a corrective view of a common belief",
+      "2": "Alarmed and urgent, warning that forests everywhere face imminent collapse",
+      "3": "Nostalgic and mournful, lamenting woodlands that can no longer be saved",
+      "4": "Playful and ironic, mocking the foresters who still set deliberate burns"
+    },
+    "correct_answer": "1",
+    "explanation": "The author calmly explains fire adaptation and the suppression paradox to correct the popular image of fire as pure destruction, a measured and explanatory stance. The tone is not alarmed about imminent collapse, not mournful about lost forests, and not mocking of foresters, whose controlled-burn practice the passage endorses.",
+    "t_expert_sec": 23,
+    "t_average_sec": 105
+  },
+  {
+    "question_id": 9,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**Which of the following best captures the main point of the passage?**",
+    "options": {
+      "1": "The public library has long offered free access to knowledge and remains valuable today.",
+      "2": "Early lending libraries failed mainly because the fees they charged were set far too high.",
+      "3": "Search engines have replaced most of the services that public libraries once provided.",
+      "4": "Librarians spend more of their time helping job seekers than assisting young children."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage traces the library from free tax-funded lending to a broad community space and argues it is still needed, which the first statement captures. The fee point is background, the search-engine claim is the view the passage rejects, and the comparison of job seekers to children is never made.",
+    "t_expert_sec": 22,
+    "t_average_sec": 95
+  },
+  {
+    "question_id": 10,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**According to the passage, what change made borrowing free at the point of use?**",
+    "options": {
+      "1": "Towns agreed to fund libraries through shared taxes instead of charging each reader.",
+      "2": "Wealthy donors bought up large private collections of books and then handed them over to the towns.",
+      "3": "Librarians volunteered their time so that no salaries had to be paid at all.",
+      "4": "Publishers lowered the price of books until borrowing them cost almost nothing."
+    },
+    "correct_answer": "1",
+    "explanation": "The first paragraph says the breakthrough came when towns agreed to pay for libraries out of shared taxes, making borrowing free at the point of use. Donors, volunteer librarians, and cheaper book prices are not mentioned as the cause.",
+    "t_expert_sec": 20,
+    "t_average_sec": 90
+  },
+  {
+    "question_id": 11,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**It can be inferred from the passage that the author regards the claim that libraries are no longer needed as:**",
+    "options": {
+      "1": "mistaken, because many people still lack the resources a library freely provides",
+      "2": "reasonable, since a search engine now answers nearly every possible question",
+      "3": "proven, given that most families already own computers of their own at home",
+      "4": "unimportant, because libraries were never truly meant to serve the whole public"
+    },
+    "correct_answer": "1",
+    "explanation": "The final paragraph answers the doubt with a yes, noting that not everyone owns a computer or a quiet workspace and that search engines cannot answer every question, so the author treats the claim as mistaken. The other options either accept the doubt or contradict the passage's insistence that the library serves everyone.",
+    "t_expert_sec": 24,
+    "t_average_sec": 112
+  },
+  {
+    "question_id": 12,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**What is the main purpose of the second paragraph?**",
+    "options": {
+      "1": "To show that libraries came to serve as shared community spaces, not only stores of books",
+      "2": "To explain the exact set of rules that a reader had to carefully follow in order to borrow any book",
+      "3": "To describe how librarians are trained before they begin helping the public",
+      "4": "To compare the reading hours for children with the desks used by job seekers"
+    },
+    "correct_answer": "1",
+    "explanation": "The second paragraph lists study space, warmth, librarian help, reading hours, and notices to show the library grew into a shared community space beyond its shelves. It does not lay out borrowing rules, describe librarian training, or set up a comparison between children and job seekers.",
+    "t_expert_sec": 23,
+    "t_average_sec": 108
+  }
+]

@@ -1,0 +1,338 @@
+{
+  "threshold": 0.8,
+  "bank_total": 268,
+  "checked": 66,
+  "flagged_ids": [],
+  "results": [
+    {
+      "id": 1,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 2,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 3,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 4,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 5,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 6,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 7,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 8,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 9,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 10,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 11,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 12,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 13,
+      "verdict": "UNIQUE",
+      "jaccard": 0.449
+    },
+    {
+      "id": 14,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 15,
+      "verdict": "UNIQUE",
+      "jaccard": 0.275
+    },
+    {
+      "id": 16,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 17,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 18,
+      "verdict": "UNIQUE",
+      "jaccard": 0.192
+    },
+    {
+      "id": 19,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 20,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 21,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 22,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 23,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 24,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 25,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 26,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 27,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 28,
+      "verdict": "UNIQUE",
+      "jaccard": 0.162
+    },
+    {
+      "id": 29,
+      "verdict": "UNIQUE",
+      "jaccard": 0.185
+    },
+    {
+      "id": 30,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 31,
+      "verdict": "UNIQUE",
+      "jaccard": 0.129
+    },
+    {
+      "id": 32,
+      "verdict": "UNIQUE",
+      "jaccard": 0.124
+    },
+    {
+      "id": 33,
+      "verdict": "UNIQUE",
+      "jaccard": 0.167
+    },
+    {
+      "id": 34,
+      "verdict": "UNIQUE",
+      "jaccard": 0.37
+    },
+    {
+      "id": 35,
+      "verdict": "UNIQUE",
+      "jaccard": 0.217
+    },
+    {
+      "id": 36,
+      "verdict": "UNIQUE",
+      "jaccard": 0.13
+    },
+    {
+      "id": 37,
+      "verdict": "UNIQUE",
+      "jaccard": 0.152
+    },
+    {
+      "id": 38,
+      "verdict": "UNIQUE",
+      "jaccard": 0.5
+    },
+    {
+      "id": 39,
+      "verdict": "UNIQUE",
+      "jaccard": 0.479
+    },
+    {
+      "id": 40,
+      "verdict": "UNIQUE",
+      "jaccard": 0.426
+    },
+    {
+      "id": 41,
+      "verdict": "UNIQUE",
+      "jaccard": 0.408
+    },
+    {
+      "id": 42,
+      "verdict": "UNIQUE",
+      "jaccard": 0.4
+    },
+    {
+      "id": 43,
+      "verdict": "UNIQUE",
+      "jaccard": 0.2
+    },
+    {
+      "id": 44,
+      "verdict": "UNIQUE",
+      "jaccard": 0.571
+    },
+    {
+      "id": 45,
+      "verdict": "UNIQUE",
+      "jaccard": 0.115
+    },
+    {
+      "id": 46,
+      "verdict": "UNIQUE",
+      "jaccard": 0.412
+    },
+    {
+      "id": 47,
+      "verdict": "UNIQUE",
+      "jaccard": 0.481
+    },
+    {
+      "id": 48,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 49,
+      "verdict": "UNIQUE",
+      "jaccard": 0.5
+    },
+    {
+      "id": 50,
+      "verdict": "UNIQUE",
+      "jaccard": 0.333
+    },
+    {
+      "id": 51,
+      "verdict": "UNIQUE",
+      "jaccard": 0.533
+    },
+    {
+      "id": 52,
+      "verdict": "UNIQUE",
+      "jaccard": 0.667
+    },
+    {
+      "id": 53,
+      "verdict": "UNIQUE",
+      "jaccard": 0.724
+    },
+    {
+      "id": 54,
+      "verdict": "UNIQUE",
+      "jaccard": 0.656
+    },
+    {
+      "id": 55,
+      "verdict": "UNIQUE",
+      "jaccard": 0.104
+    },
+    {
+      "id": 56,
+      "verdict": "UNIQUE",
+      "jaccard": 0.556
+    },
+    {
+      "id": 57,
+      "verdict": "UNIQUE",
+      "jaccard": 0.36
+    },
+    {
+      "id": 58,
+      "verdict": "UNIQUE",
+      "jaccard": 0.25
+    },
+    {
+      "id": 59,
+      "verdict": "UNIQUE",
+      "jaccard": 0.583
+    },
+    {
+      "id": 60,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 61,
+      "verdict": "UNIQUE",
+      "jaccard": 0.294
+    },
+    {
+      "id": 62,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 63,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 64,
+      "verdict": "UNIQUE",
+      "jaccard": 0.0
+    },
+    {
+      "id": 65,
+      "verdict": "UNIQUE",
+      "jaccard": 0.462
+    },
+    {
+      "id": 66,
+      "verdict": "UNIQUE",
+      "jaccard": 0.625
+    }
+  ]
+}

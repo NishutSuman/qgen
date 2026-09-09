@@ -27,6 +27,7 @@ import argparse
 import json
 import math
 from fractions import Fraction
+import itertools
 from itertools import combinations, permutations, product
 from math import comb, factorial, gcd
 
@@ -36,26 +37,35 @@ SAFE = {
         "len": len, "range": range, "sorted": sorted, "int": int,
         "float": float, "set": set, "list": list, "tuple": tuple, "all": all,
         "any": any, "map": map, "filter": filter, "str": str, "pow": pow,
+        # pure-data helpers: needed by ordinary verification snippets
+        "dict": dict, "zip": zip, "enumerate": enumerate, "next": next,
+        "reversed": reversed, "divmod": divmod, "bool": bool,
     },
     "math": math, "Fraction": Fraction, "gcd": gcd, "comb": comb,
     "factorial": factorial, "combinations": combinations,
-    "permutations": permutations, "product": product,
+    "permutations": permutations, "product": product, "itertools": itertools,
 }
 
 
 def run_expr(expr: str):
-    """Evaluate the last expression of a small snippet, restricted namespace."""
+    """Evaluate the last expression of a small snippet, restricted namespace.
+
+    All segments share ONE namespace (globals is locals). That matters: with
+    separate globals/locals, a comprehension or lambda in a later segment cannot
+    see names assigned by an earlier segment (they resolve against globals), so
+    perfectly ordinary brute-force snippets blew up with NameError.
+    """
     lines = [ln for ln in expr.strip().split(";") if ln.strip()]
     if not lines:
         raise ValueError("empty expr")
     body, last = lines[:-1], lines[-1]
-    local = {}
+    ns = dict(SAFE)
     for ln in body:
         ln = ln.strip()
         if not ln or ln.startswith(("import ", "from ")):
             continue  # skip import statements — names are pre-loaded in SAFE
-        exec(ln, SAFE, local)  # noqa: S102 (local, user-owned pipeline)
-    return eval(last.strip(), SAFE, local)  # noqa: S307
+        exec(ln, ns)  # noqa: S102 (local, user-owned pipeline)
+    return eval(last.strip(), ns)  # noqa: S307
 
 
 def main():
@@ -81,7 +91,8 @@ def main():
             results.append({"id": qid, "verdict": "ERROR", "note": repr(e)})
             continue
         expected = str(v.get("expected", "")).strip()
-        stated = str(q.get("correct_answer", "")).strip()
+        # mcsc carries correct_answer; IMAT tita carries tita_answer instead
+        stated = str(q.get("correct_answer", q.get("tita_answer", ""))).strip()
         if got == expected == stated:
             results.append({"id": qid, "verdict": "MATCH"})
         else:

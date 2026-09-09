@@ -1,0 +1,2183 @@
+[
+  {
+    "question_id": 1,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**Which of the following best expresses the main idea of the passage?**",
+    "options": {
+      "1": "Trade maps and military maps differ chiefly because rivers matter more to merchants than mountain passes ever will.",
+      "2": "Early cartographers decorated unknown regions with imaginary creatures to disguise the limits of their knowledge from buyers.",
+      "3": "Digital maps have finally removed the distortions that troubled the printed maps of earlier centuries and travellers.",
+      "4": "Maps are selective representations whose contents reflect the aims of their makers rather than a neutral picture of the land."
+    },
+    "correct_answer": "4",
+    "explanation": "The passage repeatedly argues that maps leave things out according to the maker's purpose and thus are not neutral mirrors, which the selective-representation option captures. The creatures point is a single opening example, not the thesis. The claim that digital maps remove distortion is contradicted, since the text says they intensify the effect. The trade-versus-military contrast is one illustration, not the overall point.",
+    "t_expert_sec": 26,
+    "t_average_sec": 120,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.6
+  },
+  {
+    "question_id": 2,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**According to the passage, all of the following are true of maps EXCEPT:**",
+    "options": {
+      "1": "The features a map emphasises depend on the purpose for which it was commissioned by its makers.",
+      "2": "A digital map presents a complete and objective record precisely because it labels every street and business.",
+      "3": "A boundary drawn as a firm line can come to feel solid even where the land shows no real division.",
+      "4": "A map cannot display everything at once, so being useful depends on deliberately leaving certain things out."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage says digital maps only appear complete and objective while resting on hidden editing choices, so treating them as genuinely complete is the claim the text denies. The other statements are directly supported: maps must omit to be useful, a firm boundary line can feel like a wall, and emphasis follows the commissioning purpose.",
+    "t_expert_sec": 24,
+    "t_average_sec": 110,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.6
+  },
+  {
+    "question_id": 3,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**It can be inferred from the passage that a reader who wants to judge a map fairly should:**",
+    "options": {
+      "1": "assume that the roads a road map displays are always the ones that truly matter",
+      "2": "prefer digital maps to printed ones because their surfaces are cleaner and easier",
+      "3": "consider the intentions behind the map and notice what its maker chose not to show",
+      "4": "accept that any boundary drawn as a firm line marks a genuine division in the land"
+    },
+    "correct_answer": "3",
+    "explanation": "The closing lines say understanding a map requires asking who made it, for whom, and what was left in the blank spaces, so a fair reader weighs purpose and omission. Preferring digital maps ignores the warning that clean surfaces hide editing. Trusting firm boundaries and displayed roads repeats the very errors the passage cautions against.",
+    "t_expert_sec": 25,
+    "t_average_sec": 118,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 4,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For centuries, cartographers left blank the interiors of continents they had not surveyed, and some filled the emptiness with drawings of imagined beasts. These flourishes were not mere decoration. A map is a claim about what is worth recording, and the choice of what to include always reflects the purposes of those who commission it. A trade map emphasises ports, rivers, and the shortest routes between markets; a military map foregrounds ridges, passes, and the width of fords. Neither is a neutral mirror of the land, because no map can show everything at once. To be useful, a map must leave things out.\n\nThis selective quality is precisely what makes maps powerful and, at times, misleading. A traveller who trusts a road map assumes that the roads shown are the ones that matter, and rarely wonders about the villages the mapmaker chose to omit. When an authority draws a boundary as a firm line, the line can come to feel as solid as a wall, even where the ground itself offers no such division. In this way a map does not simply describe a territory; it quietly shapes how people imagine and argue about that territory.\n\nModern digital maps intensify the effect rather than dissolving it. They appear complete and objective, yet every one rests on decisions about which streets to label, which businesses to display, and which neighbourhoods to render in detail. The reader sees a clean surface and forgets the editing beneath it. Understanding a map, then, requires more than reading its symbols. It requires asking who made it, for whom, and what they had reason to leave in the blank spaces."
+    },
+    "question_text": "**Why does the author mention trade maps and military maps in the first paragraph?**",
+    "options": {
+      "1": "To suggest that the two kinds of map were usually produced by the same workshops",
+      "2": "To prove that military needs have always mattered far more than trade did to early states everywhere",
+      "3": "To show that different aims lead makers to highlight different features of the same land",
+      "4": "To argue that rivers are harder to chart accurately than ridges and mountain passes"
+    },
+    "correct_answer": "3",
+    "explanation": "The two examples illustrate the point that a map's emphasis follows its purpose, one stressing routes to markets and the other stressing terrain for movement. The passage makes no ranking of military over trade, offers no claim about charting difficulty, and says nothing about shared workshops.",
+    "t_expert_sec": 24,
+    "t_average_sec": 112,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 5,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**Which of the following best states the central argument of the passage?**",
+    "options": {
+      "1": "Foresters in several regions have recently begun to distrust the public's reaction to any deliberate fire.",
+      "2": "Because many forests are adapted to regular fire, suppressing all fires can make later blazes more destructive.",
+      "3": "The resin-sealed cones of certain pines will open only when a passing blaze first melts the seal and then frees the seeds.",
+      "4": "Controlled burns should be set on damp days so that the flames stay small, contained, and easy to watch."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage builds from fire-adapted forests to the paradox that blanket suppression lets fuel accumulate and produces worse fires, which the correct option summarises. The damp-day detail and the pine cones are supporting examples, and public distrust is a practical hurdle mentioned in passing, not the core claim.",
+    "t_expert_sec": 26,
+    "t_average_sec": 122,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 6,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**According to the passage, why does suppressing every small fire eventually lead to a more severe blaze?**",
+    "options": {
+      "1": "The resin seals on pine cones grow thicker each season and demand a hotter fire to open.",
+      "2": "Dead wood and dry brush pile up over the years, giving a later fire far more fuel to burn.",
+      "3": "Mature trees lose their natural resistance to heat when they are protected for too long.",
+      "4": "Damp weather becomes rarer over time, so foresters can no longer schedule any cool burns."
+    },
+    "correct_answer": "2",
+    "explanation": "The second paragraph states that when small fires are suppressed, dead wood and dry brush accumulate year after year, so the next fire burns hotter and higher. The other options invent mechanisms the passage never gives: thickening seals, lost heat resistance, or vanishing damp weather.",
+    "t_expert_sec": 23,
+    "t_average_sec": 108,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 7,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**It can be inferred that the author would most likely agree with which of the following statements?**",
+    "options": {
+      "1": "Popular opinion about fire is usually a reliable guide to how forests should actually be managed.",
+      "2": "The safest forest is one in which every fire, however small, is put out as quickly as it can be found.",
+      "3": "Protecting the property of nearby residents should never once be counted among the goals of any modern forest-management plan.",
+      "4": "A management policy works better when it cooperates with a landscape's natural patterns than when it fights them."
+    },
+    "correct_answer": "4",
+    "explanation": "The passage praises restoring fire's natural frequency and warns against pretending fire away, so the author favours working with natural patterns. Dismissing property protection goes further than the text, which treats it as a real concern. Extinguishing every fire is the very policy criticised, and the passage says the popular image of fire is misleading.",
+    "t_expert_sec": 25,
+    "t_average_sec": 120,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 8,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When a forest burns, the loss looks total. Yet many woodlands have evolved not merely to survive fire but to depend on it. The cones of certain pines are sealed shut with resin and open only when the heat of a blaze melts that seal, releasing seeds onto ground newly cleared of competitors and enriched with ash. For such trees, a fire is not a disaster but the signal to reproduce. Ecologists describe these systems as fire-adapted, and they are far more common than the popular image of fire as pure destruction suggests.\n\nThe difficulty is that not all fires are alike. A frequent, low-intensity fire clears undergrowth while leaving mature trees standing, and many species are tuned to exactly this rhythm. When people suppress every small fire in order to protect property, dead wood and dry brush accumulate year after year. The next fire, when it finally comes, burns hotter and higher than anything the forest is built to withstand, killing even the trees that would ordinarily endure. In trying to prevent fire altogether, a policy can make the eventual blaze far more severe.\n\nThis paradox has forced a rethinking of how forests are managed. In several regions, foresters now set controlled burns on purpose, choosing cool, damp days when a fire can be kept small and contained. The aim is not to eliminate fire but to restore its natural frequency, so that fuel never builds to dangerous levels. The approach demands patience and public trust, since a deliberate fire is an unsettling sight. But it reflects a hard lesson: a landscape shaped by fire cannot be kept safe by pretending fire away."
+    },
+    "question_text": "**Which word best describes the author's overall tone in the passage?**",
+    "options": {
+      "1": "Measured and explanatory, presenting a corrective view of a common belief",
+      "2": "Alarmed and urgent, warning that forests everywhere face imminent collapse",
+      "3": "Playful and ironic, mocking the foresters who still set deliberate burns",
+      "4": "Nostalgic and mournful, lamenting woodlands that can no longer be saved"
+    },
+    "correct_answer": "1",
+    "explanation": "The author calmly explains fire adaptation and the suppression paradox to correct the popular image of fire as pure destruction, a measured and explanatory stance. The tone is not alarmed about imminent collapse, not mournful about lost forests, and not mocking of foresters, whose controlled-burn practice the passage endorses.",
+    "t_expert_sec": 23,
+    "t_average_sec": 105,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.6
+  },
+  {
+    "question_id": 9,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**Which of the following best captures the main point of the passage?**",
+    "options": {
+      "1": "Librarians spend more of their time helping job seekers than assisting young children.",
+      "2": "The public library has long offered free access to knowledge and remains valuable today.",
+      "3": "Early lending libraries failed mainly because the fees they charged were set far too high.",
+      "4": "Search engines have replaced most of the services that public libraries once provided."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage traces the library from free tax-funded lending to a broad community space and argues it is still needed, which the correct option captures. The fee point is background, the search-engine claim is the view the passage rejects, and the comparison of job seekers to children is never made.",
+    "t_expert_sec": 22,
+    "t_average_sec": 95,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.3
+  },
+  {
+    "question_id": 10,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**According to the passage, what change made borrowing free at the point of use?**",
+    "options": {
+      "1": "Librarians volunteered their time so that no salaries had to be paid at all.",
+      "2": "Towns agreed to fund libraries through shared taxes instead of charging each reader.",
+      "3": "Publishers lowered the price of books until borrowing them cost almost nothing.",
+      "4": "Wealthy donors bought up large private collections of books and then handed them over to the towns."
+    },
+    "correct_answer": "2",
+    "explanation": "The first paragraph says the breakthrough came when towns agreed to pay for libraries out of shared taxes, making borrowing free at the point of use. Donors, volunteer librarians, and cheaper book prices are not mentioned as the cause.",
+    "t_expert_sec": 20,
+    "t_average_sec": 90,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.5
+  },
+  {
+    "question_id": 11,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**It can be inferred from the passage that the author regards the claim that libraries are no longer needed as:**",
+    "options": {
+      "1": "reasonable, since a search engine now answers nearly every possible question",
+      "2": "unimportant, because libraries were never truly meant to serve the whole public",
+      "3": "mistaken, because many people still lack the resources a library freely provides",
+      "4": "proven, given that most families already own computers of their own at home"
+    },
+    "correct_answer": "3",
+    "explanation": "The final paragraph answers the doubt with a yes, noting that not everyone owns a computer or a quiet workspace and that search engines cannot answer every question, so the author treats the claim as mistaken. The other options either accept the doubt or contradict the passage's insistence that the library serves everyone.",
+    "t_expert_sec": 24,
+    "t_average_sec": 112,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 12,
+    "section": "VARC",
+    "set_id": "VARC-RC3",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "The public library began as a simple idea: that useful books should be available to anyone, not only to those who could afford to buy them. Early lending libraries charged a small fee, which kept out the very readers who might have gained the most. The breakthrough came when towns agreed to pay for libraries out of shared taxes, so that borrowing became free at the point of use. A reader needed only to live in the town and to return the books on time. For many families, the library was the first place where knowledge cost nothing.\n\nOver time, libraries grew into something larger than shelves of books. They became quiet places to study, warm rooms to sit in, and centres where people could ask a trained librarian for help finding what they needed. Children attended reading hours, job seekers used the desks, and newcomers to a town found notices about local life. The building offered not just texts but a shared space open to all, regardless of wealth.\n\nToday, when a great deal of information sits a click away, some people ask whether libraries are still needed. Yet the answer many communities give is yes. Not everyone owns a computer or a quiet place to work, and not every question is easily answered by a search engine. The library remains what it has long been: a place where help and knowledge are offered freely, to whoever walks through the door."
+    },
+    "question_text": "**What is the main purpose of the second paragraph?**",
+    "options": {
+      "1": "To compare the reading hours for children with the desks used by job seekers",
+      "2": "To show that libraries came to serve as shared community spaces, not only stores of books",
+      "3": "To describe how librarians are trained before they begin helping the public",
+      "4": "To explain the exact set of rules that a reader had to carefully follow in order to borrow any book"
+    },
+    "correct_answer": "2",
+    "explanation": "The second paragraph lists study space, warmth, librarian help, reading hours, and notices to show the library grew into a shared community space beyond its shelves. It does not lay out borrowing rules, describe librarian training, or set up a comparison between children and job seekers.",
+    "t_expert_sec": 23,
+    "t_average_sec": 108,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 13,
+    "section": "VARC",
+    "set_id": "VARC-ODD-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.\n\n(1) Honeybees communicate the location of food through a series of movements known as the waggle dance.\n(2) The angle of the dance relative to vertical tells other bees the direction of the flowers.\n(3) The duration of each waggle run signals roughly how far away the food source lies.\n(4) A large hive can hold tens of thousands of individual worker bees during summer.\n(5) Observers can even estimate distance by timing how long each run lasts.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "Sentence 1",
+      "2": "Sentence 4",
+      "3": "Sentence 3",
+      "4": "Sentence 5",
+      "5": "Sentence 2"
+    },
+    "correct_answer": "2",
+    "explanation": "Sentences 1, 2, 3 and 5 all describe how the waggle dance encodes the direction and distance of food, forming one connected idea. Sentence 4 shifts to hive population, an unrelated statistic that breaks the theme, so it is the misfit. The other options each belong to the dance-communication chain.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 14,
+    "section": "VARC",
+    "set_id": "VARC-ODD-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.\n\n(1) The invention of movable type allowed identical pages to be printed quickly and cheaply.\n(2) Books that once took months to copy by hand could suddenly be produced in days.\n(3) Wider access to printed texts helped standardise spelling across many regions.\n(4) Lower prices meant that ideas spread far beyond wealthy monasteries and courts.\n(5) Many early manuscripts were decorated with gold leaf and elaborate hand-painted borders.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "Sentence 2",
+      "2": "Sentence 3",
+      "3": "Sentence 5",
+      "4": "Sentence 1",
+      "5": "Sentence 4"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentences 1, 2, 3 and 4 all trace the effects of printing, faster output, standard spelling and cheaper wider access, so they cohere. Sentence 5 describes the decoration of hand-made manuscripts, which runs against the theme of mass printing and is the odd one out. The remaining options each extend the printing-impact idea.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 15,
+    "section": "VARC",
+    "set_id": "VARC-ODD-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below. Four of them can be joined to form a coherent paragraph on a single idea, while one does not fit.\n\n(1) Coral reefs support a quarter of all marine species despite covering a tiny fraction of the ocean.\n(2) The corals depend on algae living inside their tissues to provide most of their food.\n(3) When water grows too warm, the corals expel these algae and turn a pale white.\n(4) A prolonged loss of algae can leave the corals starving and eventually dead.\n(5) Deep-sea trenches remain among the least explored regions of the entire planet.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "Sentence 5",
+      "2": "Sentence 3",
+      "3": "Sentence 1",
+      "4": "Sentence 4",
+      "5": "Sentence 2"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentences 1 to 4 build one picture of coral reefs and their reliance on algae, including the bleaching that follows warming. Sentence 5 jumps to deep-sea trenches, a separate ocean topic that does not connect, making it the misfit. Each other option contributes to the coral-and-algae narrative.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 16,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.\n\n1. A city planted thousands of trees along its hottest streets to cool them down.\n2. Within a few summers, shaded pavements were measurably cooler than bare ones.\n3. Residents also reported walking more often once the routes felt pleasant.\n4. The idea began as a simple response to rising temperatures in the centre.\n\n**Select the correct order.**",
+    "options": {
+      "1": "4-1-2-3",
+      "2": "1-2-3-4",
+      "3": "4-2-1-3",
+      "4": "1-4-3-2"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentence 4 opens with the origin of the idea, sentence 1 states the action taken, sentence 2 gives the first measured result, and sentence 3 adds a further outcome. The order 4-1-2-3 moves from motive to action to results. Sequences starting with 1 skip the framing motive, and 4-2-1-3 places a result before the action that caused it.",
+    "t_expert_sec": 45,
+    "t_average_sec": 160,
+    "content_type": "text",
+    "discrimination_ratio": 3.6
+  },
+  {
+    "question_id": 17,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.\n\n1. This layer traps heat and keeps the surface warm enough for liquid water.\n2. The atmosphere of a planet is the blanket of gases held by its gravity.\n3. Without it, the same surface would swing between scorching days and freezing nights.\n4. On our world that blanket is mostly nitrogen with a smaller share of oxygen.\n\n**Select the correct order.**",
+    "options": {
+      "1": "2-4-1-3",
+      "2": "2-1-4-3",
+      "3": "4-2-1-3",
+      "4": "2-3-1-4"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentence 2 defines the atmosphere, sentence 4 names its main gases, sentence 1 explains the warming effect of that layer, and sentence 3 states the consequence of its absence. The order 2-4-1-3 flows from definition to composition to function to contrast. Options that put 1 before 4 mention the layer before it is described, and 4 cannot open since it refers back to a blanket not yet named.",
+    "t_expert_sec": 45,
+    "t_average_sec": 160,
+    "content_type": "text",
+    "discrimination_ratio": 3.6
+  },
+  {
+    "question_id": 18,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.\n\n1. She began by sorting the beans by size before the roasting could start.\n2. A small cafe decided to roast its own coffee for the first time.\n3. Only then did the owner adjust the heat to bring out the flavour.\n4. Uneven beans, she knew, would scorch and cook at different rates.\n\n**Select the correct order.**",
+    "options": {
+      "1": "2-1-4-3",
+      "2": "2-3-1-4",
+      "3": "1-4-2-3",
+      "4": "2-4-1-3"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentence 2 sets the scene, sentence 1 describes the first step of sorting, sentence 4 explains why that step matters, and sentence 3 uses 'only then' to mark the next stage. The order 2-1-4-3 keeps action before its justification and reserves 3 for last. Placing 4 before 1 explains a step not yet mentioned, and 3 cannot precede the sorting it depends on.",
+    "t_expert_sec": 45,
+    "t_average_sec": 160,
+    "content_type": "text",
+    "discrimination_ratio": 3.6
+  },
+  {
+    "question_id": 19,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, form a paragraph when placed in the correct order. Rearrange them into the most logical sequence.\n\n1. Early maps of the region were drawn mostly from travellers' rough sketches.\n2. As a result, coastlines were often placed dozens of miles from their true position.\n3. Later surveys with proper instruments corrected many of these old errors.\n4. Today satellites fix the same coastlines to within a few metres.\n\n**Select the correct order.**",
+    "options": {
+      "1": "3-1-2-4",
+      "2": "1-3-2-4",
+      "3": "1-2-4-3",
+      "4": "1-2-3-4"
+    },
+    "correct_answer": "4",
+    "explanation": "The paragraph is chronological: sentence 1 describes early sketch-based maps, sentence 2 gives their result, sentence 3 introduces later instrument surveys, and sentence 4 ends with modern satellites. The order 1-2-3-4 follows time and cause. Swapping 2 and 3 separates the error from its cause, and ending on 3 rather than 4 reverses the march toward greater accuracy.",
+    "t_expert_sec": 45,
+    "t_average_sec": 160,
+    "content_type": "text",
+    "discrimination_ratio": 3.6
+  },
+  {
+    "question_id": 20,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0,
+    "question_text": "Libraries once measured their worth by how many books they owned, but many now judge themselves by how well they connect people to information wherever it lives. A modern library lends digital files, offers work and meeting space, and guides visitors through vast online collections it does not physically hold. The building still matters, yet its main job has shifted from storing objects to giving access.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Libraries now judge their worth by how well they connect people to information rather than by how many books they own.",
+      "2": "Modern libraries lend out digital files and provide quiet meeting rooms as well as long shelves of printed books for their many visitors.",
+      "3": "Libraries no longer need any physical building at all, since nearly every part of their collection is now stored and read online.",
+      "4": "The sheer number of books that a library owns remains the clearest and most reliable measure of how useful it truly is."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage contrasts an older ownership measure with a new access measure, which the correct option captures fully. The digital-and-meeting-room option is too narrow, listing services without the central shift. Claiming buildings are unneeded overreaches beyond the text, which says the building still matters, and the counting-books option restates the old view the passage rejects.",
+    "t_expert_sec": 35,
+    "t_average_sec": 130,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 3.7
+  },
+  {
+    "question_id": 21,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Sleep is often treated as lost time, yet the brain stays busy during it. While a person rests, the brain sorts through the day's experiences, strengthens useful memories and clears away waste that builds up during waking hours. Far from being idle, sleep is active maintenance that keeps the mind working well the next day.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Sleep feels like wasted time to most people because nothing worth measuring ever happens inside the resting brain.",
+      "2": "People who sleep for longer will always think faster and remember far more facts than those who choose to sleep much less.",
+      "3": "During each period of sleep the brain quietly strengthens the useful memories a person has formed across the whole of the previous day.",
+      "4": "Sleep is not lost time but active brain upkeep that sorts memories and clears waste to keep the mind sharp."
+    },
+    "correct_answer": "4",
+    "explanation": "The main point is that sleep is productive upkeep involving memory sorting and waste clearing, which the correct option states in full. The memory-strengthening option is too narrow, covering only one function. The 'always faster' option overreaches into a claim the passage never makes, and the 'nothing happens' option distorts the text, which argues the opposite.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 22,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Fixing a bicycle taught the student more than any lecture had. By taking the gears apart and putting them back together, she saw how each part depended on the others in a way diagrams had never made clear. The lesson was not really about bicycles; it was that handling something directly can reveal what mere description leaves hidden.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Bicycles are surprisingly complicated machines whose many gears turn out to depend on one another in unexpected ways.",
+      "2": "The student slowly learned how to take the gears of a bicycle apart and then reassemble them correctly during her afternoon repair.",
+      "3": "Handling a real object directly can reveal how its parts relate in ways that descriptions and diagrams cannot.",
+      "4": "Lectures and diagrams are quite useless for teaching almost anything and should be replaced entirely by hands-on practice sessions."
+    },
+    "correct_answer": "3",
+    "explanation": "The paragraph generalises from one repair to a claim about hands-on learning, which the correct option captures. The gear-reassembly option is too narrow, sticking to the literal task. The 'lectures are useless' option overreaches, since the text only says direct handling reveals more, and the bicycle-complexity option treats the example as the point rather than the lesson about learning.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 23,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "A town worried about litter tried fines for a year with little effect. It then placed more bins and painted cheerful footpaths leading to them, and litter fell sharply. The change suggested that making the right action easy and inviting often works better than simply punishing the wrong one.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Fines can never change the way the public behaves and ought to be abolished by every town that seriously hopes to stay clean.",
+      "2": "Making a desired action easy and inviting can cut a problem more than punishing the unwanted behaviour does.",
+      "3": "The town first tried out fines for a full year before it finally decided to add many more bins around its busy streets.",
+      "4": "The town carefully painted a set of cheerful footpaths that were meant to guide residents toward its newly installed litter bins."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage draws a general lesson that easing the right action beats punishing the wrong one, which the correct option states. The painted-footpaths option is too narrow, naming one tactic only. The 'fines never work' option overreaches beyond the single case, and the fines-first-for-a-year option reports a detail without the main conclusion.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 24,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Maps always leave things out, and that is their strength. A useful subway map ignores true distances and street layouts so that riders can see the lines and stops at a glance. By dropping detail that would only clutter the task at hand, a good map makes the information that matters easy to read.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Maps that leave out any information are basically misleading and cannot really be trusted for any kind of serious purpose.",
+      "2": "Subway riders simply need to see the coloured lines and the stops so that they can plan their daily journeys across the city.",
+      "3": "Subway maps very deliberately ignore both the true distances between stations and the real layout of the streets above them.",
+      "4": "A good map is useful because it leaves out detail that would clutter the task, showing only what matters."
+    },
+    "correct_answer": "4",
+    "explanation": "The central claim is that leaving out detail is what makes a map useful, which the correct option expresses. The subway-distances option is too narrow, giving only the example. The 'maps are misleading' option distorts the passage, which praises omission, and the riders-plan-journeys option states a side detail rather than the main idea.",
+    "t_expert_sec": 40,
+    "t_average_sec": 150,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 3.8
+  },
+  {
+    "question_id": 25,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.\n\n- Omar finished last.\n- Priya finished immediately before Rahul.\n- Neha finished ahead of both Priya and Sana.\n- Sana did not finish fourth."
+    },
+    "question_text": "**Who finished in second place?**",
+    "options": {
+      "1": "Sana",
+      "2": "Priya",
+      "3": "Neha",
+      "4": "Rahul"
+    },
+    "correct_answer": "1",
+    "explanation": "Omar is fifth. The Priya-Rahul block sits at positions three and four, so Neha and Sana take positions one and two. Since Neha finishes ahead of Sana, Neha is first and Sana is second. Neha is the wrong pick from reading the block, while Priya and Rahul are fixed at third and fourth.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sols=[d for d in (dict(zip(['Neha','Omar','Priya','Rahul','Sana'],x)) for x in itertools.permutations(range(1,6))) if d['Omar']==5 and d['Priya']+1==d['Rahul'] and d['Neha']<d['Priya'] and d['Neha']<d['Sana'] and d['Sana']!=4]; d=sols[0]; inv={v:k for k,v in d.items()}; '1' if inv[2]=='Sana' else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 26,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.\n\n- Omar finished last.\n- Priya finished immediately before Rahul.\n- Neha finished ahead of both Priya and Sana.\n- Sana did not finish fourth."
+    },
+    "question_text": "**Who finished in fourth place?**",
+    "options": {
+      "1": "Priya",
+      "2": "Sana",
+      "3": "Rahul",
+      "4": "Omar"
+    },
+    "correct_answer": "3",
+    "explanation": "The Priya-Rahul block occupies positions three and four, placing Rahul fourth. Priya is one place earlier at third, Sana is second, and Omar is fixed last rather than fourth.",
+    "t_expert_sec": 35,
+    "t_average_sec": 190,
+    "verification": {
+      "expr": "sols=[d for d in (dict(zip(['Neha','Omar','Priya','Rahul','Sana'],x)) for x in itertools.permutations(range(1,6))) if d['Omar']==5 and d['Priya']+1==d['Rahul'] and d['Neha']<d['Priya'] and d['Neha']<d['Sana'] and d['Sana']!=4]; d=sols[0]; inv={v:k for k,v in d.items()}; '3' if inv[4]=='Rahul' else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.4
+  },
+  {
+    "question_id": 27,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five runners, Neha, Omar, Priya, Rahul and Sana, finished a road race in positions one (first) through five (last), with no ties.\n\n- Omar finished last.\n- Priya finished immediately before Rahul.\n- Neha finished ahead of both Priya and Sana.\n- Sana did not finish fourth."
+    },
+    "question_text": "**How many runners finished between Sana and Omar?**",
+    "options": {
+      "1": "Three",
+      "2": "Zero",
+      "3": "One",
+      "4": "Two"
+    },
+    "correct_answer": "4",
+    "explanation": "Sana is second and Omar is fifth, so Priya (third) and Rahul (fourth) sit between them, which is two runners. Counting only one or three misreads the gap, and zero ignores the block entirely.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sols=[d for d in (dict(zip(['Neha','Omar','Priya','Rahul','Sana'],x)) for x in itertools.permutations(range(1,6))) if d['Omar']==5 and d['Priya']+1==d['Rahul'] and d['Neha']<d['Priya'] and d['Neha']<d['Sana'] and d['Sana']!=4]; d=sols[0]; '4' if d['Omar']-d['Sana']-1==2 else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 28,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.\n\n- The Hawks scored exactly 20 points more than the Owls.\n- The Ravens outscored the Falcons.\n- The Falcons did not finish with the lowest score."
+    },
+    "question_text": "**Which team won the quiz with the highest score?**",
+    "options": {
+      "1": "Hawks",
+      "2": "Owls",
+      "3": "Ravens",
+      "4": "Falcons"
+    },
+    "correct_answer": "3",
+    "explanation": "The Owls are not lowest only if Falcons take 30, but Falcons are not last, so the Owls score 30 and the Hawks score 50. That leaves 40 and 60 for Falcons and Ravens, and since Ravens outscore Falcons, Ravens take 60 and win. Hawks at 50 and Falcons at 40 are runners-up, and Owls are last.",
+    "t_expert_sec": 40,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "sols=[t for t in (dict(zip(['Falcons','Hawks','Owls','Ravens'],x)) for x in itertools.permutations([30,40,50,60])) if t['Hawks']==t['Owls']+20 and t['Ravens']>t['Falcons'] and t['Falcons']!=min(t.values())]; t=sols[0]; '3' if max(t,key=t.get)=='Ravens' else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.2
+  },
+  {
+    "question_id": 29,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.\n\n- The Hawks scored exactly 20 points more than the Owls.\n- The Ravens outscored the Falcons.\n- The Falcons did not finish with the lowest score."
+    },
+    "question_text": "**How many points did the Falcons score?**",
+    "options": {
+      "1": "40",
+      "2": "30",
+      "3": "60",
+      "4": "50"
+    },
+    "correct_answer": "1",
+    "explanation": "With Owls on 30 and Hawks on 50, the remaining 40 and 60 go to Falcons and Ravens. Ravens outscore Falcons, so Falcons take 40. Reading 30 mistakes them for last, while 50 and 60 belong to Hawks and Ravens.",
+    "t_expert_sec": 40,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sols=[t for t in (dict(zip(['Falcons','Hawks','Owls','Ravens'],x)) for x in itertools.permutations([30,40,50,60])) if t['Hawks']==t['Owls']+20 and t['Ravens']>t['Falcons'] and t['Falcons']!=min(t.values())]; t=sols[0]; '1' if t['Falcons']==40 else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 30,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four teams, Falcons, Hawks, Owls and Ravens, took part in a quiz. Their final scores were the four distinct values 30, 40, 50 and 60 points, in some order.\n\n- The Hawks scored exactly 20 points more than the Owls.\n- The Ravens outscored the Falcons.\n- The Falcons did not finish with the lowest score."
+    },
+    "question_text": "**What is the difference between the highest and the lowest team scores?**",
+    "options": {
+      "1": "30",
+      "2": "10",
+      "3": "20",
+      "4": "60"
+    },
+    "correct_answer": "1",
+    "explanation": "The top score is the Ravens on 60 and the bottom is the Owls on 30, a gap of 30. The 20 trap echoes the Hawks-Owls margin, 60 mistakes the top score for the gap, and 10 halves the difference.",
+    "t_expert_sec": 40,
+    "t_average_sec": 205,
+    "verification": {
+      "expr": "sols=[t for t in (dict(zip(['Falcons','Hawks','Owls','Ravens'],x)) for x in itertools.permutations([30,40,50,60])) if t['Hawks']==t['Owls']+20 and t['Ravens']>t['Falcons'] and t['Falcons']!=min(t.values())]; t=sols[0]; '1' if max(t.values())-min(t.values())==30 else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 31,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.\n\nTable 1: Bottles sold (in thousands)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 12 | 8 | 10 | 6 |\n| Guava | 5 | 9 | 7 | 4 |\n| Litchi | 8 | 6 | 5 | 9 |\n\nTable 2: Price per bottle (in rupees)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 25 | 25 | 30 | 30 |\n| Guava | 20 | 20 | 20 | 20 |\n| Litchi | 15 | 15 | 10 | 10 |"
+    },
+    "question_text": "**How many bottles in total (in thousands) were sold at kiosk Q across all three flavours?**",
+    "options": {
+      "1": "22 thousand",
+      "2": "23 thousand",
+      "3": "21 thousand",
+      "4": "24 thousand"
+    },
+    "correct_answer": "2",
+    "explanation": "Kiosk Q is the second data column: Mango 8, Guava 9 and Litchi 6 bottles, all in thousands. Adding the column gives 8 + 9 + 6 = 23 thousand bottles. The 21 trap drops the 8, the 22 trap misreads Guava as 8, and the 24 trap adds an extra unit.",
+    "t_expert_sec": 30,
+    "t_average_sec": 160,
+    "verification": {
+      "expr": "q=8+9+6; '2' if q==23 else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.3
+  },
+  {
+    "question_id": 32,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.\n\nTable 1: Bottles sold (in thousands)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 12 | 8 | 10 | 6 |\n| Guava | 5 | 9 | 7 | 4 |\n| Litchi | 8 | 6 | 5 | 9 |\n\nTable 2: Price per bottle (in rupees)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 25 | 25 | 30 | 30 |\n| Guava | 20 | 20 | 20 | 20 |\n| Litchi | 15 | 15 | 10 | 10 |"
+    },
+    "question_text": "**What was the total revenue (in thousands of rupees) generated by kiosk P?**",
+    "options": {
+      "1": "540 thousand",
+      "2": "470 thousand",
+      "3": "520 thousand",
+      "4": "500 thousand"
+    },
+    "correct_answer": "3",
+    "explanation": "At kiosk P: Mango 12 x 25 = 300, Guava 5 x 20 = 100 and Litchi 8 x 15 = 120, all in thousands of rupees. The total is 300 + 100 + 120 = 520 thousand. The 500 and 540 traps mis-price the Litchi bottles and 470 is the revenue of kiosk Q instead of P.",
+    "t_expert_sec": 40,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "p=12*25+5*20+8*15; '3' if p==520 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.5
+  },
+  {
+    "question_id": 33,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.\n\nTable 1: Bottles sold (in thousands)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 12 | 8 | 10 | 6 |\n| Guava | 5 | 9 | 7 | 4 |\n| Litchi | 8 | 6 | 5 | 9 |\n\nTable 2: Price per bottle (in rupees)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 25 | 25 | 30 | 30 |\n| Guava | 20 | 20 | 20 | 20 |\n| Litchi | 15 | 15 | 10 | 10 |"
+    },
+    "question_text": "**What was the combined revenue of the Mango flavour (in thousands of rupees) across all four kiosks?**",
+    "options": {
+      "1": "880 thousand",
+      "2": "1000 thousand",
+      "3": "900 thousand",
+      "4": "980 thousand"
+    },
+    "correct_answer": "4",
+    "explanation": "Mango revenue by kiosk: 12 x 25 = 300, 8 x 25 = 200, 10 x 30 = 300 and 6 x 30 = 180, all in thousands of rupees. The row total is 300 + 200 + 300 + 180 = 980 thousand. The 900 and 880 traps apply a flat price of 25 or 30 to every kiosk, and 1000 rounds carelessly.",
+    "t_expert_sec": 40,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "m=12*25+8*25+10*30+6*30; '4' if m==980 else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.5
+  },
+  {
+    "question_id": 34,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A regional juice company sells three flavours, Mango, Guava and Litchi, at four riverside kiosks named P, Q, R and S. Table 1 gives the number of bottles sold and Table 2 gives the selling price of each bottle. All bottle counts are in thousands of bottles; all prices are in rupees per bottle; revenue = bottles sold x price per bottle, so each revenue figure comes out in thousands of rupees.\n\nTable 1: Bottles sold (in thousands)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 12 | 8 | 10 | 6 |\n| Guava | 5 | 9 | 7 | 4 |\n| Litchi | 8 | 6 | 5 | 9 |\n\nTable 2: Price per bottle (in rupees)\n\n| Flavour | P | Q | R | S |\n|---|--:|--:|--:|--:|\n| Mango | 25 | 25 | 30 | 30 |\n| Guava | 20 | 20 | 20 | 20 |\n| Litchi | 15 | 15 | 10 | 10 |"
+    },
+    "question_text": "**In how many of the twelve flavour-kiosk cells did the revenue exceed 150 thousand rupees?**",
+    "options": {
+      "1": "3 cells",
+      "2": "4 cells",
+      "3": "5 cells",
+      "4": "6 cells"
+    },
+    "correct_answer": "3",
+    "explanation": "Cell revenues in thousands are Mango 300, 200, 300, 180; Guava 100, 180, 140, 80; Litchi 120, 90, 50, 90. Those above 150 are the four Mango cells plus Guava at kiosk Q (180), giving 5 cells. The 4 trap forgets the Guava cell, while 6 and 3 miscount the Mango row.",
+    "t_expert_sec": 45,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "rev=[12*25,8*25,10*30,6*30,5*20,9*20,7*20,4*20,8*15,6*15,5*10,9*10]; c=sum(1 for x in rev if x>150); '3' if c==5 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.3
+  },
+  {
+    "question_id": 35,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.\n\n- Arjun trained on an earlier day than Bela.\n- Carlos trained exactly two days after Diana.\n- Diana did not train on Monday."
+    },
+    "question_text": "**On which day did Arjun train?**",
+    "options": {
+      "1": "Thursday",
+      "2": "Monday",
+      "3": "Tuesday",
+      "4": "Wednesday"
+    },
+    "correct_answer": "2",
+    "explanation": "Carlos is two days after Diana, and Diana avoids Monday, so Diana is Tuesday and Carlos is Thursday. Monday and Wednesday remain for Arjun and Bela, and since Arjun is earlier, Arjun takes Monday. Tuesday and Thursday are taken by Diana and Carlos, and Wednesday belongs to Bela.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sols=[e for e in (dict(zip(['Arjun','Bela','Carlos','Diana'],x)) for x in itertools.permutations([1,2,3,4])) if e['Arjun']<e['Bela'] and e['Carlos']==e['Diana']+2 and e['Diana']!=1]; e=sols[0]; '2' if e['Arjun']==1 else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 36,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.\n\n- Arjun trained on an earlier day than Bela.\n- Carlos trained exactly two days after Diana.\n- Diana did not train on Monday."
+    },
+    "question_text": "**Who trained on Wednesday?**",
+    "options": {
+      "1": "Diana",
+      "2": "Carlos",
+      "3": "Arjun",
+      "4": "Bela"
+    },
+    "correct_answer": "4",
+    "explanation": "Diana is Tuesday and Carlos is Thursday, leaving Monday and Wednesday for Arjun and Bela. Arjun is earlier, so Arjun is Monday and Bela is Wednesday. Diana and Carlos are fixed on other days, and Arjun sits on Monday.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sols=[e for e in (dict(zip(['Arjun','Bela','Carlos','Diana'],x)) for x in itertools.permutations([1,2,3,4])) if e['Arjun']<e['Bela'] and e['Carlos']==e['Diana']+2 and e['Diana']!=1]; e=sols[0]; inv={v:k for k,v in e.items()}; '4' if inv[3]=='Bela' else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 37,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four employees, Arjun, Bela, Carlos and Diana, each attended a one-day training session. The sessions were held on four different days: Monday, Tuesday, Wednesday and Thursday, one employee per day.\n\n- Arjun trained on an earlier day than Bela.\n- Carlos trained exactly two days after Diana.\n- Diana did not train on Monday."
+    },
+    "question_text": "**Who trained on the day immediately before Carlos?**",
+    "options": {
+      "1": "Arjun",
+      "2": "No one, Carlos trained on the first day",
+      "3": "Bela",
+      "4": "Diana"
+    },
+    "correct_answer": "3",
+    "explanation": "Carlos trains on Thursday, so the day immediately before is Wednesday, which is Bela. Diana trains two days earlier on Tuesday rather than the day before, Arjun is on Monday, and Carlos is certainly not on the first day.",
+    "t_expert_sec": 45,
+    "t_average_sec": 230,
+    "verification": {
+      "expr": "sols=[e for e in (dict(zip(['Arjun','Bela','Carlos','Diana'],x)) for x in itertools.permutations([1,2,3,4])) if e['Arjun']<e['Bela'] and e['Carlos']==e['Diana']+2 and e['Diana']!=1]; e=sols[0]; inv={v:k for k,v in e.items()}; '3' if inv[e['Carlos']-1]=='Bela' else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 38,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 1,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Sold (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Solaris",
+            "Lumen",
+            "Vireo"
+          ],
+          "series": {
+            "2022": [
+              40,
+              30,
+              20
+            ],
+            "2023": [
+              50,
+              40,
+              30
+            ],
+            "2024": [
+              60,
+              50,
+              40
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-5_0.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png"
+      ]
+    },
+    "question_text": "**How many units in total (in thousands) were sold across all three models in 2023?**",
+    "options": {
+      "1": "115 thousand",
+      "2": "130 thousand",
+      "3": "110 thousand",
+      "4": "120 thousand"
+    },
+    "correct_answer": "4",
+    "explanation": "The 2023 bars read 50 for Solaris, 40 for Lumen and 30 for Vireo, all in thousands of units. Their sum is 50 + 40 + 30 = 120 thousand. The 110 trap drops a Vireo unit, 130 borrows a 2024 bar, and 115 comes from misreading Solaris as 45.",
+    "t_expert_sec": 30,
+    "t_average_sec": 150,
+    "verification": {
+      "expr": "'4' if 50+40+30==120 else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 39,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 2,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Sold (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Solaris",
+            "Lumen",
+            "Vireo"
+          ],
+          "series": {
+            "2022": [
+              40,
+              30,
+              20
+            ],
+            "2023": [
+              50,
+              40,
+              30
+            ],
+            "2024": [
+              60,
+              50,
+              40
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-5_0.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png"
+      ]
+    },
+    "question_text": "**By what percentage did the units sold of Solaris grow from 2022 to 2024?**",
+    "options": {
+      "1": "50 percent",
+      "2": "33 percent",
+      "3": "20 percent",
+      "4": "40 percent"
+    },
+    "correct_answer": "1",
+    "explanation": "Solaris rose from 40 thousand units in 2022 to 60 thousand in 2024, an increase of 20 thousand. As a percentage of the 2022 base, 20 / 40 = 50 percent. The 33 trap wrongly uses 60 as the base, 20 is the raw increase read as a percentage, and 40 mixes up the models.",
+    "t_expert_sec": 35,
+    "t_average_sec": 170,
+    "verification": {
+      "expr": "g=(60-40)/40*100; '1' if g==50 else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.9
+  },
+  {
+    "question_id": 40,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 3,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Sold (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Solaris",
+            "Lumen",
+            "Vireo"
+          ],
+          "series": {
+            "2022": [
+              40,
+              30,
+              20
+            ],
+            "2023": [
+              50,
+              40,
+              30
+            ],
+            "2024": [
+              60,
+              50,
+              40
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-5_0.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png"
+      ]
+    },
+    "question_text": "**In which year were the total units sold across all three models the highest?**",
+    "options": {
+      "1": "Equal in 2023 and 2024",
+      "2": "2022",
+      "3": "2024",
+      "4": "2023"
+    },
+    "correct_answer": "3",
+    "explanation": "Year totals in thousands are 40 + 30 + 20 = 90 for 2022, 50 + 40 + 30 = 120 for 2023 and 60 + 50 + 40 = 150 for 2024. The largest total, 150 thousand, belongs to 2024. Because 150 clearly beats 120, the years are not tied and neither earlier year leads.",
+    "t_expert_sec": 35,
+    "t_average_sec": 180,
+    "verification": {
+      "expr": "t={2022:40+30+20,2023:50+40+30,2024:60+50+40}; '3' if max(t,key=t.get)==2024 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 41,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 4,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Sold (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Solaris",
+            "Lumen",
+            "Vireo"
+          ],
+          "series": {
+            "2022": [
+              40,
+              30,
+              20
+            ],
+            "2023": [
+              50,
+              40,
+              30
+            ],
+            "2024": [
+              60,
+              50,
+              40
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-5_0.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png"
+      ]
+    },
+    "question_text": "**What is the ratio of Lumen units sold in 2024 to Vireo units sold in 2022?**",
+    "options": {
+      "1": "5 : 2",
+      "2": "5 : 3",
+      "3": "3 : 1",
+      "4": "2 : 1"
+    },
+    "correct_answer": "1",
+    "explanation": "Lumen sold 50 thousand units in 2024 and Vireo sold 20 thousand units in 2022. The ratio 50 : 20 divides by 10 to give 5 : 2. The 2 : 1 and 5 : 3 traps come from misreading one of the bars, and 3 : 1 wrongly pairs Lumen with a 2023 Vireo value.",
+    "t_expert_sec": 35,
+    "t_average_sec": 170,
+    "verification": {
+      "expr": "from fractions import Fraction; f=Fraction(50,20); '1' if f==Fraction(5,2) else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.9
+  },
+  {
+    "question_id": 42,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 5,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "The grouped bar chart below shows the number of units sold by three solar lamp models, Solaris, Lumen and Vireo, in the years 2022, 2023 and 2024. All figures are in thousands of units, so a bar of height 40 means 40 thousand units were sold.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Sold (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Solaris",
+            "Lumen",
+            "Vireo"
+          ],
+          "series": {
+            "2022": [
+              40,
+              30,
+              20
+            ],
+            "2023": [
+              50,
+              40,
+              30
+            ],
+            "2024": [
+              60,
+              50,
+              40
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-5_0.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-5_0.png"
+      ]
+    },
+    "question_text": "**What was the average number of units (in thousands) sold per model in 2024?**",
+    "options": {
+      "1": "45 thousand",
+      "2": "48 thousand",
+      "3": "50 thousand",
+      "4": "55 thousand"
+    },
+    "correct_answer": "3",
+    "explanation": "The 2024 bars are 60 for Solaris, 50 for Lumen and 40 for Vireo, all in thousands of units, summing to 150 thousand. Dividing by the three models gives 150 / 3 = 50 thousand. The 45 trap averages the 2023 figures, and 55 and 48 come from arithmetic slips on the total.",
+    "t_expert_sec": 30,
+    "t_average_sec": 160,
+    "verification": {
+      "expr": "'3' if (60+50+40)/3==50 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.3
+  },
+  {
+    "question_id": 43,
+    "section": "QA",
+    "set_id": "QA-MCQ-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "In a class of 250 students, 36% opted for the science club. How many students opted for the science club?",
+    "options": {
+      "1": "90",
+      "2": "214",
+      "3": "160",
+      "4": "36"
+    },
+    "correct_answer": "1",
+    "explanation": "36% of 250 equals 0.36 x 250 = 90 students, so 90 is correct. The value 36 wrongly reads the percentage as the count. The value 160 counts the remaining 64% who did not opt in, and 214 subtracts 36 from 250 by treating the percent as an absolute figure.",
+    "t_expert_sec": 12,
+    "t_average_sec": 70,
+    "verification": {
+      "expr": "v = 0.36 * 250; '1' if v == 90 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 44,
+    "section": "QA",
+    "set_id": "QA-MCQ-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "A shopkeeper buys a bag for 400 rupees and sells it for 460 rupees. What is the profit percentage?",
+    "options": {
+      "1": "13%",
+      "2": "15%",
+      "3": "12%",
+      "4": "60%"
+    },
+    "correct_answer": "2",
+    "explanation": "Profit is 460 - 400 = 60, and profit percent is 60/400 x 100 = 15%, so 15% is correct. The 13% figure wrongly uses the selling price 460 as the base. The 60% reads the absolute profit of 60 rupees as a percentage, and 12% divides 60 by 500.",
+    "t_expert_sec": 13,
+    "t_average_sec": 75,
+    "verification": {
+      "expr": "p = (460 - 400) / 400 * 100; '2' if p == 15 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 45,
+    "section": "QA",
+    "set_id": "QA-MCQ-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "Two numbers are in the ratio 3 : 5, and their sum is 96. What is the larger number?",
+    "options": {
+      "1": "48",
+      "2": "36",
+      "3": "60",
+      "4": "58"
+    },
+    "correct_answer": "3",
+    "explanation": "The total of parts is 3 + 5 = 8, so each part is 96/8 = 12 and the larger number is 5 x 12 = 60. The 36 value gives the smaller number 3 x 12. The 48 splits the sum evenly in half, and 58 comes from an incorrect near-half split.",
+    "t_expert_sec": 14,
+    "t_average_sec": 80,
+    "verification": {
+      "expr": "part = 96 / (3 + 5); big = 5 * part; '3' if big == 60 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 46,
+    "section": "QA",
+    "set_id": "QA-MCQ-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "The average of five numbers is 24. What is their total sum?",
+    "options": {
+      "1": "24",
+      "2": "120",
+      "3": "100",
+      "4": "29"
+    },
+    "correct_answer": "2",
+    "explanation": "The sum equals the average times the count, so 24 x 5 = 120, making 120 correct. The 29 value wrongly adds the count 5 to the average. The 24 mistakes the average itself for the sum, and 100 uses an incorrect count of about 4.",
+    "t_expert_sec": 10,
+    "t_average_sec": 60,
+    "verification": {
+      "expr": "s = 24 * 5; '2' if s == 120 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 47,
+    "section": "QA",
+    "set_id": "QA-MCQ-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "A sum of 2000 rupees is invested at 6% simple interest per year. What is the interest earned in one year?",
+    "options": {
+      "1": "120",
+      "2": "2120",
+      "3": "60",
+      "4": "112"
+    },
+    "correct_answer": "1",
+    "explanation": "Simple interest for one year is 2000 x 6/100 = 120 rupees, so 120 is correct. The 2120 value adds the principal to the interest, giving the maturity amount. The 60 halves the correct interest, and 112 uses a rate near 5.6%.",
+    "t_expert_sec": 12,
+    "t_average_sec": 70,
+    "verification": {
+      "expr": "si = 2000 * 6 / 100 * 1; '1' if si == 120 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 48,
+    "section": "QA",
+    "set_id": "QA-MCQ-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "A rectangular garden is 14 metres long and 9 metres wide. What is its perimeter?",
+    "options": {
+      "1": "52",
+      "2": "126",
+      "3": "23",
+      "4": "46"
+    },
+    "correct_answer": "4",
+    "explanation": "Perimeter of a rectangle is 2 x (length + width) = 2 x (14 + 9) = 46 metres, so 46 is correct. The 126 value computes the area 14 x 9 instead. The 23 gives just length plus width without doubling, and 52 uses an incorrect width of 12.",
+    "t_expert_sec": 12,
+    "t_average_sec": 70,
+    "verification": {
+      "expr": "p = 2 * (14 + 9); '4' if p == 46 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 49,
+    "section": "QA",
+    "set_id": "QA-MCQ-7",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A car travels 165 kilometres in 3 hours, then 120 kilometres in 2 hours. What is its average speed for the whole journey?",
+    "options": {
+      "1": "55",
+      "2": "57",
+      "3": "60",
+      "4": "56"
+    },
+    "correct_answer": "2",
+    "explanation": "Total distance is 165 + 120 = 285 km over 3 + 2 = 5 hours, so average speed is 285/5 = 57 km/h, making 57 correct. The 60 value averages the two segment speeds of 55 and 60 wrongly weighted. The 55 uses only the first segment speed, and 56 averages the two speeds arithmetically.",
+    "t_expert_sec": 40,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "avg = (165 + 120) / (3 + 2); '2' if avg == 57 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 50,
+    "section": "QA",
+    "set_id": "QA-MCQ-8",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "The smallest number that is exactly divisible by 8, 12, and 18 is:",
+    "options": {
+      "1": "144",
+      "2": "36",
+      "3": "24",
+      "4": "72"
+    },
+    "correct_answer": "4",
+    "explanation": "The LCM of 8, 12, and 18 is found from prime factors 2^3, 2^2 x 3, and 2 x 3^2, giving 2^3 x 3^2 = 72, so 72 is correct. The 36 value is only the LCM of 12 and 18 and misses the factor of 8. The 144 doubles the answer unnecessarily, and 24 is only the LCM of 8 and 12 while ignoring 18.",
+    "t_expert_sec": 45,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "l=8*12//gcd(8,12); l=l*18//gcd(l,18); '4' if l==72 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 51,
+    "section": "QA",
+    "set_id": "QA-MCQ-9",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A shirt is marked at 800 rupees. After a discount of 15%, the shopkeeper still makes a profit of 20% on the cost price. What was the cost price?",
+    "options": {
+      "1": "567",
+      "2": "600",
+      "3": "680",
+      "4": "544"
+    },
+    "correct_answer": "1",
+    "explanation": "The selling price after 15% discount is 800 x 0.85 = 680, and this equals 1.2 times the cost, so cost is 680/1.2 = 567 rupees approximately, making 567 correct. The 544 wrongly takes 20% off 680. The 680 mistakes the selling price for the cost, and 600 uses a 800/1.333 division.",
+    "t_expert_sec": 50,
+    "t_average_sec": 230,
+    "verification": {
+      "expr": "sp = 800 * 0.85; cp = sp / 1.2; '1' if round(cp) == 567 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.6
+  },
+  {
+    "question_id": 52,
+    "section": "QA",
+    "set_id": "QA-MCQ-10",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A sum of Rs 8000 is invested at 10% per annum compound interest, compounded annually. What is the compound interest earned at the end of 2 years?",
+    "options": {
+      "1": "Rs 1600",
+      "2": "Rs 968",
+      "3": "Rs 1728",
+      "4": "Rs 1680"
+    },
+    "correct_answer": "4",
+    "explanation": "Amount after 2 years is 8000 x 1.1 x 1.1 = 9680, so the compound interest is 9680 - 8000 = 1680. The Rs 1600 trap uses simple interest (800 per year). Rs 1728 wrongly compounds for 3 years, and Rs 968 takes only the second-year interest.",
+    "t_expert_sec": 25,
+    "t_average_sec": 130,
+    "verification": {
+      "expr": "p=8000; ci=p*(1.1**2)-p; '4' if round(ci,2)==1680.0 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.2
+  },
+  {
+    "question_id": 53,
+    "section": "QA",
+    "set_id": "QA-MCQ-11",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Pipe A can fill a tank in 12 hours and pipe B can fill the same tank in 18 hours. If both pipes are opened together, how long will they take to fill the tank?",
+    "options": {
+      "1": "7.5 hours",
+      "2": "15 hours",
+      "3": "6 hours",
+      "4": "7.2 hours"
+    },
+    "correct_answer": "4",
+    "explanation": "Combined rate is 1/12 + 1/18 = 3/36 + 2/36 = 5/36 tank per hour, so the time is 36/5 = 7.2 hours. The 15-hour value wrongly adds the two times, 6 hours halves the smaller time, and 7.5 comes from averaging 12 and 18 incorrectly.",
+    "t_expert_sec": 25,
+    "t_average_sec": 120,
+    "verification": {
+      "expr": "from fractions import Fraction; t=1/(Fraction(1,12)+Fraction(1,18)); '4' if t==Fraction(36,5) else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 54,
+    "section": "QA",
+    "set_id": "QA-MCQ-12",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A 40-litre mixture contains milk and water in the ratio 3:1. How many litres of water must be added so that the ratio of milk to water becomes 3:2?",
+    "options": {
+      "1": "5 litres",
+      "2": "10 litres",
+      "3": "20 litres",
+      "4": "8 litres"
+    },
+    "correct_answer": "2",
+    "explanation": "The mixture has 30 litres of milk and 10 litres of water. Milk stays fixed, so 30/(10 + x) = 3/2 gives 10 + x = 20, hence x = 10 litres. The 5-litre answer targets a 3:1.5 split, 8 litres misreads the target ratio, and 20 litres doubles the water to reach 1:1.",
+    "t_expert_sec": 30,
+    "t_average_sec": 140,
+    "verification": {
+      "expr": "from fractions import Fraction; x=10; '2' if Fraction(30,10+x)==Fraction(3,2) else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 55,
+    "section": "QA",
+    "set_id": "QA-MCQ-13",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Two fair six-sided dice are rolled together. What is the probability that the sum of the two numbers shown is exactly 8?",
+    "options": {
+      "1": "1/9",
+      "2": "5/36",
+      "3": "1/6",
+      "4": "7/36"
+    },
+    "correct_answer": "2",
+    "explanation": "The favourable outcomes are (2,6), (3,5), (4,4), (5,3) and (6,2), which is 5 of the 36 equally likely pairs, so the probability is 5/36. The 7/36 trap over-counts the pairs, 1/6 assumes 6 outcomes, and 1/9 counts only 4.",
+    "t_expert_sec": 28,
+    "t_average_sec": 130,
+    "verification": {
+      "expr": "from fractions import Fraction; ways=sum(1 for a in range(1,7) for b in range(1,7) if a+b==8); '2' if Fraction(ways,36)==Fraction(5,36) else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.6
+  },
+  {
+    "question_id": 56,
+    "section": "QA",
+    "set_id": "QA-MCQ-14",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "In how many distinct ways can all the letters of the word BANANA be arranged?",
+    "options": {
+      "1": "720",
+      "2": "120",
+      "3": "360",
+      "4": "60"
+    },
+    "correct_answer": "4",
+    "explanation": "BANANA has 6 letters with three A's and two N's repeated, so the count is 6!/(3! x 2!) = 720/12 = 60. The 720 value forgets all repeats, 120 divides by 3! only, and 360 divides by 2! only.",
+    "t_expert_sec": 25,
+    "t_average_sec": 120,
+    "verification": {
+      "expr": "from math import factorial; n=factorial(6)//(factorial(3)*factorial(2)); '4' if n==60 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 57,
+    "section": "QA",
+    "set_id": "QA-MCQ-15",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A solid sphere has a radius of 3 cm. What is its volume?",
+    "options": {
+      "1": "36π cm³",
+      "2": "27π cm³",
+      "3": "12π cm³",
+      "4": "9π cm³"
+    },
+    "correct_answer": "1",
+    "explanation": "Volume of a sphere is (4/3)πr³ = (4/3)π(27) = 36π cubic cm. The 27π value drops the 4/3 factor, 12π uses r² instead of r³, and 9π confuses volume with a surface-related figure.",
+    "t_expert_sec": 22,
+    "t_average_sec": 110,
+    "verification": {
+      "expr": "from fractions import Fraction; v=Fraction(4,3)*(3**3); '1' if v==36 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 58,
+    "section": "QA",
+    "set_id": "QA-MCQ-16",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A certain sum invested at compound interest, compounded annually, amounts to Rs 4840 in 2 years and to Rs 5324 in 3 years. What was the original sum invested?",
+    "options": {
+      "1": "Rs 3993",
+      "2": "Rs 4400",
+      "3": "Rs 4000",
+      "4": "Rs 4200"
+    },
+    "correct_answer": "3",
+    "explanation": "The third-year interest is 5324 - 4840 = 484 on 4840, giving a rate of 484/4840 = 10%. Then the principal satisfies P x 1.1 x 1.1 = 4840, so P = 4840/1.21 = 4000. The Rs 4400 value is the amount after 1 year, Rs 4200 subtracts interest linearly, and Rs 3993 mis-applies a 3-year discount.",
+    "t_expert_sec": 45,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "from fractions import Fraction; r=Fraction(5324-4840,4840); p=Fraction(4840,1)/((1+r)**2); '3' if p==4000 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 59,
+    "section": "QA",
+    "set_id": "QA-MCQ-17",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "In an arithmetic progression the third term is 12 and the seventh term is 24. What is the sum of the first 10 terms of this progression?",
+    "options": {
+      "1": "195",
+      "2": "165",
+      "3": "210",
+      "4": "180"
+    },
+    "correct_answer": "1",
+    "explanation": "From a + 2d = 12 and a + 6d = 24, subtracting gives 4d = 12 so d = 3 and a = 6. The sum of 10 terms is (10/2)(2a + 9d) = 5(12 + 27) = 5 x 39 = 195. The 210 value uses d = 3 but a = 9, 180 forgets the 9d part, and 165 uses only 8d in the bracket.",
+    "t_expert_sec": 45,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "a=6; d=3; s=(10*(2*a+9*d))//2; '1' if s==195 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.9
+  },
+  {
+    "question_id": 60,
+    "section": "QA",
+    "set_id": "QA-MCQ-18",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "In a group of 120 students, 70 like tea, 80 like coffee, and 20 like neither tea nor coffee. How many students like both tea and coffee?",
+    "options": {
+      "1": "40",
+      "2": "30",
+      "3": "50",
+      "4": "60"
+    },
+    "correct_answer": "3",
+    "explanation": "The number liking at least one drink is 120 - 20 = 100. By inclusion-exclusion, both = 70 + 80 - 100 = 50. The 30 trap forgets to remove the 20 who like neither, 40 subtracts 20 twice, and 60 mis-adds the totals.",
+    "t_expert_sec": 40,
+    "t_average_sec": 190,
+    "verification": {
+      "expr": "both=70+80-(120-20); '3' if both==50 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 61,
+    "section": "QA",
+    "set_id": "QA-TITA-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "Find the value of the expression (2^5 x 3^2) divided by (2^3 x 3).",
+    "tita_answer": "12",
+    "explanation": "Subtract exponents of like bases: 2^(5-3) x 3^(2-1) equals 2^2 x 3^1, which is 4 x 3 equals 12. A reader who forgets to reduce the powers of 3 and writes 4 lands short, while cancelling only the twos gives 4 x 9 equals 36.",
+    "t_expert_sec": 25,
+    "t_average_sec": 120,
+    "verification": {
+      "expr": "val=(2**5*3**2)//(2**3*3); str(val) if val==12 else '0'",
+      "expected": "12"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 62,
+    "section": "QA",
+    "set_id": "QA-TITA-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0,
+    "question_text": "A train travels at a constant speed of 72 kilometres per hour. Express this speed in metres per second.",
+    "tita_answer": "20",
+    "explanation": "To convert kilometres per hour to metres per second, multiply by 5 and divide by 18: 72 x 5 / 18 equals 360 / 18 equals 20 metres per second. Multiplying by 18/5 instead of 5/18 gives the wrong figure of about 259, a common inversion slip.",
+    "t_expert_sec": 25,
+    "t_average_sec": 110,
+    "verification": {
+      "expr": "v=72*5//18; str(v) if v==20 else '0'",
+      "expected": "20"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 63,
+    "section": "QA",
+    "set_id": "QA-TITA-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "In an election between two candidates, the winner secured 60 percent of the total valid votes and won by a margin of 4800 votes. Find the total number of valid votes polled.",
+    "tita_answer": "24000",
+    "explanation": "The winner got 60 percent and the loser 40 percent, so the margin is 20 percent of the total. If 20 percent equals 4800, the total is 4800 x 100 / 20 equals 24000. Treating 4800 as the winner's 60 percent share instead of the 20 percent margin gives a wrong total of 8000.",
+    "t_expert_sec": 45,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "total=4800*100//20; str(total) if total==24000 else '0'",
+      "expected": "24000"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 64,
+    "section": "QA",
+    "set_id": "QA-TITA-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "**How many positive integer factors does 180 have?**",
+    "tita_answer": "18",
+    "explanation": "180 factors as 2^2 x 3^2 x 5^1, so the number of positive factors is (2+1)(2+1)(1+1) = 3 x 3 x 2 = 18. Counting only 1, 180 and the primes, or forgetting a prime, undercounts; squaring an exponent overcounts.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "'18' if (2+1)*(2+1)*(1+1)==18 else '0'",
+      "expected": "18"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 65,
+    "section": "QA",
+    "set_id": "QA-TITA-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "In a group of students, 60 like tea, 50 like coffee, and 20 like both tea and coffee. How many students like exactly one of the two drinks?",
+    "tita_answer": "70",
+    "explanation": "Students liking only tea number 60 minus 20 equals 40, and those liking only coffee number 50 minus 20 equals 30, so exactly one is 40 plus 30 equals 70. Adding 60 and 50 to get 110 counts the 20 who like both twice and answers the wrong question.",
+    "t_expert_sec": 45,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "exactly=(60-20)+(50-20); str(exactly) if exactly==70 else '0'",
+      "expected": "70"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 66,
+    "section": "QA",
+    "set_id": "QA-TITA-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Find the remainder when 7 raised to the power 103 is divided by 100.",
+    "tita_answer": "43",
+    "explanation": "The last two digits of powers of 7 cycle with period 4 as 07, 49, 43, 01 and then repeat. Since 103 leaves remainder 3 when divided by 4, the value matches the third term of the cycle, which is 43. Taking 103 modulo 4 as 0 instead of 3 would wrongly point to the ending 01.",
+    "t_expert_sec": 90,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "r=pow(7,103,100); str(r) if r==43 else '0'",
+      "expected": "43"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  }
+]

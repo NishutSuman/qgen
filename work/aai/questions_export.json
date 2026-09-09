@@ -1,0 +1,1602 @@
+[
+  {
+    "question_id": 1,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/generative-ai",
+    "difficulty": 0,
+    "question_text": "Which statement best describes generative AI?",
+    "options": {
+      "1": "AI that only sorts inputs into predefined fixed categories",
+      "2": "AI that ranks web pages purely by their inbound link counts",
+      "3": "AI that stores and retrieves records from a company database",
+      "4": "AI that creates new content such as text, images, or audio"
+    },
+    "correct_answer": "4",
+    "explanation": "Generative AI produces new content like text, images, or audio, which is exactly the key. Sorting inputs into fixed categories describes discriminative or classification models, not generation. Retrieving records from a database is ordinary data storage, and ranking pages by link counts is search engine logic, so none of those generate new content.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 2,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/llm",
+    "difficulty": 0,
+    "question_text": "What does the abbreviation LLM stand for in AI?",
+    "options": {
+      "1": "Large Language Model",
+      "2": "Linear Logic Method",
+      "3": "Layered Learning Machine",
+      "4": "Long Latency Memory"
+    },
+    "correct_answer": "1",
+    "explanation": "LLM stands for Large Language Model, a model trained on large amounts of text. Layered Learning Machine, Linear Logic Method, and Long Latency Memory are invented expansions that share the initials but are not real terms for these systems.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 3,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tokenization",
+    "difficulty": 0,
+    "question_text": "In language models, tokenization is the process of doing what to text?",
+    "options": {
+      "1": "Converting the text from one human language to another",
+      "2": "Breaking text into smaller units the model reads",
+      "3": "Encrypting the text so that only the model can decode it",
+      "4": "Compressing the text file to save storage space on disk"
+    },
+    "correct_answer": "2",
+    "explanation": "Tokenization splits text into smaller units called tokens that a model can process, which matches the key. Encrypting text is about secrecy, converting between human languages is translation, and compressing a file is about storage size, so none of those describe splitting text into tokens.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 4,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/prompt",
+    "difficulty": 0,
+    "question_text": "In the context of LLMs, what is a prompt?",
+    "options": {
+      "1": "The internal numeric weights the model has learned",
+      "2": "The hardware chip that runs the model's computations",
+      "3": "The dataset originally used to train the model itself",
+      "4": "The input text or instruction given to the model"
+    },
+    "correct_answer": "4",
+    "explanation": "A prompt is the input text or instruction a user gives the model to respond to, which is the key. The chip that runs the model is hardware, the dataset used to train it is training data, and the learned weights are internal parameters, so none of those are the prompt.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 5,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/foundation-model",
+    "difficulty": 0,
+    "question_text": "What best describes a foundation model?",
+    "options": {
+      "1": "A model designed solely to store user login details",
+      "2": "A model that runs entirely without any training data",
+      "3": "A small model built to solve only one narrow task",
+      "4": "A model pretrained on broad data for many tasks"
+    },
+    "correct_answer": "4",
+    "explanation": "A foundation model is pretrained on broad data and can be adapted to many downstream tasks, which is the key. A model for only one narrow task is task specific, a model with no training data is not how these systems work, and storing login details is a database function, so none of those fit.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 6,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/hallucination",
+    "difficulty": 0,
+    "question_text": "In LLMs, the term hallucination refers to when the model does what?",
+    "options": {
+      "1": "Refuses to answer a question because of its safety filters",
+      "2": "Produces false or fabricated information as if true",
+      "3": "Processes images instead of the usual plain text input",
+      "4": "Runs much slower than expected during heavy server load"
+    },
+    "correct_answer": "2",
+    "explanation": "Hallucination is when a model produces information that is false or fabricated yet stated confidently, which is the key. Processing images relates to multimodal input, slow running is a performance issue, and refusing to answer is a safety behavior, so none of those describe hallucination.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 7,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/temperature",
+    "difficulty": 0,
+    "question_text": "In text generation, raising the temperature setting generally makes the output more what?",
+    "options": {
+      "1": "Quick to compute",
+      "2": "Repetitive and fixed",
+      "3": "Random and varied",
+      "4": "Short in length"
+    },
+    "correct_answer": "3",
+    "explanation": "A higher temperature increases randomness so the output becomes more varied and less predictable, which is the key. Lower temperature is what makes output repetitive and fixed, while temperature does not directly control the length or the compute speed of the response.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 8,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/context-window",
+    "difficulty": 0,
+    "question_text": "The context window of an LLM refers to what?",
+    "options": {
+      "1": "The screen area where the chat is shown to the users",
+      "2": "The number of users allowed to query the model at once",
+      "3": "The time period the model spent being trained on data",
+      "4": "The amount of text the model can consider at once"
+    },
+    "correct_answer": "4",
+    "explanation": "The context window is the amount of text, measured in tokens, that a model can take into account at one time, which is the key. The chat display area is a user interface detail, the training time period is about how it was built, and the number of concurrent users is a serving limit, so none of those fit.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 9,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/embeddings",
+    "difficulty": 0,
+    "question_text": "In machine learning, an embedding is best described as what?",
+    "options": {
+      "1": "A numeric vector representation of data like text",
+      "2": "A printed copy of the model's training documents",
+      "3": "A backup file that stores past user conversations",
+      "4": "A rule written by hand to filter out unwanted inputs"
+    },
+    "correct_answer": "1",
+    "explanation": "An embedding represents data such as text as a numeric vector so similar items sit close together, which is the key. A printed copy of documents is just source data, a hand written filter rule is not learned representation, and a conversation backup is stored history, so none of those are embeddings.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 10,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/few-shot",
+    "difficulty": 0,
+    "question_text": "Giving an LLM a few worked examples inside the prompt before asking it to do a task is called what?",
+    "options": {
+      "1": "Zero-shot prompting",
+      "2": "Few-shot prompting",
+      "3": "Fine-tuning the model",
+      "4": "Batch inference"
+    },
+    "correct_answer": "2",
+    "explanation": "Including a few worked examples in the prompt is few-shot prompting, which is the key. Zero-shot prompting gives no examples at all, fine-tuning changes the model weights through extra training, and batch inference just runs many inputs together, so none of those match providing examples in the prompt.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 11,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/ai-agent",
+    "difficulty": 0,
+    "question_text": "In agentic AI, which statement best describes an AI agent?",
+    "options": {
+      "1": "A spreadsheet macro that formats numbers inside cells",
+      "2": "A single image classifier with no ability to act",
+      "3": "A system that plans and takes actions to reach a goal",
+      "4": "A static table of questions paired with fixed answers"
+    },
+    "correct_answer": "3",
+    "explanation": "An AI agent perceives, plans, and takes actions to accomplish a goal, which is the key. A static table of question answer pairs cannot plan, an image classifier only labels images without acting, and a spreadsheet macro just formats cells, so none of those are agents.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 12,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/rag",
+    "difficulty": 0,
+    "question_text": "In AI, retrieval-augmented generation (RAG) means the model does what?",
+    "options": {
+      "1": "Generates replies using only its fixed internal knowledge",
+      "2": "Randomly guesses answers whenever it is unsure of the facts",
+      "3": "Is retrained from scratch each time a user asks something",
+      "4": "Fetches relevant external documents to inform its answer"
+    },
+    "correct_answer": "4",
+    "explanation": "RAG retrieves relevant external documents and uses them to ground the generated answer, which is the key. Retraining from scratch on every question is impractical, relying only on internal knowledge is plain generation without retrieval, and random guessing is not what retrieval augmentation does, so none of those fit.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 13,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/fine-tuning",
+    "difficulty": 0,
+    "question_text": "Fine-tuning a pretrained model means doing what?",
+    "options": {
+      "1": "Running the model to produce answers for the end users",
+      "2": "Building a brand new model from random initial weights",
+      "3": "Deleting part of the model just to make it smaller in size",
+      "4": "Training it further on a narrower task-specific dataset"
+    },
+    "correct_answer": "4",
+    "explanation": "Fine-tuning continues training an already pretrained model on a narrower task-specific dataset, which is the key. Building from random weights is training from scratch, running the model for users is inference, and deleting parts to shrink it is pruning or compression, so none of those describe fine-tuning.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 14,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/inference",
+    "difficulty": 0,
+    "question_text": "Using an already-trained model to produce outputs for new inputs is called what?",
+    "options": {
+      "1": "Backpropagation",
+      "2": "Inference",
+      "3": "Tokenization",
+      "4": "Training"
+    },
+    "correct_answer": "2",
+    "explanation": "Running a finished model on new inputs to get outputs is inference, which is the key. Training is the earlier phase of learning from data, backpropagation is the algorithm that updates weights during training, and tokenization only splits text into tokens, so none of those describe using the trained model.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 15,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/multimodal",
+    "difficulty": 0,
+    "question_text": "A multimodal AI model is one that can do what?",
+    "options": {
+      "1": "Be trained by several different teams at the same time",
+      "2": "Work with several input types like text and images",
+      "3": "Operate only on plain unformatted text input alone",
+      "4": "Run across many computers linked into a cluster"
+    },
+    "correct_answer": "2",
+    "explanation": "A multimodal model can handle more than one type of input, such as text together with images or audio, which is the key. Handling only plain text is single modality, running across a cluster is a hardware setup, and being trained by multiple teams is an organizational detail, so none of those define multimodal.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 16,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/parameters",
+    "difficulty": 0,
+    "question_text": "In a neural network, the parameters (weights) are best described as what?",
+    "options": {
+      "1": "The values learned during training that shape outputs",
+      "2": "The physical memory chips installed inside the computer",
+      "3": "The settings a user picks before starting a chat session",
+      "4": "The raw text prompts typed in by the end user each time"
+    },
+    "correct_answer": "1",
+    "explanation": "Parameters or weights are the numeric values learned during training that determine how the network transforms inputs into outputs, which is the key. User prompts are inputs, chat settings are configuration values a user selects, and memory chips are hardware, so none of those are the learned weights.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 17,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/chatbot-vs-agent",
+    "difficulty": 0,
+    "question_text": "Compared with a simple chatbot, an AI agent is better described as one that does what?",
+    "options": {
+      "1": "Can take actions and use tools to complete tasks",
+      "2": "Stores far more chat history than a chatbot is able to",
+      "3": "Only replies with text and never performs any action",
+      "4": "Always responds faster than any chatbot ever could"
+    },
+    "correct_answer": "1",
+    "explanation": "An AI agent goes beyond conversation by taking actions and using tools to complete tasks, which is the key. Only replying with text describes a basic chatbot, responding faster is a performance claim not a defining trait, and storing more history is unrelated to agentic behavior, so none of those distinguish an agent.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 18,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-calling",
+    "difficulty": 0,
+    "question_text": "Tool calling, also known as function calling, lets an LLM do what?",
+    "options": {
+      "1": "Write its own brand new source code and deploy it alone",
+      "2": "Call external functions to act or fetch live data",
+      "3": "Increase the number of parameters it has while running",
+      "4": "Translate its answers into any spoken human language"
+    },
+    "correct_answer": "2",
+    "explanation": "Tool or function calling lets a model invoke external functions to perform actions or fetch fresh data, which is the key. Writing and deploying its own code, growing its parameter count at run time, and automatic translation are not what function calling means, so none of those distractors are correct.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 19,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/system-prompt",
+    "difficulty": 0,
+    "question_text": "A system prompt in a chat model is typically used to do what?",
+    "options": {
+      "1": "Measure how fast the model responds to each request",
+      "2": "Count the total number of tokens used in a session",
+      "3": "Set the assistant's overall behavior and rules",
+      "4": "Store the entire history of every past conversation"
+    },
+    "correct_answer": "3",
+    "explanation": "A system prompt sets the assistant's overall behavior, role, and rules before the user starts chatting, which is the key. Storing conversation history is memory, measuring response speed is performance monitoring, and counting tokens is usage tracking, so none of those describe a system prompt.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 20,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/completion",
+    "difficulty": 0,
+    "question_text": "In an LLM interaction, the text the model generates in response to the prompt is called the what?",
+    "options": {
+      "1": "Embedding",
+      "2": "Checkpoint",
+      "3": "Parameter",
+      "4": "Completion"
+    },
+    "correct_answer": "4",
+    "explanation": "The text a model generates in response to a prompt is called the completion, which is the key. An embedding is a numeric vector representation, a parameter is a learned weight inside the model, and a checkpoint is a saved copy of the model state, so none of those name the generated response.",
+    "t_expert_sec": 15,
+    "t_average_sec": 50,
+    "content_type": "text",
+    "discrimination_ratio": 3.3
+  },
+  {
+    "question_id": 21,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/self-attention",
+    "difficulty": 0.5,
+    "question_text": "In a transformer, what does the self-attention mechanism primarily allow the model to do when processing a sequence?",
+    "options": {
+      "1": "Encode the whole sequence into a single fixed vector before the first layer runs",
+      "2": "Let each token gather information from other tokens, weighted by their relevance",
+      "3": "Swap each token for its closest dictionary synonym to normalize the input text first",
+      "4": "Read tokens strictly left to right, never comparing one token against another one"
+    },
+    "correct_answer": "2",
+    "explanation": "Self-attention lets each token attend to other tokens in the sequence, weighting them by relevance so its representation captures context. It does not compress everything to one vector, read strictly left to right, or swap in synonyms.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 22,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/autoregression",
+    "difficulty": 0.5,
+    "question_text": "A standard autoregressive language model generates text by doing what at each step?",
+    "options": {
+      "1": "Selecting a full sentence from a fixed list of memorized candidate responses each time",
+      "2": "Predicting a probability distribution over the next token given all preceding tokens",
+      "3": "Filling in randomly masked tokens spread throughout the complete input sequence at once",
+      "4": "Predicting every token in the output sentence at once in a single parallel forward pass"
+    },
+    "correct_answer": "2",
+    "explanation": "An autoregressive model outputs a probability distribution over the next token conditioned on all previous tokens, then samples one and repeats. It does not decode the whole sentence in parallel, pick from a canned list, or unmask scattered tokens.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 23,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/context-window",
+    "difficulty": 0.5,
+    "question_text": "Why do transformer language models have a finite context window rather than accepting unlimited input length?",
+    "options": {
+      "1": "The output layer can emit just a fixed number of tokens, which caps the input length too",
+      "2": "Attention compute scales with length and training used a fixed maximum length",
+      "3": "The model keeps only one sentence in memory and throws away all earlier text later",
+      "4": "Longer inputs are blocked because tokenization can handle only a few hundred characters"
+    },
+    "correct_answer": "2",
+    "explanation": "The window is finite because attention cost rises with sequence length and the model was trained with a fixed maximum length. It is not about storing one sentence, a character cap in tokenization, or the output layer size.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 24,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tokenization",
+    "difficulty": 0.5,
+    "question_text": "Byte pair encoding and similar subword tokenizers split rare words into smaller pieces mainly to achieve what?",
+    "options": {
+      "1": "Translate the input into another language before the model begins its processing",
+      "2": "Represent any word, including unseen ones, with a fixed, manageable vocabulary",
+      "3": "Remove all punctuation and spacing so the model sees only lowercase letter runs later",
+      "4": "Guarantee that each individual English word maps to exactly one whole-word token"
+    },
+    "correct_answer": "2",
+    "explanation": "Subword tokenizers like BPE break rare words into pieces so a fixed vocabulary can represent any word, including unseen ones. They do not guarantee one token per word, translate the text, or strip punctuation.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 25,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/embeddings",
+    "difficulty": 0.5,
+    "question_text": "In semantic search, why is cosine similarity between embedding vectors used to compare two texts?",
+    "options": {
+      "1": "It measures the exact character-level edit distance between the two input strings",
+      "2": "Cosine similarity counts how many identical words the two texts literally share",
+      "3": "Texts with similar meaning map to vectors pointing in similar directions",
+      "4": "Shorter texts always score higher because the vector magnitude becomes much smaller"
+    },
+    "correct_answer": "3",
+    "explanation": "Cosine similarity compares vector direction, so texts with similar meaning map to vectors pointing similarly and score high. It is not literal word overlap, character edit distance, or driven by text length.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 26,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/rag",
+    "difficulty": 0.5,
+    "question_text": "Retrieval-augmented generation reduces hallucination primarily because it does what?",
+    "options": {
+      "1": "Retrains the model weights on the user question before producing any final answer",
+      "2": "Lowers the sampling temperature to zero so the model can never make any mistake",
+      "3": "Supplies relevant retrieved documents so answers can be grounded in real text",
+      "4": "Removes the language model entirely and just returns raw search hits to the user"
+    },
+    "correct_answer": "3",
+    "explanation": "RAG grounds answers by supplying relevant retrieved documents the model can rely on, which cuts invented facts. It does not retrain weights per query, zero the temperature, or drop the language model.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 27,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/chunking",
+    "difficulty": 0.5,
+    "question_text": "Why are long documents usually split into smaller chunks before being indexed for retrieval?",
+    "options": {
+      "1": "Smaller passages match queries more precisely and fit the context budget",
+      "2": "Each chunk is translated separately, which improves the overall writing style later",
+      "3": "Chunking permanently compresses the text so storage cost drops to almost nothing",
+      "4": "The vector database rejects any document longer than a single short paragraph"
+    },
+    "correct_answer": "1",
+    "explanation": "Chunking yields smaller passages that match queries more precisely and fit the model context budget. It is not because databases reject long text, nor does it compress storage or improve writing style.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 28,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/vector-db",
+    "difficulty": 0.5,
+    "question_text": "What is the primary role of a vector database in a retrieval system?",
+    "options": {
+      "1": "Store embeddings and quickly find those nearest to a query vector",
+      "2": "Convert user questions into SQL and run them against relational tables first",
+      "3": "Generate the final natural language answer shown directly to the end user",
+      "4": "Compress the model weights so the language model loads faster at startup time"
+    },
+    "correct_answer": "1",
+    "explanation": "A vector database stores embeddings and efficiently finds those nearest to a query vector for retrieval. It does not generate the answer, run SQL queries, or compress model weights.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 29,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/chain-of-thought",
+    "difficulty": 0.5,
+    "question_text": "Chain-of-thought prompting tends to improve performance on multi-step reasoning tasks because it does what?",
+    "options": {
+      "1": "Retrieves external documents that already contain the fully worked out solution",
+      "2": "Forces the model to answer only in a single word so there is no confusion",
+      "3": "Prompts the model to lay out intermediate steps before giving the answer",
+      "4": "Increases the sampling temperature so the model explores far more creative guesses"
+    },
+    "correct_answer": "3",
+    "explanation": "Chain-of-thought asks the model to lay out intermediate reasoning steps before the answer, which helps on multi-step tasks. It does not force one-word answers, retrieve solutions, or raise temperature.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 30,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/few-shot",
+    "difficulty": 0.5,
+    "question_text": "What distinguishes few-shot prompting from zero-shot prompting?",
+    "options": {
+      "1": "Few-shot always uses a higher sampling temperature than zero-shot prompting does",
+      "2": "Few-shot works only for images, while zero-shot applies just to plain text tasks",
+      "3": "Few-shot includes worked examples in the prompt while zero-shot gives none",
+      "4": "Few-shot permanently updates the model weights, while zero-shot leaves them fixed"
+    },
+    "correct_answer": "3",
+    "explanation": "Few-shot prompting places worked examples in the prompt while zero-shot provides none; neither changes the weights. It is not about temperature settings, image-only use, or permanent updates.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 31,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/chat-roles",
+    "difficulty": 0.5,
+    "question_text": "In a chat-formatted prompt, what is the typical purpose of the system role message?",
+    "options": {
+      "1": "Set the overall behavior and constraints for the assistant",
+      "2": "Store the retrieved documents that were fetched from an external knowledge base",
+      "3": "Hold the model's previous replies so they can be echoed back to the user later",
+      "4": "Contain the exact question the end user is asking on this current turn"
+    },
+    "correct_answer": "1",
+    "explanation": "The system message sets overall behavior and constraints guiding the assistant; the user message carries the current question and the assistant message holds prior replies. Retrieved documents are handled separately.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 32,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/structured-output",
+    "difficulty": 0.5,
+    "question_text": "Why might a developer instruct a model to return its output as strict JSON?",
+    "options": {
+      "1": "So downstream code can parse the fields reliably without fragile scraping",
+      "2": "Because JSON responses are always shorter than the equivalent plain English answers",
+      "3": "Because JSON output makes the language model reason more accurately on hard problems",
+      "4": "Because JSON output can never contain any factual mistakes or invented information"
+    },
+    "correct_answer": "1",
+    "explanation": "Strict JSON lets downstream code parse fields reliably instead of scraping free text. JSON formatting does not improve reasoning, prevent factual errors, or guarantee shorter output.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 33,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/sampling",
+    "difficulty": 0.5,
+    "question_text": "How do temperature and top-p sampling differ in how they control randomness during generation?",
+    "options": {
+      "1": "Temperature edits the prompt wording, while top-p changes the model architecture",
+      "2": "Temperature sets the output length, while top-p selects the language of the response",
+      "3": "Temperature rescales the logits; top-p keeps only the top probability mass",
+      "4": "Both are identical settings, so changing either one has exactly the same effect anyway"
+    },
+    "correct_answer": "3",
+    "explanation": "Temperature rescales the logits to sharpen or flatten the whole distribution, while top-p keeps only the smallest set of tokens whose probability mass reaches p. They are not identical, and neither edits the prompt or architecture.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 34,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/grounding",
+    "difficulty": 0.5,
+    "question_text": "When a RAG system attaches citations to its answer, what does this primarily let a user do?",
+    "options": {
+      "1": "Confirm that the language model was retrained on the very latest available data",
+      "2": "See how long the model spent generating each sentence of the final response here",
+      "3": "Check the answer against the specific source passages that were retrieved",
+      "4": "Guarantee the answer is correct because any cited answer is automatically true"
+    },
+    "correct_answer": "3",
+    "explanation": "Citations point to the specific retrieved passages so a user can verify each claim against its source. They do not prove correctness, indicate retraining, or report generation timing.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 35,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/prompt-injection",
+    "difficulty": 0.5,
+    "question_text": "Prompt injection is best described as an attack in which what happens?",
+    "options": {
+      "1": "Malicious text in the input tricks the model into ignoring its instructions",
+      "2": "Random noise is added to embeddings so retrieval returns unrelated documents instead",
+      "3": "The database server is overloaded with traffic until it stops responding at all",
+      "4": "Model weights are stolen and copied onto an attacker controlled server remotely"
+    },
+    "correct_answer": "1",
+    "explanation": "Prompt injection hides malicious instructions in the input that trick the model into ignoring its intended instructions. It is not a traffic flood, weight theft, or embedding noise.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 36,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/rlhf",
+    "difficulty": 0.5,
+    "question_text": "Reinforcement learning from human feedback is primarily used to do what to a language model?",
+    "options": {
+      "1": "Expand its context window so it can read much longer documents at once",
+      "2": "Align its responses with human preferences about helpfulness and safety",
+      "3": "Teach it an entirely new natural language it was never exposed to before",
+      "4": "Compress its parameters so it runs on much smaller devices than usual now"
+    },
+    "correct_answer": "2",
+    "explanation": "RLHF tunes a model so its responses align with human preferences about helpfulness and safety. It does not extend the context window, teach a new language, or compress parameters.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 37,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/peft-lora",
+    "difficulty": 0.5,
+    "question_text": "What is the core idea behind parameter-efficient fine-tuning methods such as LoRA?",
+    "options": {
+      "1": "Delete unused layers so the network becomes smaller and faster to serve later",
+      "2": "Replace the tokenizer with a custom one tailored to the target domain data set",
+      "3": "Retrain every parameter of the base model from scratch on the new dataset",
+      "4": "Train a small set of added weights while keeping the base model frozen"
+    },
+    "correct_answer": "4",
+    "explanation": "LoRA and similar PEFT methods train a small set of added weights while freezing the base model, which saves compute. They do not retrain everything, delete layers, or replace the tokenizer.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 38,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/rag-vs-finetune",
+    "difficulty": 0.5,
+    "question_text": "For giving a model access to a frequently changing knowledge base, why is RAG often preferred over fine-tuning?",
+    "options": {
+      "1": "RAG permanently bakes the facts into the weights so no storage is needed later on",
+      "2": "Fine-tuning is the only method that can ever change how the model behaves at all",
+      "3": "Fine-tuning updates the stored knowledge automatically every time a document changes",
+      "4": "New documents can be indexed instantly without retraining the model weights"
+    },
+    "correct_answer": "4",
+    "explanation": "RAG suits fast-changing knowledge because new documents are indexed instantly with no weight retraining. Fine-tuning would require a fresh training run for each change and does not update itself automatically.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 39,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/context-vs-parameters",
+    "difficulty": 0.5,
+    "question_text": "In an LLM, where does knowledge supplied at inference time through the prompt reside, versus knowledge learned during training?",
+    "options": {
+      "1": "Both kinds live only in the prompt and vanish as soon as the current request completes",
+      "2": "Both kinds of knowledge are stored permanently inside the model weight matrices only",
+      "3": "Prompt knowledge sits in the context window; trained knowledge is in the weights",
+      "4": "Prompt knowledge is saved to disk, while trained knowledge stays inside the prompt text"
+    },
+    "correct_answer": "3",
+    "explanation": "Prompt-supplied facts live in the context window for that request, while learned facts are encoded in the model weights. They are not both in the weights, both in the prompt, or swapped between the two.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 40,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/re-ranking",
+    "difficulty": 0.5,
+    "question_text": "In a retrieval pipeline, what is the purpose of a re-ranking step after the initial search?",
+    "options": {
+      "1": "Generate brand new documents to add into the knowledge base automatically now",
+      "2": "Reorder candidates so the most relevant passages rise to the top",
+      "3": "Delete the vector database once the first set of results has been fetched",
+      "4": "Translate every retrieved passage into the language used by the question"
+    },
+    "correct_answer": "2",
+    "explanation": "Re-ranking reorders the initial candidates so the most relevant passages rise to the top before generation. It does not translate passages, delete the database, or create new documents.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 41,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/agentic-vs-llm",
+    "difficulty": 0.5,
+    "question_text": "What primarily distinguishes an agentic system from a single, one-shot LLM call?",
+    "options": {
+      "1": "It relies on a much larger model with many billions more parameters than a chatbot",
+      "2": "It handles the user request without ever calling a language model at all",
+      "3": "It can invoke tools, observe the results, and choose its next step toward a goal",
+      "4": "It always returns longer and more detailed prose than a normal chat response"
+    },
+    "correct_answer": "3",
+    "explanation": "Agency comes from the action-observation loop: the system calls tools, reads what happens, and decides the next step toward a goal. Model size, verbosity, or dropping the LLM are not what makes a system agentic.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 42,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/perceive-reason-act",
+    "difficulty": 0.5,
+    "question_text": "In the perceive-reason-act loop, what does the perceive step mainly provide to the agent?",
+    "options": {
+      "1": "The current observations or environment state used to decide what to do next",
+      "2": "A randomly chosen tool that the agent must execute before doing anything else",
+      "3": "A rewrite of the agent's own system prompt to change its overall personality",
+      "4": "A final committed answer that ends the loop and stops all further processing"
+    },
+    "correct_answer": "1",
+    "explanation": "Perceive supplies the observations or state that reasoning then acts on. It does not finalize an answer, pick a random tool, or rewrite the system prompt; those describe other or invented behaviors.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 43,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-calling",
+    "difficulty": 0.5,
+    "question_text": "How does an LLM typically make use of an external tool during function calling?",
+    "options": {
+      "1": "It emits a structured request naming the tool and arguments; a runtime runs it",
+      "2": "It permanently compiles the tool into the model's parameters before using it",
+      "3": "It guesses the tool's output from context instead of actually invoking it at all",
+      "4": "It executes the selected tool's code directly within its own neural network weights"
+    },
+    "correct_answer": "1",
+    "explanation": "The model only produces a structured call with a tool name and arguments; separate runtime code executes the tool and returns the result. The model never runs code inside its weights, compiles tools in, or should fabricate outputs.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 44,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/react-pattern",
+    "difficulty": 0.5,
+    "question_text": "The ReAct pattern is characterized by which approach to reasoning and acting?",
+    "options": {
+      "1": "Generating one complete final answer up front before ever taking any action",
+      "2": "Avoiding tool use entirely and reasoning purely from memorized training facts",
+      "3": "Taking several random actions first and only reasoning about the outcomes afterward",
+      "4": "Interleaving reasoning steps with actions so each thought guides the next call"
+    },
+    "correct_answer": "4",
+    "explanation": "ReAct interleaves reasoning traces with actions, letting each thought inform the next tool call and each observation refine the next thought. Reasoning fully before acting, acting randomly first, or never acting all miss this interleaving.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 45,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/task-decomposition",
+    "difficulty": 0.5,
+    "question_text": "In an agent, what does task decomposition (planning) primarily involve?",
+    "options": {
+      "1": "Discarding steps from a task so the agent can finish the whole thing more quickly",
+      "2": "Translating the user's original request into a different natural language first",
+      "3": "Splitting a complex goal into smaller subtasks the agent can tackle in order",
+      "4": "Compressing several separate user requests into a single very short summary line"
+    },
+    "correct_answer": "3",
+    "explanation": "Decomposition breaks a large goal into smaller, ordered subtasks that are individually solvable. Summarizing requests, translating language, or dropping needed steps are unrelated to planning a task.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 46,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/memory-types",
+    "difficulty": 0.5,
+    "question_text": "In an agent, short-term (working) memory typically holds which of the following?",
+    "options": {
+      "1": "The recent context of the current task, such as intermediate results and dialogue",
+      "2": "The model's fixed pretrained weights, which never change at runtime during a task",
+      "3": "User preferences stored indefinitely so they can be recalled in future sessions",
+      "4": "Permanent facts retrieved from an external database and reused across many sessions"
+    },
+    "correct_answer": "1",
+    "explanation": "Working memory keeps the immediate context of the active task, like recent messages and intermediate results. Cross-session facts and stored preferences are long-term memory, and pretrained weights are not runtime memory.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 47,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/why-memory",
+    "difficulty": 0.5,
+    "question_text": "Why do multi-step agents generally need some form of memory?",
+    "options": {
+      "1": "So the underlying language model can permanently update its own weights during a run",
+      "2": "So the agent can produce answers without ever having to call any external tools",
+      "3": "So every new step starts completely fresh with no knowledge of what came before",
+      "4": "So results and decisions from earlier steps stay available to inform later ones"
+    },
+    "correct_answer": "4",
+    "explanation": "Memory carries earlier results and decisions forward so later steps can build on them instead of losing context. Agents do not retrain weights mid-run, memory is not about avoiding tools, and starting fresh each step defeats the purpose.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 48,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/orchestrator",
+    "difficulty": 0.5,
+    "question_text": "What is the orchestrator in an agent system mainly responsible for?",
+    "options": {
+      "1": "Storing the user's password and other secret credentials in an encrypted vault",
+      "2": "Coordinating the flow between steps, tools, and models toward the overall goal",
+      "3": "Computing the raw token probabilities for every individual word the model produces",
+      "4": "Rendering the agent's final answer as a formatted web page for the end user"
+    },
+    "correct_answer": "2",
+    "explanation": "The orchestrator directs control flow: it decides which step, tool, or model runs next and passes results between them toward the goal. Computing token probabilities, secret storage, and page rendering are separate concerns.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 49,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/agent-vs-workflow",
+    "difficulty": 0.5,
+    "question_text": "When is a fixed, deterministic workflow usually preferable to an autonomous agent?",
+    "options": {
+      "1": "When the task is open ended and the necessary steps cannot be known ahead of time",
+      "2": "When the inputs vary so widely that no two runs ever look remotely similar at all",
+      "3": "When the goal keeps changing and requires fresh creative reasoning on every run",
+      "4": "When the steps are known and fixed, so predictability and low cost matter most"
+    },
+    "correct_answer": "4",
+    "explanation": "A fixed workflow wins when the required steps are known in advance, giving predictable behavior and lower cost. Open-ended, highly variable, or constantly shifting tasks are exactly where an autonomous agent earns its overhead.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 50,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/human-in-the-loop",
+    "difficulty": 0.5,
+    "question_text": "What is a human-in-the-loop checkpoint in an agent primarily used for?",
+    "options": {
+      "1": "Replacing the language model entirely with a person who writes every response",
+      "2": "Getting human approval before the agent performs a risky or irreversible action",
+      "3": "Letting the agent run much faster by skipping any and all review of its planned actions",
+      "4": "Hiding the agent's reasoning so that users cannot see how decisions were made"
+    },
+    "correct_answer": "2",
+    "explanation": "The checkpoint pauses the agent for human approval before high-risk or irreversible actions, adding a safety gate. It is not about speeding things up, replacing the model, or concealing reasoning.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 51,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/reflection",
+    "difficulty": 0.5,
+    "question_text": "What does a reflection or self-critique step let an agent do?",
+    "options": {
+      "1": "Delete all memory of the task so that it can restart again from scratch",
+      "2": "Increase the size of the model it runs on partway through a single task",
+      "3": "Skip all verification and return its very first draft as quickly as possible",
+      "4": "Review its own draft output, spot errors, and revise it before finalizing"
+    },
+    "correct_answer": "4",
+    "explanation": "Reflection has the agent critique its own draft, find mistakes, and revise before committing to a final answer. Wiping memory, swapping model sizes mid-task, or skipping checks are not what reflection provides.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 52,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-selection-risk",
+    "difficulty": 0.5,
+    "question_text": "What is a key risk when an agent must choose among many available tools?",
+    "options": {
+      "1": "It runs every available tool at the same time and safely merges all of the outputs",
+      "2": "It becomes permanently unable to produce any text output for the rest of the session",
+      "3": "It may pick the wrong tool or pass incorrect arguments, producing a faulty result",
+      "4": "It permanently deletes any tools that it decides it does not need for the current task"
+    },
+    "correct_answer": "3",
+    "explanation": "The main hazard is selecting an inappropriate tool or supplying wrong arguments, which yields incorrect results. Agents do not silently run all tools, lose the ability to speak, or delete tools from the toolset.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 53,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-schemas",
+    "difficulty": 0.5,
+    "question_text": "Why are agent tools usually described with structured schemas, such as JSON with typed parameters?",
+    "options": {
+      "1": "So the model knows each tool's inputs and can format valid, checkable calls",
+      "2": "So that the tool can run without any code ever being written by a developer",
+      "3": "So that users are forced to memorize every parameter name before using the agent",
+      "4": "So the model can ignore the parameters and call the tools however it likes"
+    },
+    "correct_answer": "1",
+    "explanation": "A schema tells the model exactly which typed inputs a tool expects, so it can emit valid calls that a runtime can validate. Schemas do not remove the need for tool code, let the model ignore parameters, or burden users with memorization.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 54,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/mcp",
+    "difficulty": 0.5,
+    "question_text": "The Model Context Protocol (MCP) is best described as which of the following?",
+    "options": {
+      "1": "A compression format used for shrinking a model's weights before it is deployed",
+      "2": "A ranking system that scores which chatbot gives the best answers to a prompt",
+      "3": "A training technique that makes language models substantially larger and more accurate",
+      "4": "A standard interface that lets models connect to external tools and data sources"
+    },
+    "correct_answer": "4",
+    "explanation": "MCP defines a common, standardized way for models and applications to connect to external tools and data. It is not a training method, a weight-compression format, or a chatbot benchmarking scheme.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 55,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/multi-agent",
+    "difficulty": 0.5,
+    "question_text": "What is a common reason to use several specialized agents instead of one general agent?",
+    "options": {
+      "1": "Each agent can focus on a narrow role, so its part is easier to design and check",
+      "2": "A single agent is physically incapable of ever calling more than one tool at a time",
+      "3": "Multiple agents remove any need to define an overall goal for the whole system",
+      "4": "Adding more and more agents will always guarantee a faster and cheaper final result"
+    },
+    "correct_answer": "1",
+    "explanation": "Splitting work across specialized roles keeps each agent's scope narrow, which makes it simpler to design, test, and debug. More agents do not guarantee speed or savings, single agents can use many tools, and a goal is still required.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 56,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/state-passing",
+    "difficulty": 0.5,
+    "question_text": "In a multi-step agent, what does the state passed between steps usually refer to?",
+    "options": {
+      "1": "The total number of times the user has opened the application during this month",
+      "2": "The model's internal pretrained weights being edited after each individual step",
+      "3": "The physical server location where the agent's process happens to be running now",
+      "4": "The accumulated results carried forward so later steps can build on them"
+    },
+    "correct_answer": "4",
+    "explanation": "State is the accumulated data and results handed from one step to the next so progress compounds. It is not edited model weights, a server location, or an app-usage counter.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 57,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/grounding",
+    "difficulty": 0.5,
+    "question_text": "Grounding an agent's actions in real data, for example through retrieval, mainly helps to do what?",
+    "options": {
+      "1": "Let the agent completely avoid using any tools while still sounding confident",
+      "2": "Increase the creativity of its answers by ignoring the provided factual data",
+      "3": "Make the agent respond faster by skipping any external data lookups",
+      "4": "Base its outputs on verifiable sources instead of unsupported guesses"
+    },
+    "correct_answer": "4",
+    "explanation": "Grounding ties outputs to real, verifiable sources so answers rest on evidence rather than guesses, reducing hallucination. It is not about speed, avoiding tools, or ignoring facts for creativity.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 58,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/stopping-conditions",
+    "difficulty": 0.5,
+    "question_text": "Why is a stopping condition added to an agent loop?",
+    "options": {
+      "1": "To guarantee the agent uses each of its available tools an equal number of times",
+      "2": "To end the loop when the goal is met or a step limit is hit, avoiding endless runs",
+      "3": "To force the model to produce much longer answers on every single attempt it makes",
+      "4": "To prevent the agent from ever asking the user any clarifying question at all"
+    },
+    "correct_answer": "2",
+    "explanation": "A stopping condition halts the loop once the goal is reached or a step or budget limit is hit, preventing infinite runs. It is not meant to lengthen answers, balance tool usage, or block clarifying questions.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 59,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/cost-latency",
+    "difficulty": 0.5,
+    "question_text": "Compared with a single LLM call, a multi-step agent typically exhibits which trade-off?",
+    "options": {
+      "1": "No way to make use of external tools during any part of its execution flow",
+      "2": "Lower accuracy on every task because the extra steps only ever add confusion",
+      "3": "Higher cost and latency, since each step adds more model calls and tokens",
+      "4": "A completely fixed runtime that never changes no matter how hard the task becomes"
+    },
+    "correct_answer": "3",
+    "explanation": "Each additional step means more model calls and tokens, so agents usually cost more and run slower than one call. They can improve accuracy, they can use tools, and their runtime varies with task difficulty.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 60,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/observation-feedback",
+    "difficulty": 0.5,
+    "question_text": "After an agent executes an action, what normally happens to the resulting observation?",
+    "options": {
+      "1": "It is discarded right away so that it cannot influence any later decisions",
+      "2": "It is used to permanently retrain the underlying base model before continuing",
+      "3": "It is fed back into the loop so the next reasoning step can account for it",
+      "4": "It is shown only to the end user and is never seen by the agent again"
+    },
+    "correct_answer": "3",
+    "explanation": "The observation returns into the loop so the agent's next reasoning step can adapt to what actually happened. Discarding it, retraining the base model, or hiding it from the agent would all break the feedback loop.",
+    "t_expert_sec": 25,
+    "t_average_sec": 85,
+    "content_type": "text",
+    "discrimination_ratio": 3.4
+  },
+  {
+    "question_id": 61,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/planner-executor",
+    "difficulty": 1,
+    "question_text": "In a planner-executor agent architecture, what is the primary reason for separating planning from execution rather than deciding and acting in one combined loop?",
+    "options": {
+      "1": "Separating decomposition from action lets the planner reason over the whole task upfront, so the executor runs steps without re-deriving the goal each time.",
+      "2": "It makes the whole system deterministic, because fixing the plan also fixes the exact tokens the executor will emit at every later step.",
+      "3": "It guarantees the plan cannot fail, because every step is fully validated against the goal before any action in the environment is ever run.",
+      "4": "It removes the executor's need to call external tools, since the planner resolves and pre-computes all of the required tool calls in advance."
+    },
+    "correct_answer": "1",
+    "explanation": "Splitting planning from execution lets a global plan be formed before acting, so the executor need not re-reason the goal per step. The guarantee, no-tools, and determinism claims all overstate what the split provides.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 62,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/reflection",
+    "difficulty": 1,
+    "question_text": "The reflection (self-critique) pattern, where an agent reviews and revises its own prior output, most reliably improves performance on tasks with which property?",
+    "options": {
+      "1": "The model has no access to any tools, which usefully forces it to rely on internal reasoning alone when producing the revised answer.",
+      "2": "The task provides a checkable signal of correctness the critique can use, such as test results, error messages, or verifiable constraints.",
+      "3": "The task is purely subjective, so any self-generated critique is just as valid as an external judgment about whether the output is right.",
+      "4": "The final answer is a single token, which minimizes the chance of the revision step introducing brand new errors into the output."
+    },
+    "correct_answer": "2",
+    "explanation": "Reflection helps most when a grounding or verifiable signal lets the critique detect real errors; ungrounded self-critique can even reinforce mistakes. Subjectivity, absence of tools, and answer length do not make the pattern reliable.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 63,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tree-of-thoughts",
+    "difficulty": 1,
+    "question_text": "What is the essential capability that tree-of-thoughts adds over a single chain-of-thought?",
+    "options": {
+      "1": "It removes the need for any intermediate reasoning by producing the final answer directly from the prompt in a single decoding pass.",
+      "2": "It guarantees a globally optimal solution by exhaustively enumerating every possible thought before it selects one final answer to return.",
+      "3": "It replaces the underlying language model with a symbolic search engine that no longer samples tokens from a learned distribution.",
+      "4": "It explores multiple reasoning branches and can backtrack, abandoning unpromising partial solutions instead of committing to one linear path."
+    },
+    "correct_answer": "4",
+    "explanation": "Tree-of-thoughts adds branching and backtracking over evaluated partial solutions, unlike a single linear chain. It does not guarantee optimality, is not exhaustive, still uses intermediate reasoning, and remains a language-model method.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 64,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/orchestration-choreography",
+    "difficulty": 1,
+    "question_text": "In multi-agent systems, what best distinguishes orchestration from choreography?",
+    "options": {
+      "1": "Orchestration requires every agent to share one common model, while choreography strictly requires each agent to run a distinct and separate model.",
+      "2": "Orchestration permits agents to use external tools, while choreography by definition forbids any agent from calling external tools at all.",
+      "3": "Orchestration uses a central coordinator that directs each agent, while in choreography agents react to shared events or messages with no central controller.",
+      "4": "Orchestration is always synchronous while choreography is always asynchronous, and this timing contrast is what defines the two patterns apart."
+    },
+    "correct_answer": "3",
+    "explanation": "The defining contrast is central control: orchestration has a coordinator directing agents, choreography relies on decentralized event reactions. Shared models, strict sync/async, and tool bans are not part of the definition.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 65,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/error-compounding",
+    "difficulty": 1,
+    "question_text": "In a long multi-step agent task where each dependent step succeeds independently with probability p, why does end-to-end reliability often degrade faster than practitioners expect?",
+    "options": {
+      "1": "The model forgets its system prompt after a fixed number of steps, which triggers one abrupt failure late in the otherwise reliable task.",
+      "2": "Errors made in separate steps tend to cancel out over a long run, so the real risk is underconfidence rather than any compounding of failures.",
+      "3": "Latency accumulates roughly linearly across the steps, and this growing delay is the dominant cause of end-to-end task failure over time.",
+      "4": "Per-step success probabilities multiply, so even individually high reliability yields a product that falls sharply as the chain of dependent steps grows."
+    },
+    "correct_answer": "4",
+    "explanation": "For dependent steps, reliability is p to the power n, so it collapses quickly even when p is high. Errors do not cancel, there is no fixed forgetting point, and latency is a speed issue, not the reliability mechanism.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 66,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/agent-evaluation",
+    "difficulty": 1,
+    "question_text": "Why is evaluating an agent generally harder than evaluating a single LLM response?",
+    "options": {
+      "1": "Only the final answer matters for an agent, so its intermediate tool calls can be safely ignored during any careful scoring process.",
+      "2": "Agent outputs are fully deterministic, which removes the evaluator's ability to sample and compare multiple gradings of the same run.",
+      "3": "Agents always produce much longer text, so an evaluator simply needs more tokens of surrounding context to grade the response accurately.",
+      "4": "An agent produces a trajectory of interdependent actions, so correctness depends on the whole path and its side effects, not on one final string."
+    },
+    "correct_answer": "4",
+    "explanation": "Agents create action trajectories, so a correct final answer can hide a flawed path and side effects must be judged too. Length, false determinism, and ignoring intermediate calls all misstate why grading agents is hard.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 67,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/hybrid-search",
+    "difficulty": 1,
+    "question_text": "In advanced RAG, what is the main reason to combine dense (vector) retrieval with sparse (keyword) retrieval before a re-ranking stage?",
+    "options": {
+      "1": "Sparse retrieval captures meaning while dense retrieval only matches exact strings, so pairing them conveniently covers both retrieval needs at once.",
+      "2": "Combining the two removes any need for a re-ranking stage, because their union is already ordered perfectly by relevance to the input query.",
+      "3": "Dense retrieval captures semantic similarity while sparse retrieval catches exact terms like rare IDs, so together they raise recall before re-ranking.",
+      "4": "Dense and sparse retrieval return essentially identical candidate sets, so the combination mainly adds redundancy that improves overall reliability."
+    },
+    "correct_answer": "3",
+    "explanation": "Dense captures semantics and sparse catches exact rare terms, so their union boosts recall before a re-ranker sharpens precision. The reversed roles claim is factually wrong, and re-ranking is not made redundant.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 68,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/long-context-vs-rag",
+    "difficulty": 1,
+    "question_text": "Under which condition does putting all documents directly into a long context window tend to beat retrieval-augmented generation?",
+    "options": {
+      "1": "When the corpus is small enough to fit in context and reasoning needs information scattered across many parts that retrieval might fragment or miss.",
+      "2": "When the cost per query must be minimized, since sending a full long context is always cheaper than running a separate retrieval step.",
+      "3": "When exact keyword lookup is required, because a long context window performs literal string matching more reliably than a retriever does.",
+      "4": "When the corpus is far larger than any context window, since long context scales gracefully to an effectively unlimited number of documents."
+    },
+    "correct_answer": "1",
+    "explanation": "Long context wins when the corpus fits and reasoning must integrate scattered evidence that chunked retrieval could split. It does not scale past the window, is not a keyword matcher, and is usually costlier per query.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 69,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/graphrag",
+    "difficulty": 1,
+    "question_text": "What is the core idea that distinguishes GraphRAG from standard chunk-based RAG?",
+    "options": {
+      "1": "It guarantees that every retrieved fact is correct, because each edge in the graph is verified against an authoritative external database first.",
+      "2": "It stores document chunks as image graphs so that a vision model can read and scan through the material faster than it could read plain text.",
+      "3": "It builds a structured graph of entities and relationships from the corpus, so retrieval can traverse connections and answer questions that span many documents.",
+      "4": "It replaces the language model with a graph neural network that answers questions directly from edges without any text generation step at all."
+    },
+    "correct_answer": "3",
+    "explanation": "GraphRAG builds an entity-relationship graph so retrieval can traverse links and support multi-document, connective questions. It is not image storage, does not drop generation, and offers no correctness guarantee on edges.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 70,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/prompt-injection",
+    "difficulty": 1,
+    "question_text": "For a tool-using agent that reads untrusted web content, which is the most robust defense against prompt injection?",
+    "options": {
+      "1": "Add a strong system prompt that instructs the model to never follow any instructions that appear inside the retrieved external content it reads.",
+      "2": "Treat retrieved content as untrusted data and constrain the actions the agent may take on it, not just instruct the model to ignore malicious text.",
+      "3": "Increase the model size, since sufficiently large models become effectively immune to instructions injected through tool outputs and web pages.",
+      "4": "Encrypt the retrieved content before use, so that any injected instructions inside it cannot be parsed or acted on by the model at all."
+    },
+    "correct_answer": "2",
+    "explanation": "Robust defense treats external content as untrusted and limits privileged actions, since a model reading data can be steered by it. Instructions to ignore injections are bypassable, size does not confer immunity, and encryption fails once the model must read the text.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 71,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/reproducibility",
+    "difficulty": 1,
+    "question_text": "Why is exact reproducibility difficult to guarantee for LLM-based agents even at temperature zero?",
+    "options": {
+      "1": "Greedy decoding always yields byte-identical text on every machine, so any observed variation must be the result of a bug in the harness.",
+      "2": "The model retrains itself on each incoming query, so its underlying weights are different by the time the next identical request arrives to it.",
+      "3": "Temperature zero still samples randomly from the full distribution, so the produced text is expected to vary from one run to the next by design.",
+      "4": "Nondeterministic GPU floating-point reductions, and tool or environment state that changes between runs, can alter outputs even under greedy decoding."
+    },
+    "correct_answer": "4",
+    "explanation": "Even greedy decoding varies due to floating-point non-associativity, batching, and changing tool or environment state. Temperature zero is not random sampling, models do not retrain per query, and greedy output is not machine-identical.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 72,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/credit-assignment",
+    "difficulty": 1,
+    "question_text": "In a long-horizon agent task that ends in failure, why is credit assignment particularly hard?",
+    "options": {
+      "1": "Failure in a long task is always caused by the final action taken, so only that last step ever needs to be inspected to explain the outcome.",
+      "2": "The failure may stem from an early decision whose consequences only surfaced many steps later, making it hard to attribute the outcome to the responsible action.",
+      "3": "Every step in the trajectory contributes exactly equally to the outcome, so blame for the failure can simply be divided uniformly across steps.",
+      "4": "The reward signal is dense at every single step, so the action responsible for the eventual failure is immediately obvious from the trace."
+    },
+    "correct_answer": "2",
+    "explanation": "Credit assignment is hard because an early action can cause a much later failure, obscuring which step was responsible. Blame is not always on the last step, is not uniform, and long-horizon rewards are typically sparse, not dense.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 73,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-argument-hallucination",
+    "difficulty": 1,
+    "question_text": "An agent sometimes calls a valid tool but with fabricated argument values. Which mitigation most directly addresses this?",
+    "options": {
+      "1": "Validate arguments against the tool schema and known valid values before running, then re-prompt or reject when a value cannot be grounded.",
+      "2": "Give the model access to many more tools, so that it always has alternatives available whenever one particular call happens to fail at runtime.",
+      "3": "Raise the sampling temperature, so that the model considers a wider and more creative range of possible argument values on each attempt it makes.",
+      "4": "Remove the tool schema entirely, so that the model is free to choose whatever argument names and formats it prefers for each separate call."
+    },
+    "correct_answer": "1",
+    "explanation": "Schema and value validation before execution directly catches ungrounded arguments and enables re-prompting. Adding tools does not curb fabrication, raising temperature worsens it, and removing the schema removes the very check that helps.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 74,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/mcp-interoperability",
+    "difficulty": 1,
+    "question_text": "What does a standard agent-tool protocol such as the Model Context Protocol primarily aim to solve compared with ad-hoc function calling?",
+    "options": {
+      "1": "It defines a common interface so tools and data sources can be reused across different agents and hosts without bespoke integration for each pairing.",
+      "2": "It makes every tool call run faster by compiling the supplied function definitions down into native machine code before the agent executes them.",
+      "3": "It removes the need for the model to decide which tool to call, because the protocol itself selects the correct tool automatically for the agent.",
+      "4": "It guarantees that any tool connected through the protocol is secure and structurally incapable of leaking the data it is given access to."
+    },
+    "correct_answer": "1",
+    "explanation": "A standard protocol targets interoperability, letting the same tools plug into many agents without custom glue per pairing. It is not a compiler for speed, does not choose tools for the model, and provides no blanket security guarantee.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 75,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/autonomy-oversight",
+    "difficulty": 1,
+    "question_text": "Increasing an agent's autonomy by removing human-in-the-loop checkpoints has which characteristic tradeoff?",
+    "options": {
+      "1": "Throughput and speed rise while the cost of undetected errors grows, since fewer points remain to catch mistakes before they cause irreversible effects.",
+      "2": "Both error rates and latency fall together, because the human review stage was in practice the only real source of mistakes in the pipeline.",
+      "3": "Reproducibility improves substantially, because removing the human from the loop is what makes the overall system behave fully deterministically.",
+      "4": "The agent then needs fewer tools, because greater autonomy reduces the total number of distinct actions it is ever able to take on a task."
+    },
+    "correct_answer": "1",
+    "explanation": "Removing checkpoints buys speed but raises the cost of errors that now slip through unreviewed. Humans are not the sole error source, oversight removal does not make systems deterministic, and autonomy does not shrink the toolset.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 76,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/guardrail-placement",
+    "difficulty": 1,
+    "question_text": "Why might placing guardrails only on the final output of a tool-using agent be insufficient?",
+    "options": {
+      "1": "The input and tool-call layers cannot be inspected at runtime, so checking the final output is the only technically feasible option available.",
+      "2": "Tool actions can cause harmful or unauthorized effects during execution, so unsafe behavior must also be caught at the input and tool-call layers.",
+      "3": "Output guardrails noticeably slow down generation, so relocating them earlier in the pipeline is purely a latency optimization with no safety change.",
+      "4": "A well-aligned model always produces safe final outputs, so placing guardrails on those outputs is largely redundant work that can be removed."
+    },
+    "correct_answer": "2",
+    "explanation": "Agents act through tools mid-run, so harm can occur before any final output, requiring input and tool-layer checks. Output guardrails are not merely a latency concern, alignment is not a safety guarantee, and earlier layers are inspectable.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 77,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/agentic-rag",
+    "difficulty": 1,
+    "question_text": "What distinguishes agentic RAG from a standard retrieve-then-generate pipeline?",
+    "options": {
+      "1": "The agent decides dynamically whether, when, and what to retrieve, and can issue multiple targeted queries or skip retrieval based on the evolving task.",
+      "2": "It retrieves exactly once at the very start of the task and then never issues another query for the remainder of the interaction with the user.",
+      "3": "It removes the generation step altogether and returns the retrieved passages verbatim to the user as the complete answer to their question.",
+      "4": "It always retrieves a fixed number of chunks before generating anything, which ensures the context size stays consistent across every possible query."
+    },
+    "correct_answer": "1",
+    "explanation": "Agentic RAG lets the agent control retrieval dynamically, issuing multiple queries or none as the task needs. Fixed-count retrieval, verbatim passthrough, and retrieve-once behavior all describe the standard, non-agentic pipeline.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 78,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/cost-control",
+    "difficulty": 1,
+    "question_text": "In an open-ended agent loop, which strategy most directly controls runaway cost without simply degrading the underlying model?",
+    "options": {
+      "1": "Always switch to the single largest available model, since its stronger reasoning tends to finish any given task in far fewer overall steps.",
+      "2": "Increase the sampling temperature, so the agent explores a broader set of candidate solutions on every single iteration of the outer loop.",
+      "3": "Impose explicit budgets such as step, token, or tool-call limits with a stopping rule, so the loop halts once it passes a defined threshold.",
+      "4": "Remove all stopping conditions, so the agent is free to discover the cheapest possible path entirely on its own over the course of the run."
+    },
+    "correct_answer": "3",
+    "explanation": "Explicit budgets with a stopping rule bound cost directly without weakening the model. The largest model is usually costlier, removing stopping conditions invites runaway loops, and higher temperature adds exploration and expense.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 79,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/tool-call-caching",
+    "difficulty": 1,
+    "question_text": "What is the key correctness precondition for safely caching (memoising) an agent's tool call results?",
+    "options": {
+      "1": "The tool must be slow to run, since only expensive calls are ever worth caching regardless of how the tool actually behaves internally each time.",
+      "2": "The tool must modify some external state on every call, so that the cache can faithfully record each of those state changes for later replay.",
+      "3": "The tool must be effectively deterministic and free of side effects for a given input, so a stored result stays valid whenever it is reused.",
+      "4": "The tool must return a genuinely different result on each call, which is what ensures the contents of the cache always stay fresh over time."
+    },
+    "correct_answer": "3",
+    "explanation": "Caching is correct only when the tool is deterministic and side-effect-free for a given input, so replaying a stored result cannot be wrong. Slowness is about worthwhileness not correctness, and side effects or changing outputs make caching unsafe.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  },
+  {
+    "question_id": 80,
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "AgenticAI/verification-grounding",
+    "difficulty": 1,
+    "question_text": "Why does inserting verification or grounding steps between actions help most in long agent trajectories?",
+    "options": {
+      "1": "It guarantees the final answer is correct, because every step in the trajectory was independently checked before the agent moved onward.",
+      "2": "Catching and correcting an error early prevents it from propagating and compounding through later dependent steps, keeping the trajectory on track.",
+      "3": "It makes each individual step run faster, and that speedup is the main way the added verification improves the final accuracy of the task.",
+      "4": "It removes the need for any planning at all, since steps that have been verified along the way no longer require an overall plan to succeed."
+    },
+    "correct_answer": "2",
+    "explanation": "Verification between steps stops an early error from cascading into later dependent steps, which is where compounding does its damage. It does not replace planning, does not work by speeding up steps, and cannot guarantee a correct final answer.",
+    "t_expert_sec": 40,
+    "t_average_sec": 130,
+    "content_type": "text",
+    "discrimination_ratio": 3.2
+  }
+]

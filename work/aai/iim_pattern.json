@@ -1,0 +1,11 @@
+{
+  "duration_min": 60,
+  "section_order": ["VARC", "DILR", "QA"],
+  "pattern_questions": {"VARC": 11, "DILR": 11, "QA": 12},
+  "section_minutes": {"VARC": 20, "DILR": 20, "QA": 20},
+  "marks_per_correct": 3,
+  "marking": {
+    "mcq": {"correct": 3, "wrong": -1},
+    "tita": {"correct": 3, "wrong": 0}
+  }
+}

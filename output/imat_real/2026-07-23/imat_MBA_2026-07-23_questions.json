@@ -1,0 +1,2388 @@
+[
+  {
+    "question_id": 1,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 1,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.\n\nIt is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.\n\nThis has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with."
+    },
+    "question_text": "**The passage is primarily concerned with establishing which of the following?**",
+    "options": {
+      "1": "Credit scoring shows how a poorly constructed statistic can end up distorting the very market that comes to depend on it.",
+      "2": "Because quantitative indicators are routinely gamed, consequential decisions are better left to experienced human judgment.",
+      "3": "Social measures fail chiefly because those who design them pay too little attention to how the underlying quantity is defined.",
+      "4": "A measure's validity falls once it is given consequences, so refining its design cannot fix the problem."
+    },
+    "correct_answer": "4",
+    "explanation": "The passage argues that accuracy is a function of how consequential a measure has been allowed to become, and that refining the metric addresses the wrong variable. The appeal to human judgment is blocked by the paragraph on unaudited loan officers. Credit scoring is one illustration, not the thesis, and the passage explicitly says decay has little to do with care in construction.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 2,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 2,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.\n\nIt is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.\n\nThis has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with."
+    },
+    "question_text": "**The reference to loan officers working on intuition serves mainly to:**",
+    "options": {
+      "1": "suggest that decisions taken without written records can never be usefully audited",
+      "2": "establish that discretionary human judgment was historically more faithful to the world",
+      "3": "illustrate the process by which lenders learn to price loans off a managed score",
+      "4": "block the conclusion that dispensing with measurement would improve accuracy"
+    },
+    "correct_answer": "4",
+    "explanation": "The sentence follows 'The inference is too quick' and exists to deny the anti-quantification reading: unmeasured judgment was biased and its errors were uncorrectable. Saying intuition was more faithful reverses the point; the pricing of managed scores belongs to the earlier example; and 'never be usefully audited' overstates a remark about invisibility.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 3,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 3,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.\n\nIt is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.\n\nThis has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with."
+    },
+    "question_text": "**The author would agree with all of the following EXCEPT:**",
+    "options": {
+      "1": "A well specified metric retains its validity indefinitely if it is applied consistently.",
+      "2": "A statistic may describe its object reasonably well while its use stays confined to research.",
+      "3": "Errors produced by unaudited discretion are harder to correct than errors of formal measurement.",
+      "4": "Relying on several imperfect indicators at once costs a system some of its clarity of accountability."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage says better specification may buy time but cannot arrest the decay, so indefinite validity from good specification is exactly what is denied. The other three restate claims made about research-only statistics, invisible and therefore uncorrectable intuition, and the loss of crisp accountability when several indicators are kept in play.",
+    "t_expert_sec": 42,
+    "t_average_sec": 265,
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 4,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 4,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.\n\nIt is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.\n\nThis has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with."
+    },
+    "question_text": "**It can be inferred that the author regards the erosion of a measure's validity as:**",
+    "options": {
+      "1": "incentive-driven, and hence beyond the reach of purely technical refinement",
+      "2": "a consequence of borrowers and lenders misunderstanding what a score measures",
+      "3": "an unavoidable feature of every attempt to describe social behaviour in numbers",
+      "4": "slower in those cases where the measure has been constructed with greater care"
+    },
+    "correct_answer": "1",
+    "explanation": "The third paragraph attributes the process to the incentives that consequence creates rather than to measurement error, which is why refinement addresses the wrong variable. Erosion is tied to consequential use, not to all quantification, so the universal claim overreaches; the passage denies the link with care of construction; and misunderstanding is never offered as the mechanism.",
+    "t_expert_sec": 42,
+    "t_average_sec": 265,
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 5,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 5,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Economists have long treated their instruments as mirrors: a price index reflects inflation, an unemployment rate reflects idleness, a credit score reflects the risk that a borrower will default. The metaphor is convenient and, within limits, harmless. It becomes misleading the moment a measure acquires an audience. Once a credit score governs access to a mortgage, borrowers begin to manage the score rather than the prudence it was built to detect; lenders, in turn, price loans off the managed score. What began as a description of behaviour becomes one of the pressures that shape it. The measure is not merely inaccurate; it is productive.\n\nIt is tempting to read this as an indictment of quantification, and some critics do. The inference is too quick. Nothing in the argument shows that unmeasured judgment is more faithful to the world; loan officers working on intuition were biased in ways no one audited, and their errors, being invisible, were also uncorrectable. What the argument establishes is narrower and more awkward: the accuracy of a social measure is not a fixed property of the measure but a function of how consequential it has been allowed to become. A statistic used only by researchers may describe reasonably well what it claims to describe. The same statistic, once written into a contract or a regulation, begins to erode its own validity, and does so at a rate that has little to do with the care taken in its construction.\n\nThis has an uncomfortable corollary for institutional design. If validity decays with use, then the standard remedy, refining the metric, addresses the wrong variable. Better specification may buy time; it cannot arrest the process, because the process is driven not by measurement error but by the incentives that consequence creates. The alternatives are unattractive in different ways: rotate metrics before they are gamed, and lose comparability across periods; keep several imperfect indicators in play, and abandon the crisp accountability a single number provides; or make the metric one input among several to a judgment that remains discretionary, and therefore hard to challenge. None of these is a solution. Each is a choice about which kind of failure a system prefers to live with."
+    },
+    "question_text": "**Which of the following, if true, would most weaken the author's corollary for institutional design?**",
+    "options": {
+      "1": "Indicators published but never written into contracts decay at the same rate as those that are.",
+      "2": "Regulators in practice revise their key indicators as soon as any clear evidence of widespread gaming reaches them.",
+      "3": "Firms devote considerable resources to learning exactly how scoring models weight the inputs they receive.",
+      "4": "Certain metrics embedded in regulation have gone on predicting the outcomes they were built to target for several decades."
+    },
+    "correct_answer": "1",
+    "explanation": "The corollary depends on consequence being the driver of decay; equal decay in indicators with no consequences attached removes that causal link and leaves refinement no worse a remedy than anything else. Decades of durability is the closest trap, but the author already concedes that specification can buy time. Revision matches the rotation option offered, and firms studying model weights is the gaming the author describes.",
+    "t_expert_sec": 42,
+    "t_average_sec": 265,
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 6,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.\n\nA tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.\n\nThis reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.\n\nNone of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative."
+    },
+    "question_text": "**Which of the following comes closest to the claim the passage is defending?**",
+    "options": {
+      "1": "Reform programmes that export commercial codes to other jurisdictions should be discontinued as a matter of policy.",
+      "2": "Bankruptcy statutes and securities regulation are the two bodies of law least suited to transfer across borders.",
+      "3": "Transplants stall less from cultural mismatch than from missing shared expectation, which only local use builds.",
+      "4": "Legal transplants take root only in those societies that already share the values held by the exporting country."
+    },
+    "correct_answer": "3",
+    "explanation": "The second and fourth paragraphs make the stock of shared expectation, which cannot travel in a text, the binding constraint, and expressly downgrade fit with local values. Requiring shared values reverses that; abandoning reform is never recommended, since the author only relocates the difficulty; and the named statutes are examples rather than a ranking.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 7,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.\n\nA tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.\n\nThis reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.\n\nNone of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative."
+    },
+    "question_text": "**The author's principal objection to the cultural explanation is that it:**",
+    "options": {
+      "1": "draws its evidence almost entirely from transplants that are already known to have failed",
+      "2": "confuses the substance of a rule with the circumstances under which it was drafted",
+      "3": "can be reconciled with any observed result, and so accounts for nothing in particular",
+      "4": "understates the extent to which commercial habits differ from one society to another"
+    },
+    "correct_answer": "3",
+    "explanation": "The passage calls the cultural account loose enough to accommodate any outcome and treats that looseness as grounds for distrust, which is the standard charge of unfalsifiability. Nothing is said about selection of cases, the author does not claim habits differ more than culturalists allow, and no confusion of substance with drafting is alleged.",
+    "t_expert_sec": 35,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 8,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.\n\nA tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.\n\nThis reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.\n\nNone of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative."
+    },
+    "question_text": "**On the author's account, a transplanted consumer protection rule would be expected to become operative more slowly than a transplanted secured-lending rule mainly because:**",
+    "options": {
+      "1": "consumer protection sits in sharper conflict with the commercial customs prevailing locally",
+      "2": "consumers as a group tend to be much less aware of the legal remedies formally available to them",
+      "3": "the benefit from enforcing it is spread too thinly for repeated litigation to be worthwhile",
+      "4": "rules governing secured lending are drafted more simply and are easier for officials to apply"
+    },
+    "correct_answer": "3",
+    "explanation": "The mechanism given is that expectation is generated by frequent litigation, which requires a party whose stake is large enough to justify it; diffuse benefit therefore starves the process. Conflict with custom is the cultural story the author sets aside, drafting simplicity is never invoked, and low awareness is a plausible sounding substitute for the stake-size argument the passage actually makes.",
+    "t_expert_sec": 42,
+    "t_average_sec": 265,
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 9,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "Reformers who export institutions tend to work from a plausible premise: if a commercial code, a bankruptcy statute or a securities regulator produced prosperity in one place, the same text should help elsewhere. The record is not encouraging. Codes copied faithfully have been ignored, applied selectively, or absorbed into arrangements their drafters never imagined. The usual explanation is cultural: rules that suit one society's habits will not suit another's. That explanation is loose enough to accommodate any outcome, which is a reason to distrust it rather than a reason to accept it.\n\nA tighter account starts from what a rule is for. A rule does useful work only when parties can predict how others, including officials, will respond to its breach. That prediction rests on a stock of shared expectation built up through repeated enforcement, and such a stock cannot be imported, because it is not contained in the text. A transplanted rule therefore arrives without the very thing that made it effective at home. Whether it acquires one depends less on the fit between the rule and local values than on whether somebody with something to lose finds it worth invoking, repeatedly, before officials who face some cost for ignoring it.\n\nThis reframing has consequences. It predicts that transplants will take hold in narrow commercial domains, where a few well resourced parties litigate often, before they take hold in areas of diffuse benefit, where no single stake is large enough to sustain the litigation that generates expectation. It also predicts that the most durable transplants may be the least faithful: rules bent to serve interests that already existed get enforced, while pristine copies gather dust. Reformers who measure success by fidelity to the model will therefore misread their own results, treating as failure the drift that is the mechanism of adoption.\n\nNone of this restores the reformers' optimism; it relocates the difficulty. The obstacle is not that societies are incompatible with foreign rules, but that the asset which makes rules work is produced slowly, locally, and only as a by-product of use. Where no one uses a rule, no argument about its merits will make it operative."
+    },
+    "question_text": "**The author would agree with all of the following EXCEPT:**",
+    "options": {
+      "1": "Departures from the imported text can form part of the very process by which a rule is adopted.",
+      "2": "How a rule works depends on what parties predict officials will do when the rule is breached.",
+      "3": "Where local values are hostile to an imported rule, enforcement cannot make it effective.",
+      "4": "Transplants settle sooner in those fields where a small number of parties go to court frequently."
+    },
+    "correct_answer": "3",
+    "explanation": "The passage makes repeated invocation before officials who bear a cost for inaction the decisive factor and treats fit with local values as secondary, so a veto by hostile values contradicts it. The other three restate the prediction-of-response account, the claim that the least faithful transplants may be the most durable, and the prediction about narrow commercial domains.",
+    "t_expert_sec": 42,
+    "t_average_sec": 265,
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**"
+  },
+  {
+    "question_id": 10,
+    "section": "VARC",
+    "set_id": "VARC-ODD-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Every map begins with an act of omission, since a representation that kept all the detail of a place would be as unusable as the place itself.\n(2) The cartographer must therefore decide in advance which features a reader will need and which can be silently discarded.\n(3) Recent surveys report that most commuters now consult digital route planners rather than printed atlases.\n(4) Those early decisions harden over time into conventions, and later users mistake the conventions for properties of the world.\n(5) What looks like a neutral record of terrain is thus the residue of a long series of judgements about relevance.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentences 1, 2, 4 and 5 build one argument: maps must omit, so a cartographer selects, the selections become conventions, and the finished map is therefore a record of judgements about relevance. Sentence 3 makes an empirical claim about which media commuters use today, which contributes nothing to the argument about selection and is the misfit. Sentence 1 is the natural opener, 2 follows from it through therefore, and 5 is the closing generalisation, so none of those can be removed without breaking the chain.",
+    "t_expert_sec": 40,
+    "t_average_sec": 205,
+    "group_id": "VARC-ODD",
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 11,
+    "section": "VARC",
+    "set_id": "VARC-ODD-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) Experts seldom deliberate over the moves that most impress onlookers; they recognise a familiar pattern and act before reasons are available to them.\n(2) Such fluency is bought by long exposure to situations that return prompt and unambiguous feedback.\n(3) Where the feedback is delayed or noisy, however, long experience yields confidence without yielding accuracy.\n(4) Novices, by contrast, report that they enjoy the earliest stages of learning a craft far more than the later ones.\n(5) Intuition therefore deserves trust only after one has asked what the environment has actually been teaching.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "1",
+      "5": "2"
+    },
+    "correct_answer": "2",
+    "explanation": "Sentences 1, 2, 3 and 5 form a single line of reasoning about when expert intuition can be trusted: it looks effortless, it depends on good feedback, it fails where feedback is poor, and the practical rule follows. Sentence 4 reports how much novices enjoy learning, a claim about affect rather than about the reliability of intuition, so it is the outsider. Sentence 3 cannot be the answer because however marks exactly the contrast that sentence 5 then resolves.",
+    "t_expert_sec": 40,
+    "t_average_sec": 210,
+    "group_id": "VARC-ODD",
+    "content_type": "text",
+    "discrimination_ratio": 5.2
+  },
+  {
+    "question_id": 12,
+    "section": "VARC",
+    "set_id": "VARC-ODD-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 1.0,
+    "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) A quantity chosen to stand for a goal starts to be pursued for its own sake as soon as rewards are attached to it.\n(2) Staff learn quickly which parts of their work are counted, and effort drains away from everything that is not.\n(3) The published figures then improve while the purpose they were meant to serve quietly deteriorates.\n(4) Organisations often adopt measurement schemes less to inform their own decisions than to demonstrate propriety to outside audiences.\n(5) Auditors, reading only the figures, record success and recommend that the scheme be extended to further departments.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "2",
+      "4": "3",
+      "5": "1"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentences 1, 2, 3 and 5 trace one causal sequence: attaching rewards to an indicator redirects effort, the indicator rises as the underlying purpose decays, and auditors who see only the indicator extend the scheme. Sentence 4 stays on the same subject but shifts the level of analysis, explaining why organisations take up measurement at all rather than what measurement does to behaviour, and it plays no part in the causal chain. Sentence 5 belongs because it supplies the consequence of the improved figures named in sentence 3.",
+    "t_expert_sec": 45,
+    "t_average_sec": 240,
+    "group_id": "VARC-ODD",
+    "content_type": "text",
+    "discrimination_ratio": 5.3
+  },
+  {
+    "question_id": 13,
+    "section": "VARC",
+    "set_id": "VARC-ODD-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 1.0,
+    "question_text": "Five sentences are given below, labelled 1 to 5. Four of them can be arranged to form a coherent paragraph. Identify the sentence that does not belong.\n\n(1) No translator can carry every feature of a sentence across, so the work consists largely in deciding what to give up.\n(2) Readers tend to praise the translations that read most smoothly and to distrust those that preserve the strangeness of the original.\n(3) A pun that depends on sound may be replaced by one that depends on sense, on the ground that the joke matters more than its mechanism.\n(4) Rhythm surrendered in one line is sometimes repaid in another, the debt being settled across the page rather than within it.\n(5) Every such compensation is an argument about which layer of the original counts as the text itself.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "1",
+      "2": "4",
+      "3": "5",
+      "4": "2",
+      "5": "3"
+    },
+    "correct_answer": "4",
+    "explanation": "Sentences 1, 3, 4 and 5 describe the translator's own practice: loss is unavoidable, so features are traded and debts are repaid elsewhere, and each trade amounts to a claim about what the text essentially is. Sentence 2 describes how readers receive finished translations, a claim about reception rather than about the decisions being made, and the paragraph neveruses it. Sentence 4 is not the misfit because the repayment it describes is one instance of the compensation that sentence 5 generalises.",
+    "t_expert_sec": 45,
+    "t_average_sec": 245,
+    "group_id": "VARC-ODD",
+    "content_type": "text",
+    "discrimination_ratio": 5.4
+  },
+  {
+    "question_id": 14,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) That demand is what makes boredom productive, since it pushes the mind to supply what the surroundings withhold.\n(2) Boredom is usually described as an absence, the gap left when nothing outside us claims our attention.\n(3) But the state has a content of its own, a restless demand that the world become more interesting than it is.\n(4) Children left with nothing to do therefore stay idle only briefly, building a game out of whatever lies nearest.\n\n**Which of the following is the correct order of the sentences?**",
+    "options": {
+      "1": "2341",
+      "2": "2314",
+      "3": "3241",
+      "4": "2134"
+    },
+    "correct_answer": "2",
+    "explanation": "Sentence 2 gives the standard description and must open. Sentence 3 begins with But and corrects that description by introducing the restless demand. Sentence 1 picks that demand up with That demand, so it can only follow. Sentence 4 closes with therefore and an illustration. The order beginning 2134 fails because That demand has no antecedent yet, 3241 puts the correction before what it corrects, and 2341 leaves sentence 1 stranded after the example it explains.",
+    "t_expert_sec": 35,
+    "t_average_sec": 195,
+    "group_id": "VARC-JUMBLE",
+    "content_type": "text",
+    "discrimination_ratio": 5.6
+  },
+  {
+    "question_id": 15,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) Once the date is fixed, the remaining hours acquire a rank, and the work is fitted to those that are left.\n(2) This is why arbitrary dates can serve as well as reasoned ones, provided they are actually believed.\n(3) A deadline works less by adding motivation than by removing alternatives.\n(4) Until a date is fixed, every hour is a candidate for the task and no hour is obliged to be.\n\n**Which of the following is the correct order of the sentences?**",
+    "options": {
+      "1": "3421",
+      "2": "3142",
+      "3": "3412",
+      "4": "4312"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentence 3 states the thesis about removing alternatives and opens. Sentences 4 and 1 form the matched pair Until a date is fixed and Once the date is fixed, in that order, since the second echoes the first. Sentence 2 draws the inference with This is why and must end. The order 3142 breaks the Until and Once pair, 4312 buries the thesis, and 3421 places the inference before the mechanism it depends on.",
+    "t_expert_sec": 35,
+    "t_average_sec": 195,
+    "group_id": "VARC-JUMBLE",
+    "content_type": "text",
+    "discrimination_ratio": 5.6
+  },
+  {
+    "question_id": 16,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The only reliable lever, then, is conduct that gives those custodians something else to carry.\n(2) Its custodians are third parties, who pass it on for reasons of their own and revise it without notice.\n(3) Reputation is information about us that we do not own and cannot directly edit.\n(4) This dependence explains why attempts at correction so often deepen the damage, for a correction is itself testimony and it travels.\n\n**Which of the following is the correct order of the sentences?**",
+    "options": {
+      "1": "3421",
+      "2": "2431",
+      "3": "3241",
+      "4": "2341"
+    },
+    "correct_answer": "3",
+    "explanation": "Only sentence 3 introduces reputation as a full noun, so the pronoun Its in sentence 2 must come after it. Sentence 4 opens with This dependence, which refers to the reliance on third parties just established, and sentence 1 closes with then and with those custodians. The order 2341 and 2431 both strand the pronoun Its ahead of its antecedent, and 3421 makes This dependence point at nothing but the definition.",
+    "t_expert_sec": 40,
+    "t_average_sec": 235,
+    "group_id": "VARC-JUMBLE",
+    "content_type": "text",
+    "discrimination_ratio": 5.9
+  },
+  {
+    "question_id": 17,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) A first reading of anything difficult is mostly navigation, since we are still learning where the parts are.\n(2) Readers who skip it are not saving time; they are trading comprehension for the feeling of having finished.\n(3) For this reason a second reading is not a repetition but a different task, undertaken with the map the first reading drew.\n(4) Only once the shape is known can attention be spent on the joints, which is where arguments usually fail.\n\n**Which of the following is the correct order of the sentences?**",
+    "options": {
+      "1": "4132",
+      "2": "1342",
+      "3": "1432",
+      "4": "1423"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentence 1 must open, because Only once the shape is known in sentence 4 presupposes the navigating first reading. Sentence 3 then draws the conclusion with For this reason, and the pronoun it in sentence 2 refers to the second reading named there, so sentence 2 comes last. The order 1342 puts the conclusion before the reason, 4132 opens with a clause that has nothing to refer back to, and 1423 leaves it without its antecedent.",
+    "t_expert_sec": 40,
+    "t_average_sec": 240,
+    "group_id": "VARC-JUMBLE",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 18,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, are not in order. Arrange them into a logical paragraph.\n\n(1) The reason travels less well than the exception, since the reason was particular and the exception is not.\n(2) What began as mercy is then read as entitlement, and the rule survives only as a memory.\n(3) Administrators who grasp this record their reasons loudly, hoping the record will do the limiting work the rule no longer can.\n(4) Every exception granted for a good reason becomes a fact that later applicants are free to cite.\n\n**Which of the following is the correct order of the sentences?**",
+    "options": {
+      "1": "4213",
+      "2": "1423",
+      "3": "4132",
+      "4": "4123"
+    },
+    "correct_answer": "4",
+    "explanation": "Sentence 4 must open, because the definite phrase The reason in sentence 1 refers back to the good reason mentioned there. Sentence 2 follows with then, marking the end point of the drift, and sentence 3 responds to the whole process with this. The order 1423 begins with a reference that has no antecedent, 4213 reverses the drift and its explanation, and 4132 makes this point at an explanation rather than at the completed process.",
+    "t_expert_sec": 40,
+    "t_average_sec": 245,
+    "group_id": "VARC-JUMBLE",
+    "content_type": "text",
+    "discrimination_ratio": 6.1
+  },
+  {
+    "question_id": 19,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Infrastructure is noticed chiefly when it fails. A water main, a switching station, a clearing house: each is built to disappear into the routines it supports, and its success is measured by how little thought it demands. The consequence is political rather than technical. Systems nobody thinks about attract neither scrutiny nor investment, and their upkeep competes badly with projects that can be photographed. Failure then arrives as a surprise, and the surprise is used to argue that nobody could have foreseen it.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Public money should be redirected from photogenic new construction towards the unglamorous upkeep of water mains, switching stations and clearing houses.",
+      "2": "Infrastructure fails because engineers deliberately design systems to disappear, and systems that are invisible are inherently more fragile than visible ones.",
+      "3": "Since infrastructure failures are always surprises, the political value of such systems lies in the attention that their breakdowns finally bring to them.",
+      "4": "Designed to go unnoticed, working infrastructure draws little scrutiny or funding, so its breakdowns look unforeseeable when they were merely unattended."
+    },
+    "correct_answer": "4",
+    "explanation": "The paragraph links invisibility to neglect and neglect to apparently unforeseeable failure, which is exactly what the summary about unattended breakdowns captures. The claim that invisible systems are inherently more fragile substitutes a technical mechanism the paragraph explicitly rejects. The call to redirect public money is a recommendation the paragraph never makes. Treating breakdowns as valuable attention inverts the point that the surprise is used as an excuse.",
+    "t_expert_sec": 45,
+    "t_average_sec": 235,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.2,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 20,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Averaging many independent guesses often beats the best single guess, because errors pointing in opposite directions cancel. The condition doing the work is independence. Once the guessers can hear one another, their errors begin to align, and the average inherits a bias instead of shedding one. Committees that deliberate before voting therefore give up much of the advantage voting was supposed to secure, and the confidence produced by agreement rises just as the accuracy it is taken to signal falls.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Confidence is a poor guide to accuracy, since agreement inside a group can show only that its members have all been exposed to the same limited information.",
+      "2": "Groups outperform their ablest members because pooling opinions cancels error, which is why committees ought always to vote instead of trusting one expert.",
+      "3": "Aggregation improves accuracy only while guesses stay independent; discussion correlates errors, so deliberating groups gain confidence and lose accuracy.",
+      "4": "Deliberation harms committees chiefly because the members who happen to speak first impose their own private biases on all of those who speak later."
+    },
+    "correct_answer": "3",
+    "explanation": "The paragraph makes independence the load-bearing condition and ends on the divergence between rising confidence and falling accuracy, which the summary naming both captures. The version recommending that committees always vote keeps the cancelling of errors but drops the condition that makes it work. The claim about who speaks first invents a mechanism. The remark about confidence alone reports one consequence and omits independence entirely.",
+    "t_expert_sec": 45,
+    "t_average_sec": 240,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.3,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 21,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Options are usually treated as free, on the view that holding one costs nothing until it is exercised. In practice every open possibility levies a quiet charge: some attention reserved, some commitment withheld, some relationship kept provisional. Because the charge is never invoiced, options accumulate well past the point where their combined upkeep exceeds anything they could deliver. The person who cannot choose is not made richer by the alternatives; the alternatives are consuming the very capacity that choosing would have released.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Open possibilities exact hidden upkeep in attention and commitment, so options collected beyond a point cost more than they could ever deliver.",
+      "2": "Because an option costs nothing at all until it is exercised, a rational person should hold as many as possible and delay commitment for as long as possible.",
+      "3": "Indecisive people are poorer than decisive ones, because real wealth consists in commitments actually made rather than in alternatives that remain available.",
+      "4": "The chief trouble with unexercised options is that their true price is never invoiced, which makes any accounting of their value unreliable in practice."
+    },
+    "correct_answer": "1",
+    "explanation": "The paragraph identifies a hidden cost of holding options and locates a threshold past which the cost outweighs the benefit, which the summary about upkeep exceeding delivery states. The advice to hold as many options as possible repeats the view the paragraph is arguing against. The claim about indecisive people being poorer generalises into a thesis about wealth that the text does not assert. The uninvoiced price is only the reason the cost goes unnoticed, not the main point.",
+    "t_expert_sec": 45,
+    "t_average_sec": 235,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.2,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 22,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "Forecasts about human affairs are not merely difficult; they are ingredients. A published prediction of shortage produces hoarding, and a published prediction of stability invites the risk-taking that ends it. This does not make forecasting useless, but it changes what accuracy could mean, since a forecast can be judged only against the world it helped to make, and a forecast that is widely ignored may be the only one ever fairly tested. Practitioners who forget this treat their failures as errors of measurement and answer them by refining instruments that were never the problem.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Predictions about human affairs are self-fulfilling, so forecasters should publish nothing until their instruments are accurate enough to withstand contact with the public.",
+      "2": "Predictions about human affairs alter the conditions they describe, so accuracy can be judged only against an already altered world, and better instruments cannot help.",
+      "3": "Social forecasts change the behaviour they describe, which is why only those forecasts that nobody happens to notice can ever be tested fairly against events.",
+      "4": "Failures of social forecasting come from measurement error, and sharper instruments will in time let practitioners predict hoarding and risk-taking reliably enough."
+    },
+    "correct_answer": "2",
+    "explanation": "The paragraph's main claim is that because forecasts feed back into events, accuracy must be redefined and better instruments cannot rescue the enterprise, which is the summary mentioning both the altered world and the instruments. The version about forecasts nobody notices repeats a subordinate aside and leaves out the conclusion about measurement. The advice to publish nothing adds a prescription and treats every forecast as self-fulfilling, which the shortage and stability cases contradict. Blaming measurement error states the mistake the paragraph diagnoses.",
+    "t_expert_sec": 45,
+    "t_average_sec": 255,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 23,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "A standard is valuable in proportion to how many people already use it, so its merits and its market share are hard to tell apart. Once adoption passes a threshold, the standard is defended by everything built on top of it, and a technically superior rival must compensate not for a small gap in quality but for the whole accumulated weight of compatibility. Arguments about which standard is better therefore arrive too late to matter, and the winner's supporters read its survival as evidence that the argument was settled on the merits.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Technically superior standards displace entrenched ones eventually, provided their supporters can show that the original choice was never really settled on the merits.",
+      "2": "A standard's worth grows with its user base, so entrenched standards defeat better rivals through compatibility, and survival is then misread as proof of merit.",
+      "3": "Because compatibility counts for more than quality, users should simply adopt whichever standard is most widely used instead of assessing competing designs themselves.",
+      "4": "A standard's dominance owes far more to the number of people using it than to its quality, so late arguments about technical merit rarely change which one prevails."
+    },
+    "correct_answer": "2",
+    "explanation": "The paragraph moves from network value to compatibility lock-out and ends with the mistaken inference from survival to superiority, all three of which the summary about misread survival preserves. The version about late arguments is accurate as far as it goes but stops before that inference, which is the paragraph's sting. The claim that superior standards eventually win reverses the argument. The advice to adopt the most popular standard converts a diagnosis into guidance the text does not offer.",
+    "t_expert_sec": 45,
+    "t_average_sec": 255,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.7,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 24,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "An archive looks like a residue of the past, but it is a residue of past decisions about what would be worth keeping. Records survive because someone was obliged to file them, and the obligations fell unevenly, heavily on property and litigation and hardly at all on ordinary agreement. Historians who read the surviving mass as a sample of what happened therefore reconstruct a world of disputes and transactions and miss the settled life around them. The remedy is not more documents but a habit of asking, of every silence, whether it records an absence or only an exemption from paperwork.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Because filing obligations bore most heavily on property and litigation, surviving archives over-represent disputes and transactions at the expense of ordinary agreement.",
+      "2": "Every silence in an archive records a genuine absence, which is why the past appears to consist mainly of litigation, transactions and disputes rather than agreement.",
+      "3": "Historians ought to seek out further documents about settled everyday life, since the archives that do survive were shaped by the interests of owners and courts.",
+      "4": "Archives keep whatever filing duties happened to capture, so reading them as a fair sample distorts the past unless each silence is itself interrogated."
+    },
+    "correct_answer": "4",
+    "explanation": "The paragraph diagnoses a bias created by uneven filing duties and then prescribes a way of reading silences, and only the summary combining distortion with interrogating silences carries both halves. The statement about property and litigation is true but stops at the diagnosis and omits the remedy. The suggestion to seek more documents is precisely the remedy the text rules out. The assertion that every silence records a real absence states the error the paragraph warns against.",
+    "t_expert_sec": 50,
+    "t_average_sec": 260,
+    "group_id": "VARC-SUMMARY",
+    "content_type": "text",
+    "discrimination_ratio": 5.2,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 25,
+    "section": "DILR",
+    "group_id": "DILR-1",
+    "set_id": "DILR-1",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.\n\n- Lena's audit took place before Marco's, and Marco's took place before Omar's.\n- Cedar was audited on Wednesday.\n- Nadia audited Alpha, on the day immediately after Priya's audit.\n- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.\n- Lena did not audit Cedar.\n- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.\n- Priya's score was lower than both Nadia's score and Omar's score."
+    },
+    "question_text": "**Which inspector audited Birch?**",
+    "options": {
+      "1": "Priya",
+      "2": "Nadia",
+      "3": "Lena",
+      "4": "Marco"
+    },
+    "correct_answer": "4",
+    "explanation": "Dune is Friday and Cedar is Wednesday, so the Nadia-immediately-after-Priya pair must sit inside Monday to Thursday. With Lena before Marco before Omar, Omar is pushed to Friday (Dune) and the only consistent fit is Lena Monday, Marco Tuesday, Priya Wednesday, Nadia Thursday. Since Nadia has Alpha, Priya has Cedar and Elm must precede Birch, Lena takes Elm on Monday and Marco takes Birch on Tuesday. Naming Priya or Nadia ignores that their sites are already fixed as Cedar and Alpha, and naming Lena ignores the Elm-before-Birch order.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "S=[(i,t,c) for i in permutations(['Lena','Marco','Nadia','Omar','Priya']) if i.index('Lena')<i.index('Marco')<i.index('Omar') and i.index('Nadia')==i.index('Priya')+1 for t in permutations(['Alpha','Birch','Cedar','Dune','Elm']) if t[2]=='Cedar' and t[4]=='Dune' and t.index('Elm')<t.index('Birch') and t[i.index('Nadia')]=='Alpha' and t[i.index('Lena')]!='Cedar' for c in permutations([12,15,18,21,24]) if c[t.index('Elm')]==18 and c[i.index('Marco')]==c[i.index('Nadia')]+9 and c[i.index('Priya')]<c[i.index('Nadia')] and c[i.index('Priya')]<c[i.index('Omar')]]; '4' if len(S)==1 and S[0][0][S[0][1].index('Birch')]=='Marco' else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 26,
+    "section": "DILR",
+    "group_id": "DILR-1",
+    "set_id": "DILR-1",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.\n\n- Lena's audit took place before Marco's, and Marco's took place before Omar's.\n- Cedar was audited on Wednesday.\n- Nadia audited Alpha, on the day immediately after Priya's audit.\n- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.\n- Lena did not audit Cedar.\n- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.\n- Priya's score was lower than both Nadia's score and Omar's score."
+    },
+    "question_text": "**What is the combined compliance score of the Monday audit and the Friday audit?**",
+    "options": {
+      "1": "42",
+      "2": "33",
+      "3": "30",
+      "4": "39"
+    },
+    "correct_answer": "4",
+    "explanation": "The schedule is Lena Monday Elm, Marco Tuesday Birch, Priya Wednesday Cedar, Nadia Thursday Alpha, Omar Friday Dune. Elm scored 18, so Lena has 18. Marco being 9 above Nadia leaves the pairs 24 with 15 or 21 with 12; the second pair forces Nadia to 12, which contradicts Priya being lower than Nadia, so Marco has 24 and Nadia 15. Priya then takes 12 and Omar 21, giving 18 plus 21 equals 39. The value 42 comes from pairing 18 with 24, 33 from using Nadia's 15 and 30 from using Priya's 12.",
+    "t_expert_sec": 50,
+    "t_average_sec": 320,
+    "verification": {
+      "expr": "S=[(i,t,c) for i in permutations(['Lena','Marco','Nadia','Omar','Priya']) if i.index('Lena')<i.index('Marco')<i.index('Omar') and i.index('Nadia')==i.index('Priya')+1 for t in permutations(['Alpha','Birch','Cedar','Dune','Elm']) if t[2]=='Cedar' and t[4]=='Dune' and t.index('Elm')<t.index('Birch') and t[i.index('Nadia')]=='Alpha' and t[i.index('Lena')]!='Cedar' for c in permutations([12,15,18,21,24]) if c[t.index('Elm')]==18 and c[i.index('Marco')]==c[i.index('Nadia')]+9 and c[i.index('Priya')]<c[i.index('Nadia')] and c[i.index('Priya')]<c[i.index('Omar')]]; '4' if len(S)==1 and S[0][2][0]+S[0][2][4]==39 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.4,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 27,
+    "section": "DILR",
+    "group_id": "DILR-1",
+    "set_id": "DILR-1",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.\n\n- Lena's audit took place before Marco's, and Marco's took place before Omar's.\n- Cedar was audited on Wednesday.\n- Nadia audited Alpha, on the day immediately after Priya's audit.\n- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.\n- Lena did not audit Cedar.\n- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.\n- Priya's score was lower than both Nadia's score and Omar's score."
+    },
+    "question_text": "**Which of the following statements is true?**",
+    "options": {
+      "1": "Priya recorded the lowest of the five scores and worked on Wednesday.",
+      "2": "Lena audited Elm and scored higher than Marco did on the same week.",
+      "3": "Omar recorded the highest of the five scores, and he worked on Friday.",
+      "4": "Nadia audited Alpha on the day immediately before Cedar was audited."
+    },
+    "correct_answer": "1",
+    "explanation": "The unique solution is Lena Monday Elm 18, Marco Tuesday Birch 24, Priya Wednesday Cedar 12, Nadia Thursday Alpha 15, Omar Friday Dune 21. Priya's 12 is indeed the lowest score and her day is Wednesday. Omar does work on Friday but 21 is not the highest score, since Marco has 24. Nadia's Thursday comes after, not before, the Wednesday Cedar audit. Lena did audit Elm but her 18 is below Marco's 24.",
+    "t_expert_sec": 45,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "S=[(i,t,c) for i in permutations(['Lena','Marco','Nadia','Omar','Priya']) if i.index('Lena')<i.index('Marco')<i.index('Omar') and i.index('Nadia')==i.index('Priya')+1 for t in permutations(['Alpha','Birch','Cedar','Dune','Elm']) if t[2]=='Cedar' and t[4]=='Dune' and t.index('Elm')<t.index('Birch') and t[i.index('Nadia')]=='Alpha' and t[i.index('Lena')]!='Cedar' for c in permutations([12,15,18,21,24]) if c[t.index('Elm')]==18 and c[i.index('Marco')]==c[i.index('Nadia')]+9 and c[i.index('Priya')]<c[i.index('Nadia')] and c[i.index('Priya')]<c[i.index('Omar')]]; '1' if len(S)==1 and S[0][0].index('Priya')==2 and S[0][2][2]==min(S[0][2]) else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.7,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 28,
+    "section": "DILR",
+    "group_id": "DILR-1",
+    "set_id": "DILR-1",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five inspectors (Lena, Marco, Nadia, Omar and Priya) each audited exactly one of five sites (Alpha, Birch, Cedar, Dune and Elm) during a single working week. Every inspector worked on a different weekday from Monday to Friday, and no site was visited twice. Each audit received a distinct compliance score from the list 12, 15, 18, 21 and 24.\n\n- Lena's audit took place before Marco's, and Marco's took place before Omar's.\n- Cedar was audited on Wednesday.\n- Nadia audited Alpha, on the day immediately after Priya's audit.\n- Elm was audited earlier in the week than Birch, and Dune was audited on Friday.\n- Lena did not audit Cedar.\n- The Elm audit scored 18, and Marco's score was exactly 9 more than Nadia's.\n- Priya's score was lower than both Nadia's score and Omar's score."
+    },
+    "question_text": "**Suppose the information that Dune was audited on Friday is replaced by the information that Dune was audited on Thursday, with every other statement unchanged. Which site is then audited on Friday?**",
+    "options": {
+      "1": "Cedar",
+      "2": "Birch",
+      "3": "Dune",
+      "4": "Alpha"
+    },
+    "correct_answer": "4",
+    "explanation": "With Dune on Thursday and Cedar on Wednesday, the consecutive Priya then Nadia pair can only be Thursday then Friday, so Nadia takes Friday with Alpha. Lena before Marco before Omar then fills Monday, Tuesday and Wednesday in that order, and Elm before Birch forces Lena on Elm and Marco on Birch, leaving Omar with Cedar on Wednesday and Priya with Dune on Thursday. Cedar and Dune are ruled out by their stated days, and Birch is locked to Tuesday by the ordering.",
+    "t_expert_sec": 60,
+    "t_average_sec": 380,
+    "verification": {
+      "expr": "S=[(i,t,c) for i in permutations(['Lena','Marco','Nadia','Omar','Priya']) if i.index('Lena')<i.index('Marco')<i.index('Omar') and i.index('Nadia')==i.index('Priya')+1 for t in permutations(['Alpha','Birch','Cedar','Dune','Elm']) if t[2]=='Cedar' and t[3]=='Dune' and t.index('Elm')<t.index('Birch') and t[i.index('Nadia')]=='Alpha' and t[i.index('Lena')]!='Cedar' for c in permutations([12,15,18,21,24]) if c[t.index('Elm')]==18 and c[i.index('Marco')]==c[i.index('Nadia')]+9 and c[i.index('Priya')]<c[i.index('Nadia')] and c[i.index('Priya')]<c[i.index('Omar')]]; '4' if len(S)==1 and S[0][1][4]=='Alpha' else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 29,
+    "section": "DILR",
+    "group_id": "DILR-2",
+    "set_id": "DILR-2",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.\n\n- Crate M rests immediately above crate K.\n- Exactly two crates lie between L and M.\n- R is neither at the bottom nor at the top of the tower.\n- O is somewhere above L.\n- Exactly one crate lies between N and R."
+    },
+    "question_text": "**Which crate is at the bottom of the tower?**",
+    "options": {
+      "1": "K",
+      "2": "L",
+      "3": "N",
+      "4": "R"
+    },
+    "correct_answer": "3",
+    "explanation": "The K then M block plus two crates between L and M leaves only a few layouts, and requiring exactly one crate between N and R while R avoids both ends fixes the tower as N, L, R, K, M, O from bottom to top. So N is at the bottom. L sits second, K fourth and R is barred from position 1 outright by the end restriction.",
+    "t_expert_sec": 40,
+    "t_average_sec": 250,
+    "verification": {
+      "expr": "S=[p for p in permutations(['K','L','M','N','O','R']) if p.index('M')==p.index('K')+1 and abs(p.index('L')-p.index('M'))==3 and p.index('R') not in (0,5) and abs(p.index('N')-p.index('R'))==2 and p.index('O')>p.index('L')]; '3' if len(S)==1 and S[0][0]=='N' else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 30,
+    "section": "DILR",
+    "group_id": "DILR-2",
+    "set_id": "DILR-2",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.\n\n- Crate M rests immediately above crate K.\n- Exactly two crates lie between L and M.\n- R is neither at the bottom nor at the top of the tower.\n- O is somewhere above L.\n- Exactly one crate lies between N and R."
+    },
+    "question_text": "**How many crates rest above R?**",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "2",
+      "4": "1"
+    },
+    "correct_answer": "1",
+    "explanation": "The tower is N, L, R, K, M, O from bottom to top, so R occupies position 3 and the crates K, M and O lie above it, giving 3. Answering 2 counts only the K and M block, 4 comes from placing R at position 2 and 1 comes from reading the stack top down instead of bottom up.",
+    "t_expert_sec": 40,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "S=[p for p in permutations(['K','L','M','N','O','R']) if p.index('M')==p.index('K')+1 and abs(p.index('L')-p.index('M'))==3 and p.index('R') not in (0,5) and abs(p.index('N')-p.index('R'))==2 and p.index('O')>p.index('L')]; '1' if len(S)==1 and 5-S[0].index('R')==3 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.5,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 31,
+    "section": "DILR",
+    "group_id": "DILR-2",
+    "set_id": "DILR-2",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Six crates labelled K, L, M, N, O and R are stacked one above another in a single tower. Position 1 is the bottom of the tower and position 6 is the top, and each position holds exactly one crate.\n\n- Crate M rests immediately above crate K.\n- Exactly two crates lie between L and M.\n- R is neither at the bottom nor at the top of the tower.\n- O is somewhere above L.\n- Exactly one crate lies between N and R."
+    },
+    "question_text": "**If the condition that O is somewhere above L is dropped and all the other conditions still hold, how many different stacking orders are possible?**",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "2",
+      "4": "5"
+    },
+    "correct_answer": "2",
+    "explanation": "Without the O above L condition, the K then M block can sit at positions 1 and 2, 4 and 5 or 5 and 6 while keeping two crates between L and M, R off both ends and exactly one crate between N and R. Checking each case gives K M O R L N, N L R K M O, O N L R K M and O R L N K M, so 4 orders survive. Answering 3 misses the case with the block at the very bottom, while 5 and 2 come from mishandling the N and R gap.",
+    "t_expert_sec": 55,
+    "t_average_sec": 330,
+    "verification": {
+      "expr": "S=[p for p in permutations(['K','L','M','N','O','R']) if p.index('M')==p.index('K')+1 and abs(p.index('L')-p.index('M'))==3 and p.index('R') not in (0,5) and abs(p.index('N')-p.index('R'))==2]; '2' if len(S)==4 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "question_id": 32,
+    "set_seq": 1,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.\n\nTable 1: Modules installed (in hundreds)\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 24 | 36 | 20 |\n| Bhima | 30 | 18 | 42 |\n| Cygna | 45 | 25 | 15 |\n| Dhruv | 16 | 40 | 34 |\n\nTable 2: Defective modules as a percentage of modules installed\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 2 | 5 | 4 |\n| Bhima | 6 | 3 | 2 |\n| Cygna | 4 | 2 | 8 |\n| Dhruv | 5 | 4 | 3 |"
+    },
+    "question_text": "**In grade G3, how many more defective modules did Cygna and Dhruv together have than Arkin and Bhima together?**",
+    "options": {
+      "1": "46",
+      "2": "64",
+      "3": "58",
+      "4": "38"
+    },
+    "correct_answer": "3",
+    "explanation": "Defective modules equal installed hundreds times the rate, so each product is (hundreds x rate). G3 gives Arkin 20x4=80, Bhima 42x2=84, Cygna 15x8=120, Dhruv 34x3=102. So 222 against 164, a gap of 58. The 46 trap swaps two rate entries, 64 comes from reading G2 rates, and 38 subtracts firm totals rather than G3 alone.",
+    "t_expert_sec": 55,
+    "t_average_sec": 330,
+    "verification": {
+      "expr": "a=20*4; b=42*2; c=15*8; d=34*3; g=(c+d)-(a+b); '3' if g==58 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "question_id": 33,
+    "set_seq": 2,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.\n\nTable 1: Modules installed (in hundreds)\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 24 | 36 | 20 |\n| Bhima | 30 | 18 | 42 |\n| Cygna | 45 | 25 | 15 |\n| Dhruv | 16 | 40 | 34 |\n\nTable 2: Defective modules as a percentage of modules installed\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 2 | 5 | 4 |\n| Bhima | 6 | 3 | 2 |\n| Cygna | 4 | 2 | 8 |\n| Dhruv | 5 | 4 | 3 |"
+    },
+    "question_text": "**Taking all four firms and all three grades together, defective modules form approximately what percentage of all modules installed?**",
+    "options": {
+      "1": "3.82%",
+      "2": "3.90%",
+      "3": "4.05%",
+      "4": "3.68%"
+    },
+    "correct_answer": "1",
+    "explanation": "Total installed is (80+90+85+90) hundreds = 34500 modules. Total defective is 308+318+350+342 = 1318, so the overall rate is 1318/34500 = 3.82 percent. The 3.90 and 4.05 values come from averaging the twelve percentages instead of weighting them by volume, and 3.68 drops one grade column from the defective total.",
+    "t_expert_sec": 60,
+    "t_average_sec": 380,
+    "verification": {
+      "expr": "dA=24*2+36*5+20*4; dB=30*6+18*3+42*2; dC=45*4+25*2+15*8; dD=16*5+40*4+34*3; tot=(80+90+85+90)*100; r=round(100.0*(dA+dB+dC+dD)/tot,2); '1' if r==3.82 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "question_id": 34,
+    "set_seq": 3,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.\n\nTable 1: Modules installed (in hundreds)\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 24 | 36 | 20 |\n| Bhima | 30 | 18 | 42 |\n| Cygna | 45 | 25 | 15 |\n| Dhruv | 16 | 40 | 34 |\n\nTable 2: Defective modules as a percentage of modules installed\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 2 | 5 | 4 |\n| Bhima | 6 | 3 | 2 |\n| Cygna | 4 | 2 | 8 |\n| Dhruv | 5 | 4 | 3 |"
+    },
+    "question_text": "**Which firm has the lowest defect rate across its entire installed base?**",
+    "options": {
+      "1": "Dhruv",
+      "2": "Bhima",
+      "3": "Cygna",
+      "4": "Arkin"
+    },
+    "correct_answer": "2",
+    "explanation": "Overall rates must be volume weighted: Arkin 308/8000 = 3.85 percent, Bhima 318/9000 = 3.53 percent, Cygna 350/8500 = 4.12 percent, Dhruv 342/9000 = 3.80 percent. Bhima is lowest despite carrying the single worst cell rate of 6 percent, because that rate sits on its smallest grade mix. Dhruv and Arkin look lower if the three grade rates are simply averaged.",
+    "t_expert_sec": 55,
+    "t_average_sec": 350,
+    "verification": {
+      "expr": "rA=(24*2+36*5+20*4)/8000.0; rB=(30*6+18*3+42*2)/9000.0; rC=(45*4+25*2+15*8)/8500.0; rD=(16*5+40*4+34*3)/9000.0; m=min(rA,rB,rC,rD); '2' if m==rB else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.4,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "question_id": 35,
+    "set_seq": 4,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "An audit of four solar module assemblers covers three panel grades, G1, G2 and G3. Table 1 gives the number of modules installed and Table 2 gives the share of those modules found defective in the audit.\n\nTable 1: Modules installed (in hundreds)\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 24 | 36 | 20 |\n| Bhima | 30 | 18 | 42 |\n| Cygna | 45 | 25 | 15 |\n| Dhruv | 16 | 40 | 34 |\n\nTable 2: Defective modules as a percentage of modules installed\n\n| Firm | G1 | G2 | G3 |\n|---|--:|--:|--:|\n| Arkin | 2 | 5 | 4 |\n| Bhima | 6 | 3 | 2 |\n| Cygna | 4 | 2 | 8 |\n| Dhruv | 5 | 4 | 3 |"
+    },
+    "question_text": "**By how many modules does the firm with the largest number of defective modules exceed the firm with the smallest?**",
+    "options": {
+      "1": "24",
+      "2": "42",
+      "3": "34",
+      "4": "56"
+    },
+    "correct_answer": "2",
+    "explanation": "Firm defective totals are Arkin 308, Bhima 318, Cygna 350 and Dhruv 342. The largest is Cygna at 350 and the smallest is Arkin at 308, a difference of 42. The 34 value compares Bhima with Arkin, 24 compares Dhruv with Bhima, and 56 comes from using installed volumes rather than defective counts.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "dA=24*2+36*5+20*4; dB=30*6+18*3+42*2; dC=45*4+25*2+15*8; dD=16*5+40*4+34*3; g=max(dA,dB,dC,dD)-min(dA,dB,dC,dD); '2' if g==42 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 36,
+    "section": "DILR",
+    "group_id": "DILR-4",
+    "set_id": "DILR-4",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.\n\n- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.\n- Chirala received more crates than Alwar.\n- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.\n- Dhanbad's truck left immediately after Betul's truck.\n- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.\n- The town whose truck left third received exactly 12 crates.\n- Chirala's truck left before Betul's truck."
+    },
+    "question_text": "**How many crates did Chirala receive?**",
+    "options": {
+      "1": "12 crates",
+      "2": "24 crates",
+      "3": "4 crates",
+      "4": "8 crates"
+    },
+    "correct_answer": "4",
+    "explanation": "Chirala leaves before Betul and Alwar is not first, while Dhanbad follows Betul immediately, so the order can only be Chirala, Betul, Dhanbad, Alwar or Chirala, Alwar, Betul, Dhanbad. The third truck carries 12 crates and the first carries twice the fourth. Testing distinct multiples of 4 from 4 to 24 that total 48 leaves only Chirala 8, Betul 24, Dhanbad 12, Alwar 4 in the order Chirala, Betul, Dhanbad, Alwar. Hence Chirala received 8 crates. The 4 figure is Alwar's share, 12 is Dhanbad's (the third truck), and 24 is Betul's, the largest allocation.",
+    "t_expert_sec": 55,
+    "t_average_sec": 330,
+    "verification": {
+      "expr": "P=itertools.permutations; C=['Alwar','Betul','Chirala','Dhanbad']; V=[4,8,12,16,20,24]; F=[(a,o) for m in P(V,4) for a in [dict(zip(C,m))] for o in P(C) if sum(a.values())==48 and a['Chirala']>a['Alwar'] and a[o[0]]==2*a[o[3]] and o.index('Dhanbad')==o.index('Betul')+1 and o[0]!='Alwar' and a['Alwar']<a['Betul'] and a[o[2]]==12 and o.index('Chirala')<o.index('Betul')]; '4' if len(F)==1 and F[0][0]['Chirala']==8 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 37,
+    "section": "DILR",
+    "group_id": "DILR-4",
+    "set_id": "DILR-4",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.\n\n- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.\n- Chirala received more crates than Alwar.\n- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.\n- Dhanbad's truck left immediately after Betul's truck.\n- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.\n- The town whose truck left third received exactly 12 crates.\n- Chirala's truck left before Betul's truck."
+    },
+    "question_text": "**Which town's truck left second, and how many crates did that town receive?**",
+    "options": {
+      "1": "Chirala, with 8 crates",
+      "2": "Betul, with 24 crates",
+      "3": "Alwar, with 20 crates",
+      "4": "Dhanbad, with 12 crates"
+    },
+    "correct_answer": "2",
+    "explanation": "The only allocation consistent with every clue is Chirala 8, Betul 24, Dhanbad 12, Alwar 4, dispatched in the order Chirala, Betul, Dhanbad, Alwar. So the second truck was Betul's, carrying 24 crates. Dhanbad with 12 crates describes the third truck, Chirala with 8 the first, and Alwar never received 20 crates in any consistent arrangement since 24 is fixed for Betul.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "P=itertools.permutations; C=['Alwar','Betul','Chirala','Dhanbad']; V=[4,8,12,16,20,24]; F=[(a,o) for m in P(V,4) for a in [dict(zip(C,m))] for o in P(C) if sum(a.values())==48 and a['Chirala']>a['Alwar'] and a[o[0]]==2*a[o[3]] and o.index('Dhanbad')==o.index('Betul')+1 and o[0]!='Alwar' and a['Alwar']<a['Betul'] and a[o[2]]==12 and o.index('Chirala')<o.index('Betul')]; '2' if len(F)==1 and F[0][1][1]=='Betul' and F[0][0]['Betul']==24 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 38,
+    "section": "DILR",
+    "group_id": "DILR-4",
+    "set_id": "DILR-4",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.\n\n- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.\n- Chirala received more crates than Alwar.\n- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.\n- Dhanbad's truck left immediately after Betul's truck.\n- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.\n- The town whose truck left third received exactly 12 crates.\n- Chirala's truck left before Betul's truck."
+    },
+    "question_text": "**If the clue that the third truck's town received exactly 12 crates is withdrawn and all the other clues still hold, how many complete arrangements of dispatch order and crate counts are possible?**",
+    "options": {
+      "1": "7 arrangements",
+      "2": "6 arrangements",
+      "3": "9 arrangements",
+      "4": "5 arrangements"
+    },
+    "correct_answer": "1",
+    "explanation": "Without the 12-crate clue the order is still either Chirala, Betul, Dhanbad, Alwar or Chirala, Alwar, Betul, Dhanbad. For the first order the possibilities are Alwar 4 with Betul and Dhanbad taking 12 and 24, 16 and 20, 20 and 16 or 24 and 12 alongside Chirala 8, plus Alwar 8 with Chirala 16, Betul 20, Dhanbad 4, which is five cases; the second order adds two more, giving 7 in all. The 5 count stops at the first order only, 6 misses one of the extra cases, and 9 double counts allocations that repeat a crate figure.",
+    "t_expert_sec": 60,
+    "t_average_sec": 390,
+    "verification": {
+      "expr": "P=itertools.permutations; C=['Alwar','Betul','Chirala','Dhanbad']; V=[4,8,12,16,20,24]; F=[(a,o) for m in P(V,4) for a in [dict(zip(C,m))] for o in P(C) if sum(a.values())==48 and a['Chirala']>a['Alwar'] and a[o[0]]==2*a[o[3]] and o.index('Dhanbad')==o.index('Betul')+1 and o[0]!='Alwar' and a['Alwar']<a['Betul'] and o.index('Chirala')<o.index('Betul')]; '1' if len(F)==7 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.5,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 39,
+    "section": "DILR",
+    "group_id": "DILR-4",
+    "set_id": "DILR-4",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A depot dispatched exactly 48 crates of packaged tea to four towns, Alwar, Betul, Chirala and Dhanbad, on a single morning. The crates for each town went on that town's own truck, and the four trucks left the depot one after another, first to fourth.\n\n- Each town received a distinct number of crates, and every one of those numbers was a multiple of 4 lying between 4 and 24, both inclusive.\n- Chirala received more crates than Alwar.\n- The town whose truck left first received exactly twice as many crates as the town whose truck left fourth.\n- Dhanbad's truck left immediately after Betul's truck.\n- Alwar's truck did not leave first, and Alwar received fewer crates than Betul.\n- The town whose truck left third received exactly 12 crates.\n- Chirala's truck left before Betul's truck."
+    },
+    "question_text": "**Suppose the first truck's town received three times, rather than twice, as many crates as the fourth truck's town, every other clue remaining as stated. How many crates would Dhanbad then receive?**",
+    "options": {
+      "1": "8 crates",
+      "2": "24 crates",
+      "3": "4 crates",
+      "4": "12 crates"
+    },
+    "correct_answer": "1",
+    "explanation": "Under the revised ratio the arrangement becomes Chirala 24, Alwar 4, Betul 12, Dhanbad 8, dispatched in that order: the third truck is Betul's with 12 crates, the first is Chirala's with 24, which is three times Alwar's 4 on the fourth truck, and the four counts still total 48. So Dhanbad receives 8 crates. The 4 belongs to Alwar, 12 to the third truck Betul, and 24 to Chirala, whose figure is often read off as Dhanbad's by mistake.",
+    "t_expert_sec": 55,
+    "t_average_sec": 360,
+    "verification": {
+      "expr": "P=itertools.permutations; C=['Alwar','Betul','Chirala','Dhanbad']; V=[4,8,12,16,20,24]; F=[(a,o) for m in P(V,4) for a in [dict(zip(C,m))] for o in P(C) if sum(a.values())==48 and a['Chirala']>a['Alwar'] and a[o[0]]==3*a[o[3]] and o.index('Dhanbad')==o.index('Betul')+1 and o[0]!='Alwar' and a['Alwar']<a['Betul'] and a[o[2]]==12 and o.index('Chirala')<o.index('Betul')]; '1' if len(F)==1 and F[0][0]['Dhanbad']==8 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.5,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 40,
+    "section": "DILR",
+    "group_id": "DILR-5",
+    "set_id": "DILR-5",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.\n\n- Coding is scheduled only if Design is also scheduled.\n- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.\n- Auditing and Finance need the same laboratory, so they cannot both be scheduled.\n- Grammar is scheduled if and only if Auditing is scheduled.\n- If Design is scheduled, then Branding is not scheduled."
+    },
+    "question_text": "**How many different groups of four workshops can the coordinator schedule?**",
+    "options": {
+      "1": "3 groups",
+      "2": "4 groups",
+      "3": "5 groups",
+      "4": "2 groups"
+    },
+    "correct_answer": "1",
+    "explanation": "Checking all 35 groups of four against the conditions leaves only Auditing, Coding, Design and Grammar; Auditing, Design, Ethics and Grammar; and Coding, Design, Ethics and Finance. That is 3 groups. The 2 count comes from overlooking the group that omits Ethics, while 4 and 5 come from admitting groups that break either the Grammar and Auditing pairing or the ban on Design with Branding.",
+    "t_expert_sec": 50,
+    "t_average_sec": 290,
+    "verification": {
+      "expr": "K=itertools.combinations; W=['Auditing','Branding','Coding','Design','Ethics','Finance','Grammar']; f=lambda S: (not('Coding' in S and 'Design' not in S)) and not('Branding' in S and 'Ethics' in S) and not('Auditing' in S and 'Finance' in S) and (('Grammar' in S)==('Auditing' in S)) and not('Design' in S and 'Branding' in S); F=[set(c) for c in K(W,4) if f(set(c))]; '1' if len(F)==3 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.8,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 41,
+    "section": "DILR",
+    "group_id": "DILR-5",
+    "set_id": "DILR-5",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.\n\n- Coding is scheduled only if Design is also scheduled.\n- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.\n- Auditing and Finance need the same laboratory, so they cannot both be scheduled.\n- Grammar is scheduled if and only if Auditing is scheduled.\n- If Design is scheduled, then Branding is not scheduled."
+    },
+    "question_text": "**Which workshop cannot appear in any acceptable group of four?**",
+    "options": {
+      "1": "Grammar",
+      "2": "Branding",
+      "3": "Auditing",
+      "4": "Coding"
+    },
+    "correct_answer": "2",
+    "explanation": "If Branding is scheduled then Ethics and Design are both out, so the four must be drawn from Auditing, Coding, Finance and Grammar; but Coding needs Design, Auditing and Finance clash, and Grammar needs Auditing, so no such group exists. Branding therefore never appears. Auditing and Grammar appear together in two acceptable groups, and Coding appears in two acceptable groups as well.",
+    "t_expert_sec": 55,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "K=itertools.combinations; W=['Auditing','Branding','Coding','Design','Ethics','Finance','Grammar']; f=lambda S: (not('Coding' in S and 'Design' not in S)) and not('Branding' in S and 'Ethics' in S) and not('Auditing' in S and 'Finance' in S) and (('Grammar' in S)==('Auditing' in S)) and not('Design' in S and 'Branding' in S); F=[set(c) for c in K(W,4) if f(set(c))]; N=[w for w in W if not any(w in S for S in F)]; '2' if N==['Branding'] else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.5,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 42,
+    "section": "DILR",
+    "group_id": "DILR-5",
+    "set_id": "DILR-5",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A training coordinator must schedule exactly four of seven half-day workshops, namely Auditing, Branding, Coding, Design, Ethics, Finance and Grammar, for the coming quarter.\n\n- Coding is scheduled only if Design is also scheduled.\n- Branding and Ethics are run by the same trainer, so they cannot both be scheduled.\n- Auditing and Finance need the same laboratory, so they cannot both be scheduled.\n- Grammar is scheduled if and only if Auditing is scheduled.\n- If Design is scheduled, then Branding is not scheduled."
+    },
+    "question_text": "**If Finance is scheduled, which workshops make up the rest of the group?**",
+    "options": {
+      "1": "Coding, Design and Grammar",
+      "2": "Auditing, Design and Grammar",
+      "3": "Design, Ethics and Grammar",
+      "4": "Coding, Design and Ethics"
+    },
+    "correct_answer": "4",
+    "explanation": "Finance rules out Auditing, and with Auditing out Grammar is out too, so the remaining three come from Branding, Coding, Design and Ethics. Branding cannot join Design, and dropping Design would force Coding out as well, leaving too few workshops, so Design stays, Branding goes, and Coding and Ethics complete the group: Coding, Design and Ethics. Any option containing Grammar fails because Grammar travels only with Auditing, which Finance excludes.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "K=itertools.combinations; W=['Auditing','Branding','Coding','Design','Ethics','Finance','Grammar']; f=lambda S: (not('Coding' in S and 'Design' not in S)) and not('Branding' in S and 'Ethics' in S) and not('Auditing' in S and 'Finance' in S) and (('Grammar' in S)==('Auditing' in S)) and not('Design' in S and 'Branding' in S); F=[set(c) for c in K(W,4) if f(set(c)) and 'Finance' in set(c)]; '4' if len(F)==1 and sorted(F[0]-{'Finance'})==['Coding','Design','Ethics'] else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2,
+    "instruction": "**Read the information given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "question_id": 43,
+    "set_seq": 1,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Shipped (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              40,
+              25,
+              12
+            ],
+            "2023": [
+              46,
+              30,
+              15
+            ],
+            "2024": [
+              55,
+              27,
+              21
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Average Price per Unit (Rs)",
+          "y_label": "Rs per unit",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              1200,
+              2400,
+              5000
+            ],
+            "2023": [
+              1250,
+              2600,
+              4800
+            ],
+            "2024": [
+              1400,
+              2500,
+              5200
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**What was the total revenue of the three lines together in 2024, in Rs lakh?**",
+    "options": {
+      "1": "2612",
+      "2": "2537",
+      "3": "2350",
+      "4": "2465"
+    },
+    "correct_answer": "2",
+    "explanation": "Revenue in Rs lakh is units in thousands times price divided by 100. For 2024 that gives Sensors 55x1400/100 = 770, Controllers 27x2500/100 = 675 and Drives 21x5200/100 = 1092, summing to 2537. The 2465 and 2350 values carry over a 2023 price or volume, and 2612 uses the 2023 Drives price of 4800 against the wrong volume.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "s=55*1400//100; c=27*2500//100; d=21*5200//100; t=s+c+d; '2' if t==2537 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "question_id": 44,
+    "set_seq": 2,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Shipped (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              40,
+              25,
+              12
+            ],
+            "2023": [
+              46,
+              30,
+              15
+            ],
+            "2024": [
+              55,
+              27,
+              21
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Average Price per Unit (Rs)",
+          "y_label": "Rs per unit",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              1200,
+              2400,
+              5000
+            ],
+            "2023": [
+              1250,
+              2600,
+              4800
+            ],
+            "2024": [
+              1400,
+              2500,
+              5200
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**The line with the highest percentage growth in revenue from 2022 to 2024 grew by approximately what percentage?**",
+    "options": {
+      "1": "92%",
+      "2": "60%",
+      "3": "82%",
+      "4": "71%"
+    },
+    "correct_answer": "3",
+    "explanation": "Revenues in Rs lakh move from Sensors 480 to 770, Controllers 600 to 675 and Drives 600 to 1092. The growth rates are about 60 percent, 12.5 percent and 82 percent, so Drives leads at 82 percent. The 60 percent figure belongs to Sensors, 71 percent comes from growing only the volume of Drives from 12 to 21 read against price, and 92 percent overstates the base as 570.",
+    "t_expert_sec": 60,
+    "t_average_sec": 380,
+    "verification": {
+      "expr": "s22=40*1200//100; s24=55*1400//100; c22=25*2400//100; c24=27*2500//100; d22=12*5000//100; d24=21*5200//100; gs=100.0*(s24-s22)/s22; gc=100.0*(c24-c22)/c22; gd=100.0*(d24-d22)/d22; b=max(gs,gc,gd); '3' if b==gd and round(b)==82 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "question_id": 45,
+    "set_seq": 3,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Shipped (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              40,
+              25,
+              12
+            ],
+            "2023": [
+              46,
+              30,
+              15
+            ],
+            "2024": [
+              55,
+              27,
+              21
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Average Price per Unit (Rs)",
+          "y_label": "Rs per unit",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              1200,
+              2400,
+              5000
+            ],
+            "2023": [
+              1250,
+              2600,
+              4800
+            ],
+            "2024": [
+              1400,
+              2500,
+              5200
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**In 2023, what was the average price per unit realised across all units shipped, in Rs?**",
+    "options": {
+      "1": "2280",
+      "2": "2124",
+      "3": "2217",
+      "4": "2350"
+    },
+    "correct_answer": "1",
+    "explanation": "Total 2023 revenue is 575+780+720 = 2075 Rs lakh on 46+30+15 = 91 thousand units, so the blended price is 207500000/91000, about Rs 2280. The 2217 value is the plain average of 1250, 2600 and 4800 scaled wrongly, 2350 mixes in 2024 prices, and 2124 uses 2022 volumes as weights instead of 2023 volumes.",
+    "t_expert_sec": 55,
+    "t_average_sec": 360,
+    "verification": {
+      "expr": "rev=(46*1250+30*2600+15*4800); units=46+30+15; p=round(1.0*rev/units); '1' if p==2280 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.5,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "question_id": 46,
+    "set_seq": 4,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "An industrial electronics maker reports units shipped and the average price realised per unit for its three product lines over three years. Revenue for a line equals units shipped multiplied by average price.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Units Shipped (in '000)",
+          "y_label": "Units ('000)",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              40,
+              25,
+              12
+            ],
+            "2023": [
+              46,
+              30,
+              15
+            ],
+            "2024": [
+              55,
+              27,
+              21
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Average Price per Unit (Rs)",
+          "y_label": "Rs per unit",
+          "categories": [
+            "Sensors",
+            "Controllers",
+            "Drives"
+          ],
+          "series": {
+            "2022": [
+              1200,
+              2400,
+              5000
+            ],
+            "2023": [
+              1250,
+              2600,
+              4800
+            ],
+            "2024": [
+              1400,
+              2500,
+              5200
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-23/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**By approximately what percentage did the combined revenue of the three lines change from 2023 to 2024?**",
+    "options": {
+      "1": "18.2%",
+      "2": "22.3%",
+      "3": "24.9%",
+      "4": "20.5%"
+    },
+    "correct_answer": "2",
+    "explanation": "Combined revenue is 575+780+720 = 2075 Rs lakh in 2023 and 770+675+1092 = 2537 Rs lakh in 2024, an increase of 462 on 2075, that is 22.3 percent. The 18.2 percent value divides the rise by the 2024 total, 24.9 percent averages the three line growth rates, and 20.5 percent tracks units alone while ignoring the price changes.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "r23=(46*1250+30*2600+15*4800)//100; r24=(55*1400+27*2500+21*5200)//100; g=round(100.0*(r24-r23)/r23,1); '2' if g==22.3 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2,
+    "instruction": "**Study the data given below and answer the question that follows.**"
+  },
+  {
+    "question_id": 47,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A dealer marks the price of a ceiling fan 60% above its cost price and then allows two successive discounts of 20% and 10% on the marked price. What is his profit percentage on this sale?",
+    "options": {
+      "1": "15.2%",
+      "2": "12.0%",
+      "3": "16.0%",
+      "4": "28.0%"
+    },
+    "correct_answer": "1",
+    "explanation": "Take cost as 100, so marked price is 160. After 20% off the price is 128, and after a further 10% off it is 115.2, giving a profit of 15.2 on 100, that is 15.2%. The 12.0% figure comes from treating the two discounts as one flat 30% cut, since 160 x 0.70 = 112. The 28.0% figure comes from applying only the 20% discount and stopping. The 16.0% figure comes from reading 10% of 160 as the whole profit.",
+    "t_expert_sec": 30,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sp = 160 * 0.80 * 0.90; profit = sp - 100; '1' if abs(profit - 15.2) < 1e-9 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.7
+  },
+  {
+    "question_id": 48,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Pranav invests Rs 42,000 for 8 months, Qadir invests Rs 56,000 for 5 months and Rohit invests Rs 35,000 for 12 months in a partnership firm. At the end of the year the firm earns a profit of Rs 74,000, shared in proportion to capital multiplied by time. What is Qadir's share?",
+    "options": {
+      "1": "Rs 24,000",
+      "2": "Rs 22,000",
+      "3": "Rs 20,000",
+      "4": "Rs 30,000"
+    },
+    "correct_answer": "3",
+    "explanation": "The capital-months are 42000 x 8 = 336000, 56000 x 5 = 280000 and 35000 x 12 = 420000, which reduce to 12 : 10 : 15, a total of 37 parts. One part is 74000 / 37 = 2000, so Qadir's 10 parts give Rs 20,000. The Rs 24,000 value is Pranav's 12 parts and the Rs 30,000 value is Rohit's 15 parts, both read off the wrong partner. The Rs 22,000 value comes from mis-simplifying 280 into 11 parts instead of 10.",
+    "t_expert_sec": 40,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "a = 42 * 8; b = 56 * 5; c = 35 * 12; share = 74000 * b / (a + b + c); '3' if abs(share - 20000) < 1e-9 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 49,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A vessel contains 60 litres of a mixture of milk and water in which milk and water are in the ratio 7 : 3. How many litres of water must be added so that the ratio of milk to water in the new mixture becomes 7 : 5?",
+    "options": {
+      "1": "15 litres",
+      "2": "12 litres",
+      "3": "8 litres",
+      "4": "10 litres"
+    },
+    "correct_answer": "2",
+    "explanation": "The vessel holds 42 litres of milk and 18 litres of water. Milk does not change, so for the ratio 7 : 5 the water must become 42 x 5 / 7 = 30 litres, needing 30 - 18 = 12 litres more. The 10 litres value comes from wrongly making total volume 70. The 15 litres value comes from taking the new water as one quarter of a 60 litre base. The 8 litres value comes from using the ratio difference 5 - 3 = 2 on 4 litre parts.",
+    "t_expert_sec": 30,
+    "t_average_sec": 190,
+    "verification": {
+      "expr": "milk = 60 * 7 / 10; water = 60 * 3 / 10; x = milk * 5 / 7 - water; '2' if abs(x - 12) < 1e-9 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3
+  },
+  {
+    "question_id": 50,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A motorboat whose speed in still water is 12 km/h goes 45 km downstream along a river and returns to the starting point, taking 8 hours in all. What is the speed of the current?",
+    "options": {
+      "1": "3 km/h",
+      "2": "2.5 km/h",
+      "3": "4 km/h",
+      "4": "6 km/h"
+    },
+    "correct_answer": "1",
+    "explanation": "If the current is s, then 45 / (12 + s) + 45 / (12 - s) = 8, so 45 x 24 = 8 x (144 - s squared), giving 144 - s squared = 135 and s = 3 km/h. The 4 km/h value comes from averaging the two legs at 45 / 4 hours each. The 2.5 km/h value comes from solving with a total of 7.5 hours. The 6 km/h value comes from equating the round trip to a single 90 km run at 12 - s.",
+    "t_expert_sec": 40,
+    "t_average_sec": 250,
+    "verification": {
+      "expr": "s = 3; t = 45 / (12 + s) + 45 / (12 - s); '1' if abs(t - 8) < 1e-9 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 51,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Anil alone can paint a hall in 20 days and Bimal alone can paint it in 30 days. They begin painting together, but Anil stops working 5 days before the hall is finished, and Bimal completes the remaining part alone. In how many days is the hall painted?",
+    "options": {
+      "1": "14 days",
+      "2": "12 days",
+      "3": "18 days",
+      "4": "15 days"
+    },
+    "correct_answer": "4",
+    "explanation": "If the job takes T days, Bimal works all T days and Anil works T - 5 days, so (T - 5) / 20 + T / 30 = 1. Multiplying by 60 gives 3T - 15 + 2T = 60, so T = 15 days. The 12 days value is the time if both worked throughout. The 14 days value comes from letting Bimal, not Anil, be the one who leaves early. The 18 days value comes from adding 5 idle days to a 13 day estimate.",
+    "t_expert_sec": 35,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "T = 15; done = (T - 5) / 20 + T / 30; '4' if abs(done - 1) < 1e-9 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3
+  },
+  {
+    "question_id": 52,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A sum of Rs 16,000 is lent for one year at 10% per annum. By how much does the interest earned when the rate is compounded half-yearly exceed the interest earned when it is compounded annually?",
+    "options": {
+      "1": "Rs 20",
+      "2": "Rs 80",
+      "3": "Rs 1,640",
+      "4": "Rs 40"
+    },
+    "correct_answer": "4",
+    "explanation": "Half-yearly, the amount is 16000 x 1.05 x 1.05 = 17640, so interest is 1640, while annual compounding for one year gives just 1600. The excess is Rs 40. The Rs 80 value comes from using 10% per half year instead of 5%. The Rs 20 value comes from halving the correct gap. The Rs 1,640 value is the half-yearly interest itself, not the excess over annual compounding.",
+    "t_expert_sec": 30,
+    "t_average_sec": 190,
+    "verification": {
+      "expr": "half = 16000 * 1.05 * 1.05 - 16000; ann = 16000 * 0.10; '4' if abs((half - ann) - 40) < 1e-9 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.3
+  },
+  {
+    "question_id": 53,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-7",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Four boys and three girls are to be seated in a row of seven chairs. In how many ways can they be seated if no two girls sit next to each other?",
+    "options": {
+      "1": "5040",
+      "2": "720",
+      "3": "2880",
+      "4": "1440"
+    },
+    "correct_answer": "4",
+    "explanation": "Seat the four boys first in 4! = 24 ways, creating five gaps including the two ends. Choose and fill three of those gaps with the three girls in 5 x 4 x 3 = 60 ordered ways, giving 24 x 60 = 1440. The 720 value drops the ordering of the girls by dividing by 3!. The 2880 value comes from allowing six gaps instead of five. The 5040 value is 7!, the count with no restriction at all.",
+    "t_expert_sec": 35,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "n = factorial(4) * (5 * 4 * 3); '4' if n == 1440 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 54,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-8",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Bag A contains 4 red and 6 green balls, while bag B contains 7 red and 3 green balls. One of the two bags is chosen at random and two balls are drawn from it together. Both drawn balls turn out to be red. What is the probability that bag A was the bag chosen?",
+    "options": {
+      "1": "1/3",
+      "2": "2/9",
+      "3": "7/9",
+      "4": "2/15"
+    },
+    "correct_answer": "2",
+    "explanation": "Each bag has 10 balls, so two reds have chance 6/45 from bag A and 21/45 from bag B. Since the bags are equally likely, the required probability is 6 / (6 + 21) = 2/9. The 2/15 value is the unconditional chance of two reds from bag A alone. The 7/9 value is the probability for bag B, the complement. The 1/3 value comes from using 4/10 and 7/10 as single-draw odds and rounding the ratio.",
+    "t_expert_sec": 45,
+    "t_average_sec": 290,
+    "verification": {
+      "expr": "pa = Fraction(comb(4, 2), comb(10, 2)); pb = Fraction(comb(7, 2), comb(10, 2)); post = pa / (pa + pb); '2' if post == Fraction(2, 9) else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.4
+  },
+  {
+    "question_id": 55,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-9",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A solid metal cone of base radius 6 cm and height 24 cm is melted down, and 10% of the metal is lost in the process. The remaining metal is recast into solid spheres of radius 2 cm each. What is the largest number of complete spheres that can be made?",
+    "options": {
+      "1": "8",
+      "2": "25",
+      "3": "24",
+      "4": "27"
+    },
+    "correct_answer": "3",
+    "explanation": "The cone has volume 288 pi cubic cm, and 90% of it is 259.2 pi. Each sphere takes 32 pi / 3 cubic cm, so 259.2 x 3 / 32 = 24.3, and only 24 complete spheres are possible. The 27 value ignores the 10% metal loss. The 25 value comes from rounding 24.3 upward instead of down. The 8 value comes from omitting the factor 1/3 in the volume of a sphere.",
+    "t_expert_sec": 45,
+    "t_average_sec": 280,
+    "verification": {
+      "expr": "cone = 36 * 24 / 3; usable = cone * 0.9; sphere = 4 * 8 / 3; n = int(usable / sphere); '3' if n == 24 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 56,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-10",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Let N be the number whose prime factorisation is 2^5 x 3^4 x 5^2. How many positive divisors of N are perfect squares and are also multiples of 12?",
+    "options": {
+      "1": "12",
+      "2": "8",
+      "3": "4",
+      "4": "6"
+    },
+    "correct_answer": "2",
+    "explanation": "A divisor 2^a x 3^b x 5^c is a perfect square only when a, b and c are all even, and it is a multiple of 12 only when a is at least 2 and b is at least 1. So a is 2 or 4, b is 2 or 4, and c is 0 or 2, giving 2 x 2 x 2 = 8 divisors. The 12 value allows b = 0 as well, dropping the multiple of 3 condition. The 6 value allows b = 0 but also forces c = 0. The 4 value forgets that c can be 2.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "ea = set([0, 2, 4]) & set(range(2, 6)); eb = set([0, 2, 4]) & set(range(1, 5)); ec = set([0, 2]) & set(range(0, 3)); n = len(ea) * len(eb) * len(ec); '2' if n == 8 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 57,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-11",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Three positive numbers are in arithmetic progression. Their sum is 27 and the sum of their squares is 293. What is the product of the three numbers?",
+    "options": {
+      "1": "405",
+      "2": "585",
+      "3": "504",
+      "4": "729"
+    },
+    "correct_answer": "3",
+    "explanation": "Write the numbers as 9 - d, 9 and 9 + d, since the sum 27 forces the middle term to be 9. Then 243 + 2d squared = 293, so d squared = 25 and the numbers are 4, 9 and 14, whose product is 504. The 729 value comes from taking all three numbers equal to 9, which fits the sum but not the square sum. The 585 value uses d = 4 and the 405 value uses d = 6, neither of which gives 293.",
+    "t_expert_sec": 45,
+    "t_average_sec": 270,
+    "verification": {
+      "expr": "d = 5; s = (9 - d) + 9 + (9 + d); sq = (9 - d) ** 2 + 81 + (9 + d) ** 2; p = (9 - d) * 9 * (9 + d); '3' if s == 27 and sq == 293 and p == 504 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 58,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-12",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A non-zero real number x satisfies x + 1/x = 3. What is the value of x^5 + 1/x^5 ?",
+    "options": {
+      "1": "141",
+      "2": "243",
+      "3": "123",
+      "4": "126"
+    },
+    "correct_answer": "3",
+    "explanation": "Write s(n) = x^n + 1/x^n. Multiplying s(n) by (x + 1/x) gives s(n+1) + s(n-1), so s(n+1) = 3 s(n) - s(n-1) with s(0) = 2 and s(1) = 3. This gives s(2) = 7, s(3) = 18, s(4) = 47 and s(5) = 123. The value 243 comes from assuming the answer is 3^5, that is from treating x + 1/x as if it were x itself. The value 126 is the product 7 times 18, an invented shortcut s(2) times s(3). The value 141 follows from the slip s(4) = 3 times 18 - 3 = 51 and then 3 times 51 - 18.",
+    "t_expert_sec": 45,
+    "t_average_sec": 280,
+    "verification": {
+      "expr": "s0 = 2; s1 = 3; s2 = 3*s1 - s0; s3 = 3*s2 - s1; s4 = 3*s3 - s2; s5 = 3*s4 - s3; '3' if s2 == 7 and s5 == 123 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 59,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-13",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "If a and b are positive real numbers with a + b = 10, what is the maximum possible value of a^2 b^3 ?",
+    "options": {
+      "1": "3087",
+      "2": "4000",
+      "3": "3125",
+      "4": "3456"
+    },
+    "correct_answer": "4",
+    "explanation": "Split the sum as a/2 + a/2 + b/3 + b/3 + b/3, five positive terms adding to 10. By AM-GM the product (a^2 b^3)/108 is largest when all five terms are equal, so a/2 = b/3 = 2, giving a = 4 and b = 6. Then a^2 b^3 = 16 times 216 = 3456. The value 3125 comes from setting a = b = 5, which maximises only symmetric products. The value 4000 comes from the guess a = 2, b = 8 followed by 4 times 1000. The value 3087 corresponds to a = 3 and b = 7, a nearby but smaller choice.",
+    "t_expert_sec": 50,
+    "t_average_sec": 320,
+    "verification": {
+      "expr": "v46 = 4**2 * 6**3; v55 = 5**2 * 5**3; v37 = 3**2 * 7**3; '4' if v46 == 3456 and v46 > v55 and v46 > v37 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.4
+  },
+  {
+    "question_id": 60,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-14",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "The equation (log_3 x)^2 + 3 = log_3 (x^4) holds for exactly two positive values of x. What is the sum of these two values?",
+    "options": {
+      "1": "30",
+      "2": "84",
+      "3": "12",
+      "4": "28"
+    },
+    "correct_answer": "1",
+    "explanation": "Put t = log_3 x. Since log_3 (x^4) = 4t, the equation becomes t^2 - 4t + 3 = 0, so t = 1 or t = 3, giving x = 3 and x = 27, whose sum is 30. The value 84 comes from misreading the roots as t = 1 and t = 4, which gives 3 + 81. The value 12 comes from adding the roots 1 and 3 after cubing only one of them, that is 9 + 3. The value 28 comes from dropping the constant 3 and using t = 0 and t = 3, so 1 + 27.",
+    "t_expert_sec": 40,
+    "t_average_sec": 250,
+    "verification": {
+      "expr": "t1 = 1; t2 = 3; x1 = 3**t1; x2 = 3**t2; c1 = t1*t1 - 4*t1 + 3; c2 = t2*t2 - 4*t2 + 3; '1' if c1 == 0 and c2 == 0 and x1 + x2 == 30 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 61,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-15",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "In the coordinate plane, A = (0, 2) and B = (12, 3). A point P moves along the x-axis. What is the smallest possible value of PA + PB ?",
+    "options": {
+      "1": "13",
+      "2": "17",
+      "3": "15",
+      "4": "12"
+    },
+    "correct_answer": "1",
+    "explanation": "Reflect A in the x-axis to get A' = (0, -2). For any P on the axis PA = PA', so PA + PB equals PA' + PB, which is least when P lies on the segment A'B. The minimum is the length A'B = sqrt(12^2 + 5^2) = 13, reached at P = (4.8, 0). The value 17 comes from adding the two heights and the horizontal gap, 2 + 3 + 12. The value 12 is only the horizontal gap between A and B. The value 15 comes from subtracting the heights instead of adding them and then rounding sqrt(12^2 + 1^2) upward.",
+    "t_expert_sec": 45,
+    "t_average_sec": 290,
+    "verification": {
+      "expr": "import math; d = math.sqrt(12**2 + 5**2); ab = math.sqrt(12**2 + 1**2); '1' if abs(d - 13) < 1e-9 and d > ab else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.4
+  },
+  {
+    "question_id": 62,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-16",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Among 200 students, 120 play cricket, 90 play football and 70 play tennis. Exactly 40 play both cricket and football, 30 play both football and tennis, 35 play both cricket and tennis, and 15 play all three games. How many students play exactly one of the three games?",
+    "options": {
+      "1": "145",
+      "2": "115",
+      "3": "130",
+      "4": "100"
+    },
+    "correct_answer": "2",
+    "explanation": "By inclusion and exclusion the number playing at least one game is 120 + 90 + 70 - 40 - 30 - 35 + 15 = 190. The pairwise counts include the 15 triple players, so the numbers playing exactly two games are 40 - 15 = 25, 30 - 15 = 15 and 35 - 15 = 20, a total of 60. Subtracting the 60 and the 15 from 190 leaves 115 who play exactly one game. The value 130 comes from subtracting only 60 and forgetting the triple group. The value 100 comes from subtracting 2 times 15 twice over. The value 145 treats the pairwise figures as exactly-two counts already.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "union = 120 + 90 + 70 - 40 - 30 - 35 + 15; exactly2 = (40 - 15) + (30 - 15) + (35 - 15); exactly1 = union - exactly2 - 15; '2' if union == 190 and exactly2 == 60 and exactly1 == 115 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 63,
+    "section": "QA",
+    "group_id": "QA-MCQ",
+    "set_id": "QA-MCQ-17",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the value of the sum 2/(1*3) + 2/(3*5) + 2/(5*7) + ... + 2/(47*49) ?",
+    "options": {
+      "1": "24/25",
+      "2": "48/49",
+      "3": "47/49",
+      "4": "24/49"
+    },
+    "correct_answer": "2",
+    "explanation": "Each term splits as 2/((2k-1)(2k+1)) = 1/(2k-1) - 1/(2k+1), so consecutive parts cancel. With the last denominator pair being 47 and 49, k runs from 1 to 24 and the sum collapses to 1 - 1/49 = 48/49. The value 24/49 comes from halving the telescoped result, that is from keeping the factor 1/2 that the numerator 2 has already cancelled. The value 47/49 comes from stopping the cancellation one term early at 1 - 2/49. The value 24/25 comes from miscounting the terms and telescoping to 1 - 1/25.",
+    "t_expert_sec": 45,
+    "t_average_sec": 270,
+    "verification": {
+      "expr": "from fractions import Fraction; part = Fraction(2, 1*3) + Fraction(2, 3*5) + Fraction(2, 5*7); total = Fraction(1) - Fraction(1, 49); '2' if part == Fraction(1) - Fraction(1, 7) and total == Fraction(48, 49) else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 64,
+    "section": "QA",
+    "group_id": "QA-TITA",
+    "set_id": "QA-TITA-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "What is the sum of all the odd positive factors of 1800? Type your answer as an integer.",
+    "tita_answer": "403",
+    "explanation": "1800 factorises as 2^3 x 3^2 x 5^2. An odd factor uses no power of 2, so the odd factors are exactly the factors of 3^2 x 5^2 = 225. Their sum is (1 + 3 + 9)(1 + 5 + 25) = 13 x 31 = 403. Using the full factor sum (1 + 2 + 4 + 8)(13)(31) = 6045 wrongly keeps the even factors, and 13 x 31 miscounted as 12 x 30 = 360 comes from dropping the term 1 in each bracket.",
+    "t_expert_sec": 55,
+    "t_average_sec": 280,
+    "verification": {
+      "expr": "s=(1+3+9)*(1+5+25); '403' if s==403 else '0'",
+      "expected": "403"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 65,
+    "section": "QA",
+    "group_id": "QA-TITA",
+    "set_id": "QA-TITA-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "In a colony of 120 households, every household subscribes to at least one of three newspapers A, B and C. Exactly 70 subscribe to A, 60 subscribe to B and 50 subscribe to C, while 12 households subscribe to all three. How many households subscribe to exactly two of the three newspapers? Type your answer as an integer.",
+    "tita_answer": "36",
+    "explanation": "By inclusion and exclusion, 120 = 70 + 60 + 50 minus (sum of the three pairwise overlaps) plus 12, so the pairwise overlap total is 180 + 12 - 120 = 72. Each pairwise overlap counts the 12 all-three households once, so the exactly-two count is 72 - 3 x 12 = 36. Answering 72 stops at the raw pairwise total, and 48 comes from subtracting 12 only once instead of three times.",
+    "t_expert_sec": 60,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "p=(70+60+50)+12-120; e=p-3*12; '36' if e==36 else '0'",
+      "expected": "36"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 66,
+    "section": "QA",
+    "group_id": "QA-TITA",
+    "set_id": "QA-TITA-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the remainder when 3^2024 + 4^2024 is divided by 100? Type your answer as an integer.",
+    "tita_answer": "37",
+    "explanation": "The last two digits of powers of 3 repeat with period 20, and 2024 leaves remainder 4 on division by 20, so 3^2024 ends in the same two digits as 3^4 = 81. The last two digits of powers of 4 repeat with period 10 from the first power onward, and 2024 leaves remainder 4 on division by 10, so 4^2024 ends like 4^4 = 256, that is 56. Then 81 + 56 = 137, whose remainder on division by 100 is 37. Answering 137 forgets the final reduction, and 97 comes from using a period of 4 for powers of 4 and getting 16.",
+    "t_expert_sec": 80,
+    "t_average_sec": 420,
+    "verification": {
+      "expr": "r=(pow(3,2024,100)+pow(4,2024,100))%100; '37' if r==37 else '0'",
+      "expected": "37"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.2
+  },
+  {
+    "question_id": 67,
+    "section": "QA",
+    "group_id": "QA-TITA",
+    "set_id": "QA-TITA-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "The positive integers x and y satisfy x + y = 30. What is the largest possible value of x^2 y? Type your answer as an integer.",
+    "tita_answer": "4000",
+    "explanation": "Write the product as (x/2)(x/2)y, three quantities whose sum is x + y = 30 and hence fixed. The product of such quantities is largest when they are equal, giving x/2 = y, so x = 20 and y = 10, and the value is 400 x 10 = 4000. Checking the integer neighbours confirms it, since 19^2 x 11 = 3971 and 21^2 x 9 = 3969. Answering 3375 comes from wrongly setting x = y = 15, and 8100 comes from maximising x^2 alone at x = 27.",
+    "t_expert_sec": 75,
+    "t_average_sec": 400,
+    "verification": {
+      "expr": "best=max([x*x*(30-x) for x in range(1,30)]); '4000' if best==4000 else '0'",
+      "expected": "4000"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.3
+  },
+  {
+    "question_id": 68,
+    "section": "QA",
+    "group_id": "QA-TITA",
+    "set_id": "QA-TITA-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "In how many distinct arrangements of all eleven letters of the word MISSISSIPPI do no two letters S stand next to each other? Type your answer as an integer.",
+    "tita_answer": "7350",
+    "explanation": "Set the four letters S aside and arrange the remaining seven letters M, I, I, I, I, P, P, which can be done in 7!/(4! x 2!) = 105 ways. Those seven letters create eight gaps, and choosing four of them for the four identical letters S keeps every pair of S separated, giving C(8,4) = 70 choices. The count is 105 x 70 = 7350. Answering 34650 is the total number of arrangements with no separation condition, and 8400 comes from using C(8,4) with 120 instead of 105 for the non-S block.",
+    "t_expert_sec": 90,
+    "t_average_sec": 450,
+    "verification": {
+      "expr": "n=(factorial(7)//(factorial(4)*factorial(2)))*comb(8,4); '7350' if n==7350 else '0'",
+      "expected": "7350"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  }
+]

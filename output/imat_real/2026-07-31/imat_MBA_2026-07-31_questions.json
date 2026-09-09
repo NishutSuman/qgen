@@ -1,0 +1,2369 @@
+[
+  {
+    "question_id": 1,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 1,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.\n\nThe argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.\n\nCritics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct."
+    },
+    "question_text": "**The passage is primarily concerned with:**",
+    "options": {
+      "1": "defending the claim that a reader is free to assign a poem almost any meaning that the language will loosely permit",
+      "2": "tracing how twentieth-century literary criticism gradually abandoned nearly all close attention to the words on the page",
+      "3": "presenting a view that denies the author's intention fixes a poem's meaning, and weighing the replies it draws",
+      "4": "arguing that an author's stated intention is wholly irrelevant to every form of literary and biographical inquiry"
+    },
+    "correct_answer": "3",
+    "explanation": "The passage lays out the anti-intention position (paragraphs 1 to 2) and then the objections to it (paragraph 3), ending on what the dispute is really about. It does not claim intention is irrelevant everywhere; it grants intention is biographically informative and even returns collectivised, so the 'wholly irrelevant' option overstates. The 'any meaning' option is the caricature the passage explicitly rejects. The historical-abandonment option is a scope shift the text never makes.",
+    "t_expert_sec": 40,
+    "t_average_sec": 250,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 2,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 2,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.\n\nThe argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.\n\nCritics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct."
+    },
+    "question_text": "**The careful proponents of the anti-intention view would agree with all of the following EXCEPT:**",
+    "options": {
+      "1": "The diction and structure of a text limit its readings more tightly than a private confession by its author",
+      "2": "Where internal and external evidence point the same way, invoking the author's intention adds nothing new",
+      "3": "A finished poem has no determinate meaning until its author supplies an authoritative gloss on it",
+      "4": "Recovering an author's documented intention can still teach us something about that author's biography"
+    },
+    "correct_answer": "3",
+    "explanation": "The proponents hold that the text, not the author's gloss, fixes meaning, so the claim that a poem lacks meaning until the author supplies an authoritative gloss inverts their position and is the EXCEPT. The other three restate points made directly: intention is biographically informative, it is redundant when the evidence agrees, and internal evidence constrains reading more than a confession.",
+    "t_expert_sec": 42,
+    "t_average_sec": 240,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.7
+  },
+  {
+    "question_id": 3,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 3,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.\n\nThe argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.\n\nCritics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct."
+    },
+    "question_text": "**It can be inferred that the 'more searching objection' differs from the simpler reply that precedes it because it:**",
+    "options": {
+      "1": "abandons the appeal to textual evidence and defends interpretation as the reader's free play of association",
+      "2": "denies outright that any individual author ever meant anything determinate by the words chosen for a poem",
+      "3": "rests on the premise that a work can carry no meaning at all unless a single mind stands directly behind it",
+      "4": "grants the priority given to the text while relocating intention to the conventions the language carries"
+    },
+    "correct_answer": "4",
+    "explanation": "The searching objection accepts that the text constrains reading yet points out that the conventions are themselves 'the sediment of countless past intentions', so intention returns collectivised rather than being reasserted for the lone author. The 'meaning without a meaner' premise belongs to the simpler reply, not this one. The other options attribute denials or a free-play stance that the objection does not make.",
+    "t_expert_sec": 45,
+    "t_average_sec": 275,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.1
+  },
+  {
+    "question_id": 4,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 4,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.\n\nThe argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.\n\nCritics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct."
+    },
+    "question_text": "**The author calls the appeal to intention 'redundant' when evidence agrees and to be overruled when evidence conflicts chiefly in order to:**",
+    "options": {
+      "1": "show that on either alignment of the evidence the author's intention does no decisive work",
+      "2": "establish the separate point that authors are habitually unreliable witnesses to their own real aims",
+      "3": "suggest that external evidence about a work is nearly always misleading and is best set entirely aside",
+      "4": "concede that in a narrow range of disputes an author's own stated intention does settle the reading"
+    },
+    "correct_answer": "1",
+    "explanation": "The two-case structure is a dilemma: if internal and external evidence agree, intention is superfluous; if they conflict, the text wins anyway. Either way intention is not the deciding factor, which is the rhetorical work the sentence performs. It does not concede that intention sometimes settles the reading, nor argue authors are unreliable witnesses, nor dismiss external evidence wholesale.",
+    "t_expert_sec": 44,
+    "t_average_sec": 270,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.1
+  },
+  {
+    "question_id": 5,
+    "section": "VARC",
+    "set_id": "VARC-RC1",
+    "set_seq": 5,
+    "set_size": 5,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "When we ask what a poem means, we are tempted to reach for what its author intended it to mean, as though the work were a sealed letter and criticism the act of opening it. The temptation is understandable, since intentions do govern most of what we make and say. Yet a strand of twentieth-century criticism insisted that, once a work is finished and released, the author's private aims cease to be the arbiter of its meaning. On this view the poem is a public object made of language, and language carries implications its user may neither have foreseen nor endorsed. A reader who recovers a documented intention has learned something about the poet's biography, not necessarily something decisive about the poem.\n\nThe argument is easy to caricature as a licence for arbitrary reading, but its careful proponents claimed no such thing. They distinguished the meaning of a work from the occasion of its composition, and held that evidence internal to the text, its diction, structure, and the conventions it invokes, constrains interpretation more tightly than any appeal to what the author confided in a letter. Where internal and external evidence agree, the appeal to intention is redundant; where they conflict, it is the text, not the confession, that the critic is professionally bound to honour. Intention, in short, is neither available nor desirable as a final standard of literary judgement.\n\nCritics of this position have replied that meaning without a meaner is incoherent, and that to strip intention from interpretation is to reduce reading to the free play of association. The reply has force against the caricature but less against the original claim, which never denied that someone meant something, only that the someone's report settles the question. A more searching objection notes that the very conventions the text invokes are themselves the sediment of countless past intentions, so that intention returns, collectivised, at the level of the language itself. The debate, then, is less about whether intention matters than about whose intention, and at what remove, a competent reading is obliged to reconstruct."
+    },
+    "question_text": "**Which of the following claims about the debate is fully supported by the passage?**",
+    "options": {
+      "1": "The passage shows that intention of every kind can be dispensed with once a text is complete",
+      "2": "The live question is which intentions, and how far mediated, a competent reading must reconstruct",
+      "3": "The critics have demonstrated that the anti-intention view collapses into arbitrary reading",
+      "4": "The passage concludes that an individual author's intention proves indispensable to interpretation after all"
+    },
+    "correct_answer": "2",
+    "explanation": "The final sentence recasts the dispute as one about whose intention and at what remove a reading must reconstruct, which the correct option states exactly. The 'indispensable after all' option overreads the collectivised return of intention as a rescue of the individual author, which the text does not grant. The 'dispensed with entirely' option ignores that collectivised return. The 'collapses into arbitrary reading' option is the caricature the passage says has force only against a straw version.",
+    "t_expert_sec": 45,
+    "t_average_sec": 280,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 6,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.\n\nField research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.\n\nThe lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent."
+    },
+    "question_text": "**Which of the following best states the central argument of the passage?**",
+    "options": {
+      "1": "Communities can sometimes govern shared resources by self-made rules, so the pessimistic model fits a special case",
+      "2": "State regulation from above is shown to be the single most dependable remedy for the overuse of any common resource",
+      "3": "Traditional rural communities, unlike modern states, essentially never deplete the natural resources placed in their care",
+      "4": "Shared resources are inevitably destroyed unless they are divided up into privately owned parcels by their own users"
+    },
+    "correct_answer": "1",
+    "explanation": "The passage argues the grim model holds only for users who cannot monitor, communicate, or bind themselves, while many real communities can and so govern their commons without nationalising or privatising them. The privatisation-inevitable and regulation-most-dependable options each pick one of the two paths the passage relativises. The 'never deplete' option overstates: the text says the prediction 'often held' where the enabling conditions were absent.",
+    "t_expert_sec": 38,
+    "t_average_sec": 235,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 7,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.\n\nField research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.\n\nThe lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent."
+    },
+    "question_text": "**The passage credits the durable commons arrangements with all of the following features EXCEPT:**",
+    "options": {
+      "1": "provisions allowing the governing rules to be revised as surrounding conditions change",
+      "2": "penalties that fall lightly on a first offence and grow heavier when the offence is repeated",
+      "3": "the ability of users to keep watch on one another and to communicate about the resource",
+      "4": "the assignment of a separately owned private parcel of the resource to each individual user"
+    },
+    "correct_answer": "4",
+    "explanation": "The enduring commons were explicitly neither privatised nor nationalised, so assigning each user a private parcel is the feature the passage denies and is the EXCEPT. Graduated penalties, mutual monitoring and communication, and revisable rules are each named directly as pillars of the successful arrangements.",
+    "t_expert_sec": 36,
+    "t_average_sec": 225,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 8,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.\n\nField research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.\n\nThe lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent."
+    },
+    "question_text": "**The author observes that a well-meaning government can 'produce the tragedy it meant to prevent' mainly in order to:**",
+    "options": {
+      "1": "warn that overriding a working local arrangement can destroy the conditions that sustained restraint",
+      "2": "argue that governments are, almost as a rule, indifferent to whether shared resources survive or collapse",
+      "3": "claim that locally made rules are plainly superior to state rules in virtually every respect and setting",
+      "4": "show that dividing a resource into private holdings will reliably outperform any centrally imposed public rule"
+    },
+    "correct_answer": "1",
+    "explanation": "The point is that a uniform national rule can extinguish the monitoring and trust on which local restraint depended, so intervention can backfire. It does not impute indifference to governments, and it does not claim local rules win everywhere: the text stresses local success is conditional on monitoring and communication. Privatisation is not endorsed here at all.",
+    "t_expert_sec": 43,
+    "t_average_sec": 268,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 9,
+    "section": "VARC",
+    "set_id": "VARC-RC2",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "passage",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/reading-comprehension",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "passage",
+      "markdown": "For a generation, the standard verdict on shared resources was pessimistic: where no one owns a pasture, a fishery, or an aquifer, each user has an incentive to take as much as possible before a rival does, and the resource is ruined by the sum of individually rational choices. The remedy seemed to follow with the force of a theorem. Either the state must regulate the resource from above, or it must be carved into private parcels whose owners will husband what they hold. Between the regulator and the auctioneer there appeared to be no third path.\n\nField research complicated the theorem. In mountain villages, coastal fisheries, and irrigation systems that had endured for centuries, users had neither nationalised nor privatised their commons, yet had not destroyed them either. Instead they had crafted their own rules: who could harvest, when, how much, and what would befall a cheat. These arrangements were neither spontaneous nor costless. They depended on the users being able to monitor one another, to communicate, to revise the rules as conditions changed, and to impose graduated penalties that punished a first offence lightly and a repeated one severely. Where such conditions were absent, the pessimistic prediction often held.\n\nThe lesson was not that the original model was false, but that it described one case rather than the general one. The model assumed users who could not talk, could not watch, and could not bind themselves, and for such users the grim conclusion does follow. Real communities are frequently able to do all three, and the capacity to make and enforce local agreements is itself a resource, one that erodes if outsiders, however well intentioned, override it. A government that replaces a working local arrangement with a uniform national rule may extinguish the very monitoring and trust on which restraint depended, and so produce the tragedy it meant to prevent."
+    },
+    "question_text": "**The author's stance toward the original pessimistic model is best described as:**",
+    "options": {
+      "1": "full endorsement of it as a fixed law that governs shared resources in every setting",
+      "2": "studied indifference, on the ground that the model's assumptions are said to be untestable",
+      "3": "outright rejection of it as an account that field evidence has now proved plainly false",
+      "4": "qualified acceptance, treating it as accurate for a restricted range of conditions"
+    },
+    "correct_answer": "4",
+    "explanation": "The author says explicitly the lesson is 'not that the original model was false' but that it fits one case, and that for users who cannot talk, watch, or bind themselves 'the grim conclusion does follow'. That is qualified acceptance. Outright rejection contradicts the disclaimer; full endorsement ignores the restriction to a special case; indifference is wrong because the model is engaged with closely and its assumptions are tested against field cases.",
+    "t_expert_sec": 44,
+    "t_average_sec": 272,
+    "instruction": "**Read the following passage carefully and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 10,
+    "section": "VARC",
+    "set_id": "VARC-ODD-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A tidal wetland acts as a natural buffer, absorbing the energy of incoming storm surges before they reach inland settlements.\n(2) Its dense mat of roots binds loose sediment, so the shoreline erodes far more slowly than an unvegetated coast would.\n(3) The same roots filter runoff, trapping pollutants that would otherwise flow straight into open water.\n(4) Because of these functions, planners increasingly treat wetlands as infrastructure rather than as idle land.\n(5) Modern desalination plants can convert seawater into drinking water at a steadily falling cost per litre.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "(3)",
+      "2": "(4)",
+      "3": "(5)",
+      "4": "(2)",
+      "5": "(1)"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentences 1, 2, 3 and 4 build one argument: wetlands buffer surges, hold sediment, filter runoff, and so count as infrastructure. The desalination-plant sentence introduces an unrelated technology for producing drinking water and shares none of that thread, so it is the intruder. Sentence 4 begins with 'these functions', which points back to the wetland benefits, confirming the other four cohere.",
+    "t_expert_sec": 30,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 11,
+    "section": "VARC",
+    "set_id": "VARC-ODD-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 0.5,
+    "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) When a folk tale passes from one teller to the next, small changes creep in with every retelling.\n(2) A teller may drop a name, sharpen a joke, or shift the setting to a place the listeners know.\n(3) Over generations these tiny edits accumulate into strikingly different versions of one story.\n(4) Scholars can sometimes trace those versions back to a shared ancestor by comparing their fixed motifs.\n(5) Printing presses lowered the price of books so sharply that private libraries became common.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "(2)",
+      "2": "(1)",
+      "3": "(3)",
+      "4": "(5)",
+      "5": "(4)"
+    },
+    "correct_answer": "4",
+    "explanation": "The four connected sentences describe how oral folk tales mutate as they are retold and how scholars reconstruct their common origin. The sentence about printing presses and the price of books concerns written distribution, a different subject that breaks the chain about oral transmission, making it the misfit. The word 'those versions' in sentence 4 links back to the accumulated edits, tying the other four together.",
+    "t_expert_sec": 30,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 12,
+    "section": "VARC",
+    "set_id": "VARC-ODD-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 1.0,
+    "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A scientific model is deliberately simpler than the reality it represents, keeping only the features that matter for a given question.\n(2) By stripping away detail, it lets researchers reason about a system that would otherwise be too tangled to follow.\n(3) The value of a model therefore lies not in its completeness but in the useful predictions it yields.\n(4) A model that reproduced every detail of the world would be as hard to understand as the world itself.\n(5) A well-designed model can be tested against fresh observations and discarded the moment it fails to predict them.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "(5)",
+      "2": "(2)",
+      "3": "(1)",
+      "4": "(3)",
+      "5": "(4)"
+    },
+    "correct_answer": "1",
+    "explanation": "Sentences 1, 2, 3 and 4 develop one idea, that a model earns its worth through simplification rather than through completeness. Sentence 5 is subtly off: it stays on the topic of models but shifts to a different claim, about falsification and testing against new data, which the other four never raise. Because 5 introduces a separate virtue instead of extending the completeness-versus-usefulness argument, it is the odd one out.",
+    "t_expert_sec": 45,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 13,
+    "section": "VARC",
+    "set_id": "VARC-ODD-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 5,
+    "topic": "VARC/odd-one-out",
+    "difficulty": 1.0,
+    "question_text": "Five sentences are given below. Four of them combine to form a single coherent paragraph; one does not belong. Read the sentences and identify the misfit.\n\n(1) A currency holds its value only because the people using it expect others to accept it tomorrow.\n(2) That expectation is a shared belief, sustained by habit and by trust in the issuing authority.\n(3) When the belief weakens, holders rush to spend, and prices climb faster than the notes can be printed.\n(4) A sudden loss of confidence can thus unravel a currency long before any change in the goods it can buy.\n(5) Central banks set interest rates to steer how much borrowing and lending take place across the economy.\n\n**Which sentence is the odd one out?**",
+    "options": {
+      "1": "(4)",
+      "2": "(5)",
+      "3": "(2)",
+      "4": "(1)",
+      "5": "(3)"
+    },
+    "correct_answer": "2",
+    "explanation": "The cohering four trace one causal story: a currency's value rests on shared expectation, that expectation is belief, weakened belief triggers a spending rush, and confidence can collapse before real goods change. Sentence 5 also concerns central banking but makes a different claim, about interest-rate policy and credit, rather than the psychology of confidence. It sits in the same field yet breaks the single argument, so it is the intruder.",
+    "t_expert_sec": 45,
+    "t_average_sec": 200,
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 14,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Every autumn, millions of songbirds leave the cooling north for warmer southern feeding grounds.\n2. To survive the journey, each bird nearly doubles its body weight by gorging on insects and berries beforehand.\n3. This stored fat becomes the fuel that powers days of almost continuous flight.\n4. Without it, a small migrant could not cross the wide deserts and seas that lie along the route.\n\n**Select the correct order.**",
+    "options": {
+      "1": "2134",
+      "2": "1324",
+      "3": "1243",
+      "4": "1234"
+    },
+    "correct_answer": "4",
+    "explanation": "Sentence 1 sets the scene with the autumn departure and is the natural opener. Sentence 2 explains the preparation, doubling body weight, which sentence 3 then labels 'this stored fat' and calls the fuel. Sentence 4 closes with 'Without it', referring to that fat, and names the obstacles. The chain 1-2-3-4 keeps each pronoun next to its referent, so the order is 1234.",
+    "t_expert_sec": 35,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 4.3
+  },
+  {
+    "question_id": 15,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 0.5,
+    "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A public library began, in most towns, as a single donated room lined with second-hand books.\n2. As demand grew, the room acquired a paid keeper who lent volumes and tracked their return.\n3. That keeper slowly became a trained profession, with rules for cataloguing and preserving the collection.\n4. Today those same rules underpin vast digital archives that no single room could ever hold.\n\n**Select the correct order.**",
+    "options": {
+      "1": "1324",
+      "2": "1243",
+      "3": "2134",
+      "4": "1234"
+    },
+    "correct_answer": "4",
+    "explanation": "The paragraph moves through time. Sentence 1 gives the humble origin, a donated room. Sentence 2 adds the paid keeper as demand grows, and sentence 3 turns 'that keeper' into a profession with rules. Sentence 4 begins 'Today those same rules', extending the cataloguing rules to digital archives. Each step depends on the one before, so the sequence is 1234.",
+    "t_expert_sec": 35,
+    "t_average_sec": 150,
+    "content_type": "text",
+    "discrimination_ratio": 4.3
+  },
+  {
+    "question_id": 16,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Critics once dismissed the invention as a toy with no serious use.\n2. Its defenders replied that the same had been said of the telephone in its first decade.\n3. They pointed out that such judgements track familiarity, not the real limits of a device.\n4. History, they argued, rarely rewards those who mistake a rough prototype for a finished tool.\n\n**Select the correct order.**",
+    "options": {
+      "1": "1324",
+      "2": "1234",
+      "3": "2134",
+      "4": "1243"
+    },
+    "correct_answer": "2",
+    "explanation": "Sentence 1 states the dismissal and must open. Sentence 2 begins 'Its defenders replied', a direct rebuttal that has to follow the criticism. Sentence 3 opens with 'They', the defenders, generalising their reply, and sentence 4 continues 'they argued' with the closing lesson. Reordering breaks the pronoun 'They', which needs 'defenders' named first, so only 1234 keeps the references intact.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 17,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. A map must leave things out, for a chart that showed every detail would be useless.\n2. Yet what it leaves out is never neutral, since each omission quietly reflects the mapmaker's priorities.\n3. Such choices, repeated across thousands of maps, shape how a whole society pictures its own territory.\n4. For this reason a map is best read not only as a guide but as an argument about what deserves notice.\n\n**Select the correct order.**",
+    "options": {
+      "1": "2134",
+      "2": "1324",
+      "3": "1234",
+      "4": "1243"
+    },
+    "correct_answer": "3",
+    "explanation": "Sentence 1 introduces the necessary omission and opens the paragraph. Sentence 2 begins 'Yet what it leaves out', a contrast that must follow the claim about leaving things out. Sentence 3 refers to 'Such choices', the priority-driven omissions of sentence 2, and sentence 4 draws the conclusion with 'For this reason'. The connectives Yet, Such choices, and For this reason force the order 1234.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 18,
+    "section": "VARC",
+    "set_id": "VARC-JUMBLE-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/para-jumble",
+    "difficulty": 1.0,
+    "question_text": "The four sentences below, labelled 1 to 4, have been jumbled. Arrange them to form a coherent paragraph.\n\n1. Silence in a conversation is often read as a gap, an awkward failure to keep talking.\n2. In many cultures, however, it carries meaning as rich as any spoken reply.\n3. There a considered pause signals respect, telling the other that the question deserved real thought.\n4. To fill that pause too quickly can therefore seem not friendly but careless.\n\n**Select the correct order.**",
+    "options": {
+      "1": "1243",
+      "2": "1234",
+      "3": "2134",
+      "4": "1324"
+    },
+    "correct_answer": "2",
+    "explanation": "Sentence 1 sets up the common view of silence as an awkward gap. Sentence 2 answers with 'however', reframing silence as meaningful, and sentence 3 begins 'There', pointing to those cultures and explaining what the pause signals. Sentence 4 concludes with 'that pause' and 'therefore', drawing the consequence. The linking words however, There, and therefore fix the reading order as 1234.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 19,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Many species that appear wasteful are in fact insuring themselves against bad years. An oak may drop thousands of acorns although only a handful can ever grow into trees, because the surplus swamps the animals that eat them and guarantees that a few seeds survive in almost any season. What looks like extravagance is a hedge: by producing far more than the average conditions require, the tree buys protection against the years when conditions are worst.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Apparent overproduction in nature is often a safeguard, letting a species survive poor years by making far more offspring than good conditions alone would need.",
+      "2": "Animals that feed on seeds are usually overwhelmed by the sheer number a plant produces and so fail to eat the entire crop.",
+      "3": "Oak trees drop many thousands of acorns every single year even though almost none of those scattered acorns will ever manage to grow into a mature standing tree.",
+      "4": "Nature tends to be wasteful, and much of what living things produce serves no real purpose beyond simple excess."
+    },
+    "correct_answer": "1",
+    "explanation": "The passage argues that seeming waste is really insurance against bad years, using the oak only as an example. The correct summary captures that general point about overproduction as a safeguard. The acorn statement and the seed-eater statement are single supporting details, too narrow to be the summary, and the 'nature is wasteful' option flatly contradicts the passage, which says the surplus has a clear purpose.",
+    "t_expert_sec": 40,
+    "t_average_sec": 170,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.2
+  },
+  {
+    "question_id": 20,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "A new road built to relieve congestion often ends up just as crowded as before. The extra capacity lowers the effective cost of driving, so people who once avoided the trip, took the train, or travelled at odd hours now join the traffic. Within a few years the freed-up space fills again, and the promised relief quietly disappears even though the road itself was built exactly as planned.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Roads are frequently built exactly to their original plans, yet the traffic engineers still misjudge how drivers will respond.",
+      "2": "Adding road capacity tends to attract new trips that fill the space, so the expected easing of congestion often fails to last.",
+      "3": "Traffic congestion is one of the most stubborn and expensive problems that fast-growing modern cities are forced to confront.",
+      "4": "People who used to take the train will switch to driving as soon as a wider and more convenient road becomes available to them."
+    },
+    "correct_answer": "2",
+    "explanation": "The paragraph's core claim is that new capacity induces extra demand that refills the road, defeating the intended relief. The correct option states exactly that cause and effect. The train-switching option is only one instance of the induced demand, the 'built to plan' option seizes a side remark, and the 'congestion is stubborn' option is a general theme the passage never actually argues.",
+    "t_expert_sec": 40,
+    "t_average_sec": 170,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.2
+  },
+  {
+    "question_id": 21,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 0.5,
+    "question_text": "Learning a second language as an adult rarely produces a flawless accent, yet the effort is far from wasted. Even partial fluency reshapes how the learner hears speech, sharpens attention to grammar in the first language, and opens doors to texts and people that were closed before. The goal need not be to pass as a native; the practical and mental gains arrive long before that distant point.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Studying grammar in a new language happens to sharpen a learner's awareness of the grammar of their own first language.",
+      "2": "Reaching the fluent level of a genuine native speaker is really the one true and proper measure of success for anyone setting out to learn a new foreign language.",
+      "3": "Adult language learning brings real practical and mental benefits well before fluency, so a perfect accent need not be the aim.",
+      "4": "Adults who study a second language almost never manage to acquire an accent that a native speaker would accept as flawless."
+    },
+    "correct_answer": "3",
+    "explanation": "The passage says adult learners seldom sound native but gain much sooner, so a perfect accent is not the point. The correct summary states both halves, benefits arrive early and native-level need not be the goal. The accent option and the grammar option are isolated details, and the 'native speaker is the true measure' option reverses the passage's actual conclusion.",
+    "t_expert_sec": 40,
+    "t_average_sec": 170,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.2
+  },
+  {
+    "question_id": 22,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "Rating systems promise to guide us toward quality, but a high average can mislead as easily as it informs. A product reviewed by only a dozen buyers may score higher than a rival reviewed by thousands, not because it is better but because a small sample swings more wildly. Worse, the people who bother to rate are rarely typical: the delighted and the furious speak up while the merely satisfied stay silent. A score, then, summarises not the product alone but the peculiar crowd that chose to judge it, and reading it wisely means asking who did the rating before trusting what they said.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "A product judged by only a handful of reviewers can post a higher average than a rival that thousands of buyers have carefully rated.",
+      "2": "Rating systems were originally designed to steer ordinary shoppers toward higher quality goods, and for the most part they seem to carry out that useful task quite reliably.",
+      "3": "People who feel delighted or furious about a purchase are much more likely to leave a review than those who feel merely satisfied.",
+      "4": "Average ratings can mislead because small samples fluctuate and reviewers are unrepresentative, so a score reflects who rated as much as the product."
+    },
+    "correct_answer": "4",
+    "explanation": "The passage makes two linked points, that small samples swing and that reviewers are a skewed crowd, concluding a score reflects its raters. Only the correct option carries that full scope. The small-sample option and the delighted-or-furious option are each one of the two reasons, true but partial, and the reliability option contradicts the passage by calling ratings reliable, which is the very claim being questioned.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 23,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "We tend to praise the lone inventor, but most breakthroughs are less a single leap than a last step. By the time a discovery is announced, dozens of others have usually reached the same threshold, held back only by a missing tool or an unasked question. The celebrated name is often simply the one who arrived days ahead, or who framed the result in words the age was ready to hear. To credit a single mind, then, is to mistake the visible tip of a long collective effort for the whole of it.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "The lone individual inventor still fully deserves the praise that we give, because framing a raw result in exactly the right words is itself the single hardest part of any discovery.",
+      "2": "Great discoveries are usually the final step of a wide shared effort, so crediting one inventor mistakes a visible moment for the whole.",
+      "3": "A breakthrough is frequently delayed by nothing more than a missing instrument or a question that no one has yet thought to ask.",
+      "4": "Whoever announces a discovery first has often arrived only a few days ahead of several rivals working on the very same problem."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage argues that breakthroughs cap a broad collective effort and that honouring one mind mistakes the tip for the whole. The correct option states both the shared-effort claim and its consequence. The 'arrived days ahead' and 'missing instrument' options are supporting details, and the final option endorses the lone-inventor view the passage sets out to overturn.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 24,
+    "section": "VARC",
+    "set_id": "VARC-SUMMARY-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "VARC/summary",
+    "difficulty": 1.0,
+    "question_text": "A law that everyone quietly ignores can be more corrosive than no law at all. When a rule is kept on the books but never enforced, it does not simply lie dormant; it teaches citizens that the written word and the real world need not match. Each unpunished breach makes the next one easier to excuse, and over time the habit of selective obedience spreads to rules that were meant to bind. The damage lies less in the single ignored statute than in the lesson it spreads about how seriously any law should be taken.\n\n**Which option best summarises the paragraph?**",
+    "options": {
+      "1": "Once one violation of a statute goes unpunished, excusing the next similar violation becomes noticeably easier to justify.",
+      "2": "An unenforced law erodes respect for law in general, because tolerating its breach teaches that rules need not be obeyed.",
+      "3": "Lawmakers should take care to repeal statutes they no longer intend to enforce rather than leaving them on the books.",
+      "4": "A rule that stays on the books without ever being enforced does not vanish but quietly remains available for later use."
+    },
+    "correct_answer": "2",
+    "explanation": "The passage's thesis is that an ignored law spreads a corrosive lesson, weakening obedience to law as a whole. The correct option captures that broad erosion and its cause. The 'remains available' option distorts a minor phrase, the 'next violation easier' option is one step in the argument rather than the whole, and the repeal recommendation is advice the passage never offers.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "instruction": "**Read the paragraph given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 25,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.\n\n- The Finance employee sits immediately to the left of the Legal employee.\n- Priya has more experience than exactly three of her colleagues.\n- The Tech employee has the least experience.\n- Omar sits at desk 3 and works in Finance.\n- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.\n- The employee at desk 1 has 6 years of experience.\n- Mira sits somewhere to the right of Rehan.\n- The HR employee sits at desk 5.\n- The Legal employee has 8 years of experience."
+    },
+    "question_text": "**Which employee sits at desk 4?**",
+    "options": {
+      "1": "Sana",
+      "2": "Mira",
+      "3": "Priya",
+      "4": "Omar"
+    },
+    "correct_answer": "3",
+    "explanation": "Priya has more experience than exactly three others, so she holds 8 years, and the Legal person also holds 8, making Priya the Legal employee. Omar is Finance at desk 3, so Legal sits immediately to his right at desk 4. Hence Priya is at desk 4. Mira, Sana and Omar occupy other desks, so they are error traps from misplacing the adjacency clue.",
+    "t_expert_sec": 55,
+    "t_average_sec": 360,
+    "verification": {
+      "expr": "pos={'Mira':2,'Omar':3,'Priya':4,'Rehan':1,'Sana':5};dept={'Mira':'Tech','Omar':'Finance','Priya':'Legal','Rehan':'Sales','Sana':'HR'};exp={'Mira':2,'Omar':4,'Priya':8,'Rehan':6,'Sana':10};fin=next(p for p in pos if dept[p]=='Finance');leg=next(p for p in pos if dept[p]=='Legal');tech=next(p for p in pos if dept[p]=='Tech');sales=next(p for p in pos if dept[p]=='Sales');hr=next(p for p in pos if dept[p]=='HR');d1=next(p for p in pos if pos[p]==1);ok=pos[fin]+1==pos[leg] and exp['Priya']==8 and exp[tech]==2 and pos['Omar']==3 and dept['Omar']=='Finance' and dept['Sana']!='Sales' and exp['Sana']-exp[sales]==4 and exp[d1]==6 and pos['Mira']>pos['Rehan'] and pos[hr]==5 and exp[leg]==8;'3' if ok and next(p for p in pos if pos[p]==4)=='Priya' else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.5
+  },
+  {
+    "question_id": 26,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.\n\n- The Finance employee sits immediately to the left of the Legal employee.\n- Priya has more experience than exactly three of her colleagues.\n- The Tech employee has the least experience.\n- Omar sits at desk 3 and works in Finance.\n- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.\n- The employee at desk 1 has 6 years of experience.\n- Mira sits somewhere to the right of Rehan.\n- The HR employee sits at desk 5.\n- The Legal employee has 8 years of experience."
+    },
+    "question_text": "**The employee with 10 years of experience works in which department?**",
+    "options": {
+      "1": "HR",
+      "2": "Finance",
+      "3": "Sales",
+      "4": "Legal"
+    },
+    "correct_answer": "1",
+    "explanation": "Sales sits at desk 1 with 6 years, so Sana has 6+4=10 years and is not in Sales. Since Legal holds 8 and Finance is Omar with 4, and the Tech employee holds the least at 2, the only department left for the 10-year employee is HR at desk 5, which is Sana. Legal and Finance are traps from ignoring the experience gap.",
+    "t_expert_sec": 50,
+    "t_average_sec": 330,
+    "verification": {
+      "expr": "pos={'Mira':2,'Omar':3,'Priya':4,'Rehan':1,'Sana':5};dept={'Mira':'Tech','Omar':'Finance','Priya':'Legal','Rehan':'Sales','Sana':'HR'};exp={'Mira':2,'Omar':4,'Priya':8,'Rehan':6,'Sana':10};fin=next(p for p in pos if dept[p]=='Finance');leg=next(p for p in pos if dept[p]=='Legal');tech=next(p for p in pos if dept[p]=='Tech');sales=next(p for p in pos if dept[p]=='Sales');hr=next(p for p in pos if dept[p]=='HR');d1=next(p for p in pos if pos[p]==1);ok=pos[fin]+1==pos[leg] and exp['Priya']==8 and exp[tech]==2 and pos['Omar']==3 and dept['Omar']=='Finance' and dept['Sana']!='Sales' and exp['Sana']-exp[sales]==4 and exp[d1]==6 and pos['Mira']>pos['Rehan'] and pos[hr]==5 and exp[leg]==8;p10=next(p for p in pos if exp[p]==10);'1' if ok and dept[p10]=='HR' else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.6
+  },
+  {
+    "question_id": 27,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.\n\n- The Finance employee sits immediately to the left of the Legal employee.\n- Priya has more experience than exactly three of her colleagues.\n- The Tech employee has the least experience.\n- Omar sits at desk 3 and works in Finance.\n- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.\n- The employee at desk 1 has 6 years of experience.\n- Mira sits somewhere to the right of Rehan.\n- The HR employee sits at desk 5.\n- The Legal employee has 8 years of experience."
+    },
+    "question_text": "**Suppose Omar and Priya exchange only their departments, keeping their desks and their years of experience unchanged. Which statement would then become true?**",
+    "options": {
+      "1": "The Tech employee would end up with the most experience overall.",
+      "2": "The Finance and Legal employees would no longer sit adjacently.",
+      "3": "The employee at desk 1 would then work in the Legal department.",
+      "4": "Exactly two of the five employees would then share one department."
+    },
+    "correct_answer": "2",
+    "explanation": "Originally Omar is Finance at desk 3 and Priya is Legal at desk 4, satisfying the adjacency rule. After the swap Priya becomes Finance at desk 4 and Omar becomes Legal at desk 3, so Finance now sits to the right of Legal and the two are no longer adjacent in the required order. Desk 1 stays Sales, Tech keeps its 2 years, and each department is still held by exactly one person, so those statements remain false.",
+    "t_expert_sec": 60,
+    "t_average_sec": 400,
+    "verification": {
+      "expr": "pos={'Mira':2,'Omar':3,'Priya':4,'Rehan':1,'Sana':5};dept={'Mira':'Tech','Omar':'Finance','Priya':'Legal','Rehan':'Sales','Sana':'HR'};dept['Omar'],dept['Priya']='Legal','Finance';fin=next(p for p in pos if dept[p]=='Finance');leg=next(p for p in pos if dept[p]=='Legal');'2' if pos[fin]+1!=pos[leg] else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.7
+  },
+  {
+    "question_id": 28,
+    "section": "DILR",
+    "set_id": "DILR-1",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-tournament",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Five employees, Mira, Omar, Priya, Rehan and Sana, sit at a row of five desks numbered 1 to 5 from left to right. Each works in exactly one of five departments (Finance, Legal, Sales, Tech, HR), and each has a distinct number of years of experience drawn from 2, 4, 6, 8 and 10.\n\n- The Finance employee sits immediately to the left of the Legal employee.\n- Priya has more experience than exactly three of her colleagues.\n- The Tech employee has the least experience.\n- Omar sits at desk 3 and works in Finance.\n- Sana has exactly 4 years more experience than the Sales employee, and Sana does not work in Sales.\n- The employee at desk 1 has 6 years of experience.\n- Mira sits somewhere to the right of Rehan.\n- The HR employee sits at desk 5.\n- The Legal employee has 8 years of experience."
+    },
+    "question_text": "**What is the combined experience, in years, of the Finance employee and the Legal employee?**",
+    "options": {
+      "1": "12",
+      "2": "16",
+      "3": "10",
+      "4": "14"
+    },
+    "correct_answer": "1",
+    "explanation": "Omar is the Finance employee with 4 years, and Priya is the Legal employee with 8 years, so together they hold 4+8=12 years. The value 14 comes from pairing Legal with Sales, 10 from using Tech instead of Legal, and 16 from adding the two most experienced staff rather than the two named departments.",
+    "t_expert_sec": 45,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "dept={'Mira':'Tech','Omar':'Finance','Priya':'Legal','Rehan':'Sales','Sana':'HR'};exp={'Mira':2,'Omar':4,'Priya':8,'Rehan':6,'Sana':10};fin=next(p for p in exp if dept[p]=='Finance');leg=next(p for p in exp if dept[p]=='Legal');'1' if exp[fin]+exp[leg]==12 else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.7
+  },
+  {
+    "question_id": 29,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.\n\n- Aster departs earlier than Birch.\n- The flight to Tokyo departs first.\n- Cedar flies to Cairo.\n- The flight to Oslo departs immediately after the flight to Lisbon.\n- Delta departs third.\n- Cedar departs earlier than Delta."
+    },
+    "question_text": "**Which airline operates the last flight to depart?**",
+    "options": {
+      "1": "Aster",
+      "2": "Delta",
+      "3": "Cedar",
+      "4": "Birch"
+    },
+    "correct_answer": "4",
+    "explanation": "Tokyo departs first and Aster is earlier than Birch, so Aster takes the first slot with Tokyo. Cedar flies to Cairo and departs before Delta, who is third, so Cedar is second. That leaves Birch for the fourth and final slot. Delta is third and Aster is first, so both are traps for readers who stop after placing Delta.",
+    "t_expert_sec": 40,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "time={'Aster':1,'Birch':4,'Cedar':2,'Delta':3};city={'Aster':'Tokyo','Birch':'Oslo','Cedar':'Cairo','Delta':'Lisbon'};tok=next(a for a in time if city[a]=='Tokyo');osl=next(a for a in time if city[a]=='Oslo');lis=next(a for a in time if city[a]=='Lisbon');ok=time['Aster']<time['Birch'] and time[tok]==1 and city['Cedar']=='Cairo' and time[osl]-time[lis]==1 and time['Delta']==3 and time['Cedar']<time['Delta'];'4' if ok and next(a for a in time if time[a]==4)=='Birch' else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.5
+  },
+  {
+    "question_id": 30,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.\n\n- Aster departs earlier than Birch.\n- The flight to Tokyo departs first.\n- Cedar flies to Cairo.\n- The flight to Oslo departs immediately after the flight to Lisbon.\n- Delta departs third.\n- Cedar departs earlier than Delta."
+    },
+    "question_text": "**To which city does Delta fly?**",
+    "options": {
+      "1": "Lisbon",
+      "2": "Cairo",
+      "3": "Tokyo",
+      "4": "Oslo"
+    },
+    "correct_answer": "1",
+    "explanation": "Aster (first) goes to Tokyo and Cedar (second) goes to Cairo. Oslo must follow Lisbon immediately, and with Delta third and Birch fourth the only consecutive pair left is Delta then Birch, so Delta flies to Lisbon and Birch to Oslo. Cairo and Tokyo are already assigned, so they are traps for readers who ignore the Lisbon-then-Oslo order.",
+    "t_expert_sec": 45,
+    "t_average_sec": 275,
+    "verification": {
+      "expr": "time={'Aster':1,'Birch':4,'Cedar':2,'Delta':3};city={'Aster':'Tokyo','Birch':'Oslo','Cedar':'Cairo','Delta':'Lisbon'};osl=next(a for a in time if city[a]=='Oslo');lis=next(a for a in time if city[a]=='Lisbon');ok=time['Aster']<time['Birch'] and time[next(a for a in time if city[a]=='Tokyo')]==1 and city['Cedar']=='Cairo' and time[osl]-time[lis]==1 and time['Delta']==3 and time['Cedar']<time['Delta'];'1' if ok and city['Delta']=='Lisbon' else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.1
+  },
+  {
+    "question_id": 31,
+    "section": "DILR",
+    "set_id": "DILR-2",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-quiz-scores",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "Four flights, operated by the airlines Aster, Birch, Cedar and Delta, depart one after another from a regional airport, no two at the same time. Each flight goes to a different city among Lisbon, Cairo, Oslo and Tokyo.\n\n- Aster departs earlier than Birch.\n- The flight to Tokyo departs first.\n- Cedar flies to Cairo.\n- The flight to Oslo departs immediately after the flight to Lisbon.\n- Delta departs third.\n- Cedar departs earlier than Delta."
+    },
+    "question_text": "**Suppose the airport swaps the departure slots of the two flights currently in the second and fourth positions, leaving every destination with its own aircraft unchanged. After the swap, the flight to which city departs immediately before the flight to Oslo?**",
+    "options": {
+      "1": "Cairo",
+      "2": "Oslo",
+      "3": "Tokyo",
+      "4": "Lisbon"
+    },
+    "correct_answer": "3",
+    "explanation": "In the original order the slots are Tokyo, Cairo, Lisbon, Oslo. Swapping the second and fourth flights gives Tokyo, Oslo, Lisbon, Cairo. Oslo now sits in the second slot, so the flight departing immediately before it is Tokyo in the first slot. Lisbon and Cairo have moved away from that position, and Oslo cannot precede itself, so they are traps.",
+    "t_expert_sec": 55,
+    "t_average_sec": 345,
+    "verification": {
+      "expr": "time={'Aster':1,'Birch':4,'Cedar':2,'Delta':3};city={'Aster':'Tokyo','Birch':'Oslo','Cedar':'Cairo','Delta':'Lisbon'};a2=next(a for a in time if time[a]==2);a4=next(a for a in time if time[a]==4);time[a2],time[a4]=4,2;osl=next(a for a in time if city[a]=='Oslo');before=next(a for a in time if time[a]==time[osl]-1);'3' if city[before]=='Tokyo' else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.3
+  },
+  {
+    "question_id": 32,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.\n\n**Packages sold (in thousands)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 4 | 10 | 8 | 6 |\n| Coastal | 30 | 8 | 5 | 4 |\n| Mountain | 2 | 6 | 10 | 20 |\n\n**Price per package (in thousand rupees)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 20 | 22 | 25 | 18 |\n| Coastal | 15 | 16 | 14 | 12 |\n| Mountain | 30 | 28 | 26 | 24 |"
+    },
+    "question_text": "**What is the total revenue earned from Coastal packages across all four cities?**",
+    "options": {
+      "1": "664 million rupees",
+      "2": "720 million rupees",
+      "3": "696 million rupees",
+      "4": "648 million rupees"
+    },
+    "correct_answer": "3",
+    "explanation": "Coastal revenue per city is packages sold times price: Jaipur 30x15=450, Kochi 8x16=128, Shimla 5x14=70, Goa 4x12=48, giving 696 million rupees in total. Dropping Goa by mistake leaves 648, which is the tempting near miss.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "coastal=[30*15,8*16,5*14,4*12]; '3' if sum(coastal)==696 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 33,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.\n\n**Packages sold (in thousands)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 4 | 10 | 8 | 6 |\n| Coastal | 30 | 8 | 5 | 4 |\n| Mountain | 2 | 6 | 10 | 20 |\n\n**Price per package (in thousand rupees)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 20 | 22 | 25 | 18 |\n| Coastal | 15 | 16 | 14 | 12 |\n| Mountain | 30 | 28 | 26 | 24 |"
+    },
+    "question_text": "**The ratio of total Mountain revenue to total Heritage revenue (across all cities) is closest to which of the following?**",
+    "options": {
+      "1": "7 : 4",
+      "2": "3 : 2",
+      "3": "8 : 5",
+      "4": "5 : 3"
+    },
+    "correct_answer": "3",
+    "explanation": "Mountain revenue is 60+168+260+480=968 million rupees and Heritage revenue is 80+220+200+108=608 million rupees. The ratio 968:608 works out to about 1.59, which is nearest to 8:5 (1.60); 3:2 undershoots at 1.50.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "r=968/608; '3' if abs(r-8/5)<abs(r-3/2) and abs(r-8/5)<abs(r-5/3) and abs(r-8/5)<abs(r-7/4) else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 34,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.\n\n**Packages sold (in thousands)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 4 | 10 | 8 | 6 |\n| Coastal | 30 | 8 | 5 | 4 |\n| Mountain | 2 | 6 | 10 | 20 |\n\n**Price per package (in thousand rupees)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 20 | 22 | 25 | 18 |\n| Coastal | 15 | 16 | 14 | 12 |\n| Mountain | 30 | 28 | 26 | 24 |"
+    },
+    "question_text": "**Which city has the lowest overall average price per package (total revenue divided by total packages sold)?**",
+    "options": {
+      "1": "Goa",
+      "2": "Shimla",
+      "3": "Kochi",
+      "4": "Jaipur"
+    },
+    "correct_answer": "4",
+    "explanation": "Overall average price is total revenue over total packages. Jaipur is 590/36=16.4, Goa 636/30=21.2, Kochi 516/24=21.5, Shimla 530/23=23.0 (thousand rupees). Jaipur is lowest because its huge cheap Coastal volume pulls the weighted price down; taking a plain average of the three listed prices wrongly flags Goa (mean 18).",
+    "t_expert_sec": 58,
+    "t_average_sec": 400,
+    "verification": {
+      "expr": "rev={'J':590,'K':516,'S':530,'G':636}; pkg={'J':36,'K':24,'S':23,'G':30}; w={c:rev[c]/pkg[c] for c in rev}; low=min(w, key=lambda c: w[c]); '4' if low=='J' else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.9
+  },
+  {
+    "question_id": 35,
+    "section": "DILR",
+    "set_id": "DILR-3",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "table",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-table",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "table",
+      "markdown": "A tour operator sells three package types across four cities. Table 1 gives the number of packages sold (in thousands) and Table 2 gives the price per package (in thousand rupees). Revenue for any cell = packages sold (in '000) x price per package (in '000 rupees), so all revenue figures are in millions of rupees.\n\n**Packages sold (in thousands)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 4 | 10 | 8 | 6 |\n| Coastal | 30 | 8 | 5 | 4 |\n| Mountain | 2 | 6 | 10 | 20 |\n\n**Price per package (in thousand rupees)**\n\n| Package | Jaipur | Kochi | Shimla | Goa |\n|---|--:|--:|--:|--:|\n| Heritage | 20 | 22 | 25 | 18 |\n| Coastal | 15 | 16 | 14 | 12 |\n| Mountain | 30 | 28 | 26 | 24 |"
+    },
+    "question_text": "**By how much does Goa's total revenue exceed Kochi's total revenue?**",
+    "options": {
+      "1": "96 million rupees",
+      "2": "120 million rupees",
+      "3": "132 million rupees",
+      "4": "108 million rupees"
+    },
+    "correct_answer": "2",
+    "explanation": "Goa's total revenue is 108+48+480=636 million rupees and Kochi's is 220+128+168=516 million rupees, so Goa leads by 636-516=120 million rupees. The distractors come from small slips in the Mountain or Coastal products.",
+    "t_expert_sec": 48,
+    "t_average_sec": 290,
+    "verification": {
+      "expr": "goa=108+48+480; kochi=220+128+168; '2' if goa-kochi==120 else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 36,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.\n\nThe following facts are known about the workshop counts:\n\n- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.\n- Birch hosts more workshops than Cedar.\n- Cedar hosts exactly 6 workshops.\n- Aster hosts an odd number of workshops.\n- Aster hosts exactly two more workshops than Birch.\n\nThe following facts are known about the opening months:\n\n- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.\n- Aster opens in an earlier month than Dune."
+    },
+    "question_text": "**How many workshops does Dune host?**",
+    "options": {
+      "1": "4",
+      "2": "9",
+      "3": "7",
+      "4": "6"
+    },
+    "correct_answer": "1",
+    "explanation": "The distinct counts sum to 26 with Cedar fixed at 6. Aster is the largest and odd, Dune the smallest, Birch above Cedar, and Aster is Birch plus 2. The only fit is Aster 9, Birch 7, Cedar 6, Dune 4, so Dune hosts 4. The 6 trap copies Cedar, 7 copies Birch, and 9 copies Aster.",
+    "t_expert_sec": 45,
+    "t_average_sec": 280,
+    "verification": {
+      "expr": "sols=[(A,B,C,D) for A,B,C,D in itertools.permutations(range(3,11),4) if A+B+C+D==26 and A>B and A>C and A>D and D<C and B>C and C==6 and A%2==1 and A-B==2]; '1' if sols[0][3]==4 else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 37,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.\n\nThe following facts are known about the workshop counts:\n\n- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.\n- Birch hosts more workshops than Cedar.\n- Cedar hosts exactly 6 workshops.\n- Aster hosts an odd number of workshops.\n- Aster hosts exactly two more workshops than Birch.\n\nThe following facts are known about the opening months:\n\n- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.\n- Aster opens in an earlier month than Dune."
+    },
+    "question_text": "**Which centre opens in the third of the four months?**",
+    "options": {
+      "1": "Cedar",
+      "2": "Birch",
+      "3": "Aster",
+      "4": "Dune"
+    },
+    "correct_answer": "4",
+    "explanation": "Cedar opens earliest and Birch latest, so those take the first and fourth slots. Aster opens before Dune, which forces Aster into the second slot and Dune into the third. So Dune opens third. Aster is the second-month trap, Cedar is fixed first, and Birch is fixed last.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "os=[p for p in itertools.permutations(['Aster','Birch','Cedar','Dune']) if p[0]=='Cedar' and p[3]=='Birch' and p.index('Aster')<p.index('Dune')]; '4' if os[0][2]=='Dune' else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 38,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.\n\nThe following facts are known about the workshop counts:\n\n- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.\n- Birch hosts more workshops than Cedar.\n- Cedar hosts exactly 6 workshops.\n- Aster hosts an odd number of workshops.\n- Aster hosts exactly two more workshops than Birch.\n\nThe following facts are known about the opening months:\n\n- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.\n- Aster opens in an earlier month than Dune."
+    },
+    "question_text": "**Suppose only these workshop facts are kept: the counts are distinct whole numbers from 3 to 10 summing to 26, Aster hosts the most, Dune the fewest, and Birch hosts more than Cedar. The facts fixing Cedar at 6, making Aster odd and setting Aster two above Birch are dropped. How many different count-assignments to the four centres are then possible?**",
+    "options": {
+      "1": "10",
+      "2": "6",
+      "3": "8",
+      "4": "12"
+    },
+    "correct_answer": "3",
+    "explanation": "With Aster the strict maximum, Dune the strict minimum, Birch above Cedar, distinct values 3 to 10, and a total of 26, a direct enumeration gives exactly 8 valid assignments. The 6 and 10 traps come from stopping the count early or double-counting a mirrored case, and 12 overcounts the middle pair.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "'3' if sum(1 for A,B,C,D in itertools.permutations(range(3,11),4) if A+B+C+D==26 and A>B and A>C and A>D and D<B and D<C and B>C)==8 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 39,
+    "section": "DILR",
+    "set_id": "DILR-4",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-constraints",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A cultural trust runs four community centres, named Aster, Birch, Cedar and Dune. Over one season the four centres together host a total of exactly 26 workshops. Each centre hosts a different whole number of workshops, and each hosts between 3 and 10 workshops (both inclusive). Separately, the four centres open for the season in four different months, one each in March, April, May and June.\n\nThe following facts are known about the workshop counts:\n\n- Aster hosts more workshops than every other centre, and Dune hosts fewer than every other centre.\n- Birch hosts more workshops than Cedar.\n- Cedar hosts exactly 6 workshops.\n- Aster hosts an odd number of workshops.\n- Aster hosts exactly two more workshops than Birch.\n\nThe following facts are known about the opening months:\n\n- Cedar opens in the earliest of the four months, and Birch opens in the latest of the four months.\n- Aster opens in an earlier month than Dune."
+    },
+    "question_text": "**What is the combined number of workshops hosted by the centre that opens first and the centre that opens last?**",
+    "options": {
+      "1": "16",
+      "2": "11",
+      "3": "15",
+      "4": "13"
+    },
+    "correct_answer": "4",
+    "explanation": "Cedar opens first with 6 workshops and Birch opens last with 7, so the combined total is 13. Using Aster instead of Cedar for the first slot gives the 15 trap, pairing Dune with Birch gives 11, and pairing Aster with Birch gives 16.",
+    "t_expert_sec": 50,
+    "t_average_sec": 300,
+    "verification": {
+      "expr": "s=[t for t in itertools.permutations(range(3,11),4) if sum(t)==26 and t[0]>t[1] and t[0]>t[2] and t[0]>t[3] and t[3]<t[2] and t[1]>t[2] and t[2]==6 and t[0]%2==1 and t[0]-t[1]==2][0]; '4' if s[2]+s[1]==13 else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 40,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 1,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.\n\nThe following conditions all hold:\n\n- Wesley is visited on Monday.\n- Zane is visited on the day immediately after the day on which Xavier is visited.\n- Xavier is visited on an earlier day than Yara.\n- Vernon is visited on an earlier day than Xavier."
+    },
+    "question_text": "**Which client does the consultant visit on Friday?**",
+    "options": {
+      "1": "Yara",
+      "2": "Zane",
+      "3": "Vernon",
+      "4": "Xavier"
+    },
+    "correct_answer": "1",
+    "explanation": "Wesley takes Monday. Vernon comes before Xavier, and Zane sits immediately after Xavier, so Vernon, Xavier and Zane fill Tuesday, Wednesday and Thursday in that order. That leaves Yara for Friday, matching the requirement that Xavier precedes Yara. Zane and Xavier fall on Thursday and Wednesday, and Vernon on Tuesday.",
+    "t_expert_sec": 45,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "sol=[pm for pm in itertools.permutations(['Vernon','Wesley','Xavier','Yara','Zane']) if pm[0]=='Wesley' and pm.index('Zane')==pm.index('Xavier')+1 and pm.index('Xavier')<pm.index('Yara') and pm.index('Vernon')<pm.index('Xavier')][0]; '1' if sol[4]=='Yara' else '0'",
+      "expected": "1"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 41,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 2,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 0.5,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.\n\nThe following conditions all hold:\n\n- Wesley is visited on Monday.\n- Zane is visited on the day immediately after the day on which Xavier is visited.\n- Xavier is visited on an earlier day than Yara.\n- Vernon is visited on an earlier day than Xavier."
+    },
+    "question_text": "**On which day is Xavier visited?**",
+    "options": {
+      "1": "Tuesday",
+      "2": "Wednesday",
+      "3": "Monday",
+      "4": "Thursday"
+    },
+    "correct_answer": "2",
+    "explanation": "With Wesley on Monday and Vernon before Xavier, Vernon must take Tuesday. Xavier then takes Wednesday, Zane the immediately following Thursday, and Yara Friday. So Xavier is visited on Wednesday. Tuesday belongs to Vernon, Thursday to Zane, and Monday to Wesley.",
+    "t_expert_sec": 45,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "sol=[pm for pm in itertools.permutations(['Vernon','Wesley','Xavier','Yara','Zane']) if pm[0]=='Wesley' and pm.index('Zane')==pm.index('Xavier')+1 and pm.index('Xavier')<pm.index('Yara') and pm.index('Vernon')<pm.index('Xavier')][0]; '2' if sol.index('Xavier')==2 else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 5.8
+  },
+  {
+    "question_id": 42,
+    "section": "DILR",
+    "set_id": "DILR-5",
+    "set_seq": 3,
+    "set_size": 3,
+    "shared_set": true,
+    "kind": "logic",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/logic-investment",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "logic",
+      "markdown": "A field consultant visits five clients, named Vernon, Wesley, Xavier, Yara and Zane, over a single working week. She visits exactly one client on each of the five days from Monday to Friday, and no client is visited more than once.\n\nThe following conditions all hold:\n\n- Wesley is visited on Monday.\n- Zane is visited on the day immediately after the day on which Xavier is visited.\n- Xavier is visited on an earlier day than Yara.\n- Vernon is visited on an earlier day than Xavier."
+    },
+    "question_text": "**Suppose the condition that Vernon is visited before Xavier is dropped, while the other three conditions still hold. How many different visiting orders for the week are then possible?**",
+    "options": {
+      "1": "4",
+      "2": "5",
+      "3": "3",
+      "4": "2"
+    },
+    "correct_answer": "3",
+    "explanation": "Keeping Wesley on Monday, Zane immediately after Xavier, and Xavier before Yara, the Xavier-Zane block and the remaining two clients can be placed in exactly three valid ways. The 2 trap forgets one placement of Vernon, while 4 and 5 over-count arrangements that break the immediate-after or the Xavier-before-Yara rule.",
+    "t_expert_sec": 55,
+    "t_average_sec": 330,
+    "verification": {
+      "expr": "'3' if sum(1 for pm in itertools.permutations(['Vernon','Wesley','Xavier','Yara','Zane']) if pm[0]=='Wesley' and pm.index('Zane')==pm.index('Xavier')+1 and pm.index('Xavier')<pm.index('Yara'))==3 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Read the information given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.0
+  },
+  {
+    "question_id": 43,
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_seq": 1,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Ceramic Tile Boxes Shipped (in '000 boxes)",
+          "y_label": "Boxes ('000)",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              40,
+              30,
+              20,
+              10
+            ],
+            "FY23": [
+              50,
+              36,
+              25,
+              15
+            ],
+            "FY24": [
+              60,
+              45,
+              24,
+              20
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Price per Box (in rupees)",
+          "y_label": "Rupees per box",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              200,
+              300,
+              250,
+              500
+            ],
+            "FY23": [
+              210,
+              320,
+              260,
+              520
+            ],
+            "FY24": [
+              220,
+              350,
+              240,
+              550
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**What is the total revenue from all four designs in FY24?**",
+    "options": {
+      "1": "44,300 thousand rupees",
+      "2": "46,200 thousand rupees",
+      "3": "45,710 thousand rupees",
+      "4": "43,950 thousand rupees"
+    },
+    "correct_answer": "3",
+    "explanation": "FY24 revenue per design is boxes ('000) times price: Slate 60x220=13200, Marble 45x350=15750, Terra 24x240=5760, Onyx 20x550=11000, summing to 45,710 thousand rupees. The distractors drop or mis-multiply one design.",
+    "t_expert_sec": 55,
+    "t_average_sec": 340,
+    "verification": {
+      "expr": "q=[60,45,24,20]; p=[220,350,240,550]; tot=sum(q[i]*p[i] for i in range(4)); '3' if tot==45710 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 44,
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_seq": 2,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Ceramic Tile Boxes Shipped (in '000 boxes)",
+          "y_label": "Boxes ('000)",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              40,
+              30,
+              20,
+              10
+            ],
+            "FY23": [
+              50,
+              36,
+              25,
+              15
+            ],
+            "FY24": [
+              60,
+              45,
+              24,
+              20
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Price per Box (in rupees)",
+          "y_label": "Rupees per box",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              200,
+              300,
+              250,
+              500
+            ],
+            "FY23": [
+              210,
+              320,
+              260,
+              520
+            ],
+            "FY24": [
+              220,
+              350,
+              240,
+              550
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**Which design recorded the highest percentage growth in revenue from FY22 to FY24?**",
+    "options": {
+      "1": "Terra",
+      "2": "Onyx",
+      "3": "Marble",
+      "4": "Slate"
+    },
+    "correct_answer": "2",
+    "explanation": "FY22 revenue is Slate 8000, Marble 9000, Terra 5000, Onyx 5000; FY24 is Slate 13200, Marble 15750, Terra 5760, Onyx 11000 (thousand rupees). Growth is Onyx +120%, Marble +75%, Slate +65%, Terra +15%, so Onyx leads. Judging by box counts alone still favours Onyx but hides the size of the gap.",
+    "t_expert_sec": 58,
+    "t_average_sec": 400,
+    "verification": {
+      "expr": "r22=[8000,9000,5000,5000]; r24=[13200,15750,5760,11000]; g=[(r24[i]-r22[i])/r22[i] for i in range(4)]; '2' if g.index(max(g))==3 else '0'",
+      "expected": "2"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.9
+  },
+  {
+    "question_id": 45,
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_seq": 3,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Ceramic Tile Boxes Shipped (in '000 boxes)",
+          "y_label": "Boxes ('000)",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              40,
+              30,
+              20,
+              10
+            ],
+            "FY23": [
+              50,
+              36,
+              25,
+              15
+            ],
+            "FY24": [
+              60,
+              45,
+              24,
+              20
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Price per Box (in rupees)",
+          "y_label": "Rupees per box",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              200,
+              300,
+              250,
+              500
+            ],
+            "FY23": [
+              210,
+              320,
+              260,
+              520
+            ],
+            "FY24": [
+              220,
+              350,
+              240,
+              550
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**Over the three years, what is Slate's average price per box weighted by the number of boxes shipped?**",
+    "options": {
+      "1": "215.00 rupees",
+      "2": "210.00 rupees",
+      "3": "211.33 rupees",
+      "4": "213.33 rupees"
+    },
+    "correct_answer": "3",
+    "explanation": "Weighting Slate prices by boxes shipped gives (40x200+50x210+60x220)/(40+50+60)=31700/150=211.33 rupees. A plain average of 200, 210 and 220 ignores volumes and wrongly yields 210.",
+    "t_expert_sec": 52,
+    "t_average_sec": 320,
+    "verification": {
+      "expr": "q=[40,50,60]; p=[200,210,220]; w=sum(q[i]*p[i] for i in range(3))/sum(q); '3' if round(w,2)==211.33 else '0'",
+      "expected": "3"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.2
+  },
+  {
+    "question_id": 46,
+    "section": "DILR",
+    "set_id": "DILR-6",
+    "set_seq": 4,
+    "set_size": 4,
+    "shared_set": true,
+    "kind": "graph",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "DILR/di-graph",
+    "difficulty": 1.0,
+    "stimulus": {
+      "kind": "graph",
+      "markdown": "A ceramic tile maker ships four tile designs. The first chart shows boxes shipped (in thousands of boxes) and the second shows the price per box (in rupees) for three financial years FY22, FY23 and FY24. Revenue for any design in a year = boxes shipped (in '000) x price per box (in rupees), so all revenue figures are in thousands of rupees.",
+      "chart": [
+        {
+          "type": "grouped_bar",
+          "title": "Ceramic Tile Boxes Shipped (in '000 boxes)",
+          "y_label": "Boxes ('000)",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              40,
+              30,
+              20,
+              10
+            ],
+            "FY23": [
+              50,
+              36,
+              25,
+              15
+            ],
+            "FY24": [
+              60,
+              45,
+              24,
+              20
+            ]
+          }
+        },
+        {
+          "type": "grouped_bar",
+          "title": "Price per Box (in rupees)",
+          "y_label": "Rupees per box",
+          "categories": [
+            "Slate",
+            "Marble",
+            "Terra",
+            "Onyx"
+          ],
+          "series": {
+            "FY22": [
+              200,
+              300,
+              250,
+              500
+            ],
+            "FY23": [
+              210,
+              320,
+              260,
+              520
+            ],
+            "FY24": [
+              220,
+              350,
+              240,
+              550
+            ]
+          }
+        }
+      ],
+      "images": [
+        "imat_assets/DILR-6_0.png",
+        "imat_assets/DILR-6_1.png"
+      ],
+      "image_urls": [
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_0.png",
+        "https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-31/DILR-6_1.png"
+      ]
+    },
+    "question_text": "**By how much did the combined total revenue of all four designs change from FY22 to FY23?**",
+    "options": {
+      "1": "increased by 9,780 thousand rupees",
+      "2": "increased by 8,900 thousand rupees",
+      "3": "increased by 8,320 thousand rupees",
+      "4": "increased by 9,320 thousand rupees"
+    },
+    "correct_answer": "4",
+    "explanation": "FY22 combined revenue is 8000+9000+5000+5000=27000; FY23 is 10500+11520+6500+7800=36320 (thousand rupees). The rise is 36320-27000=9320 thousand rupees. The distractors mishandle one design's price or volume.",
+    "t_expert_sec": 55,
+    "t_average_sec": 360,
+    "verification": {
+      "expr": "t22=40*200+30*300+20*250+10*500; t23=50*210+36*320+25*260+15*520; '4' if t23-t22==9320 else '0'",
+      "expected": "4"
+    },
+    "instruction": "**Study the data given below and answer the question that follows.**",
+    "content_type": "text",
+    "discrimination_ratio": 6.5
+  },
+  {
+    "question_id": 47,
+    "section": "QA",
+    "set_id": "QA-MCQ-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A trader marks his goods 60% above cost price and then allows two successive discounts of 25% and 20% on the marked price. What is his overall profit or loss percentage?",
+    "options": {
+      "1": "4% loss",
+      "2": "6% loss",
+      "3": "4% profit",
+      "4": "2% loss"
+    },
+    "correct_answer": "1",
+    "explanation": "Take cost 100, so marked price is 160. After 25% off it is 120, and after a further 20% off it is 96. Selling at 96 against cost 100 is a 4% loss. The 4% profit trap forgets one discount, and the 6% figure comes from misapplying the second discount to cost.",
+    "t_expert_sec": 40,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "sp=160*0.75*0.8; loss=100-sp; '1' if round(loss)==4 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 48,
+    "section": "QA",
+    "set_id": "QA-MCQ-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A invests Rs 16000 for 9 months, B invests Rs 24000 for 4 months and C invests Rs 12000 for 10 months in a business. If the total annual profit is Rs 9000, what is B's share?",
+    "options": {
+      "1": "Rs 3600",
+      "2": "Rs 3000",
+      "3": "Rs 2400",
+      "4": "Rs 2000"
+    },
+    "correct_answer": "3",
+    "explanation": "Capital-months are 144000, 96000 and 120000, which reduce to the ratio 6:4:5 summing to 15 parts. B holds 4 parts, so B earns 9000 times 4 over 15, equal to Rs 2400. The Rs 3000 trap splits equally, and Rs 3600 uses the wrong part count.",
+    "t_expert_sec": 45,
+    "t_average_sec": 210,
+    "verification": {
+      "expr": "a=16000*9;b=24000*4;c=12000*10;t=a+b+c;share=9000*b/t; '3' if round(share)==2400 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 49,
+    "section": "QA",
+    "set_id": "QA-MCQ-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A vessel holds 60 litres of a milk and water mixture in which milk and water are in the ratio 5:1. How much water must be added so that the ratio of milk to water becomes 5:2?",
+    "options": {
+      "1": "12 litres",
+      "2": "10 litres",
+      "3": "15 litres",
+      "4": "8 litres"
+    },
+    "correct_answer": "2",
+    "explanation": "The 60 litres contain 50 litres milk and 10 litres water. Milk stays fixed at 50, and for a 5:2 ratio the water needed is 50 times 2 over 5, which is 20 litres. Since 10 litres are already present, 10 more must be added. The 20 figure forgets the existing water.",
+    "t_expert_sec": 40,
+    "t_average_sec": 190,
+    "verification": {
+      "expr": "milk=50; water=10; need=milk*2/5; add=need-water; '2' if add==10 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.8
+  },
+  {
+    "question_id": 50,
+    "section": "QA",
+    "set_id": "QA-MCQ-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A boat covers 36 km downstream in 2 hours and the same 36 km upstream in 3 hours. What is the speed of the stream?",
+    "options": {
+      "1": "6 km/h",
+      "2": "3 km/h",
+      "3": "2 km/h",
+      "4": "15 km/h"
+    },
+    "correct_answer": "2",
+    "explanation": "Downstream speed is 36 over 2, that is 18 km/h, and upstream speed is 36 over 3, that is 12 km/h. Stream speed is half the difference, so it equals half of 6, which is 3 km/h. The 15 value wrongly reports boat speed, and 6 forgets to halve the difference.",
+    "t_expert_sec": 35,
+    "t_average_sec": 180,
+    "verification": {
+      "expr": "down=36/2; up=36/3; stream=(down-up)/2; '2' if stream==3 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 51,
+    "section": "QA",
+    "set_id": "QA-MCQ-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A can finish a piece of work in 8 days and B can finish the same work in 12 days. They work on alternate days with A starting on the first day. In how many days will the work be completed?",
+    "options": {
+      "1": "9.5 days",
+      "2": "9 days",
+      "3": "10 days",
+      "4": "8.5 days"
+    },
+    "correct_answer": "1",
+    "explanation": "With 24 total units, A does 3 units per day and B does 2 units per day. Over 9 alternating days starting with A the completed work is 23 units. One unit remains for B, who needs half a day at 2 units per day, giving 9.5 days in all. The 10 trap rounds up the final partial day.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "w=24; a=3; b=2; pairs=w//(a+b); done=pairs*(a+b); days=pairs*2; days=days+1; done=done+a; extra=(w-done)/b; '1' if days+extra==9.5 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 52,
+    "section": "QA",
+    "set_id": "QA-MCQ-6",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "A sum of Rs 8000 is invested at 20% per annum compounded half-yearly for one year. What is the compound interest earned?",
+    "options": {
+      "1": "Rs 1600",
+      "2": "Rs 1728",
+      "3": "Rs 1764",
+      "4": "Rs 1680"
+    },
+    "correct_answer": "4",
+    "explanation": "Half-yearly the rate is 10% over two periods, so the amount is 8000 times 1.1 squared, that is 9680. The interest is 9680 minus 8000, which is Rs 1680. The Rs 1600 value uses simple interest, and Rs 1764 wrongly applies a 20% rate for two full periods.",
+    "t_expert_sec": 45,
+    "t_average_sec": 200,
+    "verification": {
+      "expr": "ci=8000*(1.1**2)-8000; '4' if round(ci)==1680 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 53,
+    "section": "QA",
+    "set_id": "QA-MCQ-7",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "In how many ways can the letters of the word PENCIL be arranged so that the two vowels E and I are never together?",
+    "options": {
+      "1": "480",
+      "2": "720",
+      "3": "240",
+      "4": "600"
+    },
+    "correct_answer": "1",
+    "explanation": "All six distinct letters arrange in 720 ways. Treating the two vowels as one block gives 5 factorial times 2, that is 240 arrangements where they sit together. Subtracting leaves 720 minus 240, which is 480. The 240 value counts the together case instead of the apart case.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "from math import factorial; ans=factorial(6)-factorial(5)*2; '1' if ans==480 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 54,
+    "section": "QA",
+    "set_id": "QA-MCQ-8",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A bag contains 5 red balls and 4 blue balls. Two balls are drawn at random without replacement. What is the probability that at least one of them is red?",
+    "options": {
+      "1": "5/6",
+      "2": "5/9",
+      "3": "1/6",
+      "4": "2/3"
+    },
+    "correct_answer": "1",
+    "explanation": "The complement of at least one red is both balls blue, which has probability 6 over 36, that is 1/6, using choose two from four over choose two from nine. Therefore at least one red is 1 minus 1/6, which is 5/6. The 1/6 value reports the complement, and 5/9 uses a single draw.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "from math import comb; p=1-comb(4,2)/comb(9,2); '1' if abs(p-5/6)<1e-9 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 55,
+    "section": "QA",
+    "set_id": "QA-MCQ-9",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A solid metallic sphere of radius 6 cm is melted and recast into small cones, each having base radius 2 cm and height 3 cm. How many such cones can be made?",
+    "options": {
+      "1": "72",
+      "2": "36",
+      "3": "54",
+      "4": "108"
+    },
+    "correct_answer": "1",
+    "explanation": "The sphere volume uses four-thirds times radius cubed, giving 288 times pi. Each cone volume uses one-third times base area times height, giving 4 times pi. Dividing 288 by 4 yields 72 cones. The 36 trap uses half the sphere volume, and 108 mishandles the cone factor.",
+    "t_expert_sec": 55,
+    "t_average_sec": 230,
+    "verification": {
+      "expr": "sphere=4/3*6**3; cone=1/3*2**2*3; '1' if round(sphere/cone)==72 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.2
+  },
+  {
+    "question_id": 56,
+    "section": "QA",
+    "set_id": "QA-MCQ-10",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the remainder when 3 raised to the power 101 is divided by 100?",
+    "options": {
+      "1": "9",
+      "2": "3",
+      "3": "1",
+      "4": "27"
+    },
+    "correct_answer": "2",
+    "explanation": "Powers of 3 modulo 100 cycle with period 20, since 3 to the power 20 leaves remainder 1. As 101 leaves remainder 1 when divided by 20, the value equals 3 to the power 1 modulo 100, which is 3. The 1 trap forgets the leftover exponent, and 27 uses exponent 3.",
+    "t_expert_sec": 60,
+    "t_average_sec": 250,
+    "verification": {
+      "expr": "'2' if pow(3,101,100)==3 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.2
+  },
+  {
+    "question_id": 57,
+    "section": "QA",
+    "set_id": "QA-MCQ-11",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "The sum of the first n terms of an arithmetic progression is given by 3n squared plus 5n. What is the 12th term of this progression?",
+    "options": {
+      "1": "68",
+      "2": "74",
+      "3": "80",
+      "4": "72"
+    },
+    "correct_answer": "2",
+    "explanation": "The nth term equals the sum of n terms minus the sum of n minus one terms. Here that difference simplifies to 6n plus 2, so the 12th term is 72 plus 2, which is 74. The 72 trap drops the constant, and 80 mishandles the sum-difference step.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "S=lambda n:3*n*n+5*n; a12=S(12)-S(11); '2' if a12==74 else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 58,
+    "section": "QA",
+    "set_id": "QA-MCQ-12",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "**If a + b + c = 0 and a² + b² + c² = 14, what is the value of a⁴ + b⁴ + c⁴?**",
+    "options": {
+      "1": "196",
+      "2": "49",
+      "3": "98",
+      "4": "72"
+    },
+    "correct_answer": "3",
+    "explanation": "With a+b+c=0, we get ab+bc+ca = -(a²+b²+c²)/2 = -7, so (ab+bc+ca)² gives a²b²+b²c²+c²a² = 49 (the abc*sum term vanishes). Then a⁴+b⁴+c⁴ = (a²+b²+c²)² - 2(a²b²+b²c²+c²a²) = 196 - 98 = 98. The 196 value forgets to subtract the cross terms, 49 stops at the cross-term sum, and 72 mishandles the squaring.",
+    "t_expert_sec": 55,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "a=3; b=-1; c=-2; '3' if a+b+c==0 and a*a+b*b+c*c==14 and a**4+b**4+c**4==98 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.7
+  },
+  {
+    "question_id": 59,
+    "section": "QA",
+    "set_id": "QA-MCQ-13",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "For x > 0, what is the minimum value of x^2 + 250/x?",
+    "options": {
+      "1": "100",
+      "2": "70",
+      "3": "75",
+      "4": "80"
+    },
+    "correct_answer": "3",
+    "explanation": "Split the second term to apply AM-GM on three parts: x^2 + 125/x + 125/x is at least 3 times the cube root of (x^2 * 125/x * 125/x) = 3 * cube root of 15625 = 3*25 = 75, with equality when x^3 = 125, so x = 5. Splitting into only two equal pieces gives the wrong 100 figure.",
+    "t_expert_sec": 60,
+    "t_average_sec": 270,
+    "verification": {
+      "expr": "f=lambda t: t*t+250/t; '3' if abs(min(f(n/100) for n in range(1,2000))-75)<1e-6 else '0'",
+      "expected": "3"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.5
+  },
+  {
+    "question_id": 60,
+    "section": "QA",
+    "set_id": "QA-MCQ-14",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the value of the product (log base 2 of 3)(log base 3 of 4)(log base 4 of 5) ... (log base 63 of 64)?",
+    "options": {
+      "1": "5",
+      "2": "8",
+      "3": "32",
+      "4": "6"
+    },
+    "correct_answer": "4",
+    "explanation": "Writing each factor as ln of the top over ln of the base makes the chain telescope, leaving ln 64 divided by ln 2, which equals log base 2 of 64 = 6 since 2^6 = 64. The 32 trap divides 64 by 2, and 5 miscounts the exponent.",
+    "t_expert_sec": 45,
+    "t_average_sec": 230,
+    "verification": {
+      "expr": "'4' if abs(math.log(64,2)-6)<1e-9 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  },
+  {
+    "question_id": 61,
+    "section": "QA",
+    "set_id": "QA-MCQ-15",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Points A(2, 3) and B(8, 5) lie in the coordinate plane. A point P is chosen on the x-axis. What is the least possible value of AP + PB?",
+    "options": {
+      "1": "12",
+      "2": "√52",
+      "3": "√68",
+      "4": "10"
+    },
+    "correct_answer": "4",
+    "explanation": "Reflect A across the x-axis to A'(2, -3); then AP equals A'P, so AP + PB is least when A', P, B are collinear, giving the straight distance A'B = sqrt((8-2)^2 + (5+3)^2) = sqrt(36+64) = 10. Using the direct distance AB gives the sqrt(52) trap.",
+    "t_expert_sec": 55,
+    "t_average_sec": 250,
+    "verification": {
+      "expr": "'4' if abs(math.hypot(8-2,5-(-3))-10)<1e-9 else '0'",
+      "expected": "4"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.5
+  },
+  {
+    "question_id": 62,
+    "section": "QA",
+    "set_id": "QA-MCQ-16",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "Among 100 employees, 40 use Python, 48 use R, and 45 use SQL. Also 15 use both Python and R, 18 use both R and SQL, 12 use both Python and SQL, and 8 use all three tools. How many employees use exactly one of the three tools?",
+    "options": {
+      "1": "67",
+      "2": "96",
+      "3": "75",
+      "4": "59"
+    },
+    "correct_answer": "1",
+    "explanation": "The number in at least one is 40+48+45 -15-18-12 +8 = 96. Those in exactly two pairs number (15+18+12) - 3*8 = 21, and 8 use all three, so exactly one is 96 - 21 - 8 = 67. The 96 trap stops at the union total, and 59 subtracts the pairwise counts without adding back the triple.",
+    "t_expert_sec": 65,
+    "t_average_sec": 260,
+    "verification": {
+      "expr": "A,B,C=40,48,45; ab,bc,ac=15,18,12; abc=8; atleast=A+B+C-ab-bc-ac+abc; two=(ab+bc+ac)-3*abc; one=atleast-two-abc; '1' if one==67 else '0'",
+      "expected": "1"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.0
+  },
+  {
+    "question_id": 63,
+    "section": "QA",
+    "set_id": "QA-MCQ-17",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "mcsc",
+    "num_options": 4,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the sum 1/(1*3) + 1/(3*5) + 1/(5*7) + ... + 1/(19*21)?",
+    "options": {
+      "1": "9/19",
+      "2": "10/21",
+      "3": "20/21",
+      "4": "11/23"
+    },
+    "correct_answer": "2",
+    "explanation": "Each term 1/((2k-1)(2k+1)) equals one half times (1/(2k-1) - 1/(2k+1)), so the ten terms telescope to one half times (1 - 1/21) = one half times 20/21 = 10/21. Forgetting the factor of one half gives the 20/21 trap.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "from fractions import Fraction; s=sum(Fraction(1,(2*k-1)*(2*k+1)) for k in range(1,11)); '2' if s==Fraction(10,21) else '0'",
+      "expected": "2"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 64,
+    "section": "QA",
+    "set_id": "QA-TITA-1",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "Find the sum of all positive integer divisors of 360 (including 1 and 360 themselves).",
+    "tita_answer": "1170",
+    "explanation": "Write 360 as 2^3 times 3^2 times 5. The sum of divisors is multiplicative, so it equals (1+2+4+8) times (1+3+9) times (1+5), that is 15 times 13 times 6, which is 1170. A common slip is to forget the constant term 1 in one bracket, giving 14 times 13 times 6 or 1092, or to stop at 2^2 and use (1+2+4) which yields 7 times 13 times 6 or 546. The full factorisation gives 1170.",
+    "t_expert_sec": 55,
+    "t_average_sec": 240,
+    "verification": {
+      "expr": "s=sum(d for d in range(1,361) if 360%d==0); '1170' if s==1170 else '0'",
+      "expected": "1170"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 65,
+    "section": "QA",
+    "set_id": "QA-TITA-2",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 0.5,
+    "question_text": "An arithmetic progression has first term 7 and common difference 4. Find the sum of its first 30 terms.",
+    "tita_answer": "1950",
+    "explanation": "The sum of the first n terms is (n/2) times (2a + (n-1)d). With a equal to 7, d equal to 4 and n equal to 30, this is 15 times (14 + 29 times 4), that is 15 times (14 + 116), which is 15 times 130, giving 1950. Using (n-1) as 30 instead of 29 gives 15 times 134 or 2010, and forgetting to double a gives 15 times (7 + 116) or 1845. The correct sum is 1950.",
+    "t_expert_sec": 50,
+    "t_average_sec": 220,
+    "verification": {
+      "expr": "s=sum(7+4*k for k in range(30)); '1950' if s==1950 else '0'",
+      "expected": "1950"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 4.4
+  },
+  {
+    "question_id": 66,
+    "section": "QA",
+    "set_id": "QA-TITA-3",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "What is the remainder when 17 raised to the power 256 is divided by 100? (In other words, give the last two digits of 17^256.)",
+    "tita_answer": "81",
+    "explanation": "The last two digits of powers of 17 repeat with a cycle length of 20, since 17^20 ends in 01 modulo 100. Reducing the exponent, 256 leaves remainder 16 when divided by 20, so 17^256 has the same last two digits as 17^16. Squaring step by step modulo 100 gives 17^2 as 89, 17^4 as 21, 17^8 as 41, and 17^16 as 81. Treating the cycle length as 4 (as if it were 7) mistakes it, and assuming 256 is a multiple of the period wrongly yields 01. The answer is 81.",
+    "t_expert_sec": 80,
+    "t_average_sec": 420,
+    "verification": {
+      "expr": "r=pow(17,256,100); '81' if r==81 else '0'",
+      "expected": "81"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.2
+  },
+  {
+    "question_id": 67,
+    "section": "QA",
+    "set_id": "QA-TITA-4",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "In a group of 200 people, 100 use app A, 90 use app B and 80 use app C. Exactly 40 people use all three apps and exactly 20 people use none of the three. How many people use exactly two of the three apps?",
+    "tita_answer": "10",
+    "explanation": "The number using at least one app is 200 minus 20, that is 180. By inclusion and exclusion, at least one equals the sum of singles minus the sum of the three pairwise overlaps plus the triple overlap, so 180 equals 270 minus (sum of pairwise) plus 40, giving the sum of pairwise overlaps as 130. Each pairwise overlap counts the all-three group as well, so the sum of pairwise overlaps equals (exactly two) plus three times 40. Thus exactly two equals 130 minus 120, which is 10. Forgetting to subtract the triple three times leaves 130, and ignoring the 20 with none gives a different single total. The answer is 10.",
+    "t_expert_sec": 90,
+    "t_average_sec": 450,
+    "verification": {
+      "expr": "pair=270-180+40; exactly2=pair-3*40; '10' if exactly2==10 else '0'",
+      "expected": "10"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.0
+  },
+  {
+    "question_id": 68,
+    "section": "QA",
+    "set_id": "QA-TITA-5",
+    "set_seq": 1,
+    "set_size": 1,
+    "shared_set": false,
+    "kind": "none",
+    "question_type": "tita",
+    "num_options": 0,
+    "topic": "QA/quant",
+    "difficulty": 1.0,
+    "question_text": "A positive integer 30 is to be written as a sum of one or more positive integers. Over all such ways, what is the maximum possible value of the product of those parts?",
+    "tita_answer": "59049",
+    "explanation": "To maximise the product for a fixed sum, break the number into parts of size 3 as much as possible, avoiding parts of 1, and use a 2 only when the leftover after taking threes is 1 (by combining 3 plus 1 into 2 plus 2). Here 30 is exactly ten 3s with no remainder, so the best product is 3 raised to the power 10, which is 59049. Using all 2s gives 2 raised to the power 15 or 32768, which is smaller, and mixing in a part of 1 only lowers the product. The maximum is 59049.",
+    "t_expert_sec": 85,
+    "t_average_sec": 430,
+    "verification": {
+      "expr": "best=max(3**a*2**b for a in range(11) for b in range(16) if 3*a+2*b==30); '59049' if best==59049 else '0'",
+      "expected": "59049"
+    },
+    "content_type": "text",
+    "discrimination_ratio": 5.1
+  }
+]

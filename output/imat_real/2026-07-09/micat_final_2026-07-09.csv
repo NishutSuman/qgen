@@ -1,0 +1,334 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC1,1,mcsc,markdown,"For most of the twentieth century, film was treated as a disposable commodity rather than a cultural inheritance. Studios routinely melted down old prints to recover the silver in their emulsion, and the nitrate stock on which early cinema was shot decayed, caught fire, or was simply discarded once a film had finished its commercial run. By some estimates, the majority of movies made before 1930 no longer survive in any form. It was only in the latter half of the century, as scholars began to treat cinema as an art with a history worth preserving, that systematic archiving took hold.
+
+Modern restoration is a painstaking and expensive craft. Technicians scan surviving prints frame by frame, then labour to remove scratches, correct faded colour, and reconstruct missing sequences from whatever fragments can be located in archives around the world. The goal, most restorers insist, is not to improve on the original but to return it as closely as possible to the state its makers intended. This principle is more contentious than it sounds. When a director's intentions were never documented, or when the only surviving print differs from the version audiences first saw, the restorer must make interpretive choices that shade into authorship.
+
+Digital tools have made these choices sharper. Software can now invent plausible detail where none survives, smoothing a film into something crisper than any print ever looked. Purists warn that such enhancement risks producing a counterfeit, a version that never existed and that misleads viewers about how the film was actually experienced. Others counter that a pristine reconstruction, honestly labelled, does more to keep a film alive than a faithful copy no one will watch. The debate turns, ultimately, on whether preservation means guarding an object or sustaining an experience.
+
+**According to the passage, all of the following contributed to the loss of early films EXCEPT:**",,240,,,,3,,the discarding of prints once a film's commercial run had ended,the natural decay and flammability of the nitrate film stock,the transfer of prints to public archives for safekeeping,the melting of prints to recover silver from their emulsion,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,2,mcsc,markdown,"For most of the twentieth century, film was treated as a disposable commodity rather than a cultural inheritance. Studios routinely melted down old prints to recover the silver in their emulsion, and the nitrate stock on which early cinema was shot decayed, caught fire, or was simply discarded once a film had finished its commercial run. By some estimates, the majority of movies made before 1930 no longer survive in any form. It was only in the latter half of the century, as scholars began to treat cinema as an art with a history worth preserving, that systematic archiving took hold.
+
+Modern restoration is a painstaking and expensive craft. Technicians scan surviving prints frame by frame, then labour to remove scratches, correct faded colour, and reconstruct missing sequences from whatever fragments can be located in archives around the world. The goal, most restorers insist, is not to improve on the original but to return it as closely as possible to the state its makers intended. This principle is more contentious than it sounds. When a director's intentions were never documented, or when the only surviving print differs from the version audiences first saw, the restorer must make interpretive choices that shade into authorship.
+
+Digital tools have made these choices sharper. Software can now invent plausible detail where none survives, smoothing a film into something crisper than any print ever looked. Purists warn that such enhancement risks producing a counterfeit, a version that never existed and that misleads viewers about how the film was actually experienced. Others counter that a pristine reconstruction, honestly labelled, does more to keep a film alive than a faithful copy no one will watch. The debate turns, ultimately, on whether preservation means guarding an object or sustaining an experience.
+
+**Which of the following best expresses the central idea of the passage?**",,260,,,,4,,Digital software has at last resolved the technical problems that plagued restoration.,Restoring a film is mainly a matter of erasing scratches and correcting faded colour.,Early studios were uniquely careless custodians compared with the keepers of other arts.,Film preservation forces hard choices between fidelity and keeping works watchable.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC1,3,mcsc,markdown,"For most of the twentieth century, film was treated as a disposable commodity rather than a cultural inheritance. Studios routinely melted down old prints to recover the silver in their emulsion, and the nitrate stock on which early cinema was shot decayed, caught fire, or was simply discarded once a film had finished its commercial run. By some estimates, the majority of movies made before 1930 no longer survive in any form. It was only in the latter half of the century, as scholars began to treat cinema as an art with a history worth preserving, that systematic archiving took hold.
+
+Modern restoration is a painstaking and expensive craft. Technicians scan surviving prints frame by frame, then labour to remove scratches, correct faded colour, and reconstruct missing sequences from whatever fragments can be located in archives around the world. The goal, most restorers insist, is not to improve on the original but to return it as closely as possible to the state its makers intended. This principle is more contentious than it sounds. When a director's intentions were never documented, or when the only surviving print differs from the version audiences first saw, the restorer must make interpretive choices that shade into authorship.
+
+Digital tools have made these choices sharper. Software can now invent plausible detail where none survives, smoothing a film into something crisper than any print ever looked. Purists warn that such enhancement risks producing a counterfeit, a version that never existed and that misleads viewers about how the film was actually experienced. Others counter that a pristine reconstruction, honestly labelled, does more to keep a film alive than a faithful copy no one will watch. The debate turns, ultimately, on whether preservation means guarding an object or sustaining an experience.
+
+**It can most reasonably be inferred that the author regards digital enhancement as:**",,330,,,,2,,an unqualified advance that every serious film archive should now adopt,a powerful tool whose benefits depend on how honestly it is used,a passing fashion likely to be abandoned by future restorers,a fraud that responsible restorers ought to refuse to use outright,,,VARC/reading-comprehension,1
+VARC,VARC-RC1,4,mcsc,markdown,"For most of the twentieth century, film was treated as a disposable commodity rather than a cultural inheritance. Studios routinely melted down old prints to recover the silver in their emulsion, and the nitrate stock on which early cinema was shot decayed, caught fire, or was simply discarded once a film had finished its commercial run. By some estimates, the majority of movies made before 1930 no longer survive in any form. It was only in the latter half of the century, as scholars began to treat cinema as an art with a history worth preserving, that systematic archiving took hold.
+
+Modern restoration is a painstaking and expensive craft. Technicians scan surviving prints frame by frame, then labour to remove scratches, correct faded colour, and reconstruct missing sequences from whatever fragments can be located in archives around the world. The goal, most restorers insist, is not to improve on the original but to return it as closely as possible to the state its makers intended. This principle is more contentious than it sounds. When a director's intentions were never documented, or when the only surviving print differs from the version audiences first saw, the restorer must make interpretive choices that shade into authorship.
+
+Digital tools have made these choices sharper. Software can now invent plausible detail where none survives, smoothing a film into something crisper than any print ever looked. Purists warn that such enhancement risks producing a counterfeit, a version that never existed and that misleads viewers about how the film was actually experienced. Others counter that a pristine reconstruction, honestly labelled, does more to keep a film alive than a faithful copy no one will watch. The debate turns, ultimately, on whether preservation means guarding an object or sustaining an experience.
+
+**The author's treatment of the restoration debate is best described as:**",,320,,,,2,,"dismissive, treating the whole controversy as a distraction from real work","even-handed, laying out competing positions without endorsing either side","nostalgic, mourning a lost golden age of craftsmanship now gone for good","alarmed, warning that digital tools are destroying our cinematic heritage",,,VARC/reading-comprehension,1
+VARC,VARC-RC2,1,mcsc,markdown,"When streaming platforms overtook physical sales as the music industry's main source of revenue, they were hailed as the cure for piracy. Listeners who had grown used to downloading songs for free could now reach almost every recording ever made for a modest monthly fee, and the money, in theory, would flow back to the artists who made the music. A decade on, that promise looks more complicated. The industry's overall revenues have indeed recovered, but the way streaming distributes those revenues has provoked lasting resentment among the musicians it was meant to reward.
+
+The core of the problem lies in how platforms pool and divide their subscription income. Rather than paying each listener's fee to the specific artists that listener actually plays, most services add all subscriptions into a single pot and share it out in proportion to each artist's share of total streams across the whole platform. Under this model, a handful of chart-topping performers capture the overwhelming majority of the pool, while the long tail of niche and emerging artists receives fractions of a cent per play. A musician with a devoted but small audience may find that their most loyal fans effectively subsidise stars those fans never listen to.
+
+Reformers have proposed a user-centric model, in which each subscriber's fee is divided only among the artists that subscriber streams. Studies suggest this would modestly benefit smaller acts without greatly harming the biggest names. Yet the major labels, whose catalogues dominate the charts, have little incentive to champion a change that would trim their advantage, and the platforms are wary of the accounting complexity it would introduce. The technology that made abundance possible, it turns out, did nothing to settle the older question of how fairly its rewards should be shared.
+
+**According to the passage, how do most streaming services currently divide subscription income?**",,240,,,,1,,They pool all fees and split them by each artist's share of total plays,They pay each subscriber's fee only to the artists that subscriber streams,They divide the income equally among every artist available on the service,They award fixed monthly sums to artists based on their chart positions,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,2,mcsc,markdown,"When streaming platforms overtook physical sales as the music industry's main source of revenue, they were hailed as the cure for piracy. Listeners who had grown used to downloading songs for free could now reach almost every recording ever made for a modest monthly fee, and the money, in theory, would flow back to the artists who made the music. A decade on, that promise looks more complicated. The industry's overall revenues have indeed recovered, but the way streaming distributes those revenues has provoked lasting resentment among the musicians it was meant to reward.
+
+The core of the problem lies in how platforms pool and divide their subscription income. Rather than paying each listener's fee to the specific artists that listener actually plays, most services add all subscriptions into a single pot and share it out in proportion to each artist's share of total streams across the whole platform. Under this model, a handful of chart-topping performers capture the overwhelming majority of the pool, while the long tail of niche and emerging artists receives fractions of a cent per play. A musician with a devoted but small audience may find that their most loyal fans effectively subsidise stars those fans never listen to.
+
+Reformers have proposed a user-centric model, in which each subscriber's fee is divided only among the artists that subscriber streams. Studies suggest this would modestly benefit smaller acts without greatly harming the biggest names. Yet the major labels, whose catalogues dominate the charts, have little incentive to champion a change that would trim their advantage, and the platforms are wary of the accounting complexity it would introduce. The technology that made abundance possible, it turns out, did nothing to settle the older question of how fairly its rewards should be shared.
+
+**The passage is primarily concerned with:**",,260,,,,3,,how the major record labels came to dominate the singles charts over time,why listeners now prefer a monthly fee to buying physical recordings,how streaming revives revenue yet shares it unfairly among artists,why streaming has failed to end the piracy of recorded popular music,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC2,3,mcsc,markdown,"When streaming platforms overtook physical sales as the music industry's main source of revenue, they were hailed as the cure for piracy. Listeners who had grown used to downloading songs for free could now reach almost every recording ever made for a modest monthly fee, and the money, in theory, would flow back to the artists who made the music. A decade on, that promise looks more complicated. The industry's overall revenues have indeed recovered, but the way streaming distributes those revenues has provoked lasting resentment among the musicians it was meant to reward.
+
+The core of the problem lies in how platforms pool and divide their subscription income. Rather than paying each listener's fee to the specific artists that listener actually plays, most services add all subscriptions into a single pot and share it out in proportion to each artist's share of total streams across the whole platform. Under this model, a handful of chart-topping performers capture the overwhelming majority of the pool, while the long tail of niche and emerging artists receives fractions of a cent per play. A musician with a devoted but small audience may find that their most loyal fans effectively subsidise stars those fans never listen to.
+
+Reformers have proposed a user-centric model, in which each subscriber's fee is divided only among the artists that subscriber streams. Studies suggest this would modestly benefit smaller acts without greatly harming the biggest names. Yet the major labels, whose catalogues dominate the charts, have little incentive to champion a change that would trim their advantage, and the platforms are wary of the accounting complexity it would introduce. The technology that made abundance possible, it turns out, did nothing to settle the older question of how fairly its rewards should be shared.
+
+**Which of the following can most reasonably be inferred about the user-centric model?**",,330,,,,2,,It would leave the incomes of small niche artists essentially unchanged,Its adoption is blocked more by competing interests than by weak evidence,It has already been quietly embraced by the largest recording labels,It would sharply reduce the earnings of the most popular chart performers,,,VARC/reading-comprehension,1
+VARC,VARC-RC2,4,mcsc,markdown,"When streaming platforms overtook physical sales as the music industry's main source of revenue, they were hailed as the cure for piracy. Listeners who had grown used to downloading songs for free could now reach almost every recording ever made for a modest monthly fee, and the money, in theory, would flow back to the artists who made the music. A decade on, that promise looks more complicated. The industry's overall revenues have indeed recovered, but the way streaming distributes those revenues has provoked lasting resentment among the musicians it was meant to reward.
+
+The core of the problem lies in how platforms pool and divide their subscription income. Rather than paying each listener's fee to the specific artists that listener actually plays, most services add all subscriptions into a single pot and share it out in proportion to each artist's share of total streams across the whole platform. Under this model, a handful of chart-topping performers capture the overwhelming majority of the pool, while the long tail of niche and emerging artists receives fractions of a cent per play. A musician with a devoted but small audience may find that their most loyal fans effectively subsidise stars those fans never listen to.
+
+Reformers have proposed a user-centric model, in which each subscriber's fee is divided only among the artists that subscriber streams. Studies suggest this would modestly benefit smaller acts without greatly harming the biggest names. Yet the major labels, whose catalogues dominate the charts, have little incentive to champion a change that would trim their advantage, and the platforms are wary of the accounting complexity it would introduce. The technology that made abundance possible, it turns out, did nothing to settle the older question of how fairly its rewards should be shared.
+
+**The author's attitude toward the original promise of streaming is best described as:**",,320,,,,1,,"skeptical, noting that recovered revenue masks an unfair distribution","hostile, condemning each streaming platform as a deliberate fraud on artists","indifferent, treating the shift as a routine change in technology","enthusiastic, crediting streaming with rescuing a collapsing industry",,,VARC/reading-comprehension,1
+VARC,VARC-RC3,1,mcsc,markdown,"Video games tell stories in a way no older medium can: the audience does not merely watch events unfold but participates in bringing them about. A novelist decides exactly what happens on each page, and a filmmaker fixes every shot in a set order. A game designer, by contrast, must build a world in which the player's own choices help shape the tale. This shift from telling a story to enabling one is the defining challenge of narrative design in games.
+
+The freedom that makes games distinctive also creates a tension. The more genuine control a player is given, the harder it becomes for designers to guarantee a satisfying dramatic shape. A story that can unfold in a thousand ways risks feeling shapeless, while one that funnels every player toward the same ending can make their choices feel like an illusion. Designers speak of this as the conflict between agency, the player's sense that their decisions matter, and authorship, the crafted arc that gives a story its emotional force.
+
+Different games strike the balance differently. Some offer branching plots in which early decisions lead to genuinely distinct conclusions, at the cost of enormous extra writing that most players will never see. Others keep a fixed main storyline but let players colour it with optional side quests and small choices that alter tone rather than outcome. A few abandon authored plot almost entirely, scattering fragments of story through an environment for players to assemble in their own order and at their own pace.
+
+None of these approaches is simply correct. Each trades away something to gain something else, and the right choice depends on what a particular game is trying to make its players feel. What unites them is the recognition that in an interactive medium, the player is never only an audience.
+
+**According to the passage, what most distinguishes video games from novels and films?**",,210,,,,4,,They rely on moving visual images instead of printed words to tell a story,Their plots are fixed in advance by a single author or a single director,The stories they tell are usually longer and more complex than those of films,The audience helps bring about events rather than only witnessing them,,,VARC/reading-comprehension,0
+VARC,VARC-RC3,2,mcsc,markdown,"Video games tell stories in a way no older medium can: the audience does not merely watch events unfold but participates in bringing them about. A novelist decides exactly what happens on each page, and a filmmaker fixes every shot in a set order. A game designer, by contrast, must build a world in which the player's own choices help shape the tale. This shift from telling a story to enabling one is the defining challenge of narrative design in games.
+
+The freedom that makes games distinctive also creates a tension. The more genuine control a player is given, the harder it becomes for designers to guarantee a satisfying dramatic shape. A story that can unfold in a thousand ways risks feeling shapeless, while one that funnels every player toward the same ending can make their choices feel like an illusion. Designers speak of this as the conflict between agency, the player's sense that their decisions matter, and authorship, the crafted arc that gives a story its emotional force.
+
+Different games strike the balance differently. Some offer branching plots in which early decisions lead to genuinely distinct conclusions, at the cost of enormous extra writing that most players will never see. Others keep a fixed main storyline but let players colour it with optional side quests and small choices that alter tone rather than outcome. A few abandon authored plot almost entirely, scattering fragments of story through an environment for players to assemble in their own order and at their own pace.
+
+None of these approaches is simply correct. Each trades away something to gain something else, and the right choice depends on what a particular game is trying to make its players feel. What unites them is the recognition that in an interactive medium, the player is never only an audience.
+
+**The passage mentions all of the following as ways games handle storytelling EXCEPT:**",,260,,,,4,,offering branching plots whose early choices lead to genuinely distinct endings,keeping a fixed main story while adding optional side quests that alter tone,scattering fragments of story through a world for players to assemble,letting players rewrite the game's dialogue to suit their own preferences,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,3,mcsc,markdown,"Video games tell stories in a way no older medium can: the audience does not merely watch events unfold but participates in bringing them about. A novelist decides exactly what happens on each page, and a filmmaker fixes every shot in a set order. A game designer, by contrast, must build a world in which the player's own choices help shape the tale. This shift from telling a story to enabling one is the defining challenge of narrative design in games.
+
+The freedom that makes games distinctive also creates a tension. The more genuine control a player is given, the harder it becomes for designers to guarantee a satisfying dramatic shape. A story that can unfold in a thousand ways risks feeling shapeless, while one that funnels every player toward the same ending can make their choices feel like an illusion. Designers speak of this as the conflict between agency, the player's sense that their decisions matter, and authorship, the crafted arc that gives a story its emotional force.
+
+Different games strike the balance differently. Some offer branching plots in which early decisions lead to genuinely distinct conclusions, at the cost of enormous extra writing that most players will never see. Others keep a fixed main storyline but let players colour it with optional side quests and small choices that alter tone rather than outcome. A few abandon authored plot almost entirely, scattering fragments of story through an environment for players to assemble in their own order and at their own pace.
+
+None of these approaches is simply correct. Each trades away something to gain something else, and the right choice depends on what a particular game is trying to make its players feel. What unites them is the recognition that in an interactive medium, the player is never only an audience.
+
+**Which statement about narrative design does the passage most support?**",,260,,,,2,,Optional side quests usually change a game's final ending significantly,Greater player freedom tends to make a shaped ending harder to ensure,Branching plots are always the most satisfying form of game narrative,"Fragmentary, scattered storytelling appeals to the very widest audience",,,VARC/reading-comprehension,0.5
+VARC,VARC-RC3,4,mcsc,markdown,"Video games tell stories in a way no older medium can: the audience does not merely watch events unfold but participates in bringing them about. A novelist decides exactly what happens on each page, and a filmmaker fixes every shot in a set order. A game designer, by contrast, must build a world in which the player's own choices help shape the tale. This shift from telling a story to enabling one is the defining challenge of narrative design in games.
+
+The freedom that makes games distinctive also creates a tension. The more genuine control a player is given, the harder it becomes for designers to guarantee a satisfying dramatic shape. A story that can unfold in a thousand ways risks feeling shapeless, while one that funnels every player toward the same ending can make their choices feel like an illusion. Designers speak of this as the conflict between agency, the player's sense that their decisions matter, and authorship, the crafted arc that gives a story its emotional force.
+
+Different games strike the balance differently. Some offer branching plots in which early decisions lead to genuinely distinct conclusions, at the cost of enormous extra writing that most players will never see. Others keep a fixed main storyline but let players colour it with optional side quests and small choices that alter tone rather than outcome. A few abandon authored plot almost entirely, scattering fragments of story through an environment for players to assemble in their own order and at their own pace.
+
+None of these approaches is simply correct. Each trades away something to gain something else, and the right choice depends on what a particular game is trying to make its players feel. What unites them is the recognition that in an interactive medium, the player is never only an audience.
+
+**The author concludes the passage chiefly in order to:**",,330,,,,1,,"stress that no approach is best, since each trades off against the others",warn designers against giving players too much freedom in a story,predict that games will soon surpass novels as a form of art,argue that branching narratives will eventually replace all fixed storylines,,,VARC/reading-comprehension,1
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"The four sentences below, when correctly ordered, form a coherent paragraph.
+
+(1) For decades the negatives sat forgotten in studio vaults, slowly decaying in the heat.
+(2) Early cinema survives today only in fragments, much of it lost to simple neglect.
+(3) When technicians finally reopened the cans, they found images no living audience had seen.
+(4) A few studios have since made the painstaking recovery of these reels a point of pride.
+
+**Select the correct order.**",,205,,,,3,,"1, 2, 3, 4","3, 2, 1, 4","2, 1, 3, 4","2, 3, 1, 4",,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-2,1,mcsc,markdown,"The four sentences below, when correctly ordered, form a coherent paragraph.
+
+(1) Vinyl, long dismissed as a dead format, has quietly returned to the shelves of record shops.
+(2) Collectors argue that the warmth of analogue sound is well worth the inconvenience.
+(3) Streaming made music weightless, infinite and, to some ears, oddly disposable.
+(4) The revival is less about fidelity, then, than about owning something you can hold.
+
+**Select the correct order.**",,210,,,,2,,"1, 3, 2, 4","3, 1, 2, 4","1, 2, 3, 4","3, 2, 1, 4",,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-3,1,mcsc,markdown,"The four sentences below, when correctly ordered, form a coherent paragraph.
+
+(1) Independent developers, working in tiny teams, began releasing games no major publisher would fund.
+(2) For years the industry had chased ever bigger budgets and ever safer sequels.
+(3) Some of these small titles went on to outsell the blockbusters they were meant to rival.
+(4) Freed from corporate caution, they experimented with strange stories and stranger mechanics.
+
+**Select the correct order.**",,210,,,,1,,"2, 1, 4, 3","1, 2, 4, 3","2, 1, 3, 4","1, 2, 3, 4",,,VARC/para-jumble,0.5
+VARC,VARC-JUMBLE-4,1,mcsc,markdown,"The four sentences below, when correctly ordered, form a coherent paragraph.
+
+(1) The result is a strange democracy in which a masterpiece and a selfie compete for the same glance.
+(2) Museums once asked their visitors to stand still and to look for a long time.
+(3) Now those same visitors move through the galleries at the pace of a feed, phones raised.
+(4) Yet curators remain reluctant to ban the very cameras that also fill their halls.
+
+**Select the correct order.**",,300,,,,2,,"3, 2, 1, 4","2, 3, 1, 4","2, 3, 4, 1","2, 1, 3, 4",,,VARC/para-jumble,1
+VARC,VARC-ODD-1,1,mcsc,markdown,"Four of the five sentences below belong together; one does not.
+
+(1) A well-drawn protagonist gives the audience someone whose fate they cannot help tracking.
+(2) Conflict is the engine that keeps a plot moving from one scene into the next.
+(3) Dialogue does its best work when it reveals character without ever announcing it.
+(4) A distributor's marketing budget often decides how many screens a film opens on.
+(5) A satisfying ending quietly pays off the promises the opening scene had made.
+
+**Which sentence is the odd one out?**",,180,,,,3,,Sentence 2,Sentence 1,Sentence 4,Sentence 3,Sentence 5,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-2,1,mcsc,markdown,"Four of the five sentences below belong together; one does not.
+
+(1) A low camera angle can make a character loom, suddenly powerful, over the frame.
+(2) Slow fades between shots let a scene breathe and signal the quiet passing of time.
+(3) A rights clearance must be secured before any archived footage can be legally reused.
+(4) Desaturated colour tends to drain a scene of its warmth and leave it feeling bleak.
+(5) Handheld camerawork lends a jittery rawness that a locked-off tripod never could.
+
+**Which sentence is the odd one out?**",,180,,,,1,,Sentence 3,Sentence 1,Sentence 4,Sentence 5,Sentence 2,,VARC/odd-one-out,0.5
+VARC,VARC-ODD-3,1,mcsc,markdown,"Four of the five sentences below belong together; one does not.
+
+(1) A radio drama asks its listeners to build every set and face inside their own heads.
+(2) The intimacy of a voice in headphones can feel closer than any image on a screen.
+(3) Sound designers layer footsteps and wind to place a listener firmly inside a scene.
+(4) A single pause in the narration can carry more tension than a page of description.
+(5) Billboards rely on one bold image glimpsed for a second from a passing car.
+
+**Which sentence is the odd one out?**",,180,,,,2,,Sentence 3,Sentence 5,Sentence 2,Sentence 4,Sentence 1,,VARC/odd-one-out,0.5
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"Film festivals present themselves as showcases for bold, uncommercial work, yet the economics tell a subtler story. A prize at a major festival can turn an unknown title into a distributor's target overnight, and the buzz of a premiere is a marketing asset that money alone cannot buy. Filmmakers, in turn, tailor their work and their timing to the festival calendar, chasing the validation that unlocks funding for the next project. Far from standing apart from the market, the festival has become one of its most efficient engines.
+
+**Which option best summarises the paragraph?**",,220,,,,4,,Filmmakers increasingly schedule their productions around the festival calendar to earn the approval of critics and juries.,"Festivals ought to return to their founding mission of promoting difficult, uncommercial work rather than publicity.",A prize at a major festival can turn an unknown title into a distributor's target and win it public attention.,"Though festivals seem to reward art over commerce, they in fact work as a marketplace that shapes and sells films.",,,VARC/summary,0.5
+VARC,VARC-SUMMARY-2,1,mcsc,markdown,"Recommendation algorithms promise to free listeners from the tyranny of the mainstream, surfacing obscure artists a radio station would never play. In practice the effect is often the reverse. Because the systems learn from what most people already enjoy, they tend to funnel millions of users toward the same safe, familiar tracks. The obscure song still exists in the catalogue, but the machinery is built to bury it. What looks like infinite choice can quietly narrow into a single well-worn groove.
+
+**Which option best summarises the paragraph?**",,220,,,,4,,"Recommendation algorithms learn from collective behaviour, so their suggestions steadily improve as more people use them.",Listeners would discover far more unusual music if they simply ignored the recommendations their apps keep pushing.,Streaming catalogues now hold millions of obscure songs that radio stations were never willing to play at all.,Music recommendation systems promise to broaden taste but tend to steer listeners toward the same popular tracks.,,,VARC/summary,0.5
+VARC,VARC-SUMMARY-3,1,mcsc,markdown,"The idea of the lone author has always been something of a convenient fiction, but franchise cinema has made its emptiness impossible to ignore. A modern blockbuster is assembled by hundreds of hands, its script revised by committee, its images finished by studios on three continents, its shape set as much by a release schedule as by any vision. To ask who its author is may simply be the wrong question. The more honest one is whether authorship, as we have understood it, describes anything real about how such films come to exist.
+
+**Which option best summarises the paragraph?**",,320,,,,3,,Films would surely be better if one strong creative vision guided them instead of a corporate release schedule.,Modern blockbuster scripts are revised by committees and their images finished by studios spread across three continents.,"Franchise filmmaking, built by many hands, casts doubt on whether the idea of a single author still means anything.","The notion of the lone author was always a fiction, though only now has the film industry admitted it openly.",,,VARC/summary,1
+DILR,DILR-1,1,mcsc,markdown,"At an independent film festival, five feature films are shown one after another in five consecutive screening slots, from Slot 1 (the earliest) to Slot 5 (the latest). Each film takes exactly one slot. The five films are Amber, Comet, Drift, Ember and Frost.
+
+- Amber is screened in the slot immediately after Ember.
+- Frost is screened in an earlier slot than Comet, with exactly two films screened between them.
+- Drift is screened before Ember, but not in the slot immediately before Ember.
+
+**Which film is screened in Slot 1?**",,220,,,,4,,Ember,Frost,Amber,Drift,,,DILR/logic,0.5
+DILR,DILR-1,2,mcsc,markdown,"At an independent film festival, five feature films are shown one after another in five consecutive screening slots, from Slot 1 (the earliest) to Slot 5 (the latest). Each film takes exactly one slot. The five films are Amber, Comet, Drift, Ember and Frost.
+
+- Amber is screened in the slot immediately after Ember.
+- Frost is screened in an earlier slot than Comet, with exactly two films screened between them.
+- Drift is screened before Ember, but not in the slot immediately before Ember.
+
+**Which film is screened in the slot immediately before Comet?**",,220,,,,1,,Amber,Frost,Ember,Drift,,,DILR/logic,0.5
+DILR,DILR-1,3,mcsc,markdown,"At an independent film festival, five feature films are shown one after another in five consecutive screening slots, from Slot 1 (the earliest) to Slot 5 (the latest). Each film takes exactly one slot. The five films are Amber, Comet, Drift, Ember and Frost.
+
+- Amber is screened in the slot immediately after Ember.
+- Frost is screened in an earlier slot than Comet, with exactly two films screened between them.
+- Drift is screened before Ember, but not in the slot immediately before Ember.
+
+**How many films are screened between Ember and Comet?**",,200,,,,1,,One,None,Two,Three,,,DILR/logic,0.5
+DILR,DILR-2,1,mcsc,markdown,"Ad Revenue by Digital Platform (Rs crore)
+| Platform | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Vibe | 120 | 150 | 180 |
+| Pulse | 90 | 120 | 150 |
+| Reel | 60 | 75 | 90 |
+| Spark | 30 | 45 | 60 |
+
+**Which platform earned the highest total ad revenue across the three quarters?**",,210,,,,1,,Vibe,Reel,Pulse,Spark,,,DILR/di-table,0.5
+DILR,DILR-2,2,mcsc,markdown,"Ad Revenue by Digital Platform (Rs crore)
+| Platform | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Vibe | 120 | 150 | 180 |
+| Pulse | 90 | 120 | 150 |
+| Reel | 60 | 75 | 90 |
+| Spark | 30 | 45 | 60 |
+
+**What was the total ad revenue earned by all four platforms in Q2?**",,205,,,,1,,Rs 390 crore,Rs 300 crore,Rs 360 crore,Rs 480 crore,,,DILR/di-table,0.5
+DILR,DILR-2,3,mcsc,markdown,"Ad Revenue by Digital Platform (Rs crore)
+| Platform | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Vibe | 120 | 150 | 180 |
+| Pulse | 90 | 120 | 150 |
+| Reel | 60 | 75 | 90 |
+| Spark | 30 | 45 | 60 |
+
+**By what percentage did Vibe's ad revenue grow from Q1 to Q3?**",,215,,,,3,,60%,33.33%,50%,25%,,,DILR/di-table,0.5
+DILR,DILR-2,4,mcsc,markdown,"Ad Revenue by Digital Platform (Rs crore)
+| Platform | Q1 | Q2 | Q3 |
+|---|--:|--:|--:|
+| Vibe | 120 | 150 | 180 |
+| Pulse | 90 | 120 | 150 |
+| Reel | 60 | 75 | 90 |
+| Spark | 30 | 45 | 60 |
+
+**Pulse's Q3 revenue was approximately what share of the total Q3 revenue of all platforms?**",,220,,,,4,,33.33%,37.50%,30.00%,31.25%,,,DILR/di-table,0.5
+DILR,DILR-3,1,mcsc,markdown,"Genre-wise Film Releases and Ratings (last year)
+| Genre | Releases | Avg Rating (of 10) | Box Office (Rs crore) |
+|---|--:|--:|--:|
+| Drama | 14 | 7.5 | 300 |
+| Comedy | 15 | 6.0 | 375 |
+| Thriller | 8 | 8.5 | 200 |
+| Romance | 12 | 6.5 | 240 |
+| Action | 6 | 7.0 | 180 |
+
+**How many films were released in total across all five genres?**",,200,,,,2,,51,55,45,50,,,DILR/di-table,0.5
+DILR,DILR-3,2,mcsc,markdown,"Genre-wise Film Releases and Ratings (last year)
+| Genre | Releases | Avg Rating (of 10) | Box Office (Rs crore) |
+|---|--:|--:|--:|
+| Drama | 14 | 7.5 | 300 |
+| Comedy | 15 | 6.0 | 375 |
+| Thriller | 8 | 8.5 | 200 |
+| Romance | 12 | 6.5 | 240 |
+| Action | 6 | 7.0 | 180 |
+
+**Which genre recorded the highest average rating?**",,195,,,,1,,Thriller,Comedy,Drama,Romance,,,DILR/di-table,0.5
+DILR,DILR-3,3,mcsc,markdown,"Genre-wise Film Releases and Ratings (last year)
+| Genre | Releases | Avg Rating (of 10) | Box Office (Rs crore) |
+|---|--:|--:|--:|
+| Drama | 14 | 7.5 | 300 |
+| Comedy | 15 | 6.0 | 375 |
+| Thriller | 8 | 8.5 | 200 |
+| Romance | 12 | 6.5 | 240 |
+| Action | 6 | 7.0 | 180 |
+
+**What was the average box-office collection per Comedy film?**",,205,,,,3,,Rs 20 crore,Rs 15 crore,Rs 25 crore,Rs 30 crore,,,DILR/di-table,0.5
+DILR,DILR-3,4,mcsc,markdown,"Genre-wise Film Releases and Ratings (last year)
+| Genre | Releases | Avg Rating (of 10) | Box Office (Rs crore) |
+|---|--:|--:|--:|
+| Drama | 14 | 7.5 | 300 |
+| Comedy | 15 | 6.0 | 375 |
+| Thriller | 8 | 8.5 | 200 |
+| Romance | 12 | 6.5 | 240 |
+| Action | 6 | 7.0 | 180 |
+
+**The engagement score of a genre is its number of releases multiplied by its average rating. Which genre has the highest engagement score?**",,320,,,,3,,Comedy,Thriller,Drama,Romance,,,DILR/di-table,1
+DILR,DILR-4,1,mcsc,markdown,"Box-office collections (Rs crore) by studio across three years.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-09/DILR-4_0.png)
+
+**What was the combined 2023 box-office collection of all three studios?**",,210,,,,4,,Rs 320 crore,Rs 180 crore,Rs 240 crore,Rs 350 crore,,,DILR/di-graph,0.5
+DILR,DILR-4,2,mcsc,markdown,"Box-office collections (Rs crore) by studio across three years.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-09/DILR-4_0.png)
+
+**Which studio collected the most across the three years, and what was that total?**",,215,,,,3,,Lumen (Rs 350 crore),Nova (Rs 180 crore),Lumen (Rs 320 crore),Apex (Rs 270 crore),,,DILR/di-graph,0.5
+DILR,DILR-4,3,mcsc,markdown,"Box-office collections (Rs crore) by studio across three years.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-09/DILR-4_0.png)
+
+**By what percentage did Nova's collection grow from 2021 to 2023?**",,315,,,,1,,125%,100%,55.56%,80%,,,DILR/di-graph,1
+DILR,DILR-4,4,mcsc,markdown,"Box-office collections (Rs crore) by studio across three years.
+
+![chart](https://s13n-curr-images-bucket.s3.ap-south-1.amazonaws.com/imat/2026-07-09/DILR-4_0.png)
+
+**By what percentage did the combined collection of all three studios rise from 2021 to 2023?**",,320,,,,4,,170%,100%,48.57%,94.44%,,,DILR/di-graph,1
+DILR,DILR-5,1,mcsc,markdown,"A studio releases four films, Nova, Onyx, Pulse and Quill, over four consecutive weeks, from Week 1 to Week 4. Each film is released in exactly one week, and each is distributed in exactly one region, chosen from North, South, East and West. No two films share a week, and no two films share a region.
+
+- Onyx is distributed in the East, Nova in the South, and Quill in the West.
+- Pulse is released in Week 3.
+- Nova is released in the week immediately before Pulse.
+- The film distributed in the West is released in a later week than the film distributed in the East.
+
+**In which week is Onyx released?**",,210,,,,1,,Week 1,Week 3,Week 4,Week 2,,,DILR/logic,0.5
+DILR,DILR-5,2,mcsc,markdown,"A studio releases four films, Nova, Onyx, Pulse and Quill, over four consecutive weeks, from Week 1 to Week 4. Each film is released in exactly one week, and each is distributed in exactly one region, chosen from North, South, East and West. No two films share a week, and no two films share a region.
+
+- Onyx is distributed in the East, Nova in the South, and Quill in the West.
+- Pulse is released in Week 3.
+- Nova is released in the week immediately before Pulse.
+- The film distributed in the West is released in a later week than the film distributed in the East.
+
+**Which film is distributed in the North region?**",,195,,,,2,,Quill,Pulse,Onyx,Nova,,,DILR/logic,0.5
+DILR,DILR-5,3,mcsc,markdown,"A studio releases four films, Nova, Onyx, Pulse and Quill, over four consecutive weeks, from Week 1 to Week 4. Each film is released in exactly one week, and each is distributed in exactly one region, chosen from North, South, East and West. No two films share a week, and no two films share a region.
+
+- Onyx is distributed in the East, Nova in the South, and Quill in the West.
+- Pulse is released in Week 3.
+- Nova is released in the week immediately before Pulse.
+- The film distributed in the West is released in a later week than the film distributed in the East.
+
+**Which one of the following statements is true?**",,320,,,,2,,Pulse comes out in a later week than Quill does now.,The South film is released before the North film.,The East-region film is released during Week 2 here.,Nova is the film released in the West region overall.,,,DILR/logic,1
+QA,QA-MCQ-1,1,mcsc,text,A trader buys an article for Rs 800 and sells it for Rs 1000. What is his profit percentage?,,120,,,,4,,22%,30%,20%,25%,,,QA/quant,0
+QA,QA-MCQ-2,1,mcsc,text,Three numbers are in the ratio 2 : 3 : 5 and their sum is 300. What is the largest of the three numbers?,,110,,,,3,,60,90,150,100,,,QA/quant,0
+QA,QA-MCQ-3,1,mcsc,text,"The average of five numbers is 18. When a sixth number is included, the average of all six numbers becomes 20. What is the sixth number?",,130,,,,2,,22,30,38,20,,,QA/quant,0
+QA,QA-MCQ-4,1,mcsc,text,A bus travels at a constant speed of 54 km/h. How far does it travel in 40 minutes?,,115,,,,3,,54 km,45 km,36 km,40 km,,,QA/quant,0
+QA,QA-MCQ-5,1,mcsc,text,What is the smallest positive number that is divisible by both 8 and 12?,,120,,,,2,,4,24,96,48,,,QA/quant,0
+QA,QA-MCQ-6,1,mcsc,text,"A can finish a piece of work in 10 days and B can finish the same work in 15 days. Working together, in how many days will they complete the work?",,240,,,,3,,12.5,5,6,25,,,QA/quant,0.5
+QA,QA-MCQ-7,1,mcsc,text,"A sum of Rs 6250 is invested at 8% per annum, compounded annually. What is the compound interest earned after 2 years?",,260,,,,1,,Rs 1040,Rs 1000,Rs 1080,Rs 500,,,QA/quant,0.5
+QA,QA-MCQ-8,1,mcsc,text,In how many distinct ways can all the letters of the word LEVEL be arranged?,,230,,,,3,,20,120,30,60,,,QA/quant,0.5
+QA,QA-MCQ-9,1,mcsc,text,"A solid cylinder has radius 7 cm and height 10 cm. Taking π = 22/7, what is its volume?",,250,,,,3,,1078 cubic cm,440 cubic cm,1540 cubic cm,220 cubic cm,,,QA/quant,0.5
+QA,QA-MCQ-10,1,mcsc,text,"If x + 1/x = 5, what is the value of x squared plus 1/x squared?",,235,,,,1,,23,27,10,25,,,QA/quant,0.5
+QA,QA-MCQ-11,1,mcsc,text,"What number should replace the question mark in the sequence 2, 6, 12, 20, 30, ?",,230,,,,1,,42,44,40,36,,,QA/quant,0.5
+QA,QA-MCQ-12,1,mcsc,text,The difference between the compound interest and the simple interest on a certain sum for 2 years at 8% per annum is Rs 48. What is the sum?,,220,,,,1,,"Rs 7,500","Rs 9,600","Rs 6,000","Rs 8,000",,,QA/quant,0.5
+QA,QA-MCQ-13,1,mcsc,text,In what ratio must a trader mix tea costing Rs 200 per kg with tea costing Rs 300 per kg so that the mixture costs Rs 240 per kg?,,210,,,,4,,2 : 3,5 : 3,3 : 5,3 : 2,,,QA/quant,0.5
+QA,QA-MCQ-14,1,mcsc,text,"A can complete a task in 12 days and B in 18 days. They work together for 4 days, after which A leaves. In how many more days will B alone finish the remaining task?",,250,,,,3,,9 days,6 days,8 days,10 days,,,QA/quant,0.5
+QA,QA-MCQ-15,1,mcsc,text,"The circumference of a circle exceeds its diameter by 30 cm. Taking pi as 22/7, what is the radius of the circle?",,230,,,,2,,14 cm,7 cm,10.5 cm,5 cm,,,QA/quant,0.5
+QA,QA-MCQ-16,1,mcsc,text,"How many 3-digit numbers with no repeated digit and formed only from the digits 1, 2, 3, 4 and 5 are even?",,240,,,,4,,12,20,36,24,,,QA/quant,0.5
+QA,QA-MCQ-17,1,mcsc,text,How many positive divisors of 3600 are perfect squares?,,320,,,,1,,12,27,18,45,,,QA/quant,1
+QA,QA-MCQ-18,1,mcsc,text,"If a and b are the roots of the equation 2x^2 - 5x + 1 = 0, what is the value of a/b + b/a?",,340,,,,4,,23/2,19/2,25/2,21/2,,,QA/quant,1
+QA,QA-MCQ-19,1,mcsc,text,A bag holds 5 red balls and 4 blue balls. Three balls are drawn together at random. What is the probability that at least one of them is blue?,,330,,,,1,,37/42,5/6,5/42,10/21,,,QA/quant,1
+QA,QA-MCQ-20,1,mcsc,text,"A vessel contains 80 litres of pure milk. 8 litres are drawn off and replaced with water, and then the same operation is performed once more. How much milk is now in the vessel?",,330,,,,2,,64 litres,64.8 litres,72 litres,65.6 litres,,,QA/quant,1
+QA,QA-MCQ-21,1,mcsc,text,"What is the sum of the first 20 terms of the series 1 + 3 + 6 + 10 + 15 + ..., whose n-th term is the n-th triangular number?",,350,,,,4,,1240,1330,1450,1540,,,QA/quant,1
+QA,QA-MCQ-22,1,mcsc,text,N is a two-digit number. Consider two statements. I: The sum of the digits of N is 12. II: N exceeds the number formed by reversing its digits by 36. Which statements are needed to determine N uniquely?,,360,,,,1,,"Both statements together are needed, not either alone",Statement II about the reversal alone is sufficient here,"Either statement, used on its own, is enough to decide",Statement I about the digit sum alone is sufficient here,,,QA/quant,1
+General Awareness,GA-1,1,mcsc,text,"**In India, which honour is regarded as the highest government award for lifetime contribution to cinema?**",,55,,,,2,,National Film Award,Dadasaheb Phalke Award,IIFA Excellence Award,Filmfare Best Film Award,,,GA/entertainment-creative-industry,0
+General Awareness,GA-2,1,mcsc,text,**Which set of awards is the most prominent recognition of excellence in television programming?**,,50,,,,3,,The Academy Awards,The Grammy Awards,The Emmy Awards,The Tony Awards,,,GA/entertainment-creative-industry,0
+General Awareness,GA-3,1,mcsc,text,"**Studio Ghibli, the animation house behind films such as ""Spirited Away"", is based in which country?**",,55,,,,2,,China,Japan,South Korea,United States,,,GA/entertainment-creative-industry,0
+General Awareness,GA-4,1,mcsc,text,"**In film and music, the abbreviation ""OST"" most commonly stands for:**",,85,,,,3,,Optical sound test,Official studio take,Original soundtrack,Orchestral score tape,,,GA/entertainment-creative-industry,0.5
+General Awareness,GA-5,1,mcsc,text,"**In India, which statutory body certifies films for public exhibition?**",,90,,,,2,,National Film Development Corporation,Central Board of Film Certification,Press Council of India,Film and Television Institute of India,,,GA/entertainment-creative-industry,0.5
+General Awareness,GA-6,1,mcsc,text,**Doordarshan and All India Radio operate under which public broadcasting body?**,,90,,,,4,,Films Division of India,National Book Trust,Sangeet Natak Akademi,Prasar Bharati,,,GA/entertainment-creative-industry,0.5
+General Awareness,GA-7,1,mcsc,text,"**In the entertainment industry, the Tony Awards are the highest honours in which field?**",,85,,,,3,,Recorded music,Network television,Broadway theatre,Feature films,,,GA/entertainment-creative-industry,0.5
+General Awareness,GA-8,1,mcsc,text,"**In film and visual effects work, the abbreviation ""CGI"" stands for:**",,90,,,,4,,Colour grading instrument,Cinematic graphics interface,Central gaming index,Computer-generated imagery,,,GA/entertainment-creative-industry,0.5
+General Awareness,GA-9,1,mcsc,text,"**The show-business term ""EGOT"" describes a person who has won all four of which awards?**",,115,,,,4,,"Emmy, Grammy, Oscar and BAFTA","Emmy, Golden Globe, Oscar and Tony","Emmy, Grammy, Obie and Tony","Emmy, Grammy, Oscar and Tony",,,GA/entertainment-creative-industry,1
+General Awareness,GA-10,1,mcsc,text,**The Clio Awards are among the most prestigious international honours in which creative field?**,,120,,,,2,,Architecture,Advertising,Journalism,Photography,,,GA/entertainment-creative-industry,1

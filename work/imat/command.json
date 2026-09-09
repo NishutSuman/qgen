@@ -1,0 +1,17 @@
+{
+  "paper": "BS",
+  "label": "IIT Jodhpur Qualifier — BS",
+  "base_count": 66,
+  "requested_count": 66,
+  "flex_delta": 0,
+  "mcq_delta": 0,
+  "tita_delta": 0,
+  "tita_target": 6,
+  "flex_group": "QA-MCQ",
+  "section_order": [
+    "VARC",
+    "DILR",
+    "QA"
+  ],
+  "blueprints": "imat/blueprints.json"
+}

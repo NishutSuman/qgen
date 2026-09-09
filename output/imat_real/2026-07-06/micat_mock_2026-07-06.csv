@@ -1,0 +1,117 @@
+section,setId,setSeq,questionType,contentType,contentBody,intAnswer,prepTime(in_seconds),floatAnswer.max,floatAnswer.min,fitbAnswer,mcscAnswer,subjectiveAnswer,option.1,option.2,option.3,option.4,option.5,mcmcAnswer,tagRelationships,difficultyLevel
+VARC,VARC-RC,1,mcsc,markdown,"For much of the twentieth century, cultural gatekeepers such as radio programmers, magazine editors, and festival curators decided which songs, films, and stories reached a mass audience. Their judgments were fallible and often narrow, but they were visible: a listener could name the DJ who championed a band, and could argue with the choice. The recommendation engines that now govern streaming platforms have inherited this gatekeeping power while shedding its accountability. An algorithm does not defend its selections in an editorial column; it simply presents them, ranked, as though they were the neutral output of preference itself.
+
+This shift has been sold to audiences as liberation. Where the old gatekeepers imposed a single taste on everyone, the argument runs, personalisation returns choice to the individual. Yet personalisation is not the absence of curation but its intensification. Every autoplay, every 'because you watched' row, is a wager the platform makes about what will keep a user engaged, and engagement, not aesthetic merit, is the metric being optimised. The system rewards work that resembles what a viewer has already consumed, quietly narrowing the field of the discoverable even as it appears to widen it.
+
+Creators feel the pressure. A musician learns that a track must announce its hook within seconds or lose its place in the queue; a filmmaker learns that ambiguity, which asks a viewer to wait, is penalised by a metric that reads waiting as disengagement. None of this is dictated by an editor with a name. It emerges from the aggregate behaviour of millions, laundered through code into something that feels like destiny. The danger is not that machines have bad taste, but that they dissolve the very idea of taste as a thing one can contest.
+
+**Which of the following best captures the main idea of the passage?**",,220,,,,4,,Musicians must now place a song's catchiest hook within its opening seconds to survive in the streaming queue.,Recommendation engines ultimately fail because the machines running them possess demonstrably poor aesthetic judgment.,Streaming platforms have genuinely democratised culture by handing aesthetic choice back to individual listeners and viewers.,Algorithmic curation has inherited gatekeeping power while shedding the accountability that once made it contestable.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC,2,mcsc,markdown,"For much of the twentieth century, cultural gatekeepers such as radio programmers, magazine editors, and festival curators decided which songs, films, and stories reached a mass audience. Their judgments were fallible and often narrow, but they were visible: a listener could name the DJ who championed a band, and could argue with the choice. The recommendation engines that now govern streaming platforms have inherited this gatekeeping power while shedding its accountability. An algorithm does not defend its selections in an editorial column; it simply presents them, ranked, as though they were the neutral output of preference itself.
+
+This shift has been sold to audiences as liberation. Where the old gatekeepers imposed a single taste on everyone, the argument runs, personalisation returns choice to the individual. Yet personalisation is not the absence of curation but its intensification. Every autoplay, every 'because you watched' row, is a wager the platform makes about what will keep a user engaged, and engagement, not aesthetic merit, is the metric being optimised. The system rewards work that resembles what a viewer has already consumed, quietly narrowing the field of the discoverable even as it appears to widen it.
+
+Creators feel the pressure. A musician learns that a track must announce its hook within seconds or lose its place in the queue; a filmmaker learns that ambiguity, which asks a viewer to wait, is penalised by a metric that reads waiting as disengagement. None of this is dictated by an editor with a name. It emerges from the aggregate behaviour of millions, laundered through code into something that feels like destiny. The danger is not that machines have bad taste, but that they dissolve the very idea of taste as a thing one can contest.
+
+**According to the passage, all of the following are supported EXCEPT:**",,260,,,,3,,"Engagement, rather than aesthetic merit, is the metric these platforms set out to optimise.",The system tends to reward work resembling what a viewer has already chosen to consume.,It credits recommendation engines with truly widening the range of discoverable work.,Twentieth-century gatekeepers were visible enough that a listener could name and dispute them.,,,VARC/reading-comprehension,0.5
+VARC,VARC-RC,3,mcsc,markdown,"For much of the twentieth century, cultural gatekeepers such as radio programmers, magazine editors, and festival curators decided which songs, films, and stories reached a mass audience. Their judgments were fallible and often narrow, but they were visible: a listener could name the DJ who championed a band, and could argue with the choice. The recommendation engines that now govern streaming platforms have inherited this gatekeeping power while shedding its accountability. An algorithm does not defend its selections in an editorial column; it simply presents them, ranked, as though they were the neutral output of preference itself.
+
+This shift has been sold to audiences as liberation. Where the old gatekeepers imposed a single taste on everyone, the argument runs, personalisation returns choice to the individual. Yet personalisation is not the absence of curation but its intensification. Every autoplay, every 'because you watched' row, is a wager the platform makes about what will keep a user engaged, and engagement, not aesthetic merit, is the metric being optimised. The system rewards work that resembles what a viewer has already consumed, quietly narrowing the field of the discoverable even as it appears to widen it.
+
+Creators feel the pressure. A musician learns that a track must announce its hook within seconds or lose its place in the queue; a filmmaker learns that ambiguity, which asks a viewer to wait, is penalised by a metric that reads waiting as disengagement. None of this is dictated by an editor with a name. It emerges from the aggregate behaviour of millions, laundered through code into something that feels like destiny. The danger is not that machines have bad taste, but that they dissolve the very idea of taste as a thing one can contest.
+
+**Which of the following can most reasonably be inferred from the passage?**",,285,,,,2,,Streaming platforms deliberately conceal the identities of the engineers who design their algorithms.,A choice no one is accountable for is harder to contest than one tied to a named person.,"Audiences would, on balance, prefer a return to centralised cultural gatekeeping.",Past editorial gatekeepers chose work purely on the basis of its aesthetic merit.,,,VARC/reading-comprehension,1
+VARC,VARC-RC,4,mcsc,markdown,"For much of the twentieth century, cultural gatekeepers such as radio programmers, magazine editors, and festival curators decided which songs, films, and stories reached a mass audience. Their judgments were fallible and often narrow, but they were visible: a listener could name the DJ who championed a band, and could argue with the choice. The recommendation engines that now govern streaming platforms have inherited this gatekeeping power while shedding its accountability. An algorithm does not defend its selections in an editorial column; it simply presents them, ranked, as though they were the neutral output of preference itself.
+
+This shift has been sold to audiences as liberation. Where the old gatekeepers imposed a single taste on everyone, the argument runs, personalisation returns choice to the individual. Yet personalisation is not the absence of curation but its intensification. Every autoplay, every 'because you watched' row, is a wager the platform makes about what will keep a user engaged, and engagement, not aesthetic merit, is the metric being optimised. The system rewards work that resembles what a viewer has already consumed, quietly narrowing the field of the discoverable even as it appears to widen it.
+
+Creators feel the pressure. A musician learns that a track must announce its hook within seconds or lose its place in the queue; a filmmaker learns that ambiguity, which asks a viewer to wait, is penalised by a metric that reads waiting as disengagement. None of this is dictated by an editor with a name. It emerges from the aggregate behaviour of millions, laundered through code into something that feels like destiny. The danger is not that machines have bad taste, but that they dissolve the very idea of taste as a thing one can contest.
+
+**The author's primary purpose in the passage is to:**",,235,,,,4,,offer creators practical guidance for gaining visibility in recommendation queues,trace the full history of cultural gatekeeping from early radio through to streaming,celebrate the personalisation that streaming platforms now offer to individual users,warn that automated curation erodes the idea of taste as something open to dispute,,,VARC/reading-comprehension,1
+VARC,VARC-JUMBLE-1,1,mcsc,markdown,"Four sentences below form a coherent paragraph but are given out of order.
+
+(1) Yet the format's low production cost has also flooded feeds with thousands of near-identical shows.
+(2) Podcasting began as a niche pursuit for hobbyists recording in spare bedrooms.
+(3) Within a decade, major studios and broadcasters were commissioning series with budgets to rival television.
+(4) Standing out, as a result, now demands the very polish the medium once promised to make unnecessary.
+
+**Select the correct order.**",,200,,,,4,,3214,2341,2134,2314,,,VARC/para-jumble,0.5
+VARC,VARC-ODD-1,1,mcsc,markdown,"Four of the sentences below share a common theme; one does not belong.
+
+(1) A memorable brand slogan compresses a company's promise into a phrase a customer can recall instantly.
+(2) Logos work by attaching a simple visual mark to the diffuse feelings a product evokes.
+(3) Jingles exploit the ear's tendency to retain a melody long after the words are forgotten.
+(4) Efficient warehouse layouts cut the distance workers walk while assembling each shipment.
+(5) Even a brand's chosen colours are calibrated to trigger particular associations in a viewer's mind.
+
+**Which sentence is the odd one out?**",,185,,,,1,,Sentence 4,Sentence 3,Sentence 2,Sentence 1,Sentence 5,,VARC/odd-one-out,0.5
+VARC,VARC-SUMMARY-1,1,mcsc,markdown,"When a film is remade for a foreign market, translators must decide how much of the original's cultural texture to preserve. Keep every local reference intact, and the new audience may feel excluded by jokes and allusions it cannot parse. Strip them all away, and the story loses the specificity that made it feel true in the first place. The most successful adaptations tend to occupy a middle ground, replacing references that would baffle viewers while retaining enough of the source's flavour to keep it recognisably itself. Localisation, in this view, is less a technical act of substitution than an editorial judgment about which meanings can travel and which must be rebuilt.
+
+**Which option best summarises the paragraph?**",,260,,,,2,,A film inevitably loses whatever originally made it distinctive the moment it is adapted for audiences overseas.,Localising a film balances preserving the original's specificity against making it intelligible to a new audience.,The finest adaptations faithfully keep every cultural reference from the source so the story remains fully authentic.,Translators working on remade films should strip out any local reference a foreign audience might be unable to follow.,,,VARC/summary,1
+DILR,DILR-1,1,mcsc,markdown,"The table below shows the streaming viewership (in million hours) of four StreamNet original titles across three years.
+
+| Title | 2022 | 2023 | 2024 |
+|---|--:|--:|--:|
+| Nova Nights | 120 | 150 | 180 |
+| Riftline | 80 | 100 | 130 |
+| Kavya | 200 | 250 | 300 |
+| Meridian | 150 | 180 | 240 |
+
+**What was the combined viewership of all four titles in 2024, in million hours?**",,190,,,,1,,850,550,780,680,,,DILR/di-table,0.5
+DILR,DILR-1,2,mcsc,markdown,"The table below shows the streaming viewership (in million hours) of four StreamNet original titles across three years.
+
+| Title | 2022 | 2023 | 2024 |
+|---|--:|--:|--:|
+| Nova Nights | 120 | 150 | 180 |
+| Riftline | 80 | 100 | 130 |
+| Kavya | 200 | 250 | 300 |
+| Meridian | 150 | 180 | 240 |
+
+**By what percentage did Kavya's viewership grow from 2022 to 2024?**",,210,,,,3,,150%,66.7%,50%,33.3%,,,DILR/di-table,0.5
+DILR,DILR-1,3,mcsc,markdown,"The table below shows the streaming viewership (in million hours) of four StreamNet original titles across three years.
+
+| Title | 2022 | 2023 | 2024 |
+|---|--:|--:|--:|
+| Nova Nights | 120 | 150 | 180 |
+| Riftline | 80 | 100 | 130 |
+| Kavya | 200 | 250 | 300 |
+| Meridian | 150 | 180 | 240 |
+
+**Which title recorded the highest percentage growth in viewership from 2022 to 2024?**",,240,,,,2,,Kavya,Riftline,Nova Nights,Meridian,,,DILR/di-table,0.5
+DILR,DILR-2,1,mcsc,markdown,"Five short films (Ember, Frost, Gale, Halo and Iris) were ranked first through fifth by a festival jury, where first is the best. No two films shared a rank. The following are known:
+
+- Gale scored higher than every other film.
+- Frost scored lower than every other film.
+- Iris was ranked immediately above Ember.
+- Halo was ranked immediately below Ember.
+
+**Which film was ranked third?**",,200,,,,1,,Ember,Halo,Iris,Frost,,,DILR/logic,0.5
+DILR,DILR-2,2,mcsc,markdown,"Five short films (Ember, Frost, Gale, Halo and Iris) were ranked first through fifth by a festival jury, where first is the best. No two films shared a rank. The following are known:
+
+- Gale scored higher than every other film.
+- Frost scored lower than every other film.
+- Iris was ranked immediately above Ember.
+- Halo was ranked immediately below Ember.
+
+**How many films were ranked between Gale and Halo?**",,180,,,,4,,1,0,3,2,,,DILR/logic,0.5
+DILR,DILR-2,3,mcsc,markdown,"Five short films (Ember, Frost, Gale, Halo and Iris) were ranked first through fifth by a festival jury, where first is the best. No two films shared a rank. The following are known:
+
+- Gale scored higher than every other film.
+- Frost scored lower than every other film.
+- Iris was ranked immediately above Ember.
+- Halo was ranked immediately below Ember.
+
+The jury awarded 92, 85, 79, 71 and 60 points to the films ranked first through fifth respectively.
+
+**What was the combined points total of Iris and Halo?**",,260,,,,1,,156,145,150,164,,,DILR/logic,1
+QA,QA-MCQ-1,1,mcsc,text,A shirt is marked at Rs 800. A festive sale offers a flat 15% discount on the marked price. What does a customer actually pay for the shirt?,,120,,,,3,,Rs 120,Rs 720,Rs 680,Rs 920,,,QA/quant,0
+QA,QA-MCQ-2,1,mcsc,text,An amount of Rs 540 is divided between Anil and Bina in the ratio 4 : 5. How much money does Bina receive?,,130,,,,1,,Rs 300,Rs 108,Rs 270,Rs 240,,,QA/quant,0
+QA,QA-MCQ-3,1,mcsc,text,A train 200 metres long completely crosses a platform 250 metres long in 18 seconds. What is the speed of the train in kilometres per hour?,,240,,,,3,,25 km/h,40 km/h,90 km/h,50 km/h,,,QA/quant,0.5
+QA,QA-MCQ-4,1,mcsc,text,"A sum of Rs 12,000 is invested at 10% per annum, compounded annually. What is the compound interest earned at the end of 2 years?",,260,,,,1,,"Rs 2,520","Rs 14,520","Rs 2,400","Rs 1,200",,,QA/quant,0.5
+QA,QA-MCQ-5,1,mcsc,text,A 40 litre mixture of milk and water contains milk and water in the ratio 3 : 1. How many litres of water must be added so that the ratio of milk to water becomes 3 : 2?,,270,,,,2,,20 litres,10 litres,15 litres,5 litres,,,QA/quant,0.5
+QA,QA-MCQ-6,1,mcsc,text,A committee of 3 people is chosen at random from a group of 4 men and 3 women. What is the probability that the committee contains at least 2 women?,,420,,,,3,,1/35,22/35,13/35,12/35,,,QA/quant,1
+QA,QA-MCQ-7,1,mcsc,text,How many integers from 1 to 200 inclusive are divisible by 3 or by 5 but not by 15?,,440,,,,1,,80,93,53,106,,,QA/quant,1
+General Awareness,GA-1,1,mcsc,text,"In advertising, the abbreviation 'TVC' most commonly stands for:",,60,,,,3,,Total Viewer Coverage,Television Viewership Certificate,Television Commercial,Targeted Video Campaign,,,GA/media-marketing,0
+General Awareness,GA-2,1,mcsc,text,The long-running advertising tagline 'Just Do It' belongs to which brand?,,55,,,,4,,Reebok,Puma,Adidas,Nike,,,GA/media-marketing,0.5
+General Awareness,GA-3,1,mcsc,text,The classic 'four Ps' of the marketing mix are:,,80,,,,2,,"Product, Price, People and Positioning","Product, Price, Place and Promotion","Product, Position, People and Promotion","Price, Place, Packaging and Publicity",,,GA/media-marketing,0.5
+General Awareness,GA-4,1,mcsc,text,"In the media and entertainment industry, the term 'OTT' stands for:",,70,,,,2,,Over-The-Transponder,Over-the-Top,Online Transmission Technology,On-The-Television,,,GA/media-marketing,0.5
+General Awareness,GA-5,1,mcsc,text,Which award is the highest honour presented at the Cannes Film Festival?,,90,,,,4,,Golden Globe,Golden Bear,Golden Lion,Palme d'Or,,,GA/media-marketing,1

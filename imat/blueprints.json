@@ -1,0 +1,118 @@
+{
+  "_doc": "IMAT paper blueprints. Two fixed variants (MBA harder, BS lighter). Sections VARC, DILR, QA. A group with kind != 'none' shares one stimulus across all its questions (a SET -> one platform config, consecutive). kind 'none' groups are singletons (each question independent). difficulty is a distribution {level: count} summing to size. 'flex': true marks the pool the ±5% --count delta is absorbed into (its medium bucket). 'tita_flex': true marks the TITA pool whose size may be set anywhere in tita_range via --tita (compensated by the QA MCQ pool so the section count holds). Either DILR table or graph sets are allowed in either variant. Difficulty levels are FIXED per variant and must never change; only the flex-pool sizes move.",
+  "flex_pct": 0.05,
+  "tita_range": [4, 8],
+  "exam": {
+    "duration_min": 120,
+    "section_minutes": {"VARC": 40, "DILR": 40, "QA": 40},
+    "section_order": ["VARC", "DILR", "QA"],
+    "marks_per_correct": 3,
+    "marking": {
+      "mcq": {"correct": 3, "wrong": -1, "unanswered": 0},
+      "tita": {"correct": 3, "wrong": 0, "unanswered": 0}
+    }
+  },
+  "variants": {
+    "MBA": {
+      "label": "IIT Jodhpur Qualifier — MBA (Technology)",
+      "base_count": 68,
+      "groups": [
+        {"group_id": "VARC-RC1",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 5, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 2, "1": 3}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-RC2",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 2, "1": 2}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-ODD",     "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 5, "size": 4, "topic": "VARC/odd-one-out",           "difficulty": {"0.5": 2, "1": 2}},
+        {"group_id": "VARC-JUMBLE",  "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 5, "topic": "VARC/para-jumble",           "difficulty": {"0.5": 2, "1": 3}},
+        {"group_id": "VARC-SUMMARY", "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 6, "topic": "VARC/summary",               "difficulty": {"0.5": 3, "1": 3}, "instruction": "**Read the paragraph given below and answer the question that follows.**"},
+
+        {"group_id": "DILR-1", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/logic-tournament",   "difficulty": {"1": 4}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-2", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic-quiz-scores",  "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-3", "section": "DILR", "kind": "table", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-table",           "difficulty": {"1": 4}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-4", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/logic-constraints", "difficulty": {"0.5": 1, "1": 3}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-5", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic-investment",  "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-6", "section": "DILR", "kind": "graph", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-graph",           "difficulty": {"1": 4}, "instruction": "**Study the data given below and answer the question that follows.**"},
+
+        {"group_id": "QA-MCQ",  "section": "QA", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 17, "topic": "QA/quant", "flex": true, "difficulty": {"0.5": 7, "1": 10}},
+        {"group_id": "QA-TITA", "section": "QA", "kind": "none", "qtype": "tita", "num_options": 0, "size": 5,  "topic": "QA/quant", "tita_flex": true, "difficulty": {"0.5": 2, "1": 3}}
+      ]
+    },
+    "BS": {
+      "label": "IIT Jodhpur Qualifier — BS",
+      "base_count": 66,
+      "groups": [
+        {"group_id": "VARC-RC1",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 4}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-RC2",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 4}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-RC3",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0": 2, "0.5": 2}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-ODD",     "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 5, "size": 3, "topic": "VARC/odd-one-out",           "difficulty": {"0.5": 3}},
+        {"group_id": "VARC-JUMBLE",  "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/para-jumble",           "difficulty": {"0.5": 4}},
+        {"group_id": "VARC-SUMMARY", "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 5, "topic": "VARC/summary",               "difficulty": {"0": 1, "0.5": 4}, "instruction": "**Read the paragraph given below and answer the question that follows.**"},
+
+        {"group_id": "DILR-1", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic-tournament",  "difficulty": {"0.5": 3}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-2", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic-quiz-scores", "difficulty": {"0.5": 3}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-3", "section": "DILR", "kind": "table", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-table",          "difficulty": {"0.5": 4}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-4", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic-investment", "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-5", "section": "DILR", "kind": "graph", "qtype": "mcsc", "num_options": 4, "size": 5, "topic": "DILR/di-graph",          "difficulty": {"0.5": 5}, "instruction": "**Study the data given below and answer the question that follows.**"},
+
+        {"group_id": "QA-MCQ",  "section": "QA", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 18, "topic": "QA/quant", "flex": true, "difficulty": {"0": 6, "0.5": 9, "1": 3}},
+        {"group_id": "QA-TITA", "section": "QA", "kind": "none", "qtype": "tita", "num_options": 0, "size": 6,  "topic": "QA/quant", "tita_flex": true, "difficulty": {"0": 2, "0.5": 3, "1": 1}}
+      ]
+    },
+    "MICAT": {
+      "label": "IIM Mumbai - MBA in Creative Industries (Media & Entertainment)",
+      "base_count": 25,
+      "exam": {
+        "duration_min": 60,
+        "section_order": ["VARC", "DILR", "QA", "General Awareness"],
+        "section_minutes": {"VARC": 18, "DILR": 14, "QA": 16, "General Awareness": 12},
+        "marks_per_correct": 4,
+        "marking": {
+          "mcq": {"correct": 4, "wrong": -1, "unanswered": 0},
+          "tita": {"correct": 4, "wrong": 0, "unanswered": 0}
+        }
+      },
+      "groups": [
+        {"group_id": "VARC-RC",      "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 2, "1": 2}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-JUMBLE",  "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 1, "topic": "VARC/para-jumble",           "difficulty": {"0.5": 1}},
+        {"group_id": "VARC-ODD",     "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 5, "size": 1, "topic": "VARC/odd-one-out",           "difficulty": {"0.5": 1}},
+        {"group_id": "VARC-SUMMARY", "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 1, "topic": "VARC/summary",               "difficulty": {"1": 1}, "instruction": "**Read the paragraph given below and answer the question that follows.**"},
+
+        {"group_id": "DILR-1", "section": "DILR", "kind": "table", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/di-table",   "difficulty": {"0.5": 3}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-2", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic",      "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the information given below and answer the question that follows.**"},
+
+        {"group_id": "QA-MCQ", "section": "QA", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 7, "topic": "QA/quant", "difficulty": {"0": 2, "0.5": 3, "1": 2}},
+
+        {"group_id": "GA", "section": "General Awareness", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 5, "topic": "GA/entertainment-creative-industry", "difficulty": {"0": 1, "0.5": 3, "1": 1}}
+      ]
+    },
+    "MICAT-FULL": {
+      "label": "IIM Mumbai - MBA in Creative Industries (Media & Entertainment)",
+      "base_count": 72,
+      "exam": {
+        "duration_min": 120,
+        "section_order": ["VARC", "DILR", "QA", "General Awareness"],
+        "section_minutes": {"VARC": 36, "DILR": 32, "QA": 36, "General Awareness": 16},
+        "marks_per_correct": 4,
+        "marking": {
+          "mcq": {"correct": 4, "wrong": -1, "unanswered": 0},
+          "tita": {"correct": 4, "wrong": 0, "unanswered": 0}
+        }
+      },
+      "groups": [
+        {"group_id": "VARC-RC1",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 2, "1": 2}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-RC2",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0.5": 2, "1": 2}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-RC3",     "section": "VARC", "kind": "passage", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/reading-comprehension", "difficulty": {"0": 1, "0.5": 2, "1": 1}, "instruction": "**Read the following passage carefully and answer the question that follows.**"},
+        {"group_id": "VARC-JUMBLE",  "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "VARC/para-jumble",           "difficulty": {"0.5": 3, "1": 1}},
+        {"group_id": "VARC-ODD",     "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 5, "size": 3, "topic": "VARC/odd-one-out",           "difficulty": {"0.5": 3}},
+        {"group_id": "VARC-SUMMARY", "section": "VARC", "kind": "none",    "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "VARC/summary",               "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the paragraph given below and answer the question that follows.**"},
+
+        {"group_id": "DILR-1", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic",    "difficulty": {"0.5": 3}, "instruction": "**Read the information given below and answer the question that follows.**"},
+        {"group_id": "DILR-2", "section": "DILR", "kind": "table", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-table", "difficulty": {"0.5": 4}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-3", "section": "DILR", "kind": "table", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-table", "difficulty": {"0.5": 3, "1": 1}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-4", "section": "DILR", "kind": "graph", "qtype": "mcsc", "num_options": 4, "size": 4, "topic": "DILR/di-graph", "difficulty": {"0.5": 2, "1": 2}, "instruction": "**Study the data given below and answer the question that follows.**"},
+        {"group_id": "DILR-5", "section": "DILR", "kind": "logic", "qtype": "mcsc", "num_options": 4, "size": 3, "topic": "DILR/logic",    "difficulty": {"0.5": 2, "1": 1}, "instruction": "**Read the information given below and answer the question that follows.**"},
+
+        {"group_id": "QA-MCQ", "section": "QA", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 22, "topic": "QA/quant", "difficulty": {"0": 5, "0.5": 11, "1": 6}},
+
+        {"group_id": "GA", "section": "General Awareness", "kind": "none", "qtype": "mcsc", "num_options": 4, "size": 10, "topic": "GA/entertainment-creative-industry", "difficulty": {"0": 3, "0.5": 5, "1": 2}}
+      ]
+    }
+  }
+}
